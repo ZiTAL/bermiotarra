@@ -1,4 +1,4 @@
-#Bermioko berba eta esamolde kresaltxuek#
+# Bermioko berba eta esamolde kresaltxuek #
 
 Begoña Bilbao Alboniga-k idatzi zauen 'Bermeoko berba eta esamolde kresaltsuak' liburue referente moduen hartute, Bermioko berbak eta esamoldiek digitalera pasatie da ideie.
 
