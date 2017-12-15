@@ -56,4 +56,16 @@ Adjektibo moduan eta askotan substantibo legez.
 - *eztau abogadesarik pe orrelakorik*
 - *niri ez eiñ abogadesie lez berba*
 
+## ABREBIDXUE ##
+
+Energia handia lanerako. Azkar ibili.
+
+Gaztelerazko "abreviar" aditza dugu. Baina substantibatu egiten da, nahiz eta aditz bezala ere erabili: 
+
+- *artun abrebidxue, gaurko da ta*
+- *abrebidxugaz eitxen txuz biarrak*
+- *abrebidxo bako gaztiek takuz frabiken*
+- *abrebidxe berandu ein orduko*
+- *abrebidxe gaitezen gaue ganera etor baiño lelau*
+
 
