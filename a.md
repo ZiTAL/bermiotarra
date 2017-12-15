@@ -27,3 +27,18 @@ Baina beste hipotesi hau ere kontutan har daiteke:
 - *orren gixona abillariñe da*
 - *abillariñe aiz i*
 - *ez ezan (izan) abillariñe*
+
+## ABILLE ##
+
+Gaitasun edo abilezia handiko pertsona, baina batzuetan makina edo gauza ere bai.
+
+Baina, adjektibo moduan, edozein pertsona edo gauzari aplikatzen zaio: Itsasontzi bat, kotxe edo makina bat, pertsona, e.a.
+
+Gaztelerako "hábil" hitza erabiltzen da. 
+
+- *gure mutille abille da dibujuek eitxen*
+- *ori kotxie abille da errebueltadatan*
+- *esnedunen astue abille da ostikadak emoten*
+- *onek artazidxek abillek tiez ebaitxen*
+
+
