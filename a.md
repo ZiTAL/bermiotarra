@@ -34,7 +34,7 @@ Gaitasun edo abilezia handiko pertsona, baina batzuetan makina edo gauza ere bai
 
 Baina, adjektibo moduan, edozein pertsona edo gauzari aplikatzen zaio: Itsasontzi bat, kotxe edo makina bat, pertsona, e.a.
 
-Gaztelerako "hábil" hitza erabiltzen da. 
+Gaztelerako *hábil* hitza erabiltzen da. 
 
 - *gure mutille abille da dibujuek eitxen*
 - *ori kotxie abille da errebueltadatan*
