@@ -68,4 +68,36 @@ Gaztelerazko "abreviar" aditza dugu. Baina substantibatu egiten da, nahiz eta ad
 - *abrebidxe berandu ein orduko*
 - *abrebidxe gaitezen gaue ganera etor baiño lelau*
 
+## ABROSIDU ##
+
+Aspertu. Gogaitu 
+
+Aditza, baina adberbioan ere ager daiteke
+
+- *abrosidu-abrosidu ein gara berari begire*
+- *abrosidute nako onek imiek*
+- *abrosidute urten du ziñetik; pelikulie zantarra ezan da eta*
+
+Askotan adberbioa danean, /du/ partizipio barik erabiltzen da:
+
+- *abrosite on gariez da dxun ein gara*
+
+Edo, gerundioa danean, beste era honetara:
+
+- *orduetan egon gara bertan abrositen*
+
+Ziur aski, hitz hau erdaratik sartu da, baina hitzaren etimologia nekez ikus daiteke. Bi hipotesi erabil daitezke hitz honen jatorria adierazteko: 
+
+Bat gaztelerako *aburrir* hitzetik datorrena, eta bestea, gaztelaniako *aborrecer* hitzetik datorrena. 
+
+1. /aburrir/ + /du/ > aburridu > abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: /abrurridu> abrusidu/ 
+
+Baina disimilatzeko /u/ > /o/ bihurtuz *abrosidu* eman du.
+
+2. /aborrecer/ + idu/ > aborrezidu > abrozidu > abrosidu
+
+Azken honek egin du biderik laburrena, eta zentzua ere egokia dela dirudi, jasanezinezko egoera gorrotatzen duela esateko balio baitu. 
+
+Gazteen artean, hau da hamazortzi urtetik beheranzkoetan galtzen ari bada ere, oso erabilia da oraindik. Gainera, askotan errepikatu egiten da hitza, goiko esaldi batetan ikus daitekeen bezala, agian enfasi gehiago emateko.
+
 
