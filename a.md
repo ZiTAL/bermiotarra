@@ -24,6 +24,6 @@ Bi adjetibok osatzen duten hitza dela dirudi:
 Baina beste hipotesi hau ere kontutan har daiteke:  
 /abill + arifi/ aginte erako forma, hain zuzen. 
 
-*orren gixona abillariñe da*
-*abillariñe aiz i*
-*ez ezan (izan) abillariñe*
+- *orren gixona abillariñe da*
+- *abillariñe aiz i*
+- *ez ezan (izan) abillariñe*
