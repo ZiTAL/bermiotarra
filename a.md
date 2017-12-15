@@ -41,4 +41,19 @@ Gaztelerako *hábil* hitza erabiltzen da.
 - *esnedunen astue abille da ostikadak emoten*
 - *onek artazidxek abillek tiez ebaitxen*
 
+## ABOGADESIE ##
+
+Hitz egiteko erraztasuna daukan emakumea.
+
+Hitz hau oso zaharra da, emakumezko abokaturik ez zegoenekoa, hain zuzen. Baina arraroena da gazteen artean ez dela entzuten, nahiz eta, gaur egun, emakume abokatu asko egon.
+
+/abogada/ + /sa/ > abogadesa/ 
+/sa/ atzizkia gaur egun erabiltzen ez dan arren, Bermeon erabiltzen da oraindino. 
+
+Adjektibo moduan eta askotan substantibo legez. 
+
+- *ori abogadesie dozu berbetan*
+- *eztau abogadesarik pe orrelakorik*
+- *niri ez eiñ abogadesie lez berba*
+
 
