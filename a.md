@@ -592,6 +592,72 @@ Zerbait egin. Zerbait burutu.
 
 -egin- zentzua dauka. Hitz egiterakoan berba erdiak erabiltzen direnean, beti esaten da hitz hori.
 
+## ALAKUE ##
 
+Aurreko /a/ horretan azentuatua.
 
+- *berak ekar dau, zera, alakue...*
+- *alakue erosi dau, jersie*
+
+Baina adjetibo moduan ere ager daiteke.
+
+- *alakue da bera, iñor ez lakue*
+- *zelako alakue zara ba*
+- *alakue banai, neuretzat*
+
+## ALAMENA ##
+
+Aspertu edo gogaitu arte hitz egin.
+
+Behintzat zentzu hori dauka Bermeon. Baina, sarritan, alamena, gogorra ere izaten da.
+
+- *zelako alamena emon dost ba, neure kulpie ezan balekide lez*
+- *ez eistazu alamenik emon enau ondo ta*
+- *zeozer gure dauenien konsegidu, itsosopeteko alamena dakozu*
+
+## ALANDAZE ##
+
+Dena dela. 
+
+- *eztot, eingo errekadue, alandaze, ez on nik eingo dotenari begire*
+- *gaur ezin dxu Bilbora juen, alandaze, bidxarko itzi biku*
+- *au labadorie apurtute dau, alandaze, barridxe erosi bi de*
+
+## ALATXE ##
+
+*alabatxu* hitzaren bariante bat da.
+
+Hurrengo hitzaren forma despektiboa, gehienetan gizonezkoak emakumeei zuzentzen zaienean agertzen da. Askotan errepikatuz erabiltzen da eta gehienetan haserrezko tonua izaten du.
+
+- *alatxe ezinoixu kabrie*
+- *Alatxe-alatxe, ortik ezpazuez osti bet omongo tzut*
+- *alatxe etorri ba*
+- *alatxe, eztakot zeure kontorik*
+
+## ALATXI ##
+
+Bariante hau, berriz, *alabatxi* berbarena da.
+
+Biak erabiltzen dira normalki, baina hamabost urtetik beherakoetan gutxi entzuten da, arruntagoa baita *alabatxi*.
+
+## ALATXU ##
+
+Eta beste hau ere -alabatxu- berbaren bariantea da.
+
+Adinekoetan entzuten da, berrogei urtetik gorakoetan eta gizonezkoetan gehiago.
+
+- *orduek dxun dxaskuz alatxu da ondiño ezer ein barik*
+- *alatxu mobiko zara berandu de ta*
+
+Forma bi hauen eboluzioa honela izan da:
+
+/ alabatxo > alabatxu > alatxu / alabatxo > alabatxu > alabatxü > alabatxi > alatxi /alatxi > alatxe /
+
+Arraroa badirudi ere, enfasiak bokal itxia irekiagoan bihurtu du.
+
+/ü/ horrek ez dauka zerikusirik zuberotarrarekin, Bermeon, batez ere portuan, eta han lan egiten duten emakumeek enfasi apur batez hitz egiterakoan, /u/ normal bat /ü/ bihurtzen dute.
+
+Adibide batzuk:
+- /entzun egizu > entzuizu > entzuizü > entzüizü > entzizi/ egin da.
+- /txetxotxu > txetxotxü/ egin den bezalaxe.
 
