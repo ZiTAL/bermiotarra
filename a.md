@@ -1442,3 +1442,775 @@ Angustia. Ikara. Tristezia.
 - *neuk edan koñaka arille kentziko, eztakot pentzamentorik*
 
 
+## ARISKITU ##
+
+Adiskidetu.
+
+- *asarratute badauz, laster ariskituko diez*
+- *ariskitu diez baie atzera asarratu diez*
+- *asarratutiek gatx bi dakozela esaten dauie, bat asarratutie eta bestie ariskitutie*
+
+## ARMA ##
+
+Iskanbila sortarazi.
+
+- *zelakue arma dau ba, ertzainek eta danak etor diez*
+- *an, arma dau armatekue, okasinte utse da ta...*
+- *bestelako enpatxue arma zu, au eztau libreten iriok*
+- *zelako dxaidxek arma kuz ba, munduen bez obiaurik*
+- *etzie arma dau baie ondirio ez tosku emon berinkaziñuen meridxandie*
+
+## ARMIÑ ##
+
+Urduri. Modu ezberdinetan erabiltzen da. Pertsona sukarrak jota badago, armin egongo da. Edo zerbait itxaroten badago, armin egongo da.
+
+- *onek imiek kalenturie dako armiñ dau te*
+- *gau guztidxen on nai armiñ, eztaitx zer okiñ dxoten*
+- *armiri dakozu a, gixona datortzo ta*
+
+Azkuek *apurado*, *extenuado* jartzen du. Kintanak, ordea, *arbin* *estrecho*, *persona de genio vivo* dela esango du.
+
+## ARMOSUE ##
+
+Gosaria. Gaztelerako *almuerzo* tik sortua. Beraz, euskaraz ez du zentzu berdina.
+
+- *armosue berandu dxan ezkero, eguerdidxe dxateko gogorik ez*
+- *armosuten kafie baiño eztau artzien*
+- *eguerdidxe lako armosue dxaten dau*
+
+Azkuek ez du jaso, baina bai D.A.R.k, T. Exebarria aipatuz, Eibar aldean kokatzen du. Bermeon ez da besterik erabiltzen horren ordez.
+
+## ARPIKAKA ##
+
+Irain antzeko bat da. Ezizen bat ere badago.
+
+- *arek arpikaka zantarrak eiñ dxost au arraskadie*
+- *zu, arpikaka, obeto eingo zu arpidxe garbitxuten bazu*
+- *zuk eztakostazu zetan ezan arpxikaka, arpeidxe garbi dakot eta*
+
+## ARPIKUE ##
+
+Aurpegikoa. Zartada.
+
+- *arpikue emoten batzut ikusiko zu zuk nor naien*
+- *zuk emoten bastazu arpiko bat nik bi emongo tzutez*
+- *zer dabill orrek arpikuek emoten*
+
+## ARRABIDXUE ##
+
+Arrabia. Baina zentzu zehatzean. Gehiago adierazten du haserrea, umore txarra eta askotan gorroto antzekoa ere bai.
+
+1. arrabia, haserrea.
+
+- *zelako arrabidxue emon dost apurtu dxastenien*
+- *arrabidxugaz papelak guztidxek apurtu txuz*
+
+2. gorrotoa.
+
+- *aurreitxik dakotsat arrabidxue, beti dalako aulakue*
+- *ezin dxau ikusi dakotzon arrabidxugaz*
+
+3. umore txarrean.
+
+- *ez esan niri ezer, arrabidxotan nau te*
+- *arrabidxotan zauzela pentzaten dot, etzut esango ezer*
+
+Azkuek ez du jaso baina bai D.A.R.k, Lexikoa aipatuz. Hala ere, horrek *rabia* esanahiarekin baino ez du jaso. Beste batzuek *arrabia* hitza sartu dute.
+
+## ARRAINTZUE ##
+
+Arrain asko.
+
+- *arraintzu ederrak eiñ dxauie*
+- *arraintzu ederra dakar orrek baporak, onduen dator da*
+- *etzien geratute arraintzurik ez*
+
+## ARRAKERUE ##
+
+Zekena. Dena nabi duena, dena beretzat gordetzen duena.
+
+- *arrakerue da lez dana etzerako eitxen dau*
+- *diruek eiñ txuz. Zelan eztau eingo ba, arrakerue badan*
+- *bera arrakerue, aiztie arrakerue, da imiek pe arrakeruek*
+
+Azkuek beste zentzu batez jaso du *jugador, tramposo, mañoso*.
+Baina Bermeon gaztelerako *raquero* ren definizioa nolabait betetzen du hitz horrek: *ladrón, pirata de puertos y costas* Beraz, gaztelerako esanahi horri jarraitzen dio.
+
+raquero > rakero > arrakerol
+
+## ARRANKA ##
+
+Zerbait martxan jarri.
+
+- *arranka telebisiñue, ikusi gudot eta*
+- *arranka afeitxeteko makiñie ondo badabill ikusteko*
+- *txikiteue akaba ta gero etzerantz arranka du*
+
+## ARRANKADIE ##
+
+Abiatu, abiadura hartu, eta beste zentzu batetan, adorea.
+
+- *arrankadie ezpadu artzien amen gelditxuko gara*
+- *arrankadigaz beragaz kaleraño dxun gariez*
+- *arrankadatik eztako orrek kotxiek*
+- *atrankadie artun alabatxu, ostantzien berton ongo diez biar guztidxek*
+
+Argi dago gaztelerako *arrancar* aditza erabili dela oinarri bezala.
+
+/arranque > arranke/ + /ada/ arrancada
+
+## ARRAIÑE ##
+
+Nahastea. Iskanbila. Gordinkeriak esaten duena.
+
+- *arraiñe imitxie gustaten dxatzo orreri, beti nastie armatie*
+- *arraiñe imiñdxe gero berak eskapa ein iau*
+
+Kasu honetan substantibo moduan erabili da. Hurrengo kasuetan, ostera, adjektibo legez.
+
+- *zelako arraiñe zara ba, aulan gustaten dxatzu zuri*
+- *eztot kure aregaz ezer, arraiñe da ta*
+
+## ARRAÑTXE ##
+
+Gauzak batu. Ordenatu.
+
+Itsasontzietan erabilitako hitza, gero hizkera arruntera pasatu da.
+
+- *bodegak arrantxe bitxuzena gixona da*
+- *loidxie arrantxeten dxun bigara arratsaldien*
+- *eziñ dxot urten kalera etzie arrantxe barik*
+- *arrantxeta itxi dotez gauze danak*
+
+Frantseseko *ranger* aditzetik datorrela dirudi. Hitz honek, itsasoan >ala< ematen du; beraz, gazteleraz *arranchar = recoger,ordenar*.
+
+Hipotesi hau argi badago ere, ezin daiteke baztertu beste teoria hau: Hitz hau >arraiñ< eta >te< batez osotutako hitza izatea. Orain >te< hori, beste hitzen baten bukaera bada ala ez, ez da ziurra. Beste kasu askotan bezala, /ñ/ ondoko sudurkariak >te< palatalizatu egin du.
+
+## ARRAPALDIDXE ##
+
+Txakurrekin xaxatzea, norbaitek atzetik jarraitzea, harrapatzeko asmoz, edo uxatu eta ikara sartzeko.
+
+- *sagarrak atrapaten dxun garizenien zelako arrapaldidxe emon dosku aldianuek ba*
+- *arrapaldidxen bienganera dxeusitxe apurtu dau eskue*
+- *eta arrapaldidxe emoten badosku zer engu ba? Eskapa*
+
+## ARRAPATIE ##
+
+Arrakasta. Merkatuan erosle asko egonez gero, jeneroa arin saltzen denean.
+
+- *gaur plazan arrapata andidxe egon da*
+- *egon dan arrapatiegaz eztot erosi ezebe*
+- *portuen itsosupeteko arrapatie egon da eta arraiñek eztau eiñ bost minutu be, eskuetatik pe kendu*
+- *beraniantiek etor diez da eurekaitxik on da arrapatie*
+
+Hitz hau, moduzko forman agertzen da D.A.R.n, >arrapataka<. Gainera, ez du zentzu bera *precipitadamente* jartzen baitu. Hitzaren konposizioa >arrapa< hitza + >ta< atzizkiak osatzen dute. Beraz, definizioa, harrapatzeko eskeintza izango da.
+
+## ARRASA ##
+
+Arrasto. Aztarna.
+
+- *arrañen arrasarik pe eztau ekarri*
+- *dirun arrasarik eztot ikusten*
+- *zuk ikusi zu pastelan arrasarik? Guk dana dxanda topa du*
+- *arigaz garbitxu ezketiño, loidxen arrasarik pe ezta ikusten*
+
+>arrastoa< hitzaren laburpena dela dirudi, >to< galduz /arrasto > arrasa/
+
+## ARRASKADIE ##
+
+Karrasketa.
+
+- *maidxie itxi dost arraskadaz beteta*
+- *arraskada matxue dako arpidxen sasidxek eiñdxe*
+- *markata itxi dau arraskadakaz, pellikadie eiñ dxau te*
+- *bis-bisten dauz ein tsozen arraskadak armaidxuri*
+
+Azkuek ez du jaso, baina bai D.A.R.k Darrikagerre-ren zita bat aipatuz. Honek *rasguño* hitzez definitzen du.
+
+## ARRASTIE ##
+
+Arrakasta.  
+Behintzat zentzu hori dauka erabileran.
+
+- *ez dxatzo geratu txillorik pe, okiñ dxauen arrastigaz*
+- *eztaitx topako bazu ezer, arrastie on da ta*
+- *bestelako arrastie dako mutill orrek, danak beran atzien*
+- *arrastie okin badau be, aur dau ezkondu barik*
+
+>arrakasta< hitzaren laburpena, >ka< atzizkia galduz gero egin da. Hala ere, azken hau, zaharrenen artean ere ez da ezagutzen, bestea bai, ordea.
+
+## ARREKOKOZILLO ##
+
+Sorbalda gainean norbait eramatea. Gehienetan umea.
+
+- *erdu laztana, arrekokozillo erungo zaitxut*
+- *arrekokozillo artzien banozu eztot eingo negarrik*
+- *aitxe danak on diez imiek arrekokozillo artun de*
+
+>kokozillo< hitza geroago azalduko den legez, buruaren amaieraren erdialdea da atzeko alderdian.
+
+>kokota< + >zillo< hitzez konposatua. Baina >zillo< hitza ere, geroago agertuko da. Hala ere azalpen bat egin beharra dago, hau da, nola sortu den hitz hori. /zulo/ > zulu; /zulu > zülu; /zülu > zilu; /zilu > zillu/.
+
+Aurrerago esan den bezala, >ü< horrek ez du zerikusirik zuberotarrarekin.
+
+## ARRELEPO ##
+
+Aurrekoaren parekoa, baina oraingoan lepoa (bizkarra) erabilita, Hala ere, ez da lepoan hartzen, ipurdiaren goialdean baizik. Gainera, kasu honetan ez dira izaten umeak bakarrik, nagusiak ere eraman daitezke.
+
+- *marie gorantz etor danien arrelepo pasa biar ezan dotez on dizen danak urek atrapa barik*
+- *arrelepo eruteko andidxeidxe zara*
+- *eziñ dxau korridu, da arrelepo erun bikozu*
+
+Hitz hau ere aurrekoa bezala konposatua da, baina oraingoan >lepo< hitza erabiliz. Azkuek Lekeitio eta Ondarrun kokatzen du hitz hau. Hala ere, esan beharra dago, Bermeon ere asko esaten dela.
+
+## ARRIA / ERRIE ##
+
+Beheratu. Gazteleratik hartua, zentzu berdinaz erabiltzen da, eta ez bakarrik gazteleraz erabiltzen den moduan, beste gauza batzuekin ere erabiltzen da, horren bariantea dan *errie* aztertzea.
+
+Zentzu berdinaz erabiltzen dira biak baina erabiliagoa da azken hau. Hala ere beste zentzu askotan ere erabiltzen da.
+
+- *arria/erria batela, geuk agarrako tsagu te*
+- *arria/erria bera otzarie, pixo andidxe dako ta*
+- *arria/erria beistek*
+
+Hitz honetan ez da /ia/ horretan ohiko /j/ epentetikoa sartu, /a/ > /e/ bakarrik egin da.
+
+## ARRIKOSKORRA ##
+
+Harri txikia. Harkosko.
+
+- *an dabill a arrikoskorrak botaten nobidxiri*
+- *arrikoskorrez beteta dau bidie ta takoiekaz ezin ibilli*
+- *arrikoskorrak pitxien pitxien topaten zuz*
+
+## ARRITXINGARRA ##
+
+Harri txikiak. Harrikirria.
+
+- *arritxingarrak takotez zapatan barruen*
+- *arritxingarrakaz beteta dakoz partikarak*
+- *arritxingarra bota dauie bidien da eziñdxe ibilli kotxerik*
+
+## ARRIKUE ##
+
+Harrikoa.
+
+- *arriko mandue ein bizan dot oire dxun orduko*
+- *arrikue ein barik ez zu urtengo kalera*
+- *hotel Erzillan be ez olako arrikorik*
+- *zer dau arrikue ba, batek baiño geidxauek ein biko dau*
+
+Azkuek Mundaka, Lekeitio eta Ondarrun kokatzen duen hitza da, baina hitz horren zentzua *fregar la vajilla* ra mugatu du. Bermeon *fregado* izango litzateke; beraz, substantibo zentzuaz ere erabiltzen da.
+
+## ARRIKUE (EIÑ) ##
+
+Harrikoa egin. Azkuek bere hiztegian ez du jaso, baina bai Euskera III. an, D.A.R.k azaltzen duenez. Hitz hau Mundakan eta Lekeition kokatzen du. Kintanak zentzu berdinez azaltzen du, hau da, *fregar* baina ez du inon kokatzen.
+
+## ARROKAKA ##
+
+Harroa eta handigurakoa. Harroa baino are harroagoa. Harro hitza era askotara erabiltzen da, graduaren arabera hain zuzen. Harrotasuna edo harrokeria. Azken hau izango litzateke hitz honen definizioa.
+
+- *arrokaka bat da, goitxik bera beituten tsu desprezidxugaz*
+- *orrek arrokakiek eztako zeri, eztako zer dxanik be ta*
+- *ganera ministrun alabie dala pentsaten dau*
+- *arrokaka utse da, iñok eziñ dxau auenta beragaz*
+
+Hitz honen konposizioan izen bat eta adjektibo bat batzen dira. /arro + kaka/ > arrokaka/
+
+## ARROTZAK ##
+
+Barrabilak.
+
+Legatzaren arbiak ere askotan >arrotzak< deitzen dira. Agian analogiaz.
+
+- *enai kapaz arrotzatako miñegaz. Ori andrien faltie zu*
+- *lebatzan arrotzak gozuenak tiez, baie niriek pe eztiz txarrak*
+- *arrotzatan emon tzon golpigaz sentido barik itxi dau*
+
+## ARRUEK ##
+
+Harrokeria, baina pluralean erabilita.
+
+- *Benidorrera duzela esan dosku, arruekaz*
+- *arrueku dabiltzez etze barridxe erosi dauiela ta*
+- *arruekaz esan barik obeto ixillien gorde*
+
+## ARTAZIDXE ##
+
+Zentzu figuratiboan erabilia.
+
+Kasu honetan mihia da. Horregatik erabiltzen da singularrean. Ia beti bigarren eta hirugarren pertsonan.
+
+- *artazidxe arin dabill arek, baie berak atako dau kontue*
+- *artaizi zorrotzeidxe dakozu, egunen baten disgustue okingo zu*
+- *artazidxe luzie okiñ dxauelako emon tsat zartazue*
+
+## ARTEKADU ##
+
+Artega. Urduri.
+
+- *au imie artekadu dau, zeuzer dako*
+- *artekadu on nai egun guztitdxen, neure gixona etorri arte*
+- *anekadu bazauz teie artun*
+
+## ARTEKUE ##
+
+Gorrotoa. Tirria.
+
+- *ez gauz asarratute ez ariskitute, baie neure artekue dakotzat*
+- *illdxe gero be, beran artekue dakotzo, eztau aztuten eintzona*
+- *elekidau okin biar artekorik, oiñ illdxe dau te*
+
+## ARTEZIDADIE ##
+
+Egia. Egia arteza esan gura du.
+
+- *eztau artezidadie esatie lakorik, gauzek argi itxi*
+- *au de artezidadie eta ez zuk esaten zuna*
+- *zer diñoten? Artezidadie, egi berdaderue, da zuk guzurre maridxe*
+
+## ASAU ##
+
+Urrun.
+
+- *asautxuau tire ez zaitxut ikusten ondo ta*
+- *asau dxun barik etzien dakozu olakue*
+- *ez dxun asau berandu de ta*
+
+Ez dakigu gaur egun beste inon esaten den, baina Bermeon ez da besterik erabiltzen *lejos* esateko.
+
+## ASATRONGUE ##
+
+Azaburua izan daiteke, baina ez dago argi. Konparazioan pertsonekin erabiltzen da gehienetan. Hala ere, gauzekin ere erabiltzen da, gauza bat dorpea denean, hain zuzen. 
+
+1. Barre gutxi egiten duen pertsona.
+
+- *azatrongue da orren gizona, ez tau barrerik pe eitxen*
+- *azatrongu lakue bada be diro asko dako*
+
+2. Dorpea.
+
+- *azatrongu lako zapatak erosi txuz*
+
+Hitzaren konposizioa >asa< eta >trongo< hitzez dago osotuta. /trongo<tronko/ Leherkari hoskabea, hostun egin da.
+
+## ASESIÑE ##
+
+Nekatu.
+
+- *asesiñe eiñ dxela etzeko biarrak eitxen ezan dau*
+- *asesiñe-asesiñe ein etze guzliko kristelak garbiten*
+
+## ASESIÑETA ##
+
+Erabat ahulduta.
+
+- *asesiñeta nau biarrik ein barik*
+- *asesiñeta aillega gariez Mañure, on dan beruegaz...*
+- *asesiñe-asesiñeta eiñdxuz San Juaneko eskillarak*
+
+## ASIAU ##
+
+Urrunago.
+
+Aurretik ikusi dugun *asau* hitza >ago< gehituta izango dugu oraingo hau.
+
+- *len baño asiau bixi de*
+- *ez zu gure asiau dxuen?*
+
+Azkuek, Bermeon, Mundaka eta Txorierrin kokatzen du bere hiztegian, baina >asago< forman agertzen da eta forma horrek *más lejos* esan nahi du. Bermeotarrok aurrekoa eta biak erabiltzen ditugu normalean.
+
+## ASKATAN ##
+
+Ugari. Oparo.
+
+- *dirue askatan irebazten dau arek*
+- *arrañe auri, askatan atrapaten ei dauie*
+- *kaka be askatan eitxen dau gure imiek*
+- *atzoko pelikulen askatan eiñ dxauie krimenak*
+
+## ASMA ##
+
+1. Nabaritu.
+
+- *ze asma zu ba? Lepoko miñe lelau, da gero burukue*
+- *zaratak asma dotez kamaran*
+
+2. Entzun.
+
+- *asma dot esaten ez tatorrela Bilbora, bidxar dxungo dala*
+
+Ez dauka Azkuek, edo D.A.R.k ematen dioten zentzua. Gaztelerako *idear* ematen diote.
+
+## AZORRAZIDXEK ##
+
+Berriketa. Mota guztietako esamesak direla adierazten du.
+
+- *azorrazidxek guztidxek batzien ibilltzen dxatzu a*
+- *nireñe ez etorri azorrazidxekaz*
+
+>eragin< aditza erabiliz:
+
+- *beti zauz azorrazidxei eraitxen*
+- *erain beti, betiko gauzei, erain azorrazidxei*
+
+Galtzen ari den hitza da. Jadanik, berrogei urtetik gorakoetan baino ez da entzuten.
+
+/aza + orri + azi/ > azorrazi/
+
+Baina, Koldo Izagirreren *Lokuzioak* liburuan, >hasi orraziak< *gertakizunak* defunzioaz dator. Hitzaren jatorria ori izan daiteke, baina zentzua bestelakoa da.
+
+## ASTAKADA ##
+
+Ezpata sartzea bezala. Gaztelerako *estocada* hitzetik hartua da.
+
+- *zelako astakadie emon dost ba*
+- *astakadie lez sartu tzat begitxik atzamarra*
+- *astakadie emon tzonien salta saltaka asi de*
+
+## ASTAKADAN ##
+
+Askotan, moduzko adberbio forman erabiltzen da:
+
+- *astakadan sartu dost kutxillue*
+- *ixillik ez pazautz eskuetan dakotena sartuko tzut astakadan*
+
+## ASTILIDXE /ASTILLEIDXE ##
+
+Untzigintza.
+
+- *astilleidxen dabil biarrien aitxegaz*
+- *astilidxen daku enbarkaziñue, beiek konponduten*
+- *astillei barridxen dau aren bapora*
+- *astilidxeko gixonak tiez or dauzenak*
+
+/astilleroa > astillerue > astilleue > astilleidxe > astilleidxe > astilidxe.
+
+Azken bariante biak erabiltzen dira maizen. Hala ere ez da argia eboluzioa, zeren lanbide hori duen gizonari *astillerue* deitzen zaio.
+
+## ASTILLERUE ##
+
+Untzigintzan lan egiten duen gizona.
+
+- *Sansón astilleruen semie da Fernando*
+- *astillero onak tauz Bermion*
+- *bai, Julio astillerue ona da*
+
+## ATALO / UE ##
+
+Arrain bat da. Konparazioan erabiltzen da. Lodi eta dorpea den pertsonari, hain zuzen.
+
+- *txo atalo, etorrik ona, zer dxaten zun esateko*
+- *ataluen antzeko morroi bet ezan da etor dana*
+- *gero be ezango aiz atalue, eztok ernegaten da*
+
+## ATAKONTU ##
+
+Atera kontua. Lelo baten antzekoa da. Esaldi egin bat hitz baten bihurtu da.
+
+- *atakontu postie naiela, berton, mobidu barik*
+- *atakontu iñuzentie naiela, eztost kasurik eitxen da*
+- *zer dau berton ba! Atakontu andramaidxek tizela*
+
+## ATAPOSTA / ATEPOSTA ##
+
+Etxeko sarrerako atea.
+
+- *atepostako atie igiritxe dau*
+- *atapostako ate barridxe imin bidu*
+- *atepostako atie dxo dau baten batek*
+
+Ikusten denez, aurreko hiru esaldiotan >atea< hitza errepikatu egiten da, ez, ostera, hurrengo esaldietan:
+
+- *atepostako giltze galdu dot*
+- *atepostan topa dot neuri begire*
+
+Hitz horren konposizioa >ate-oste< izan daiteke baina ez da ziurra, ezpainetako /p/ leherkaria desarroilatzen baitu.
+
+/ate/ + oste/ > ateoste > ateosta > ateposta/
+
+## ATEZA ##
+
+Atezatu.
+
+Itsasoan erabilitako hitza den arren, gaur egun normalki erabiltzen da, gaztelerako *tesar* aditzetik sartutako hitz hau.
+
+- *atezuen dakoz frakak, laster apurtuko txuz*
+- *buruko uliek pe ateza eingo tzutez txarridxori*
+- *atezuen bakozuz, plantxe, da aulan ondo okingo zu erropie*
+
+Azkuek, Lekeition eta Ondarrun jartzen du, baina Bermeon, esan bezala, asko erabiltzen da.
+
+## ATRAKALDIDXE ##
+
+Atrakua. Betekada.
+
+- *zelako atrakaldidxe eiñ dxot pastelakaz ba; baie gero zer?*
+- *atrakaldidxek eitxen abillek gara gu, dxan da dxan ezeri beitu barik*
+- *atrakaldidxe eiñ dxauie bankuen, da diro pillue erun dauie*
+- *geuk pe atrakaldidxe ein biku dirorik eztauenien*
+
+Bi hitz dira berba honen osaketa: >atraku< eta >aldia<. Palatalizazioa normala da Bermeoko hizkeran.
+
+## ATRAPAUE / DA / IE ##
+
+Zoroa. Erdi zoroa. Zentzu peioratiboan ere erabiltzen da.
+
+Eroa edo erdi zoroa. Batzuetan konparazioan erabiltzen da.
+
+- *txo! atrapauen antzekue, etorrik ona*
+- *zure lagune atrapau bet da*
+- *orren alabie atrapada utse da*
+- *alabatxu, atrapadie zara zu orrek gauzek esateko*
+
+/atrapado > atrapaue/ (gizonezkoa) /a/apada > atrapadea > atrapadie/ (andrazkoa)
+
+## ATRASIEN ##
+
+Atzezka. Itsasoko terminoa herrira pasatu da.
+
+- *atrasien dxun notak, eta edxotak ikusi atzien dauena*
+- *aurrera ein biarrien atrasien dxun nai da uretara dxeusi nai*
+- *atrasien-atrasien dxun zak, gero ta geidxau, da ormie dxo*
+
+## ATREBIKUNTZIE / DXE ##
+
+Atrebentzia.
+
+- *aren atrebikuntzie ikusten zu, eztako arpidxen lotsarik*
+- *zelako atrebikuntzidxe aitxe santuri olan berba eitxen*
+- *uger duenien eztako ikarararik, attebikuntze andikue da*
+
+Askotan egiten den bezala, erdarazko hitz batez eta euskal atzizki baiez baliatuz, hitz berria sortu da.
+
+Konposizioan, >atrevi(miento)< + -kuntza- atzizkia. /atrever + kuntza/ > atrebekuntza > atrebikuntze/
+
+## ATROZA ##
+
+Txistagarri (pertsona). Baina, batzuetan, beste zentzu batez ere erabiltzen da, nahiz eta asko urriagoa izan erabilera.
+
+- *benetan da atroza, edozegaz eitxen dau txistie*
+- *kalien total atroza, baie etzien zumurutu utze*
+
+## ATUNBURUE ##
+
+Dorpea. Pertsona eta gauzak.
+
+- *atunburu utze da, eztau bururik kantzaten*
+- *atunburue ezan bide orrek gauzek esateko*
+- *onek zapatak atunburuek tiez*
+
+## ATUNZARRA ##
+
+Trikimailu asko dakien pertsona. Badago ezizen bat ere.
+
+- *orrek badxakik nondik ibilli, atunzarra da ori*
+- *atunzarran gauzek tiez orrek, eztau engaiñeko inok*
+- *baie atunzarra be dxeusten da tranpan*
+
+## ATZITXU ##
+
+1. Zikinduta. Zentzu honetaz jaso da kasu honetan.
+
+- *nondik zatoz olan atzitxute?*
+- *erropa guztidxek atzitxu zuz*
+- *atzitxu-atzitxu eiñdxe zatoz*
+ 
+Azken honetan errepikapena erabili da.
+
+Baina moduzko formetan beste zentzu bat ere adierazten du:
+
+2. Ustelduta (diruz, zorrez)
+
+- *zorrez atzitxute dauz, da, ondiño, a erosi da ori erosi dabiltzez*
+
+D.A.R.k azken zentzu hau jaso du Mundakako *Otxolua* idazlearen zita bat aipatuz.
+
+## ATZEZ! ##
+
+Bai zera! Baina tonua despektiboa eta izaten da.
+
+- *zer esan dau, eingo dauela? Bai, atzez*
+- *egidxe diñozu le? Atzez! Ori ezu siñistuten zeuk pe*
+- *nik emon zuri dirue? Atzez!*
+
+## ATZOKOPASATA ##
+
+Herenegun.
+
+Atzokoa pasatuta, baina alderantziz, hau da, atzerantz, aurrerantz egin beharrean.
+
+- *atzokopasatan dxun gariez Dolostire*
+- *atzokopasatan esan dau etorko dala baie ezta etorri*
+- *atzokopasatatik ona dau oien*
+
+## AUENBOLUE ##
+
+1. Berba egiteko arazoak dituen pertsona.
+
+- *ez dxatzo enteniten auenbolue dako ta*
+- *auenbolue lez eitxen dau berba*
+
+2. Boz-goran berba egiten duena.
+
+- *auenbolo utse da, danak dxakin bidauie non dauen*
+- *auenbolo, isillik on zaitxez, isillik on*
+
+## AUMENTA ##
+
+Aipatu.
+
+- *ni ez aumenta ezetako be, ez onerako ez txarrerako*
+- *danak esan txuz baie bera eztau aumenta be egiñ*
+- *aumenta be ez ein gauziori gero, eztakigu egidxe bada ta*
+
+Azkuek Erronkarin, Binkozen jaso du zentzu berberaz.
+
+## AUNTXEK ##
+
+Orain.
+
+- *auntxek nuen Jontxuñe*
+- *auntxek bertan jun de*
+- *auntxek nuen amagaz Aritzatxure*
+
+## AUNTXEKUTAN ##
+
+Oraingoan.
+
+Forma indartura pasatzen dugunean gertatzen da.
+
+- *auntxekutan bai! Auntxekutan etorko da*
+- *auntxekutan ezpazu eitxen, ezu iñoiz be eingo*
+- *esan zu auntxekutan dxungo zarala*
+
+## AUPE ##
+
+Ugaritasuna.
+
+- *dirue aupe dakotzue arek, erriebera*
+- *sagarrak aupe emon txuz arboliek*
+- *arraiñe aupe ikusten da portuen*
+
+## AURREZPIDE / AURRERAZPIDE ##
+
+Aurrerabide.
+
+- *guzan dot ein baie eztost emon aurrezpiderik*
+- *aurrezpidie emoten batzazu, laster etorko dxatzu*
+- *aurrerazpide gitxi emoten dauie gauzek eitxeko*
+- *aurrerazpiderik ez patzu emoten, ez esan zeuk pe ezer*
+
+## AUZPEZ ##
+
+1. Ahozpez.
+
+- *auzpez dxeusi da kalien, da mosuek takoz anditxute*
+
+2. Korrika edo arineketan zerbait egitera joaten denean.
+
+- *auzpez dxun da ori, gauzek erosten*
+- *auntxek nuen auzpez, pelikulie akaba orduko*
+- *auzpez dabiltzu a biarrak akabaten plaidxera dxuteko*
+
+Lehenengoak bakarrik dauka esanahi konkretua. Azkuek, >aozpez< jaso du, baina lehenengo zentzuaz.
+
+## AUSPO ##
+
+Haitz artean gertatzen den putzu erraldoiak.
+
+Nik neuk ez dakit nondik etor litekeen. Gehienetan hondartzan edo haitzetan eratzen diren putzu handiei dagokie.
+
+- *auspo txikidxen eiñdxu uger*
+- *enai atrebiten auspo andidxen sartzien*
+- *auspo txikidxen edo auspo andidxen majo eitxen dau uger*
+
+## AXIXAN / AUDIAN ##
+
+Etxetik kalera joatea suposatzen du. Umeei esaten zaie.
+
+- *laster amumagaz aixixan dxungo zara laztana*
+- *zeitxik eitxen zu negar ba, ez zaitxuzelako axixan eruen amumak?*
+- *ona bazara, amatxugaz dxungo zara aixixan*
+
+## AZE! ##
+
+Mesprezuzkoa dugu. Zentzu despektiboa dauka.
+
+- *ori erosi zu? Aze!*
+- *aze bertara dxutie. Eztako leko obarik?*
+- *aze, beragaz mutillegaz ibilli biarra*
+
+## AZELERA ##
+
+Haserretu. Zenetik irten.
+
+Aditz funtzioan.
+
+- *ori esan tzonien azelera dxatzu da emontzo belarriondokue*
+- *ez ezelera iñor, bakie biar du te*
+- *ez azelera! Trankil, denporie dakozu danatarako ta*
+
+## AZELERATA ##
+
+Adberbioan funtzioan.
+
+- *azelerata etor da lotsak emoten*
+- *azelerata bazauz tila artun*
+
+Erdarazko *acelerar* aditzetik sartua, esanahi ezberdinetan erabiltzen da.
+
+/acelerar > azelera > azelera/
+
+## AZKANENGOBIGARREN ##
+
+Azken aurrekoa. Logikaz egindako hitza.
+
+- *noix zara ba ? Azkaningobigarren*
+- *azkaningobigarren dxun nai da sandxie galdu dot*
+- *azkainingobigarrenari emon tsat sandxie*
+
+## AZOTA ##
+
+Erabat nekatu. Aditz funtzioan.
+
+- *azota-azota ein nai eurek erropak garbiten*
+- *azota bazara zeuk takozu kulpie, ez ein biar*
+
+## AZOTATA ##
+
+*azota* bera, baina adberbio funtzioan.
+
+- *azotata nau eurek egurrek txikitxuten*
+- *Mañure dxun gariez da azotata aillega gariez*
+- *plaidxiek azotata itxitxen zaitxuz*
+
+Beraz, ez du gazteleraz duen esanahia.
+
+## AZTUZKUEN ##
+
+Ahaztutakoan. Inor gogoratzen ez denean.
+
+- *oraiñ itxi aulan da aztuzkuen agarrako tsagu ostabe*
+- *aztute itxi dun bertan, da aztuzkuen non diñoskun berana dala*
+- *ez ein kasurik aztuzkuen erun gu te, ostantzien aldarrike asiko da*
+
+/aztutakoan > aztuzkoan > aztuzkoan > aztuzkuen/
+
+## AZUKALLO ##
+
+Azukrea edo azukre-ura da, baina esanahia pertsona sentibera definitzeko erabiltzen da. Baita konparazioan ere.
+
+- *zer zara ba, bestelako azukallue zauz or*
+- *ez esan ezebez orreri azukalluri*
+- *azukallue lez gauz, ezer ez esateko moduen*
+
+## AZUZKIDXE ##
+
+Ezer ez.
+
+- *arraiñik ekar badauie? Azuzkirik pez alabatxu, itxosuek sikatute dauz*
+- *ez kantsa etzut emongo azuzkirik pez da*
+- *azuzkidxen azuzkirik eztot ikusi bertan, osasunik pez*
+
+
