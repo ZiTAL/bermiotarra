@@ -10,7 +10,7 @@ Lagunduteko, bajatu ODT fitxerue edo PDF-ien ikusi berton, hartun letra bat (A e
 
 Erreferentzi modure ikusi 'berbak' karpetan dauzen fitxeruetan zelan nuen idazten - RAW botoie jo -
 
-Gorde eta bota korreora zital@riseup.net, edo [https://github.com/ZiTAL/bermiotarra/issues](issue) bat igiri berton, edo [https://stackoverflow.com/a/14680805/454827](pull-request) bat eitzen ba hobeto :)
+Gorde eta bota korreora zital@riseup.net, edo [issue](https://github.com/ZiTAL/bermiotarra/issues) bat igiri berton, edo [pull-request](https://stackoverflow.com/a/14680805/454827) bat eitzen ba hobeto :)
 
 Eskerrik asko!
 
