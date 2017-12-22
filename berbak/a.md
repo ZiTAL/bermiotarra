@@ -2101,6 +2101,13 @@ Aurrerabide.
 - *aurrerazpide gitxi emoten dauie gauzek eitxeko*
 - *aurrerazpiderik ez patzu emoten, ez esan zeuk pe ezer*
 
+## AUTOMOTORRA ##
+
+Ziklomotorea.
+
+- *automorra erosi dau uden Aritzatxure juteko*
+- *kontuz ibil bide automorragaz euritxen*
+
 ## AUZPEZ ##
 
 1. Ahozpez.
