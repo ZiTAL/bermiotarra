@@ -179,5 +179,3 @@ Tximista. Tximistargia.
 - *dxusturidxek ikarie emoten dostie*
 - *neuri be bai, beiñola basuen on gariez da zelako dxusturidxek eta truboiek on diez ba, ni, dardakadan*
 - *ba ni enai ikaratuten dxusturidxekaz*
-
-

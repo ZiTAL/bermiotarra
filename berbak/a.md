@@ -2219,5 +2219,3 @@ Ezer ez.
 - *arraiñik ekar badauie? Azuzkirik pez alabatxu, itxosuek sikatute dauz*
 - *ez kantsa etzut emongo azuzkirik pez da*
 - *azuzkidxen azuzkirik eztot ikusi bertan, osasunik pez*
-
-
