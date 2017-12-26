@@ -2101,12 +2101,30 @@ Aurrerabide.
 - *aurrerazpide gitxi emoten dauie gauzek eitxeko*
 - *aurrerazpiderik ez patzu emoten, ez esan zeuk pe ezer*
 
+## AUSI ##
+
+Zaunka.
+
+- *beziñuen txakurre egun santo guztidxen dabil ausike*
+- *baserri batera nuen bakotzien txakurrek ausi eitsen dostie*
+- *Mikelen andrien txakurre beti dau ausike*
+
 ## AUTOMOTORRA ##
 
 Ziklomotorea.
 
 - *automorra erosi dau uden Aritzatxure juteko*
 - *kontuz ibil bide automorragaz euritxen*
+
+## AUSPO ##
+
+Haitz artean gertatzen den putzu erraldoiak.
+
+Nik neuk ez dakit nondik etor litekeen. Gehienetan hondartzan edo haitzetan eratzen diren putzu handiei dagokie.
+
+- *auspo txikidxen eiñdxu uger*
+- *enai atrebiten auspo andidxen sartzien*
+- *auspo txikidxen edo auspo andidxen majo eitxen dau uger*
 
 ## AUZPEZ ##
 
@@ -2121,16 +2139,6 @@ Ziklomotorea.
 - *auzpez dabiltzu a biarrak akabaten plaidxera dxuteko*
 
 Lehenengoak bakarrik dauka esanahi konkretua. Azkuek, >aozpez< jaso du, baina lehenengo zentzuaz.
-
-## AUSPO ##
-
-Haitz artean gertatzen den putzu erraldoiak.
-
-Nik neuk ez dakit nondik etor litekeen. Gehienetan hondartzan edo haitzetan eratzen diren putzu handiei dagokie.
-
-- *auspo txikidxen eiñdxu uger*
-- *enai atrebiten auspo andidxen sartzien*
-- *auspo txikidxen edo auspo andidxen majo eitxen dau uger*
 
 ## AXIXAN / AUDIAN ##
 
