@@ -4,13 +4,13 @@ Begoña Bilbao Alboniga-k idatzi zauen *Bermeoko berba eta esamolde kresaltsuak 
 
 Proiektue [Markdown](https://en.wikipedia.org/wiki/Markdown) erabilitze ezango da, erreza dalakon, eta holan edonok al' izateko parte hartu.
 
-Lagunduteko, bajatu ODT fitxerue edo PDF-ien ikusi berton, hartun letra bat (A eztana), eta hamen dakozuien editoran hasi idazten:
+Lagunduteko, bajatu ODT fitxerue edo PDF-ien ikusi berton, hartun letra bat (A eztana), eta issue bat igiri berton github-en:
 
-[https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
+[https://www.youtube.com/watch?v=Pmuhm-ugxY8&list=PL-gWm-vd-Oe9e6Wp1eYfu1hfuOAZuqYDx](https://www.youtube.com/watch?v=Pmuhm-ugxY8&list=PL-gWm-vd-Oe9e6Wp1eYfu1hfuOAZuqYDx)
 
 Erreferentzi modure ikusi 'berbak' karpetan dauzen fitxeruetan zelan nuen idazten - RAW botoie jo -
 
-Gorde eta bota korreora zital@riseup.net, edo [issue](https://github.com/ZiTAL/bermiotarra/issues) bat igiri berton, edo [pull-request](https://stackoverflow.com/a/14680805/454827) bat eitzen ba hobeto :)
+issue igiritzeko: [issue](https://github.com/ZiTAL/bermiotarra/issues), edo [pull-request](https://stackoverflow.com/a/14680805/454827) bat eitzen ba hobeto :)
 
 Eskerrik asko!
 
