@@ -223,4 +223,3 @@ Haserrea. Zenetik irtenda.
 - *ori esan tsonien beran furi guztidxegaz arpire lantza tsoz libruek*
 - *amen dator furidxekaz, banuen eskapaten*
 - *ona ez etorri furidxekaz, entzun zu? Asike trankilldxu*
-

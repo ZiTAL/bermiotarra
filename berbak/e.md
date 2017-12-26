@@ -1140,4 +1140,3 @@ Kuriosoa da berba honen konposaketa. Gaztelerazko *tropezar* aditzari /ez/ ezezk
 - *arri mando bategaz eztropeza nai da izterra apurtu dot*
 - *atigaz eztropeza da betondue baltzitxu, auri da ein dxotena*
 - *eztropezaten eztropezaten, laistelatararte aillega nai*
-
