@@ -202,13 +202,6 @@ Deigarrizko lokuzioa.
 
 Azken esaldi honetan, lokuzio hori diminutiboan jarri da.
 
-## GAZTE ZAHARRA ##
-
-Jendarteak adineko pertsonei egokitzen dizkion pentsamolde edo portaerak dituen pertsona gaztea.
-
-- *Daborduko kantsata? Gazte zaharra!*
-- *Hara gazte zaharra! Auntxek be ernegaten!*
-
 ## GIBARROI ##
 
 Atun eta zimarroien gibela.

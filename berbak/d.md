@@ -1,8 +1,8 @@
 # D #
 
-## DABURDUKO ##
+## DABURDUKO / DAUORDUKO ##
 
-Hain arin. "Daborduko" edo "dauorduko be erabiltzen da."
+Hain arin. Dagoeneko.
 
 - *daburduko etor zara, ezu ezer eitxeko la?*
 - *erdu etzera. Daburduko? On apurtxu baten*

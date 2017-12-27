@@ -14,11 +14,13 @@ Baina *abante etzera* ere esaten da. Beraz, Azkuek, *remar* zentzuarekin jaso du
 
 ## ABERIDXE ##
 
-1. Matxura
-2. Zoratuta egon
+1. Matxura.
 
 - *Makinie aberidxe da! Non dau makinistie?*
-- *Zelako aberidxe dakon honek morroiek. Eztau ondo burotik.*
+
+2. Zoratuta egon
+
+- *Zelako aberidxe dakon honek morroiek! Ez tau ondo burotik*
 
 ## ABILLARIÑE ##
 
@@ -79,7 +81,7 @@ Gaztelerazko "abreviar" aditza dugu. Baina substantibatu egiten da, nahiz eta ad
 
 ## ABROSIDU ##
 
-Aspertu. Gogaitu
+Aspertu. Gogaitu.
 
 Aditza, baina adberbioan ere ager daiteke
 
@@ -1302,13 +1304,6 @@ Arrainak harrapatzeko erabiltzen den tresneria. Oinarrizkoena pita eta amuaz osa
 
 - *Loidxerue daku apaidxo barridxek eitxen.*
 - *Fitxiek falta dost. Han jun de arraine apaidxo ta guzti*
-
-## APAIDXUE EGIN ##
-
-Sexu harremanak eduki.
-
-- *Beste bategaz apaidxue eitxen atrapa dau andriek*
-- *Daburduko kantxata? Larrei ibil zara zu apaidxue eitxen*
 
 ## APREMIÑUE ##
 
