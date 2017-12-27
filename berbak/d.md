@@ -2,7 +2,7 @@
 
 ## DABURDUKO ##
 
-Hain arin.
+Hain arin. "Daborduko" edo "dauorduko be erabiltzen da."
 
 - *daburduko etor zara, ezu ezer eitxeko la?*
 - *erdu etzera. Daburduko? On apurtxu baten*
@@ -151,7 +151,7 @@ Ikusten denez, *abandonar* gaztelerako aditza eta euskaraz ere erabiltzen den >d
 
 ## DESAPARTA ##
 
-Banandu. 
+Banandu.
 
 - *ori parejie atxiñetik dau desapartata*
 - *entzun dot arek be desaparta eingo dizela*
