@@ -12,6 +12,14 @@ Hitz hau "abante" hitzetik dator. Arraunketan erabiltzen den hitza da.
 
 Baina *abante etzera* ere esaten da. Beraz, Azkuek, *remar* zentzuarekin jaso duen hitza, beste kasu batzuetara zabaldu da.
 
+## ABERIDXE ##
+
+1. Matxura
+2. Zoratuta egon
+
+- *Makinie aberidxe da! Non dau makinistie?*
+- *Zelako aberidxe dakon honek morroiek. Eztau ondo burotik.*
+
 ## ABILLARIÑE ##
 
 Zentzu gabeko pertsona.
@@ -26,7 +34,7 @@ Bi adjetibok osatzen duten hitza dela dirudi:
 /abilla + arifia/ > abillariña > abillariñe/
 
 Baina beste hipotesi hau ere kontutan har daiteke:  
-/abill + arifi/ aginte erako forma, hain zuzen. 
+/abill + arifi/ aginte erako forma, hain zuzen.
 
 ## ABILLE ##
 
@@ -51,10 +59,10 @@ Hitz hau oso zaharra da, emakumezko abokaturik ez zegoenekoa, hain zuzen. Baina 
 - *eztau abogadesarik pe orrelakorik*
 - *niri ez eiñ abogadesie lez berba*
 
-/abogada/ + /sa/ > abogadesa/ 
-/sa/ atzizkia gaur egun erabiltzen ez dan arren, Bermeon erabiltzen da oraindino. 
+/abogada/ + /sa/ > abogadesa/
+/sa/ atzizkia gaur egun erabiltzen ez dan arren, Bermeon erabiltzen da oraindino.
 
-Adjektibo moduan eta askotan substantibo legez. 
+Adjektibo moduan eta askotan substantibo legez.
 
 ## ABREBIDXUE ##
 
@@ -64,14 +72,14 @@ Energia handia lanerako. Azkar ibili.
 - *abrebidxugaz eitxen txuz biarrak*
 - *abrebidxo bako gaztiek takuz frabiken*
 
-Gaztelerazko "abreviar" aditza dugu. Baina substantibatu egiten da, nahiz eta aditz bezala ere erabili: 
+Gaztelerazko "abreviar" aditza dugu. Baina substantibatu egiten da, nahiz eta aditz bezala ere erabili:
 
 - *abrebidxe berandu ein orduko*
 - *abrebidxe gaitezen gaue ganera etor baiño lelau*
 
 ## ABROSIDU ##
 
-Aspertu. Gogaitu 
+Aspertu. Gogaitu
 
 Aditza, baina adberbioan ere ager daiteke
 
@@ -87,17 +95,17 @@ Edo, gerundioa danean, beste era honetara:
 
 - *orduetan egon gara bertan abrositen*
 
-Ziur aski, hitz hau erdaratik sartu da, baina hitzaren etimologia nekez ikus daiteke. Bi hipotesi erabil daitezke hitz honen jatorria adierazteko: 
+Ziur aski, hitz hau erdaratik sartu da, baina hitzaren etimologia nekez ikus daiteke. Bi hipotesi erabil daitezke hitz honen jatorria adierazteko:
 
-Bat gaztelerako *aburrir* hitzetik datorrena, eta bestea, gaztelaniako *aborrecer* hitzetik datorrena. 
+Bat gaztelerako *aburrir* hitzetik datorrena, eta bestea, gaztelaniako *aborrecer* hitzetik datorrena.
 
-1. /aburrir/ + /du/ > aburridu > abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: /abrurridu> abrusidu/ 
+1. /aburrir/ + /du/ > aburridu > abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: /abrurridu> abrusidu/
 
 Baina disimilatzeko /u/ > /o/ bihurtuz *abrosidu* eman du.
 
 2. /aborrecer/ + idu/ > aborrezidu > abrozidu > abrosidu
 
-Azken honek egin du biderik laburrena, eta zentzua ere egokia dela dirudi, jasanezinezko egoera gorrotatzen duela esateko balio baitu. 
+Azken honek egin du biderik laburrena, eta zentzua ere egokia dela dirudi, jasanezinezko egoera gorrotatzen duela esateko balio baitu.
 
 Gazteen artean, hau da hamazortzi urtetik beheranzkoetan galtzen ari bada ere, oso erabilia da oraindik. Gainera, askotan errepikatu egiten da hitza, goiko esaldi batetan ikus daitekeen bezala, agian enfasi gehiago emateko.
 
@@ -105,7 +113,7 @@ Gazteen artean, hau da hamazortzi urtetik beheranzkoetan galtzen ari bada ere, o
 
 Arrain oso txikia eta zuria, odol gabekoa. Bokarta antzekoa da. Konparazioan erabiltzen da, eta bi esangura dauzka:
 
-1. Pertsona hotza. 
+1. Pertsona hotza.
 
 - *zu beti zara otz, abuxe zara ela?*
 - *abuxek paño odol gitxiau dako arek, beti dardakadan*
@@ -131,9 +139,9 @@ Azken kasuan zentzu zehatza hartzen du.
 
 Aztia, baina emakumea.
 
-Izena eta adjektibo zentzua har dezake. Baina konparazioan ere ager daiteke. 
+Izena eta adjektibo zentzua har dezake. Baina konparazioan ere ager daiteke.
 
-Izen hau, ez da entzuten gazteen artean, baina bai hogeita hamaer urtetik gorakoetan. 
+Izen hau, ez da entzuten gazteen artean, baina bai hogeita hamaer urtetik gorakoetan.
 
 1. Esanahi konkretuan.
 
@@ -182,7 +190,7 @@ Hitz berria dugu. berrogehi une inguru izango du, arrantzaleak Afrikara joaten h
 
 Mendebaleko haize indartsuari aurre egiteko modukoa. Itsasoko terminoa da.
 
-Hurrengo hitza kontutan izanik, afrontuari aurpegia emateko ahalmena daukan itsasontziari dagokio. 
+Hurrengo hitza kontutan izanik, afrontuari aurpegia emateko ahalmena daukan itsasontziari dagokio.
 
 - *ori bapora afrontosue da*
 - *ez da kapaz arpeidxe emoteko afronturi, ez da afrontosue*
@@ -222,9 +230,9 @@ Aixu, gizon!
 - *agixon, arek andriek esan dau dxuteko*
 - *agixon sagar bat ekau*
 
-Ziur, *aizu gixon* duela oinarri. 
+Ziur, *aizu gixon* duela oinarri.
 
-/aizu gizon > agixon/ 
+/aizu gizon > agixon/
 
 ## AGUAZERA ##
 
@@ -281,13 +289,13 @@ Bi eratara erabiltzen da:
 
 Ontzia amarratzeko leku propioa. Kasu honetan Artzan. Portualdean edo arrantzale eta hauen inguruan erabiltzen da.
 
-Berba hau modu berezian erabiltzen da ekonomia arloan. 
+Berba hau modu berezian erabiltzen da ekonomia arloan.
 
 - *aidxenak sikatute daus* Pluralean, dirurik ez dagoenean.
 - *aidxena bero dako orrek* Diru asko dagoenean.
 - *aidxenak bajaten dizenien dana dau txarto*
 - *len kukurruku eindxe on dxatzuz, baie orain aidxenak bajata dauz*
- 
+
 Azkuek -aien- jartzen du eta Bermeoko hitza bezala jaso du.
 
 Hitzaren jatorria *aihen* (tallo) izan daiteke, amarratzeko zutoiak ere sustraiak lurrean sartzen diren moduan jartzen direlako.
@@ -312,7 +320,7 @@ Aiuta. (labatiba)
 
 ## AIKAMEN ##
 
-Oihu edo harridurazkoa. 
+Oihu edo harridurazkoa.
 
 Hurren datorren hitzaren partikula + toki erakusle bat hartzen du: -aiko hemen !-
 
@@ -439,7 +447,7 @@ Hotza harrapatu.
 
 Fanfarroia.
 
-Hego-haizeak gauza guztiak hanpatzen dituenez, konparazioan erabiltzen da: 
+Hego-haizeak gauza guztiak hanpatzen dituenez, konparazioan erabiltzen da:
 
 - *aixerrikue da ta enfada-enfada eitxen dau jentie*
 - *arnen dator aixerrikue, laster hasiko da arrokeidxek kontaten*
@@ -505,7 +513,7 @@ Alamena eman. Agindu kutsu bat ere badauka.
 - *orrek imiek akomotidu dost zapatak erosi bitzatezela*
 - *da zuk akomotiten dostazu dxun ein binaiela*
 - *akomotitso  etxie erosteko*
- 
+
 Hitz honen bariante bat -akometidu< da, eta D.A.R. n agertzen da Bermeokoa dela aipatuz.
 
 Gaztelaniazko *acometer* dirudi; beharbada hori izan daiteke hitzaren etimologia, gero beste zentzu bat hartu badu ere.
@@ -514,7 +522,7 @@ Gaztelaniazko *acometer* dirudi; beharbada hori izan daiteke hitzaren etimologia
 
 ## AKORDA ##
 
-Itzartu. 
+Itzartu.
 
 Ikusten denez, gaztelaniako *acordarse* barik, *despertar* zentzua dauka.
 
@@ -526,7 +534,7 @@ Gaztelaniako *acordarse* adierazteko ere erabiltzen da, baina beste zentzu horre
 
 ## AKULEKEIDXEK ##
 
-Aitzakiak. 
+Aitzakiak.
 
 Aitzakiak dira. Gehienetan pluralean. Baina singularrean ere erabiltzen da, gutxi baino ez bada.
 
@@ -549,14 +557,14 @@ akula + keria > akulakeria > akulekeidxe
 
 Gaztelerako *halar* aditza erabili da horretarako. Azkuek bere hiztegian *recoger* dakar beste azalpenik egin gabe.
 
-2. Kritikatu. 
+2. Kritikatu.
 
 - *aurrek danak on diez beran ala*
 - *ontxe be neure ala zauz*
 - *baten bat neure ala dau, belarridxe gorritxute dakot eta*
 - *zeure ala-ala dabill a*
 
-Azkuek ez dakar eta D.A.R.k Mundakako Otxolua aipatzen du. Baina Bermeon oso erabilia da. Askotan errepikatuta ere erabiltzen da, azken adibidean ikus daitekeenez. 
+Azkuek ez dakar eta D.A.R.k Mundakako Otxolua aipatzen du. Baina Bermeon oso erabilia da. Askotan errepikatuta ere erabiltzen da, azken adibidean ikus daitekeenez.
 
 ## ALABATXI ##
 
@@ -617,7 +625,7 @@ Behintzat zentzu hori dauka Bermeon. Baina, sarritan, alamena, gogorra ere izate
 
 ## ALANDAZE ##
 
-Dena dela. 
+Dena dela.
 
 - *eztot, eingo errekadue, alandaze, ez on nik eingo dotenari begire*
 - *gaur ezin dxu Bilbora juen, alandaze, bidxarko itzi biku*
@@ -937,7 +945,7 @@ Ideia. Burutazioa. Baina *asmoa* bezala ere erabiltzen da.
 
 ## AMODERA ##
 
-Moderatu. 
+Moderatu.
 
 - *lelau gora-goraka asi de, baie gero amodera ein dxe*
 - *bozak pe amoderata entzuten ezan diez*
@@ -1036,7 +1044,7 @@ Bermeon, batez ere gizon argalei aplikatzen zaie. Bazegoen gizon bat, argala eta
 
 ## ANDAKA ##
 
-Duela berrogeitaz urteak -orain ere noizbehinka ikus daiteke- joko baten jarduten zuen gazteek eta umeek. Joko hau, animalia baten antzera jarrita -lautxakurrean deritzoguna- besteak gure gorputzaren gainetik saltatzean zetzan. Honela, bat behean, besteak saltatu eta makurtu. Dena katean. Hitza bai dela oraindino. 
+Duela berrogeitaz urteak -orain ere noizbehinka ikus daiteke- joko baten jarduten zuen gazteek eta umeek. Joko hau, animalia baten antzera jarrita -lautxakurrean deritzoguna- besteak gure gorputzaren gainetik saltatzean zetzan. Honela, bat behean, besteak saltatu eta makurtu. Dena katean. Hitza bai dela oraindino.
 - *andaka dabiltzuz arek tonpoidxen*
 - *ez ibilli andaka izterra apurtuko zu te*
 - *andaka ibilli gariez goixe guztidxen*
@@ -1045,7 +1053,7 @@ Duela berrogeitaz urteak -orain ere noizbehinka ikus daiteke- joko baten jardute
 
 Abiadura.
 
-Geroago ere agertuko den *andanada* hitzaren parekoa dugu. Biak erabiltzen dira; eta gutxienez parekatuta dago erabilera. 
+Geroago ere agertuko den *andanada* hitzaren parekoa dugu. Biak erabiltzen dira; eta gutxienez parekatuta dago erabilera.
 
 - *andana andidxe darue aren kotxiek*
 - *andana gitxiko bapora da*
@@ -1077,7 +1085,7 @@ Adberbioan erabiliko dugu hitz hau.
 - *ez ibilli andanan dxeusi barik*
 - *andanan ibiltzen bazara berotu eingo zara*
 
-Azkuek ez du jartzen baina bai D.A.E.k. Hala ere ez du zentzu bera, *en fila* jartzen baitu. 
+Azkuek ez du jartzen baina bai D.A.E.k. Hala ere ez du zentzu bera, *en fila* jartzen baitu.
 
 ## ANDANADAN ##
 
@@ -1288,6 +1296,20 @@ Mahai betearen aurrean egin edo egingo dugun betekadaren berri azaltzeko.
 
 Azkuek ez du zentzu honetaz jaso.
 
+## APAIDXUE ##
+
+Arrainak harrapatzeko erabiltzen den tresneria. Oinarrizkoena pita eta amuaz osatzen da.
+
+- *Loidxerue daku apaidxo barridxek eitxen.*
+- *Fitxiek falta dost. Han jun de arraine apaidxo ta guzti*
+
+## APAIDXUE EGIN ##
+
+Sexu harremanak eduki.
+
+- *Beste bategaz apaidxue eitxen atrapa dau andriek*
+- *Daburduko kantxata? Larrei ibil zara zu apaidxue eitxen*
+
 ## APREMIÑUE ##
 
 Presa. Premiamendua.
@@ -1314,7 +1336,7 @@ Esanahi bi.
 - *tire! apropos ein tzu te*
 - *ez eiñ iñuzentekeririk, enabill apropos da*
 
-2- Intentzioz. 
+2- Intentzioz.
 
 - *apropos dxun da beraiñe, diru eskatuten*
 - *pentsako lekide apropos dabillela*
@@ -1781,7 +1803,7 @@ Ez dakigu gaur egun beste inon esaten den, baina Bermeon ez da besterik erabiltz
 
 ## ASATRONGUE ##
 
-Azaburua izan daiteke, baina ez dago argi. Konparazioan pertsonekin erabiltzen da gehienetan. Hala ere, gauzekin ere erabiltzen da, gauza bat dorpea denean, hain zuzen. 
+Azaburua izan daiteke, baina ez dago argi. Konparazioan pertsonekin erabiltzen da gehienetan. Hala ere, gauzekin ere erabiltzen da, gauza bat dorpea denean, hain zuzen.
 
 1. Barre gutxi egiten duen pertsona.
 
@@ -2015,7 +2037,7 @@ Trikimailu asko dakien pertsona. Badago ezizen bat ere.
 - *nondik zatoz olan atzitxute?*
 - *erropa guztidxek atzitxu zuz*
 - *atzitxu-atzitxu eiñdxe zatoz*
- 
+
 Azken honetan errepikapena erabili da.
 
 Baina moduzko formetan beste zentzu bat ere adierazten du:
