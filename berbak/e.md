@@ -952,9 +952,10 @@ Eskuetara heltzeko prest. Ukabilka bastear.
 
 ## ESPIBOTA ##
 
-Txapaskutan erabiltzen den abiadura handiko embarkazinue, atuneri etxadie einde gero juteko objetue bile bueltan eruteko baporera.
+Txapazko itsasontzietan erabiltzen den abiadura handiko ontzia, arrainei sarea bota eta gero objetua bila joateko itsasontzira bueltan eramateko.
 
-- *txo, esan espiboteruri espibota listo okitzeko, hor aurreko atunei eingotzagu etxadie ta*
+- *txo, esan espibota listo okitzeko, hor aurreko atunei eingotzagu etxadie ta*
+- *espibota aberidxe dasku, ta etxadie ein barik itxi du*
 
 Ingeleseko *speedboat* hitza hartu da, hitz honen oinarritzat.
 
