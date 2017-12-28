@@ -226,7 +226,7 @@ Irakitan dagoen likidoaren zarata izango da. Eta analogiaz, itsaso zakarra dagoe
 - *entzuten zu iñdxaban barbantzadie?*
 - *okeliek gozo urteteko barbantzadie galdu barik okin bidau*
 
-Kasu honetan izenaren funtzioa betetzen du. 
+Kasu honetan izenaren funtzioa betetzen du.
 
 ## BARBANTZADAKA ##
 
@@ -361,7 +361,7 @@ Betazal jausiak.
 
 Oraindik.
 
-Zentzu horretan erabiltzen da Bermeon eta *ondiño* hitzarekin batera oso erabilia da. 
+Zentzu horretan erabiltzen da Bermeon eta *ondiño* hitzarekin batera oso erabilia da.
 
 *noizbait* edo *behin* esateko *egun baten* erabiltzen da.
 
@@ -600,7 +600,7 @@ Estropezu. Era guzlietakoak.
 - *aulan ibilltxie dako; laster dxoko dau bietzarridxe*
 - *nik eztaitx alabatxu, baie edonon topaten dot bietzarridxe*
 
-Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k, Bermeoko hitza bezala azalduz. 
+Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k, Bermeoko hitza bezala azalduz.
 
 /behatz/ > bietz + arria > bietzarria > bietzarrije/
 
@@ -900,7 +900,7 @@ Hitz. honek gaztelerako *brillo* hitzarekin zerikusi handia du: *un ir y venir c
 
 /brillo + ada > brilloada > brillada/. /oa/ > /a/.
 
-BRUSE
+## BRUSE ##
 
 1. Eskuila.
 
@@ -910,7 +910,7 @@ Seguruena frantseseko *brosse* edo ingeleseko *brush* hitzetik hartuta dago. Bai
 - *arraska ori ondo brusegaz*
 - *txo! bodegak eta kasetie brusegaz garbitxuko zu gero!*
 
-1. Bata.
+2. Bata.
 
 Gehienetan umeak eskolan, baita etxean ere, erabiltzen dutena.
 
