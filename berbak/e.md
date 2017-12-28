@@ -31,7 +31,7 @@ Formaz *egarria* bada ere, zentzua besterik da. Seguru *gehigarria* dela hitz ho
 
 /geigarria > geigarrije/ > geigarridxe.
 
-Bokal itxidura gertatuz gero, >j< epentetikoa sartu da, oso normala bait da Bermeoko hizkeran. 
+Bokal itxidura gertatuz gero, >j< epentetikoa sartu da, oso normala bait da Bermeoko hizkeran.
 /geigarridxe > eigarridxe > egarridxe/
 
 ## EGUERDIDXE ##
@@ -227,7 +227,7 @@ Liluratu. Turditu. Tontatu.
 - *ez enbolike iñor, enau orretarako ta*
 - *onek imiek enbolike enbolike eitxen zaitxuz*
 
-Hitz honek, gaztelerako *embobar* eta bobalicona hitzak hartu ditu oinarritzat. 
+Hitz honek, gaztelerako *embobar* eta bobalicona hitzak hartu ditu oinarritzat.
 
 /emboba + licar > enbobalika > enboalika > enbolika > enbolike/
 
@@ -697,7 +697,7 @@ Ez dakit gaur mezulari edo mandatari bati gaztelerako *recadista* esaten bazaio.
 
 Enkante baten azken fasea.
 
-Arrantzale giroko hitza da. Itsasontzi bat enkanterako bidean jartzea da. Baina enkantea oso berezia izaten da ontziko armadoreetara mugatzen baita. 
+Arrantzale giroko hitza da. Itsasontzi bat enkanterako bidean jartzea da. Baina enkantea oso berezia izaten da ontziko armadoreetara mugatzen baita.
 
 - *asarrakuntze andidxek on diez da bapora errematien bota bi zan dauie*
 - *errematien botateko zor asko dau or*
@@ -950,6 +950,14 @@ Eskuetara heltzeko prest. Ukabilka bastear.
 - *sarri oten diez arek eskureko*
 - *ez tiez konponduten, beti dauz asarratute, beti eskureko listo*
 
+## ESPIBOTA ##
+
+Txapaskutan erabiltzen den abiadura handiko embarkazinue, atuneri etxadie einde gero juteko objetue bile bueltan eruteko baporera.
+
+- *txo, esan espiboteruri espibota listo okitzeko, hor aurreko atunei eingotzagu etxadie ta*
+
+Ingeleseko *speedboat* hitza hartu da, hitz honen oinarritzat.
+
 ## ESPORTAK ##
 
 Belaunerainoko galtzerdi lodiak.
@@ -1020,7 +1028,7 @@ Erauntsia.
 
 Hitz hau konposatua da:
 
-/etxa/ + /ahala/ > etxala/ 
+/etxa/ + /ahala/ > etxala/
 
 Bokal berdinak izan arren, ez da egon disimilaziorik eta erdiko bokal bi erori egin dira.
 
