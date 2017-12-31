@@ -158,7 +158,7 @@ Eztabaida. Iskanbila.
 - *auntxe be kalamatriken dabiltzez neure goikuek*
 - *ori beti due kalamatrikien bille*
 
-Azkuek jaso du bere hiztegian, baina zentzua el *arnor en la conversación* eta *griterio* da. Kintanak, ostera, *sabiduria maliciosa* dela dio. Beraz, esanahi ezberdina.
+Azkuek jaso du bere hiztegian, baina zentzua el *clamor en la conversación* eta *griterio* da. Kintanak, ostera, *sabiduria maliciosa* dela dio. Beraz, esanahi ezberdina.
 
 ## KALBA ##
 
@@ -291,7 +291,7 @@ Nekadura. Ahuldura.
 
 ## KAÑADA ##
 
-Bemezur.
+Berna-hezur. Tibia.
 
 - *emon dosten zartazuegaz kañadie apurtu dost*
 - *kañadie dakot baltzitxute*
@@ -742,13 +742,13 @@ Hitz honen jatorria gaztelerako *correr* bada ere, euskarazko *korridu* horren l
 
 ## KOROSKERA ##
 
-Itsasontzi baten aurrearen itxura. Baina, askotan, herriko hizkeran, pertsona baten aurpegia edo eitea edo antza izatea da.
+Itsasontzi baten aurrearen itxura. Baina, askotan, herriko hizkeran, pertsona baten aurpegia edo egitea edo antza izatea da.
 
 - *orrek imiek aitxen koroskerie dako*
 - *onek, barriz, aman koroskerie dako*
 - *beti gabiltzez koroskerten bille da beti erretuten gariez*
 
-*Korosta* hirtzaren eratorria dela esan beharra dago.
+*Korosta* hitzaren eratorria dela esan beharra dago.
 
 ## KOROSTA ##
 

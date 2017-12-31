@@ -57,7 +57,7 @@ Negarrak.
 - *negarlantruei itxi ta tire oire*
 - *negarlantruek partikaran gordeko zuz, ni amen nauen artien*
 
-Hitz konposatu honen bigarren osagaia *lantru*,
+Hitz konposatu honen bigarren osagaia *lantru*,  
 Badirudi gaztelerako *llanto* hitzetik datorrela, baina nola eboluzionatu du?
 
 ## NEGARZIÑUEK ##

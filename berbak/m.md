@@ -32,14 +32,12 @@ Ondo jantzita edo soineko dotoreak gustatzen zaizkien pertsonak, gizonak eta ema
 
 ## MAJO ##
 
-Ondo. Baina peioratibo edo protesta tonuaz askotan.
+*Ondo* sarkasmoz esana, peioratibo edo protesta tonuaz askotan.
 
 - *majo geratu da pintxe zun zatidxe*
 - *eztot pentsa olan geratuko danik, baie majo geratu da*
 - *or on dan saldie zer ein zu ba, bota? Majo! Oin zer dxango du ba?*
 - *maaajo! Eztala etorko esan dau? Da oin zer ein bi du*
-
-Ikusten denez, formaz, goian aipatu dugun *rnajo* da. baina esanahia guztiz ezberdina da. Ez da erraz igartzen nondik sartu den.
 
 ## MAKATZA ##
 
@@ -366,7 +364,7 @@ Azkuek jaso du, baina *mariposa* adierazteko.
 
 ## MARITENTEL ##
 
-Zentzu peioratiboan ia beti.
+Tentela, zentzu peioratiboan ia beti.
 
 - *zelako maritentela da ba, arruen pasiñuek eitxen dotsona da*
 - *maritentel eta ganorabakoa, besterik ez esatearren*
@@ -591,4 +589,3 @@ Zikindu. Lohitu. Maziru.
 Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan adberbio funtzioa betetzen du. Azken bi esaldietan aditzaren funtzioa.
 
 /mazi + tu > mazitu > mazitxu/
-
