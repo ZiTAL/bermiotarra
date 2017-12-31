@@ -520,6 +520,21 @@ Zaporea.
 
 Seguru aski, gaztelerako *virtud* hitza hartu da hitz hori egiteko. *Virtud* gauza ona bezala, gero jatekoari edo jakiei aplikatuz.
 
+## BESTELA ##
+
+Zelan, ze ondo, askotan sarkasmo ikutu batekin.
+
+- *bestela zauz berton, Aritzatxun eguzkidxe hartzien*
+
+Bermeon *bestela* esateko *ostantzien* esaten dugu.
+
+# BESTELAKO ##
+
+Zelako.
+
+- *bestelako bapora erosi dau*
+- *bestelako andobue etor da Mañutik*
+
 ## BESTIEK ##
 
 Andrazkoaren hilekoak. Beste berba bat gehiago, egoera hori definitzeko.
