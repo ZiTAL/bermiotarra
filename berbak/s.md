@@ -48,7 +48,7 @@ Azkuek, *sakosta* eta *zakoste* hitzak jaso ditu, baina Bermeon, hitz honen esan
 
 ## SALIDE / IE ##
 
-Irteera. Era guzuetakoak.
+Irteera. Era guztietakoak.
 
 - *noiz dakoie baporak salidie ba?*
 - *eztauie esan ondiño noiz ezango dan salidie*
