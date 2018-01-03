@@ -740,6 +740,9 @@ Etorri, forma inperatiboan, baina tonua ez da aginduzkoa.
 
 Hitz honen jatorria gaztelerako *correr* bada ere, euskarazko *korridu* horren laburpena da.
 
+## KORKI ##
+Hau Nere Sekretu bat da.
+
 ## KOROSKERA ##
 
 Itsasontzi baten aurrearen itxura. Baina, askotan, herriko hizkeran, pertsona baten aurpegia edo egitea edo antza izatea da.
