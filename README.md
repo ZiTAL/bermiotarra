@@ -11,6 +11,7 @@ Hamen bididxo batzuk ikusteko zelan al'zuien lagundu:
 [https://www.youtube.com/watch?v=Pmuhm-ugxY8&list=PL-gWm-vd-Oe9e6Wp1eYfu1hfuOAZuqYDx](https://www.youtube.com/watch?v=Pmuhm-ugxY8&list=PL-gWm-vd-Oe9e6Wp1eYfu1hfuOAZuqYDx)
 
 Adibidez:
+---
 ```
 ## ABANTE ##
 
@@ -22,8 +23,9 @@ Hitz hau *abante* hitzetik dator. Arraunketan erabiltzen den hitza da.
 
 Baina *abante etzera* ere esaten da. Beraz, Azkuek, *remar* zentzuarekin jaso duen hitza, beste kasu batzuetara zabaldu da.
 ```
-
+---
 Hau bihurtuko lekide:
+---
 
 ## ABANTE ##
 
@@ -34,8 +36,9 @@ Hasieran itsasoan erabilitako hitza izan arren, gero herrira pasatu da eta zerba
 Hitz hau *abante* hitzetik dator. Arraunketan erabiltzen den hitza da.
 
 Baina *abante etzera* ere esaten da. Beraz, Azkuek, *remar* zentzuarekin jaso duen hitza, beste kasu batzuetara zabaldu da.
+---
 
-Haulan:
+Estandar bat imintzeko asmoz:
 
 1. Lelen: berbien esanahidxe.
 2. Adibidiek esaldidxetan ```*``` bitxartien
