@@ -11,7 +11,9 @@ Hamen bididxo batzuk ikusteko zelan al'zuien lagundu:
 [https://www.youtube.com/watch?v=Pmuhm-ugxY8&list=PL-gWm-vd-Oe9e6Wp1eYfu1hfuOAZuqYDx](https://www.youtube.com/watch?v=Pmuhm-ugxY8&list=PL-gWm-vd-Oe9e6Wp1eYfu1hfuOAZuqYDx)
 
 Adibidez:
+
 ---
+
 ```
 ## ABANTE ##
 
@@ -23,8 +25,11 @@ Hitz hau *abante* hitzetik dator. Arraunketan erabiltzen den hitza da.
 
 Baina *abante etzera* ere esaten da. Beraz, Azkuek, *remar* zentzuarekin jaso duen hitza, beste kasu batzuetara zabaldu da.
 ```
+
 ---
+
 Hau bihurtuko lekide:
+
 ---
 
 ## ABANTE ##
