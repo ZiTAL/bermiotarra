@@ -242,7 +242,7 @@ Arrainak ihes egin, txikotetik eskapa. Analogiaz, ihes egiten duten gauza guztie
 
 ## TXILIÑUE ##
 
-Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste bariante ba hobeto esanda. Geroago ikusiko dugun *txitxiliñue*, ume baten zakila definitzeko erabilia. Honen laburpena izango dugu goikoa.
+Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste bariante bat hobeto esanda. Geroago ikusiko dugun *txitxiliñue*, ume baten zakila definitzeko erabilia. Honen laburpena izango dugu goikoa.
 
 - *txiliñue be ez dxatzo ikusten koitxaduri*
 - *zelan ikusiko dxatzo txiliñue imiri beran mamiñekaz tapata dako ta*
@@ -352,7 +352,7 @@ Zoratuta egon.
 - *beran arrebiek esan dau txingeta dauela beran nebie*
 - *txingeta ongo da, baie badaki zer eitzen dauen*
 
-Hitz honen etimologia Latino Amerikan erabiltzen den gaztelerako *chingar* = *embringarse, beber mucho* izango da. Baina hor infinitibo forma horretan bakanik agertzen da, eta Bermeon infinitiboan oso gutxi erabiltzen, hau da, *txinge* oso eskasa da erabileran. Gainera zentzun ere oso ezberdina da, semantikoki paralelismo bat agertzen bada ere.
+Hitz honen etimologia Latino Amerikan erabiltzen den gaztelerako *chingar* = *embringarse, beber mucho* izango da. Baina hor infinitibo forma horretan bakarrik agertzen da, eta Bermeon infinitiboan oso gutxi erabiltzen, hau da, *txinge* oso eskasa da erabileran. Gainera zentzun ere oso ezberdina da, semantikoki paralelismo bat agertzen bada ere.
 
 ## TXINGO / UE ##
 
@@ -376,7 +376,7 @@ Argentinan edo beste leku batzuetan erabiltzen den berba hau, bermeotar arrantza
 
 ## TXINTXIÑE ##
 
-Atzarnar txikiaren neurrira iristen ez den antxoatxoa da. Oso preziatua, modu askotara prestatuta jaten da. Udazkenean harrapatzen da.
+Atzamar txikiaren neurrira iristen ez den antxoatxoa da. Oso preziatua, modu askotara prestatuta jaten da. Udazkenean harrapatzen da.
 
 - *txintxiñek dxan duz da angulek pez gozuau*
 - *erri barruen eztakidxe zer dan txintxiñie*
@@ -471,7 +471,7 @@ Laprastada.
 
 ## TXISTADA ##
 
-Arreta erakartzeko egiten dugun zarato hori: txist, txist.
+Arreta erakartzeko egiten dugun zarata hori: txist, txist.
 
 - *kaletik dxun nai da txistadiek atentzinue deitxu dost, nor ete dan, da burue buelta dotenien bera ezan da*
 - *ziñera bazuez ein txistada bat*
@@ -683,7 +683,7 @@ Iskanbilak. Pasadizuak.
 - *txurupiñek pasa dxatzoie geure aitxeri be, Dakarren. idxe ill alabatxi*
 - "beti pasaten dxatzue zuei txurupiñek, upiñek takozue zuek*
 
-Hitz bau konposatua dena argi dago, baina argi ez dagoena, lehen elementua zein izan zitekeen da. Hipotesi bat bota ezkero hauxe izango litzateke:
+Hitz hau konposatua dena argi dago, baina argi ez dagoena, lehen elementua zein izan zitekeen da. Hipotesi bat bota ezkero hauxe izango litzateke:
 
 /guzur/ + upiñek/ > guzurrupiñek/.
 
