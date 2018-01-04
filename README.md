@@ -48,6 +48,8 @@ Erreferentzi modure ikusi *berbak* karpetan dauzen fitxeruetan topako'zuie zelan
 issue bat igiritzeko (errezena): [issue](https://github.com/ZiTAL/bermiotarra/issues)  
 pull request bat eitzeko: [pull-request](https://stackoverflow.com/a/14680805/454827)
 
+Al'stazuie email bidez be bota: zital@riseup.net baie goidxen imindxotelez bota mesedez.
+
 Esker berezidxek:
 
 - Jose Martos.
