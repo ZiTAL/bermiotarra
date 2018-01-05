@@ -454,7 +454,7 @@ Hitz honi gazteterako >so< atzizkia lotu zaio, adjektiboa sortzeko.
 
 Arrain askok ezpi edo hezur pozoitsuak edukitzen dituzte, Horiei *sua* deitzen diegu.
 
-- "gonbizen sue sartun dxast, ta dolore bat takot*
+- *gonbizen sue sartun dxast, ta dolore bat takot*
 - *eskue anditxute dakozu, da ori sue atara ein bizu*
 - *niri salbaidxuen sue sartun dxasten kaderatik Laiden*
 - *suentzako amoniako da onena*
@@ -514,7 +514,8 @@ Ez dauka, hiztegietan agertzen den bezalako esanahia.
 Zerbait aurkitzeko afan bandia izatea. Gauzak topatzen ibiltzen dena.
 
 - *surbizki utse da zure alaba txikidxe, non zer topako dabil beti*
-- *bai, geure etzera datorrenien be, surbizkidxe lez, armaidxo guztidxek erreskitxeten ibiltxen da" "zeuek ikasi tsazue surbizkidxe ezaten*
+- *bai, geure etzera datorrenien be, surbizkidxe lez, armaidxo guztidxek erreskitxeten ibiltxen da*
+- *zeuek ikasi tsazue surbizkidxe ezaten*
 
 Azkuek. Txorierrin jaso du hitz hau, baina zentrua *goloso* da. Beraz, esanahi aldetik, nolabait ezberdina da.
 

@@ -126,7 +126,7 @@ Horixe berori. Ondo. Horrela da.
 - *bidxar etorko dala esan dau ezta ? Ekilikua*
 - *zuk danari esan bi tzazu ekilikua*
 
-Hitz honen etimologia frantseseko "qui" eta "quoi" erlatibozko izenordeak izan daitezke; hau formari dagokionean, baina ez da argia, zeren zentzua ez da bera: *le qui et le quoi*
+Hitz honen etimologia frantseseko *qui* eta *quoi* erlatibozko izenordeak izan daitezke; hau formari dagokionean, baina ez da argia, zeren zentzua ez da bera: *le qui et le quoi*
 
 ## ELANBRA ##
 
@@ -259,7 +259,7 @@ Aditz funtzioan:
 
 - *onek sagarrak endekatute dauz*
 - *endekatute dau au imie, geixoren bat dako antza*
-- *"endekatuiko gixona da ori, asi be ezta eitxen da*
+- *endekatuiko gixona da ori, asi be ezta eitxen da*
 - *endekatute geratu da, etsazu ikusten tximorrak?*
 
 Badirudi hitz hau, gaztelerako *endemia* hitzetik sortu dela. Hala ere, ez nagoenez seguru, hitz honen eboluzioa zein izan zitekeen, hipotesi modura azaltzen dut hurrengoa.
@@ -737,7 +737,7 @@ Ahuldu. Nekatu.
 - *eiñ dxun beste dxantzagaz errendite dxun nai etzera*
 - *gure imie luek artun dau, errendite on da, egun santo guztidxen kalien ibilltxen*
 - *allega garizenien, errendidute, oire barrure dxun garizen*
-- *"errendidu-errendidu eiñdxe zauzela ta kalera zuez?*
+- *errendidu-errendidu eiñdxe zauzela ta kalera zuez?*
 
 Erdarazko *rendidos de cansancios berbera dugu, /rendir/ + /du/ partizipioa > errendidu/
 
@@ -1073,7 +1073,7 @@ Zerbait apurtu. Zerbaitek txarto irten.
 Itsasoratu barik, derrigorrez edo nahi izanda. Espresio hau, hizkera arruntera pasatu da.
 
 - *ez zarie etorri Lamerara, etzegune ein zue zuek pe la?*
-- *idxe danak dxun diez itxosora, baie "Maitasuna"k etzegune eiñ dxau*
+- *idxe danak dxun diez itxosora, baie Maitasunak etzegune eiñ dxau*
 - *egualdi ona onda eiñ dxau etzegune?*
 - *gaur ez gariz dxungo Laidera? Ez, geuk pe etzegune ein bi du te*
 
@@ -1131,7 +1131,7 @@ Azkuek ez du jaso, baina D.A.R.k *ezer ez* forma jaso du eta horren definizioeta
 
 Pertsona delikatua, ala fina izatea nahi duena. Gehienetan emakumezkoei dagokie.
 
-- *"zer da bera, eznirikutuikue dozu*
+- *zer da bera, eznirikutuikue dozu*
 - *enebada, orreri ez esan ezebe, eznirikuruikue da ta*
 - *eznirikutuikue lez ibiltxen dxatzu a lameran*
 - *zure lagune, eznirikutuko personie da*

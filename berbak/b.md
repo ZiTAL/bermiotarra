@@ -574,7 +574,7 @@ Bekokia. Kopeta.
 
 Zartada. Betondokoa.
 
-- *"betondoko ederra emon tso*
+- *betondoko ederra emon tso*
 - *zelako betondokue omon dost ba, begidxek pe lankrieta itxi dostez*
 
 ## BIBERAK ##
@@ -856,7 +856,7 @@ Denak batera. Tropelean.
 
 - *brauntadan sartu gariez elixera barrure*
 - *brauntadan sartziekutan enue ziñera*
-- *danak brauntadan saltaten baporatara, izterra apurtuteko moduen, Madalen guztidxetan igual"
+- *danak brauntadan saltaten baporatara, izterra apurtuteko moduen, Madalen guztidxetan igual*
 - *brauntadan etor dxastez disgusto guztidxek*
 
 ## BREBERUEN ##

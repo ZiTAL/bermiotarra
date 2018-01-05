@@ -8,7 +8,7 @@ Hasieran itsasoan erabilitako hitza izan arren, gero herrira pasatu da eta zerba
 - *erlojue abante dabil*
 - *imiñi telebisiñue abante*
 
-Hitz hau "abante" hitzetik dator. Arraunketan erabiltzen den hitza da.
+Hitz hau *abante* hitzetik dator. Arraunketan erabiltzen den hitza da.
 
 Baina *abante etzera* ere esaten da. Beraz, Azkuek, *remar* zentzuarekin jaso duen hitza, beste kasu batzuetara zabaldu da.
 
@@ -74,7 +74,7 @@ Energia handia lanerako. Azkar ibili.
 - *abrebidxugaz eitxen txuz biarrak*
 - *abrebidxo bako gaztiek takuz frabiken*
 
-Gaztelerazko "abreviar" aditza dugu. Baina substantibatu egiten da, nahiz eta aditz bezala ere erabili:
+Gaztelerazko *abreviar* aditza dugu. Baina substantibatu egiten da, nahiz eta aditz bezala ere erabili:
 
 - *abrebidxe berandu ein orduko*
 - *abrebidxe gaitezen gaue ganera etor baiño lelau*
@@ -152,7 +152,7 @@ Izen hau, ez da entzuten gazteen artean, baina bai hogeita hamaer urtetik gorako
 2. Konparazioan.
 
 - *zelako adibiñadorien antza dako ba*
-- "adibiñadorie lez due dxantzitxe* (soineko nabarmenez jantzita doanean)
+- *adibiñadorie lez due dxantzitxe* (soineko nabarmenez jantzita doanean)
 
 ## AFA-AFA ##
 
@@ -359,7 +359,7 @@ Erdi edo oso gezurtia. Zentzu ezberdinaz erabilia.
 
 - *aistie zara txo! Ori esan guri?*
 - *aistie da a, ez siñistu ezebe*
-- *aiestiaue da, badaezpadakue da txo"
+- *aiestiaue da, badaezpadakue da txo*
 
 Azkuek interjekzio moduan sartzen du bere hiztegian. Baina D.A.R.k, Ortuzar aipatzen du, eta honek Bermeoko hizkeran idatzi zuen.
 
@@ -387,7 +387,7 @@ Horrela delako.
 
 Biak erabiltzen dira. Oso erabilia. Kausal kutsua badu ere, askotan ez da bere zentzu konkretuan erabiltzen, agindua ere barnean baitarama.
 
-- *zelan ez zara etorri ba?" Aitxiko!*
+- *zelan ez zara etorri ba?* Aitxiko!*
 - *baie, zeitxik tiñozu ori ba? Aitxiko, diñotelakon*
 - *Zeitxik einzu ori? Ba, aitxiko, ein dxotelez ba, aitxiko*
 
@@ -466,7 +466,7 @@ Esaldiaren bigarren zatia, adjektibo edo sustantibo batez indartuta agertzen da.
 
 2. Egonkortasun gutxiko pertsona.
 
-- *"aixie lez dabill, arin ara, arin ona*
+- *aixie lez dabill, arin ara, arin ona*
 - *aixetxue be bada ta, bidau astuntasun apur bet*
 
 Beraz, hitz honen zentzua bikoitza izan daiteke. Alde batetik, pertsona fanfarroia definitzeko eta bestetik, arintasuna edo arinkeria.
@@ -716,7 +716,7 @@ Aldi berean.
 - *aldabatera dxun diez zerbezidxora*
 - *indxarrak aldabatera emoten baduz, ariñau eingu*
 
-*aldi berean* esan beharrean, *aldi batera* egin da, eta gero, hortik, bokal itxia bi gradu ireki eta "aldabatera" sortu da.
+*aldi berean* esan beharrean, *aldi batera* egin da, eta gero, hortik, bokal itxia bi gradu ireki eta *aldabatera* sortu da.
 
 ## ALDARAKA / ALDARAN ##
 
@@ -1277,14 +1277,14 @@ Modatik pasatuta dagoen pertsona edo gauza. Bermeotar batentzat, gazteleraz hitz
 
 - *antigualeko erropak dxantzitxe dxun dxatzu a*
 - *antigualeko zapatak politxauek tiez*
-- *"antigualekue dozu, eztau gure frakarik dantzi*
+- *antigualekue dozu, eztau gure frakarik dantzi*
 - *badakixu zer erregala dosten ela ? Antigualeko kollar bat*
 
 ## ANTZIDXERAKO ##
 
 Aintzakotzat.
 
-- *ez gaitxuzie antzidxerako artun eguno be, tentelan moduen artzien gaitxuzie"
+- *ez gaitxuzie antzidxerako artun eguno be, tentelan moduen artzien gaitxuzie*
 - *dendan sartun da antzidxerako bez, da gu bertan taketa lez*
 - *antzidxerako anzieko zeuzer ein bihar, laistela dxo esate baterako*
 

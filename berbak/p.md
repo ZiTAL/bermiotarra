@@ -36,7 +36,7 @@ Kuleroak.
 - *plazan erosi dotez pantalon poli politxek*
 - *pantalonatako kaka kentzien bazu obeto eingo zu*
 - *txixek urten dost pantalonatara*
-- *"pantalonai puntillie imin bi tzatie*
+- *pantalonai puntillie imin bi tzatie*
 
 Gaztelerako *pantalón* nola sartu den esanahi horretaz ez da erraza jakitea. Hala ere analogiaz egin dela argi dago.
 

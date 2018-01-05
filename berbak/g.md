@@ -104,7 +104,7 @@ Alperra. Lanari ixo egiten diona.
 - *gangilloie bada ikastie dako zer dan biar eitxie*
 - *garridxe okertutie ez dxatzo gustaten gangilloie dalakon*
 - *gangilloie lez dabill ara ta ona ezer ein barik*
-- *"iñok eztau gure gangilloirik etzien*
+- *iñok eztau gure gangilloirik etzien*
 
 Azkuek bere hiztegian Mundakako hitza bezala jaso duen *gangil* hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerako >on< atzizkia, >oi< bihurtzen da.  Beraz, honela geratuko litzateke /gangil + oi > gangilloi/
 
@@ -124,7 +124,8 @@ Alperra. Lanerako gogo gutxi daukan pertsona.
 
 - *ganoka, abrebidxue artun*
 - *etsoie itxi orregaz mutillegaz ibilltxen ganoka dalako*
-- *ganoka dalez, iñok eztau gure enbarka" "ganoka ezatitxik bota dauie kanpora frabiketik*
+- *ganoka dalez, iñok eztau gure enbarka*
+- *ganoka ezatitxik bota dauie kanpora frabiketik*
 
 Azkuek eskualde honetako herrietan esaten den hitz.a bezala jaso du, baina zentzua *mujer desmañada* da.
 
@@ -209,7 +210,7 @@ Atun eta zimarroien gibela.
 - *gibarroie dxan dot eta pitxoirik pez gozuau*
 - *bakixu zelan oten dan gozo gibarroie, erreta*
 - *neure amak pe erreta imitxen txuz gibarroiek*
-- "gibarroien koloreko odola bota dau autik*
+- *gibarroien koloreko odola bota dau autik*
 
 Azken esaldian konparazioan sartu da hitz hori.
 
@@ -430,7 +431,7 @@ Maitasuna.
 
 - *gurezanik ezpadau, obeto ontxerik itxitxie*
 - *guretan andidxe dakotsut, baie kanpora dxun bi dotelez itxi in bi zaitxut*
-- "atzoko pelikuleko neskiek eztotso okiñ gurezanik, bestigaz on da enamorata ta*
+- *atzoko pelikuleko neskiek eztotso okiñ gurezanik, bestigaz on da enamorata ta*
 - *gurezan bako ezkontziek beti urteten dau txarto*
 
 ## GUZIK ##

@@ -29,7 +29,7 @@ Gazteleratik hartua, hitz konposatu honen zentzua argi dago: *dale fuerte* hitza
 
 Zentzu askotan erabilitako forma hau, oso erabilia da Bermeon.
 
-- *"orrek asko daki, orrek dardart eitxen tzo biarrari*
+- *orrek asko daki, orrek dardart eitxen tzo biarrari*
 - *etorteko esan tzat lagunduten, baie berak dardart*
 - *erropa barridxe erosi tzut, da zuk dardart orreri, zer guzu ba?*
 
@@ -242,7 +242,7 @@ Ez da arduragabekeria, adia galtzea baizik.
 - *deskideta beste bide batetik dxun gariez*
 - *ez deskide, ze gauzek ondo ezpadiez ikasten gero aztu eitxen diez*
 
-Gaztelerako *descuidar"* aditzetik hartuta dago baina zentzua ez berdina.
+Gaztelerako *descuidar* aditzetik hartuta dago baina zentzua ez berdina.
 
 *descuidar* > deskide. Hau *deskidatu* izan beharko litzateke, baina ez du eman.
 

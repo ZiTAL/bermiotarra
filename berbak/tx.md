@@ -52,7 +52,7 @@ Bermeoko kofradian gertatutako bitxikeria bat zera da:
 
 - *txo, enbalaistek au txantela*
 
-Hori entzun da askotan txantela *abalatzek*" eskatzean. Eta hau ez da txiste bat.
+Hori entzun da askotan txantela *abalatzek* eskatzean. Eta hau ez da txiste bat.
 
 ## TXANTON / NIE ##
 
@@ -681,7 +681,7 @@ Iskanbilak. Pasadizuak.
 - *txurupiñek pasaten dizela diñoie; laster etorko dxasku gerrie*
 - *zer pasa dxaskun? Txurupiñek. Kotxie galdu, diruek ostu ta diro barik, nora dxuen ezien*
 - *txurupiñek pasa dxatzoie geure aitxeri be, Dakarren. idxe ill alabatxi*
-- "beti pasaten dxatzue zuei txurupiñek, upiñek takozue zuek*
+- *beti pasaten dxatzue zuei txurupiñek, upiñek takozue zuek*
 
 Hitz hau konposatua dena argi dago, baina argi ez dagoena, lehen elementua zein izan zitekeen da. Hipotesi bat bota ezkero hauxe izango litzateke:
 

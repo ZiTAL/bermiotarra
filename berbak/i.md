@@ -320,8 +320,8 @@ Mailu bat. (figuratiboan). Aspergarria.
 Txingorra.
 
 - *menditxik bueltan iñetazidxek atrapa dosku*
-- *hotzan hotzagaz euridxe ein biharrien iñetazidxe ein dxau"
-- *iñetazidxegaz ezin dxiez edurren muñekuek egin"
+- *hotzan hotzagaz euridxe ein biharrien iñetazidxe ein dxau*
+- *iñetazidxegaz ezin dxiez edurren muñekuek egin*
 
 ## IÑUZENTE ##
 
@@ -552,7 +552,7 @@ Atzera eragin. Izutu.
 
 Urruneko senideak edo ahaideak. Ia beti zentzu peioratiboan esaten da.
 
-- *"gaurko alkatie neure aman izterpariende da*
+- *gaurko alkatie neure aman izterpariende da*
 - *ez tuz ezetuten baie geure aitxen izterparientiek tiez*
 
 ## IZTERRA ##

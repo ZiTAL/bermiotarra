@@ -462,7 +462,7 @@ Begirada bota.
 
 - *Lameratik dxun naienien kikada da bat ein dxot Izaron*
 - *bota kikada bat elixen mezie asi badan ikusteko*
-- "aurtik bentanatik ein kikadie ia euridxe badan*
+- *aurtik bentanatik ein kikadie ia euridxe badan*
 
 ## KIKILLE ##
 
@@ -724,7 +724,7 @@ Azkuek ez du zentzu honetaz jaso hitz hau. Bai, ostera, D.A.R.k T. Etxebarriaren
 
 Tontakeriak egiten dituen pertsona.
 
-- "ezta bape koplosie, beste bat aren lekuen, iñok auenta bez*
+- *ezta bape koplosie, beste bat aren lekuen, iñok auenta bez*
 - *zu barriz, koplosiaue zara! Pentsa lekide zeu zarala dana*
 - *koploso utse zara txo! Koplak itxi da dxan aurrekoue*
 

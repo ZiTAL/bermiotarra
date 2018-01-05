@@ -14,7 +14,7 @@ Dotore.
 
 - *an dxun dxatzu a majarik dxantzitxe Lamerara*
 - *neuri be gustaten dxast majarik ibiltxie*
-- "ezara dxazten majarik ela?*
+- *ezara dxazten majarik ela?*
 - *zer ba? Beti dxantzi bi de majarik kalera urteteko ela?*
 - *majarik dxantzi arren ni beti nai betikue*
 
@@ -91,7 +91,7 @@ Gaztelerako *malquisto* bera dugu. Baina oso erabilia denez, horregatik sartu da
 
 Pertsona oso trankila, oso ona, baina energia gabekoa.
 
-- *zure nebie malmosa da, eztau ernegaten iru txiki be"
+- *zure nebie malmosa da, eztau ernegaten iru txiki be*
 - *malmosa zara alabatxi, eztakixu edonok burleko tsune olan bazuez?*
 - *klaro dana malmosa, oneidxe ezatie ezta ona*
 - *malmosa be malmosa da gero*
@@ -573,7 +573,7 @@ Xehekatu eta nahastatuz gero gertatzen dena.
 
 - *orrek galletak esnetan mazimazi eiñdxe obeto dxango zuz*
 - *etsoie erosi frabikantiek, mazimazi eindxe ekar dauelako antxobie*
-- *beste baten entzuten batsut olako berbarik azurrek pe mazimazi eiñdxe itxiko tsutez"*
+- *beste baten entzuten batsut olako berbarik azurrek pe mazimazi eiñdxe itxiko tsutez*
 
 Hemen, aditzaren lekua hartzen du hitz honek, baina galdegaia aditza bera delarik.
 
@@ -582,7 +582,7 @@ Hemen, aditzaren lekua hartzen du hitz honek, baina galdegaia aditza bera delari
 Zikindu. Lohitu. Maziru.
 
 - *ikusten zu zelan ekar zun erropie mazitxute*
-- "on dan mazidxegaz zapata guztidxek pe mazitxute erun dotez*
+- *on dan mazidxegaz zapata guztidxek pe mazitxute erun dotez*
 - *mazitxu zu gisadue, eraitxen eraitxen engrudotu eiñ dxiez patatak*
 - *nik eztot mazitxu eskatza, izterrak garbi dakotez da*
 

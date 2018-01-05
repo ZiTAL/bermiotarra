@@ -515,7 +515,7 @@ Azkuek beste zentzu batez jaso du forma hau.
 Pertsona baxua eta lodikotea.
 
 - *orrek, totolodidxe dako ama*
-- "eztakixu nor dan, aulako totolodi bet?*
+- *eztakixu nor dan, aulako totolodi bet?*
 - *orrek imiek totolodidxauek tiez*
 
 Azkuek ez du jaso, D.A.R.k, ostera, bai, baina zentzua *bobalicón* jartzen du; beraz guztiz zentzu ezberdina.
@@ -738,7 +738,7 @@ Zati handi-handia. Pertsona edo gauza dorpea.
 - *ogi troskuek eitxen txuz sopatan*
 - *onek kokletak jamoi troskuek takoie barruen*
 - *zapata troskuekaz enue ni kalera*
-"trosko troskue da korriten"
+- *trosko troskue da korriten*
 
 Azkuek forma honi ematen dion definizioetako bat, azken hau dugu. Bestea ez da zentzu berdinekoa, Berak F, Segura aipatzen du hitz hau jasotzerakoan.
 
