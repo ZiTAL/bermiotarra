@@ -877,5 +877,3 @@ Makina guztian. Azkar. Konparazioan.
 - *an duez arek tuterrezien lekuek atrapaten frontoire*
 - *neuk pe tuterrez ein bidot etzerantz*
 - *txikiteuek tiño, turrez ibilltxeko*
-
-
