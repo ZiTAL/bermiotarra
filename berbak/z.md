@@ -34,7 +34,7 @@ Gaztelerako *zaga* *llevar detrás* hartu da, baina esanahi zabalagoa dauka.
 
 ## ZAGIE ##
 
-Zaga. Kasu honetan, norbaitek *zaga* bera erarnaten duenean.
+Zaga. Kasu honetan, norbaitek *zaga* bera eramaten duenean.
 
 - *amen nuen ni beronegaz zagiegaz*
 - *bestelako zagie daruzu, botaidxona kaka saltzien!*
@@ -63,7 +63,7 @@ Zaina eta hezurrak.
 
 Belaunpe edo zangope.
 
-- *enai kapaz zankapietako miñegaz, bakixu zernat bide eiñ dxun*
+- *enai kapaz zankapietako miñegaz, bakixu zemat bide eiñ dxun*
 - *zuk pe zankapietako miñe dakozu?*
 - *zankapien urten dost tunbuto batek*
 - *zankapie igiri tsoie ikusteko zer dakon belaunien*
@@ -144,7 +144,7 @@ Zapa. Begiak estaltzen dituen ile multzoa.
 
 Lepoa.
 
-- *zelako asarrakuntzie on da ba, azkanien zaputzetik agarrata atara dau aitxek sernie*
+- *zelako asarrakuntzie on da ba, azkanien zaputzetik agarrata atara dau aitxek semie*
 - *agarra zaputzetik txiplazo bi emoteko*
 - *agarraten batsut zaputzetik, zeure amak pe ez zaitxuz ezetuko*
 
@@ -353,7 +353,7 @@ Jaka eta berokiek atzealdean izaten duten irekidura.
 Zartada Kolpea. Bronka.
 
 - *arek atara dosten zintxie, telebisiñue dala ta eztala*
-- *ernoten tsuten zintxiegaz beie be dxo eingo zu*
+- *emoten tsuten zintxiegaz beie be dxo eingo zu*
 - *neu pe zintxie atara bikot neuk kure dotena eitxeko*
 
 Gaztelerako *cinta* hartu eta jasan dituen fonetikazko aldaketari esker, hitz berri bat sortu da.

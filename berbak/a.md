@@ -452,7 +452,7 @@ Fanfarroia.
 Hego-haizeak gauza guztiak hanpatzen dituenez, konparazioan erabiltzen da:
 
 - *aixerrikue da ta enfada-enfada eitxen dau jentie*
-- *arnen dator aixerrikue, laster hasiko da arrokeidxek kontaten*
+- *amen dator aixerrikue, laster hasiko da arrokeidxek kontaten*
 - *bestelako aixerrikue da bera*
 
 ## AIXIE ##
@@ -963,7 +963,7 @@ Edozein gauzak, baina ez pertsonak amore ematea, kasu hauetan *amaiñe* berba er
 
 ## AMORROI ##
 
-Aizu rnorroi! Gehienetan mesprezuzko tonuaz esaten da. Batzuetan deitzeko erabiltzen da, eta askotan *txo* hitzarekin lagundurik.
+Aizu morroi! Gehienetan mesprezuzko tonuaz esaten da. Batzuetan deitzeko erabiltzen da, eta askotan *txo* hitzarekin lagundurik.
 
 - *txo, amorroi! geldiro! Okasiñorik ez ekarri ona*
 - *amorroi kopla gitxi niri*
@@ -977,7 +977,7 @@ Emakumeen artean erabilita, leunagoa gertatzen da.
 
 Olagarro.
 
-- *arnorrotza atrapa du atxetan*
+- *amorrotza atrapa du atxetan*
 - *ori morroie amorrotza lez enpiketen dxast*
 - *amorrotzan erruek baiño luziauek takoz eskuek*
 - *amorrotza gozo egoten da binagriaz*

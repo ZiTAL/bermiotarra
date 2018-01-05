@@ -109,7 +109,7 @@ Hitz bau, frantseseko *mademoiselle* tik sartu da.
 
 /mademoiselle > mamuaselle > mamaselle > /mamaixela/
 
-/ua/ > /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, norrnala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
+/ua/ > /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, normala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
 
 ## MAMALA ##
 

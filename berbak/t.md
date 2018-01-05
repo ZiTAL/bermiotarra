@@ -8,7 +8,7 @@
 - *gixon tabardilliek imin nau beran gauzek eitxen*
 - *txo! Tabardillie aix ela? Ori eitxen dok olan?*
 
-Hitz honek gaztelerako *tabardillo* = *fiebre que altera el sisterna nervioso* esanahia dauka.
+Hitz honek gaztelerako *tabardillo* = *fiebre que altera el sistema nervioso* esanahia dauka.
 
 2. Gauza gogorra.
 
@@ -259,8 +259,8 @@ Zentzu figuratuan, ikusiezina, gorrotoa, iskanbila...
 Distantzia fisikoa eta denborarena.
 
 - *termiño txikidxen taberna larreidxe dau*
-- *eztost emon terrniñorik biarra akabateko*
-- *terrniñue andidxe ezan arren eztau zetan imiñi orrenbeste arbola*
+- *eztost emon termiñorik biarra akabateko*
+- *termiñue andidxe ezan arren eztau zetan imiñi orrenbeste arbola*
 - *partido batetik besterako termiñue, laburre da, ta eztau emoten denporiek*
 
 ## TERRELA ##
@@ -767,7 +767,7 @@ Trumonada. Konparazioan, aurreko hitzak ematen duen zentzua dauka.
 - *trubonadak ezan diez partidue asi baiño lelau, baie gero ez*
 - *Laiden on gariez trubonadie asi danien*
 - *enuen ni iñora, trubonadie dakot eta*
-- *okiñ dxun trubonadiegaz, Larnerako bankuen idxe luek artun*
+- *okiñ dxun trubonadiegaz, Lamerako bankuen idxe luek artun*
 
 ## TRUXUEK ##
 

@@ -18,7 +18,7 @@ Burutik eginda dagoen baten ekintza.
 
 Hankak meheak dauzkan pertsona.
 
-- *berak txankarniek deitxu tsu totolodi?*
+- *berak txankamiek deitxu tsu totolodi?*
 - *zu txankamie bazara bera plastangie dala esan biar*
 - *txankame utze da, baie tiposie da*
 
@@ -195,7 +195,7 @@ Antzinako neurria da. Kikara erdi izaten zen ardoaren edo beste likido baten neu
 Txirrindularia.
 
 - *txikillistek ikusten dxun gariez Sollubera*
-- *ez lekidxast gustako nire sernie txikillistie ezatie*
+- *ez lekidxast gustako nire semie txikillistie ezatie*
 
 ## TXIKIRRIÑUE ##
 
@@ -465,7 +465,7 @@ Zirriborroak.
 
 Laprastada.
 
-- *euridxe danien Larneran ezin dxe ibilli, txirristadie asegureta dakozu*
+- *euridxe danien Lameran ezin dxe ibilli, txirristadie asegureta dakozu*
 - *euridxe danien edonon ein leikezu txirristadie*
 - *asi goitxik eta beraiño txirristadan dxun nai*
 
@@ -533,7 +533,7 @@ Azkuek, Lekeition *txitximurka* jaso du, eta berori eta *txumumarka* barianteak 
 
 ## TXITXEMARKADA ##
 
-Atzamarka. Txatxarnurka.
+Atzamarka. Txatxamurka.
 
 - *txitxemarkada masie ein tso arpidxen*
 - *gorputze be txitxemarkadaz beteta dako*

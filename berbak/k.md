@@ -373,7 +373,7 @@ Ez dago argi nondik sar zitekeen gaztelerako hitz hori eta gainera zentzu horrek
 - *orregaz pixugaz nora zuez ba, karrie ein bi zu te*
 - *udxolakaz kasinue karrie da beiek amore emonda
 
-2. Igaro. Forrnaz aurrekoa bera dugu, baina ez zentzua.
+2. Igaro. Formaz aurrekoa bera dugu, baina ez zentzua.
 
 - *karrie dauie etzeko traste guztidxek*
 - *sagarrak karrieten ibilli diez*
@@ -580,7 +580,7 @@ Gaztelerako *claro* hitzari >tasun< atzizkia jartita egiten dugu.
 
 ## KOBLA ##
 
-Arrantzarako apareiua. Kordelean amuak jartzen dira, terrninorik terminora, tertza moduan. Askotan arraina amu baten baino gehiagotan etortzen da. Baina konparazioan arrainak neskak edo mutilak izango dira.
+Arrantzarako apareiua. Kordelean amuak jartzen dira, terminorik terminora, tertza moduan. Askotan arraina amu baten baino gehiagotan etortzen da. Baina konparazioan arrainak neskak edo mutilak izango dira.
 
 - *an! Arek an dakaz, koblan bi*
 - *bota dau tertzie baie koblan ez dakar *arraiñ bet pez*
@@ -618,7 +618,7 @@ Etxeko portalea.
 - *giltzek galdu dotez da oiñ eztakot kolarrera nondik sartu*
 
 Badirudi gaztelerako *corral* hitzetik sartu dela. /corral/ > korrala > kolarra/ metatesiaren bidez.
-Azkuek Mundaka eta Berrneorako jaso du hitz hau.
+Azkuek Mundaka eta Bermeorako jaso du hitz hau.
 
 ## KOLORIE ##
 

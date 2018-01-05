@@ -417,7 +417,7 @@ Belarri-ondokoa. Zartada.
 
 - *ixillik egon, belarreskiñekue ezpazu gure emon*
 - *zelako belarreskiñekue emon tso ba, belarridxe be gorritxute imin tso*
-- *ornon belarreskiñekue, ezta lotzien da*
+- *omon belarreskiñekue, ezta lotzien da*
 
 /belarri + izkina/ > belarreskina >  belarreskiñie
 

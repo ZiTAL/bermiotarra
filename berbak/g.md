@@ -58,7 +58,7 @@ Alferraundi.
 
 - *galufue galufuekaiñe errime, auri bai dok egidxe*
 - *beran amak eztau gure entzun semie galufue dakona*
-- *ezpadau gure entzun be, aren sernie galufue da*
+- *ezpadau gure entzun be, aren semie galufue da*
 
 Gaztelerako *golfo* hitzetik sartua dela dirudi.
 
@@ -143,7 +143,7 @@ Erdizka egin.
 Samako gorroa.
 
 - *zer dakozu saman ba, gargaidxue dakozu le?*
-- *sarnan okiñ dxoten gargaidxuegaz berbarik pe eziñ eiñ*
+- *saman okiñ dxoten gargaidxuegaz berbarik pe eziñ eiñ*
 - *gargaidxukaz samie zarratute dakot*
 
 Gaztelerako *gargajo* bera da, baina fonetikaz ezberdintzen da.
@@ -286,7 +286,7 @@ Aditzaren funtzioa betetzen du.
 
 Oka egiten.
 
-- *"tabernatik urten dauenien gonbitxoka asi de*
+- *tabernatik urten dauenien gonbitxoka asi de*
 - *bieja osue eiñ dxau gonbitxoka*
 - *bera ikusten doten bakotxien gonbitxoka asten nai*
 

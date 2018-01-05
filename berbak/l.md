@@ -108,7 +108,7 @@ Batela olatuen gainean bultzatua izatea. Gaur eguneko surflariak ere horrela dei
 
 Noizbehinka.
 
-- *lantzirnerietan damutu eiuxen dxast dxuneidxe*
+- *lantzimerietan damutu eiuxen dxast dxuneidxe*
 - *beti ez, baie lantzimeñetan Gernikera dxuten nai erosten*
 - *lantzimeñetan enpanada utse zara*
 

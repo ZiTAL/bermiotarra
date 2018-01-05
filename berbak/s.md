@@ -267,7 +267,7 @@ Mozkor ederra.
 Pertsona zikina.
 
 - *eztot ezetu neure bixidxen pertsona sastoidxaurik*
-- *baie, au irnie sastoidxaue dot, eztaits zer ein beronegaz*
+- *baie, au imie sastoidxaue dot, eztaits zer ein beronegaz*
 - *benetan da sastoidxe zueneko katue, edozein lekutan eitxen dau kaka*
 - *geure esnedunen astue be sastoi use da, errireko dakoz txise guztidxek eta*
 
@@ -414,7 +414,7 @@ Haserre. Koleratsu.
 - *sublebaziñue kendu be ein barik takot ondiño gero*
 
 Gaztelerako *sublevar* hartu da zuzen zuzenean, eta zentzua ere, figuratuan, berbera da.  
-Ikusten denez, gaztelera bezala, aditza, adberbioa eta izenaren forrnan agertzen da.
+Ikusten denez, gaztelera bezala, aditza, adberbioa eta izenaren forman agertzen da.
 
 ## SUBOI / E ##
 
@@ -433,7 +433,7 @@ Jenio txarra. Arrabia.
 - *subrebidxe kendu be ez dxauzo eitxen areri*
 - *subrebidxekaz etor dxast alabatxi lotsak emoten*
 
-Gaztelerako *soberbia* ederto egokitu da Berrneoko hizkeran.  
+Gaztelerako *soberbia* ederto egokitu da Bermeoko hizkeran.  
 /soberbia > sobrebia > subrebidxe/ /ia/ > /idxe/.
 
 Kontsonante dardarkariaren metatesia jasan ondoren, bokalen ixtea gertatu da.
@@ -514,9 +514,9 @@ Ez dauka, hiztegietan agertzen den bezalako esanahia.
 Zerbait aurkitzeko afan bandia izatea. Gauzak topatzen ibiltzen dena.
 
 - *surbizki utse da zure alaba txikidxe, non zer topako dabil beti*
-- *bai, geure etzera datorrenien be, surbizkidxe lez, arrnaidxo guztidxek erreskitxeten ibiltxen da" "zeuek ikasi tsazue surbizkidxe ezaten*
+- *bai, geure etzera datorrenien be, surbizkidxe lez, armaidxo guztidxek erreskitxeten ibiltxen da" "zeuek ikasi tsazue surbizkidxe ezaten*
 
-Azkuek. Txorierrin jaso du hitz hau, baina zentrua "goloso" da. Beraz, esanahi aldetik, nolabait ezberdina da.
+Azkuek. Txorierrin jaso du hitz hau, baina zentrua *goloso* da. Beraz, esanahi aldetik, nolabait ezberdina da.
 
 Badirudi, sudur bi edo sudur bikia daukan pertsona dela.
 
@@ -556,7 +556,7 @@ Azkuek Lekeitioko hitza bezala azaltzen du, baina Bermeon ez da ezagutzen bester
 
 ## SURZAPAL ##
 
-Sudurrnotz. Sudurzapal.
+Sudurmotz. Sudurzapal.
 
 - *arpiz galanta da baie surzapala da*
 - *dxeusi dan imie eztakixu noren semie dan, aulako surzapal bat bera andrie*

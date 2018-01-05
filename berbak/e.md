@@ -1046,7 +1046,7 @@ Azken kasu hau hika forman agertzen da baina emakumeen arteko hikan.
 
 Badago *etxaramon* forma ere, Azkuek jaso duena, Kintanak ere jaso du bere hiztegian. Horren laburpena izango da goian aipatutakoa, Beraz:
 
-*ez jaramon* hitzetatik sortua /ez jaramon > ejaramon > etxaramon > etxarnon/
+*ez jaramon* hitzetatik sortua /ez jaramon > ejaramon > etxaramon > etxamon/
 
 Azkuek ez du jaso, baina bai D.A.R.k, Mundaka eta Bermeorako, hain zuzen.
 
@@ -1077,7 +1077,7 @@ Itsasoratu barik, derrigorrez edo nahi izanda. Espresio hau, hizkera arruntera p
 - *egualdi ona onda eiñ dxau etzegune?*
 - *gaur ez gariz dxungo Laidera? Ez, geuk pe etzegune ein bi du te*
 
-D.A.R.k bakarrik jaso du, eta Berrneoko hitza bezala azaltzen du.
+D.A.R.k bakarrik jaso du, eta Bermeoko hitza bezala azaltzen du.
 
 ## ETZI ##
 

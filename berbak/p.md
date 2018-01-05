@@ -62,7 +62,7 @@ Komedia. Itxura ematan.
 
 Masaila.
 
-- *papue anditxute dako agineko rniñegaz*
+- *papue anditxute dako agineko miñegaz*
 - *papo bidxetatik dxaten zauz*
 - *nondik zatoz ba papuek pe gorritxute dakozuz de*
 - *asarratu dizenien papotik sartun tsozen artazidxek*
@@ -429,7 +429,7 @@ Irainezko berba da.
 
 ## PITXARROSA ##
 
-Marrazo familiako arraina. Baina konparazioan, pertsonei aplikatzen zaie, batez ere koloreagatik, eta beti emakurnezkoei.
+Marrazo familiako arraina. Baina konparazioan, pertsonei aplikatzen zaie, batez ere koloreagatik, eta beti emakumezkoei.
 
 - *bestelako pitxarrosie zauz or*
 - *eguzki lar artun dot eta pitxarrosie lez nau*
@@ -469,7 +469,7 @@ Fruituen hezurra, *pizkazurra* erabili da txikitasuna adierazteko.
 
 Panpina.
 
-- *plarnikie lako arpeidxe dako beronek imiek*
+- *plamikie lako arpeidxe dako beronek imiek*
 - *olentxerok plamike bat ekarko dotzu*
 - *plamikiri begidzek atara tsoz*
 
@@ -487,7 +487,7 @@ Lisatu. Leundu.
 
 Jarri.
 
-- *arnen planta, obeto ongo zara ta*
+- *amen planta, obeto ongo zara ta*
 - *telefonuen plantateko diño zure amak*
 - *da esan tsozen berbakaz jenidxotan planta da*
 - *ezpada plantaten, planta bi dauen lekuen, eztako lekorik*
@@ -619,7 +619,7 @@ Itsasontziaren popa. Analogiaz ipurdia adierazteko erabilia.
 - *popan urten dost baltzune batek*
 - *gose bazara neure popiri kendu zati bet*
 
-Askotan gertatzen den bezala itsas giroko hitza erabili da, nahiz eta, kasu honetan, erdarazko hitz bat izan. Auzoetan ez da erabiltzen ternino hau, baina herrian *eperdi* baino gehiago erabiltzen da.
+Askotan gertatzen den bezala itsas giroko hitza erabili da, nahiz eta, kasu honetan, erdarazko hitz bat izan. Auzoetan ez da erabiltzen termino hau, baina herrian *eperdi* baino gehiago erabiltzen da.
 
 ## POPADAN / IEN ##
 
@@ -796,7 +796,7 @@ Kordel fina.
 - *potxer zati bet artun da imiñi kanoie amarrata*
 - *potxeran obillo bat emoteko esan aitxeri, berak tako ta*
 
-Azkuek jaso du bere hiztegian, Ondarroa, Lekeitio eta Berrneoko hitza dela esanez.
+Azkuek jaso du bere hiztegian, Ondarroa, Lekeitio eta Bermeoko hitza dela esanez.
 
 ## POTXOLA / IE ##
 
@@ -964,7 +964,7 @@ Puzka. Haserre.
 
 - *puzkadaka dabil ez dxatzolakon dxuen pintorerue*
 - *ara allega garizenien danok on garizen puzkadaka*
-- *puzkadaka dator zure arna, nondik ete dator*
+- *puzkadaka dator zure ama, nondik ete dator*
 - *ez esan ezebe, puzkadaka badator, berotute etorko da ta*
 
 Kasu honetan, *puzka* hitzari gutxi iritzita, >ada< eta >ka< atzizkiak erantzi zaizkio.

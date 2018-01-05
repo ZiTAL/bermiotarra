@@ -84,7 +84,7 @@ Ekandu. Ohiturak. Bi formak erabilizen dira.
 - *bai, ikeski txarrak takoz, baie neuk kenduko tzatez*
 - *ez pentsa, ikeski onak pe bakoz*
 - *ikeskiñek ez tiez aztuten*
-- *an dau nire sernie, neska-mutill Narran tartien, ikeskidxek ikasten*
+- *an dau nire semie, neska-mutill Narran tartien, ikeskidxek ikasten*
 
 Azken esaldi honetan bi eratara erabili da *ikasi* aditza. Hitz honen osagaiak /ikas/ + /ki/ atzizkia izan dira.
 
@@ -528,7 +528,7 @@ Urtebetetzea urteurrena edo horrelako zerbait ospatzen deneko oparitxoa edo gomu
 - *neure eguneko ixentaziñotxue bota dost korreotik*
 - *ixentaxiñue baiño ezta*
 - *aren ixentaxiñuek eskasak ezaten diez*
-- *amuman ixentaziñue dakozu arnen*
+- *amuman ixentaziñue dakozu amen*
 
 Ikusten denez ez du *ixenta* ren antz handirik, zentzua beste bide batelik baitoa. Gainera, hartu duen atzizkia ere beste bat da, >pen< hartu beharrean >zino< hartu du: /izenda + zino > izendazino > izentazino > ixentaziño/
 
