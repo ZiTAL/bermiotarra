@@ -80,11 +80,11 @@ Itotzeko zorian. Presaka ibili.
 
 Ekandu. Ohiturak. Bi formak erabilizen dira.
 
-- *ikeskidxek takoz onek imiik*
+- *ikeskidxek takoz onek imiek*
 - *bai, ikeski txarrak takoz, baie neuk kenduko tzatez*
 - *ez pentsa, ikeski onak pe bakoz*
 - *ikeskiñek ez tiez aztuten*
-- *an dau nire semie, neska-mutill Narran tartien, ikeskidxek ikasten*
+- *an dau nire semie, neska-mutill txarran tartien, ikeskidxek ikasten*
 
 Azken esaldi honetan bi eratara erabili da *ikasi* aditza. Hitz honen osagaiak /ikas/ + /ki/ atzizkia izan dira.
 
