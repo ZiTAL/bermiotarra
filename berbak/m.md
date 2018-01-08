@@ -14,7 +14,7 @@ Dotore.
 
 - *an dxun dxatzu a majarik dxantzitxe Lamerara*
 - *neuri be gustaten dxast majarik ibiltxie*
-- "ezara dxazten majarik ela?*
+- *ezara dxazten majarik ela?*
 - *zer ba? Beti dxantzi bi de majarik kalera urteteko ela?*
 - *majarik dxantzi arren ni beti nai betikue*
 
@@ -32,14 +32,12 @@ Ondo jantzita edo soineko dotoreak gustatzen zaizkien pertsonak, gizonak eta ema
 
 ## MAJO ##
 
-Ondo. Baina peioratibo edo protesta tonuaz askotan.
+*Ondo* sarkasmoz esana, peioratibo edo protesta tonuaz askotan.
 
 - *majo geratu da pintxe zun zatidxe*
 - *eztot pentsa olan geratuko danik, baie majo geratu da*
 - *or on dan saldie zer ein zu ba, bota? Majo! Oin zer dxango du ba?*
 - *maaajo! Eztala etorko esan dau? Da oin zer ein bi du*
-
-Ikusten denez, formaz, goian aipatu dugun *rnajo* da. baina esanahia guztiz ezberdina da. Ez da erraz igartzen nondik sartu den.
 
 ## MAKATZA ##
 
@@ -93,7 +91,7 @@ Gaztelerako *malquisto* bera dugu. Baina oso erabilia denez, horregatik sartu da
 
 Pertsona oso trankila, oso ona, baina energia gabekoa.
 
-- *zure nebie malmosa da, eztau ernegaten iru txiki be"
+- *zure nebie malmosa da, eztau ernegaten iru txiki be*
 - *malmosa zara alabatxi, eztakixu edonok burleko tsune olan bazuez?*
 - *klaro dana malmosa, oneidxe ezatie ezta ona*
 - *malmosa be malmosa da gero*
@@ -111,7 +109,7 @@ Hitz bau, frantseseko *mademoiselle* tik sartu da.
 
 /mademoiselle > mamuaselle > mamaselle > /mamaixela/
 
-/ua/ > /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, norrnala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
+/ua/ > /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, normala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
 
 ## MAMALA ##
 
@@ -366,7 +364,7 @@ Azkuek jaso du, baina *mariposa* adierazteko.
 
 ## MARITENTEL ##
 
-Zentzu peioratiboan ia beti.
+Tentela, zentzu peioratiboan ia beti.
 
 - *zelako maritentela da ba, arruen pasiñuek eitxen dotsona da*
 - *maritentel eta ganorabakoa, besterik ez esatearren*
@@ -575,7 +573,7 @@ Xehekatu eta nahastatuz gero gertatzen dena.
 
 - *orrek galletak esnetan mazimazi eiñdxe obeto dxango zuz*
 - *etsoie erosi frabikantiek, mazimazi eindxe ekar dauelako antxobie*
-- *beste baten entzuten batsut olako berbarik azurrek pe mazimazi eiñdxe itxiko tsutez"*
+- *beste baten entzuten batsut olako berbarik azurrek pe mazimazi eiñdxe itxiko tsutez*
 
 Hemen, aditzaren lekua hartzen du hitz honek, baina galdegaia aditza bera delarik.
 
@@ -584,11 +582,10 @@ Hemen, aditzaren lekua hartzen du hitz honek, baina galdegaia aditza bera delari
 Zikindu. Lohitu. Maziru.
 
 - *ikusten zu zelan ekar zun erropie mazitxute*
-- "on dan mazidxegaz zapata guztidxek pe mazitxute erun dotez*
+- *on dan mazidxegaz zapata guztidxek pe mazitxute erun dotez*
 - *mazitxu zu gisadue, eraitxen eraitxen engrudotu eiñ dxiez patatak*
 - *nik eztot mazitxu eskatza, izterrak garbi dakotez da*
 
 Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan adberbio funtzioa betetzen du. Azken bi esaldietan aditzaren funtzioa.
 
 /mazi + tu > mazitu > mazitxu/
-

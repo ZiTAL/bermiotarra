@@ -160,7 +160,7 @@ Erdi edo osorik erotuta.
 - *dxota dauela diñoie. Neguen uger eitxen dau orrek Aritxatxun*
 - *enebada! Dxota ete nau ba, orrek gauzek eitxeko?*
 
-D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen >joa< forrna. Hau, *jo* aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, *tocado de la cabeza* definizioaz agertzen da.
+D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen >joa< forma. Hau, *jo* aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, *tocado de la cabeza* definizioaz agertzen da.
 
 ## DXUENA ##
 

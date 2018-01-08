@@ -1,4 +1,4 @@
-Hau sarrerie Begoña Bilbao Albonigak idatzi zauen 'Bermeoko berba eta esamolde kresaltsuak' (2002) liburorako.
+Hau sarrerie Begoña Bilbao Albonigak idatzi zauen *Bermeoko berba eta esamolde kresaltsuak* (2002) liburorako.
 
 # Begoña Bilbao Alboniga #
 
@@ -27,7 +27,7 @@ Hiru urte geroago, Berineoko Udalak emandako bekari esker, Bermeoko Euskara: Adi
 
 # LANAREN ZERGATIA #
 
-Askotan galdetu didate, lan hauen berri izan duten askok, zerk eraman edo bultzatu ninduen lan hauek egitera. Erantzuna ez da bat ere sinplea, faktore asko izan direlako lanean jarri nindutenak. Baina, euretariko bat, garrantzitsuena beharbada, hain berezia eta aberatsa den mintzairatik berbak galtzen doazela ikustea konturatzea izan zen. Eta anekdota bat kontatu barik ezin pasatu: Bermeoko berbak batzen, Frankoren demanduan hasi ginen lagun talde bat. Bakoitzak batzen zituenak taldeko bati ematen genizkion gordetzeko. Asko ziren bildutakoak, taldekide horren amak, momentu batetik bestera "sekretak" bisita egitera joango zitzaizkienaren susmoa hartu zuenean, beldurraz sutara bota zituenean. Gero, neu bakarrik hasi nintzen lan horretan, baina guztien laguntzaz.
+Askotan galdetu didate, lan hauen berri izan duten askok, zerk eraman edo bultzatu ninduen lan hauek egitera. Erantzuna ez da bat ere sinplea, faktore asko izan direlako lanean jarri nindutenak. Baina, euretariko bat, garrantzitsuena beharbada, hain berezia eta aberatsa den mintzairatik berbak galtzen doazela ikustea konturatzea izan zen. Eta anekdota bat kontatu barik ezin pasatu: Bermeoko berbak batzen, Frankoren demanduan hasi ginen lagun talde bat. Bakoitzak batzen zituenak taldeko bati ematen genizkion gordetzeko. Asko ziren bildutakoak, taldekide horren amak, momentu batetik bestera *sekretak* bisita egitera joango zitzaizkienaren susmoa hartu zuenean, beldurraz sutara bota zituenean. Gero, neu bakarrik hasi nintzen lan horretan, baina guztien laguntzaz.
 
 Hemen agertzen diren berba asko galduta edo galtzeko zorian daude. Hizkuntza batek beherantz egiten duenean, laster galtzen dira berbak, esamoldeak, eta abar; baina badago beste faktore bat galtze honen arrazoia dena: berba landuak erabiltzearen alde egiten dugula, geure geureak direnak baztertuta.
 
@@ -39,7 +39,7 @@ Esamolde bakoitzak bere filosofia dauka. Esaldietan, Bermeoko giro, egoera, bizi
 
 # LANARI BURUZKO AZALPENAK #
 
-Hasiera baten, itsas giroko berbak izan ziren: arrain eta txorien izenak, arrantzako tresneria, itsasontzietako eta arrantzako egoera eta lanak, eta abar oso luze bat definitzeko berbak. Baina, esan bezala, urte asko pasatu denez, tartean Anton Perezen "Bermeoko Herri Hizkera" eta Eneko Barrutiaren "Bermeoko eta Mundakako Arrantzaleen Hiztegia" argitaratu direnez, beste bide bat hartu nuen. Beraz, arrantzale giroak daukan eragina Bermeoko eguneroko hizkeran kontutan harturik, eta itsaso, arrain, arrainontzi eta arrantzari buruzko elementuak, deskribapenak, metaforak eta konparaketak egiteko erabiltzen direla ikusita, guzti hori adieraziko diguten berbak eta esamoldeak bakarrik uztea erabaki dut. Hala ere bateren batzuk geratu dira barruan.
+Hasiera baten, itsas giroko berbak izan ziren: arrain eta txorien izenak, arrantzako tresneria, itsasontzietako eta arrantzako egoera eta lanak, eta abar oso luze bat definitzeko berbak. Baina, esan bezala, urte asko pasatu denez, tartean Anton Perezen *Bermeoko Herri Hizkera* eta Eneko Barrutiaren *Bermeoko eta Mundakako Arrantzaleen Hiztegia* argitaratu direnez, beste bide bat hartu nuen. Beraz, arrantzale giroak daukan eragina Bermeoko eguneroko hizkeran kontutan harturik, eta itsaso, arrain, arrainontzi eta arrantzari buruzko elementuak, deskribapenak, metaforak eta konparaketak egiteko erabiltzen direla ikusita, guzti hori adieraziko diguten berbak eta esamoldeak bakarrik uztea erabaki dut. Hala ere bateren batzuk geratu dira barruan.
 
 Bermeoko euskara oso bizia da, baina gogorra ere bai, askotan erasorako eginda dagoela pentsatzen dut. Kostaldeko euskara horrelakoa dela esan ohi da, baina badago diferentziarik. Bizkaian, Ondarru eta Bermeokoa dira gogorrenak, tonu biziagoan mintzatzen gara, Elantxobekoa ere bai apur bat, baina Lekeitiokoa oso mantsoa da.
 

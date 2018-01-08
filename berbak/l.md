@@ -102,13 +102,13 @@ Batela olatuen gainean bultzatua izatea. Gaur eguneko surflariak ere horrela dei
 
 - *bestela ibilltxen garizen Artzan lantzadatan batelien olatuen ganien*
 - *mundekako surfistek pe majo ibilltxen diez lantzadatan*
-- *baitxe Lagan be, ikusten dotez nik imiek lantzadatan barre masie eitken*
+- *baitxe Lagan be, ikusten dotez nik imiek lantzadatan barre masie eitxen*
 
 ## LANTZIMEÑETAN ##
 
 Noizbehinka.
 
-- *lantzirnerietan damutu eiuxen dxast dxuneidxe*
+- *lantzimerietan damutu eiuxen dxast dxuneidxe*
 - *beti ez, baie lantzimeñetan Gernikera dxuten nai erosten*
 - *lantzimeñetan enpanada utse zara*
 
@@ -356,10 +356,10 @@ Azkuek jaso du hitz hau, erabilera murritzaz bada ere, baina ez du Bermeo aipatz
 
 ## LUMETXA ##
 
-Ilaun. Bizar.
+Normalean arropetan geratzen diren ileak.
 
 - *lumetxaz beterik dakot berau jersie, eztaitx noren onduen egon naien*
-- *lumetzak kentzieko eztau ezer ba*
+- *lumetxak kentzieko eztau ezer ba*
 - *nik okiñ dxot aulako zepillo garratz bat lumetxak kentzieko balidxo zan dauena*
 
 ## LUZIDU ##
@@ -391,4 +391,4 @@ Ur azpitik igerian.
 
 - *nik, luzien Izarorarte uger*
 - *txo, afronto, zuk luzien ronpiolaserarte bez*
-- *konkurso bat eingu zebiek obien luzien*
+- *konkurso bat eingu zeiñek obien luzien*

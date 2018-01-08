@@ -417,7 +417,7 @@ Belarri-ondokoa. Zartada.
 
 - *ixillik egon, belarreskiñekue ezpazu gure emon*
 - *zelako belarreskiñekue emon tso ba, belarridxe be gorritxute imin tso*
-- *ornon belarreskiñekue, ezta lotzien da*
+- *omon belarreskiñekue, ezta lotzien da*
 
 /belarri + izkina/ > belarreskina >  belarreskiñie
 
@@ -520,6 +520,21 @@ Zaporea.
 
 Seguru aski, gaztelerako *virtud* hitza hartu da hitz hori egiteko. *Virtud* gauza ona bezala, gero jatekoari edo jakiei aplikatuz.
 
+## BESTELA ##
+
+Zelan, ze ondo, askotan sarkasmo ikutu batekin.
+
+- *bestela zauz berton, Aritzatxun eguzkidxe hartzien*
+
+Bermeon *bestela* esateko *ostantzien* esaten dugu.
+
+# BESTELAKO ##
+
+Zelako.
+
+- *bestelako bapora erosi dau*
+- *bestelako andobue etor da Mañutik*
+
 ## BESTIEK ##
 
 Andrazkoaren hilekoak. Beste berba bat gehiago, egoera hori definitzeko.
@@ -559,7 +574,7 @@ Bekokia. Kopeta.
 
 Zartada. Betondokoa.
 
-- *"betondoko ederra emon tso*
+- *betondoko ederra emon tso*
 - *zelako betondokue omon dost ba, begidxek pe lankrieta itxi dostez*
 
 ## BIBERAK ##
@@ -841,7 +856,7 @@ Denak batera. Tropelean.
 
 - *brauntadan sartu gariez elixera barrure*
 - *brauntadan sartziekutan enue ziñera*
-- *danak brauntadan saltaten baporatara, izterra apurtuteko moduen, Madalen guztidxetan igual"
+- *danak brauntadan saltaten baporatara, izterra apurtuteko moduen, Madalen guztidxetan igual*
 - *brauntadan etor dxastez disgusto guztidxek*
 
 ## BREBERUEN ##

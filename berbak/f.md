@@ -109,7 +109,7 @@ Soinujolea.
 
 ## FIFITE ##
 
-Txori txiki bat da. Izena izango du, baina hemen "fi fi fi" egiten duen txori bati deitzen zaio horrela. Konparazioan, ahots fina eta epela daukan pertsona da.
+Txori txiki bat da. Izena izango du, baina hemen *fi fi fi* egiten duen txori bati deitzen zaio horrela. Konparazioan, ahots fina eta epela daukan pertsona da.
 
 - *enebada! Fifite da, bera lez eitxen dau berba*
 - *bestelako fifite dau or, entzun be ez dxatzo eitxen da*

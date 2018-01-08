@@ -158,7 +158,7 @@ Eztabaida. Iskanbila.
 - *auntxe be kalamatriken dabiltzez neure goikuek*
 - *ori beti due kalamatrikien bille*
 
-Azkuek jaso du bere hiztegian, baina zentzua el *arnor en la conversación* eta *griterio* da. Kintanak, ostera, *sabiduria maliciosa* dela dio. Beraz, esanahi ezberdina.
+Azkuek jaso du bere hiztegian, baina zentzua el *clamor en la conversación* eta *griterio* da. Kintanak, ostera, *sabiduria maliciosa* dela dio. Beraz, esanahi ezberdina.
 
 ## KALBA ##
 
@@ -291,7 +291,7 @@ Nekadura. Ahuldura.
 
 ## KAÑADA ##
 
-Bemezur.
+Berna-hezur. Tibia.
 
 - *emon dosten zartazuegaz kañadie apurtu dost*
 - *kañadie dakot baltzitxute*
@@ -373,7 +373,7 @@ Ez dago argi nondik sar zitekeen gaztelerako hitz hori eta gainera zentzu horrek
 - *orregaz pixugaz nora zuez ba, karrie ein bi zu te*
 - *udxolakaz kasinue karrie da beiek amore emonda
 
-2. Igaro. Forrnaz aurrekoa bera dugu, baina ez zentzua.
+2. Igaro. Formaz aurrekoa bera dugu, baina ez zentzua.
 
 - *karrie dauie etzeko traste guztidxek*
 - *sagarrak karrieten ibilli diez*
@@ -462,7 +462,7 @@ Begirada bota.
 
 - *Lameratik dxun naienien kikada da bat ein dxot Izaron*
 - *bota kikada bat elixen mezie asi badan ikusteko*
-- "aurtik bentanatik ein kikadie ia euridxe badan*
+- *aurtik bentanatik ein kikadie ia euridxe badan*
 
 ## KIKILLE ##
 
@@ -580,7 +580,7 @@ Gaztelerako *claro* hitzari >tasun< atzizkia jartita egiten dugu.
 
 ## KOBLA ##
 
-Arrantzarako apareiua. Kordelean amuak jartzen dira, terrninorik terminora, tertza moduan. Askotan arraina amu baten baino gehiagotan etortzen da. Baina konparazioan arrainak neskak edo mutilak izango dira.
+Arrantzarako apareiua. Kordelean amuak jartzen dira, terminorik terminora, tertza moduan. Askotan arraina amu baten baino gehiagotan etortzen da. Baina konparazioan arrainak neskak edo mutilak izango dira.
 
 - *an! Arek an dakaz, koblan bi*
 - *bota dau tertzie baie koblan ez dakar *arraiñ bet pez*
@@ -618,7 +618,7 @@ Etxeko portalea.
 - *giltzek galdu dotez da oiñ eztakot kolarrera nondik sartu*
 
 Badirudi gaztelerako *corral* hitzetik sartu dela. /corral/ > korrala > kolarra/ metatesiaren bidez.
-Azkuek Mundaka eta Berrneorako jaso du hitz hau.
+Azkuek Mundaka eta Bermeorako jaso du hitz hau.
 
 ## KOLORIE ##
 
@@ -724,7 +724,7 @@ Azkuek ez du zentzu honetaz jaso hitz hau. Bai, ostera, D.A.R.k T. Etxebarriaren
 
 Tontakeriak egiten dituen pertsona.
 
-- "ezta bape koplosie, beste bat aren lekuen, iñok auenta bez*
+- *ezta bape koplosie, beste bat aren lekuen, iñok auenta bez*
 - *zu barriz, koplosiaue zara! Pentsa lekide zeu zarala dana*
 - *koploso utse zara txo! Koplak itxi da dxan aurrekoue*
 
@@ -740,15 +740,18 @@ Etorri, forma inperatiboan, baina tonua ez da aginduzkoa.
 
 Hitz honen jatorria gaztelerako *correr* bada ere, euskarazko *korridu* horren laburpena da.
 
+## KORKI ##
+Hau Nere Sekretu bat da.
+
 ## KOROSKERA ##
 
-Itsasontzi baten aurrearen itxura. Baina, askotan, herriko hizkeran, pertsona baten aurpegia edo eitea edo antza izatea da.
+Itsasontzi baten aurrearen itxura. Baina, askotan, herriko hizkeran, pertsona baten aurpegia edo egitea edo antza izatea da.
 
 - *orrek imiek aitxen koroskerie dako*
 - *onek, barriz, aman koroskerie dako*
 - *beti gabiltzez koroskerten bille da beti erretuten gariez*
 
-*Korosta* hirtzaren eratorria dela esan beharra dago.
+*Korosta* hitzaren eratorria dela esan beharra dago.
 
 ## KOROSTA ##
 

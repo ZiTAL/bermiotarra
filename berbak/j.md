@@ -17,7 +17,7 @@ Jenio bizia. Jenio txarra. Haserrea.
 - *kalera zatozenien, jenidxue etzien itxi*
 - *ez imiñi iñor jenidxotan ostantzien zeuk atara kontuek*
 - *jenidxue badako berantzat txarrau*
-- *jenijdxue ernoten dost Bilbora dxutiek, baie dxun ein bi dot*
+- *jenijdxue emoten dost Bilbora dxutiek, baie dxun ein bi dot*
 
 Ahoskeran bereizten da erdarazko hitzaren jatorria.
 
@@ -39,7 +39,7 @@ Hezurretako artikulazioa.
 
 - *belauneko juegue dakot paralizeta*
 - *ba nik azidentie okin dxotenien, izter bidxetako juegue okin dxot lotute*
-- *medikuek esan dost, atzarnarran juegue ez galtzieko pelotie ibilltxeko eskuetan*
+- *medikuek esan dost, atzamarran juegue ez galtzieko pelotie ibilltxeko eskuetan*
 
 Gaztelerako *juego* (de dos cosas articuladas) hitzetik literalki hartua.
 

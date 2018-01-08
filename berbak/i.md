@@ -80,11 +80,11 @@ Itotzeko zorian. Presaka ibili.
 
 Ekandu. Ohiturak. Bi formak erabilizen dira.
 
-- *ikeskidxek takoz onek imiik*
+- *ikeskidxek takoz onek imiek*
 - *bai, ikeski txarrak takoz, baie neuk kenduko tzatez*
 - *ez pentsa, ikeski onak pe bakoz*
 - *ikeskiñek ez tiez aztuten*
-- *an dau nire sernie, neska-mutill Narran tartien, ikeskidxek ikasten*
+- *an dau nire semie, neska-mutill txarran tartien, ikeskidxek ikasten*
 
 Azken esaldi honetan bi eratara erabili da *ikasi* aditza. Hitz honen osagaiak /ikas/ + /ki/ atzizkia izan dira.
 
@@ -320,8 +320,8 @@ Mailu bat. (figuratiboan). Aspergarria.
 Txingorra.
 
 - *menditxik bueltan iñetazidxek atrapa dosku*
-- *hotzan hotzagaz euridxe ein biharrien iñetazidxe ein dxau"
-- *iñetazidxegaz ezin dxiez edurren muñekuek egin"
+- *hotzan hotzagaz euridxe ein biharrien iñetazidxe ein dxau*
+- *iñetazidxegaz ezin dxiez edurren muñekuek egin*
 
 ## IÑUZENTE ##
 
@@ -528,7 +528,7 @@ Urtebetetzea urteurrena edo horrelako zerbait ospatzen deneko oparitxoa edo gomu
 - *neure eguneko ixentaziñotxue bota dost korreotik*
 - *ixentaxiñue baiño ezta*
 - *aren ixentaxiñuek eskasak ezaten diez*
-- *amuman ixentaziñue dakozu arnen*
+- *amuman ixentaziñue dakozu amen*
 
 Ikusten denez ez du *ixenta* ren antz handirik, zentzua beste bide batelik baitoa. Gainera, hartu duen atzizkia ere beste bat da, >pen< hartu beharrean >zino< hartu du: /izenda + zino > izendazino > izentazino > ixentaziño/
 
@@ -552,7 +552,7 @@ Atzera eragin. Izutu.
 
 Urruneko senideak edo ahaideak. Ia beti zentzu peioratiboan esaten da.
 
-- *"gaurko alkatie neure aman izterpariende da*
+- *gaurko alkatie neure aman izterpariende da*
 - *ez tuz ezetuten baie geure aitxen izterparientiek tiez*
 
 ## IZTERRA ##
