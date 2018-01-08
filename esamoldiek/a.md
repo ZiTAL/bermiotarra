@@ -4,7 +4,7 @@
 
 Aberketa baten moduan: siku edo gogor adierazteko.
 
-- *au okelie aberketie lez dau"
+- *au okelie aberketie lez dau*
 - *dxan duzen txuletak aberketie baiño gogorrau on zien*
 - *geuri emon doskune be aberketie lez on da*
 - *aberketarik pez sikuau au arraiñe baiño*
@@ -17,7 +17,9 @@ Ganora gabekoa.
 - *onek sagarrak adue bakuek tiez*
 - *guk ikusi dun pelikulie adue bakue ezan da*
 
-## AGIE BE DXAN ##		Dena janm, bi zentzutan.
+## AGIE BE DXAN #
+
+Dena jan, bi zentzutan.
 
 1. Diruak xahutu.
 
