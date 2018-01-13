@@ -67,4 +67,3 @@ Esker berezidxek:
 - Ainhoa Astui
 
 Eskerrik asko!
-
