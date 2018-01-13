@@ -1,229 +1,312 @@
 # O #
 
-ODOL BAKO						Energia gabeko pertsona. Koldarra.
+## ODOL BAKO ##
 
-"nongo odolbakuekaz nabil ba, nora zuekaz?"
-"zu, odolbako, mobidu azurrek berton on barik enpiketa"
-"odolbakue dona ori, leko baten dxesarri txe andik ezta mobiten"
-"odol bakue zaralez, ez zan etorri suelduen ganien protestaten"
+Energia gabeko pertsona. Koldarra.
 
-ODOLA BALIDXO					Oso garestia.
+- *nongo odolbakuekaz nabil ba, nora zuekaz?*
+- *zu, odolbako, mobidu azurrek berton on barik enpiketa*
+- *odolbakue dona ori, leko baten dxesarri txe andik ezta mobiten*
+- *odol bakue zaralez, ez zan etorri suelduen ganien protestaten*
 
-"gaur egun eziñ dxe iñora dxuen dxaten, afai batek odola balidxo dau"
-"odola balidxo dauie zapatak gero! Urrezkuek ezan balekidie bez karuau"
-"ara, gaur egunien eziñ dxe ezebe erosi, odola balidxo dau edozek"
+## ODOLA BALIDXO ##
 
-ODOLAK BURURE IDXEN			Zenetik irtenda.
+Oso garestia.
 
-"emon dosten kolorigaz, odolak pe burure idxen dxastezen"
-"da ikusi bazun, odolak burure idxenda, begidxek pe urtenda, zakatza gorritxute..."
-"beti dau a odolak burure idxenda"
+- *gaur egun eziñ dxe iñora dxuen dxaten, afai batek odola balidxo dau*
+- *odola balidxo dauie zapatak gero! Urrezkuek ezan balekidie bez karuau*
+- *ara, gaur egunien eziñ dxe ezebe erosi, odola balidxo dau edozek*
 
-ODOLAK ENBERENA				Disgustu handiaz odola pozoitu. Konparazioan.
+## ODOLAK BURURE IDXEN ##
 
-"esan dostezenakaz, odolak enberenata dxun nai etzera"
-"ez esan geidxau, odolak enberenata dakotez da"
+Zenetik irtenda.
 
-ODOLAK KORRIDU				Figuratiboan, iskanbilak sortu.
+- *emon dosten kolorigaz, odolak pe burure idxen dxastezen*
+- *da ikusi bazun, odolak burure idxenda, begidxek pe urtenda, zakatza gorritxute...*
+- *beti dau a odolak burure idxenda*
 
-"ezteidxela iñor imiñi jenidxotan gero, ostantzien, odolak korriko dau"
-"odolak korriko dauela esan dau? Badau bera burutik ondo?"
-"ba ni enai bape fidxeten; odolak korriko dauela badiño, berak dxakingo dau zer dabillen"
+## ODOLAK ENBERENA ##
 
-ODOL GOZOKUE					Gauza txar guztiak lepo gainera jaustea (figuratiboan).
+Disgustu handiaz odola pozoitu. Konparazioan.
 
-"ama, ez sartun ezetan be, ze gu odol gozokuek gariez"
-"muskitxo guztidxek pe neureñe datoz, klaro, odol gozokue naielez"
+- *esan dostezenakaz, odolak enberenata dxun nai etzera*
+- *ez esan geidxau, odolak enberenata dakotez da*
 
-OJA BIKO LIBRUE					Emakumeen alua definitzeko dauden hitzetariko beste bat.
+## ODOLAK KORRIDU ##
 
-"gure amumak oja biko librue ondo tapata okitxen dau, iñok ikusi barik"
-"geixorik zauz? Oja biko librue ondo dakozu? Bai? Ondo zauz orduen"
-"enebada! Pantalon barik dau, ikusi dotso oja biko librue!"
-"opera ein biar nauella esan dost medikuek, baie trankill oteko, oja biko libruri etsola ikutuko esan dost"
+Figuratiboan, iskanbilak sortu.
 
-OKASIÑUEN MAMARRUE			Zeharo nahastero/a.
+- *ezteidxela iñor imiñi jenidxotan gero, ostantzien, odola korriko dau*
+- *odolak korriko dauela esan dau? Badau bera burutik ondo?*
+- *ba ni enai bape fidxeten; odolak korriko dauela badiño, berak dxakingo dau zer dabillen*
 
-"zelako okasiñuen mamarrue da ba, masamorra guztidxetan sartzien da"
-"eztot ikusi ori baino okasintiaurik, okasiñuen mamarrue da txo"
+## ODOL GOZOKUE ##
 
-OKELA TXIKITXUEK				Iskanbila gogorrak.
+Gauza txar guztiak lepo gainera jaustea (figuratiboan).
 
-"gaur gure etxien okela txikitxuek ezango diez nire gixonagaz da nigaz, gau guztidxe parrandan pasa dau arek"
-"zeure lagunen etzien be ezan diez okela txikitxuek, berorreitxik gauzieitxik"
-"tabema guztidxetan ezan diez okela txikitxuek, ardauek eitxen dauena da ori"
+- *ama, ez sartun ezetan be, ze gu odol gozokuek gariez*
+- *muskitxo guztidxek pe neureñe datoz, klaro, odol gozokue naielez*
 
-OKERREKO BEGIDXEGAZ BEITU		Gorrotoaz, mesprezuz edo begi txarrez begiratu. 
+## OJA BIKO LIBRUE ##
 
-"eskolan be meisuek okerreko begidxegaz beituten dost"
-"kalien guzenien eztosku kasurik eitxen, baie okerreko begidxegaz beituten dosku"
+Emakumeen alua definitzeko dauden hitzetariko beste bat.
 
-OKEKREKO SAMATIK				Kontrako eztarritik, zulotik sartu. Figuratiboan, berbak sartu kontrako zulotik.
+- *gure amumak oja biko librue ondo tapata okitxen dau, iñok ikusi barik*
+- *geixorik zauz? Oja biko librue ondo dakozu? Bai? Ondo zauz orduen*
+- *enebada! Pantalon barik dau, ikusi dotso oja biko librue!*
+- *opera ein biar nauella esan dost medikuek, baie trankill oteko, oja biko libruri etsola ikutuko esan dost*
 
-"okerreko samatik dxun dxatzo okela zatidxe da idxe itxo"
-"berbak pe sarritxen dxuten dxastez niri okerreko samatik"
-"esnie edaten asi denien asi de idxetxuen okerreko samatik dxun dxatzolakon"
+## OKASIÑUEN MAMARRUE ##
 
-OLAKO MARKARIK				Harridurazko esaldia da.
+Zeharo nahastero / a.
 
-"olako markarik! Tabernatako atiek ordu bidxetako itxiko ei dauie; ori alkatie eztau ondo"
-"zer esan dau, eztatorrela? Olako markarik! Len eztau esan baietz ba?"
-"Nik esan dot ori? Olako markarik, e!"
+- *zelako okasiñuen mamarrue da ba, masamorra guztidxetan sartzien da*
+- *eztot ikusi ori baino okasintiaurik, okasiñuen mamarrue da txo*
 
-OLAKUN BI						Hori bai pentsa!
+## OKELA TXIKITXUEK ##
 
-"ori puestue atrapako dauela pentsaten dauela? Olakun bi!"
-"zeuk irebaziko dostazule? Olakun bi!"
+Iskanbila gogorrak.
 
-OILLARRAN BEGIDXE				Oso garbi. Oso fresko (arraina)
+- *gaur gure etxien okela txikitxuek ezango diez nire gixonagaz da nigaz, gau guztidxe parrandan pasa dau arek*
+- *zeure lagunen etzien be ezan diez okela txikitxuek, berorreitxik gauzieitxik*
+- *taberna guztidxetan ezan diez okela txikitxuek, ardauek eitxen dauena da ori*
 
-"etzie imiñ dxot..., oillarran begidxe dala atara kontue"
-"nok esan dau arraiñe zarra dala, beronen begidxeri beitutie baiño eztau, oillarran begidxe lez dako ta"
-"oillarran begidxe baiño garbidxau itxi dotez karrajue ta kuartuek"
+## OKERREKO BEGIDXEGAZ BEITU ##
 
-OLLUN POPAK					Holzak edo ikarak eragindako oilo ipurdiak.
+Gorrotoaz, mesprezuz edo begi txarrez begiratu. 
 
-"ollun popak takotez eiñdxe, otxitxu ein nai"
-"otz zara la? Zer ba? Olluen popak ikusten tsutez"
-"urten uretatik, ollun popak pe eiñdxe dakozuz de"
-"eztakot nik ollun poparik, eztakot otzik eta"
+- *eskolan be meisuek okerreko begidxegaz beituten dost*
+- *kalien guzenien eztosku kasurik eitxen, baie okerreko begidxegaz beituten dosku*
 
-Hitz honen bigarren osagaiak, >popa< k, ipurdia esan nahi du Bermeoko hizkeran. Beraz 
->oiloaren ipurdiak< izango litzateke literalki.
+## OKERREKO SAMATIK ##
 
-ONDO EIN BADAU ONDO TOPAKO DAU	Esaldi hau dagoen dagoenean erabiltzen da, hau da, ez du beste zentzurik.
+Kontrako eztarritik, zulotik sartu. Figuratiboan, berbak sartu kontrako zulotik.
 
-"nik ez dotsat desieten txarrik, baie ondo ein badau, ondo topako dau"
-"gure amak beti esaten dau: ondo ein dxauenak ondo topako dau"
-"gixon batek esan tson, maldeziñue bota tzon bateri, ondo ein badau ondo topako dauela, da, maldeziñue, bota tsonari dxeusi dxatzon"
+- *okerreko samatik dxun dxatzo okela zatidxe da idxe itxo*
+- *berbak pe sarritxen dxuten dxastez niri okerreko samatik*
+- *esnie edaten asi denien asi de idxetxuen okerreko samatik dxun dxatzolakon*
 
-ONDUE DXOTA					Diru barik. Animu barik.
+## OLAKO MARKARIK ##
 
-"ondue dxota nau, eztakot zentimorik pe"
-"beti ongo gara gu ondue dxota, gasta baiño eztu eitxen da"
-"ondue dxota dau, eztako ezetarako animorik, gixona ill dxatzonik eta ona"
+Harridurazko esaldia da.
 
-ONURE BARIK					Jatekoak zaporerik edo behar duena ez daukanean.
+- *olako markarik! Tabernatako atiek ordu bidxetako itxiko ei dauie; ori alkatie eztau ondo*
+- *zer esan dau, eztatorrela? Olako markarik! Len eztau esan baietz ba?*
+- *nik esan dot ori? Olako markarik, e!*
 
-"zetan ongo da gozo eztako onurerik eta, okelie biar dau orrek"
-"onure barik iñok eztatu gure, baie buzkentza botaten bazazu..."
-"ur asko ta onure gitxi dako orrek lapikuek"
+## OLAKUN BI ##
 
-ORBELA BAÑO SIKUAU				Sikua. Gogorra.
+Hori bai pentsa!
 
-"onek pastelak tauz orbela baiño sikuau"
-"aunek galletak pe dauz gerra denporan eiñekuen antzagaz, orbela baiño sikuau"
-"kanpuen itxitxen dozuzen gauze guztidxek paraten diez orbela baiño sikuau"
+- *ori puestue atrapako dauela pentsaten dauela? Olakun bi!*
+- *zeuk irebaziko dostazule? Olakun bi!*
 
-ORBELA LEZ					Aurrekoa bezala, konparazioan erabiltzen da.
+## OILLARRAN BEGIDXE ##
 
-"orbela lez dauz ikopasak, oin lau urtekuek tizela pentsaten da"
-"baitxe aunek abillanak pe, dxan be ezin dxiez eiñ"
+Oso garbi. Oso fresko (arraina)
 
-ORI DONA MASKETU!				Hori da aurpegia!
+- *etzie imiñ dxot..., oillarran begidxe dala atara kontue*
+- *nok esan dau arraiñe zarra dala, beronen begidxeri beitutie baiño eztau, oillarran begidxe lez dako ta*
+- *oillarran begidxe baiño garbidxau itxi dotez karrajue ta kuartuek*
 
-"ori dona masketu! Balora dakozu ori esaten"
-"eztostazu esango barriro ezta? Klaro esango dotsutena. Ori dona masketu!"
+## OLLUN POPAK ##
 
-ORIDXO MERKIE BAIÑO LARRIOXAUE	Oso nazkagarria.
+Holzak edo ikarak eragindako oilo ipurdiak.
 
-"niri ez presenta ori muntille, oridxo merkie bniño larridxnue da ta"
-"beran enbrien ama etor dxasku geure ondora. da oridxo merkie baiño larridxaue dalez, enfada-enfada ein gaitxuzen"
-"oridxo merkie baiño larridxauen antu duko orrek aguriek"
+- *ollun popak takotez eiñdxe, otxitxu ein nai*
+- *otz zara la? Zer ba? Olluen popak ikusten tsutez*
+- *urten uretatik, ollun popak pe eiñdxe dakozuz de*
+- *eztakot nik ollun poparik, eztakot otzik eta*
 
-ORIDX0 MERKIE LAKUE				Txaplata antzekoa. Aspergarria.
+Hitz honen bigarren osagaiak, *popa* k, ipurdia esan nahi du Bermeoko hizkeran. Beraz *oiloaren ipurdiak* izango litzateke literalki.
 
-"benetan da oridxo merkie lakue, agure zantarra, enbra guztidxei gauzek esaten oten da"
-"ofiziñen be oridxo merkie lakue da, jefiei be dxaboie pasaten oten da"
+## ONDO EIN BADAU ONDO TOPAKO DAU ##
 
-ORKO MORKO					Pensona dorpea.
+Esaldi hau dagoen dagoenean erabiltzen da, hau da, ez du beste zentzurik.
 
-"orko morko lako personiegaz nora dxungo nai ba?"
-"txo, orko morko, mobidu adi, gaurko da ta"
-"orko morkue da korriten be, zapatak pe orko morkue lakuek takoz"
-"orko morko utse da, kortan asikue dala pentsaten da"
-"zer zarala pentsaten zu ba, orko morko ori"
+- *nik ez dotsat desieten txarrik, baie ondo ein badau, ondo topako dau*
+- *gure amak beti esaten dau: ondo ein dxauenak ondo topako dau*
+- *gixon batek esan tson, maldeziñue bota tzon bateri, ondo ein badau ondo topako dauela, da, maldeziñue, bota tsonari dxeusi dxatzon*
 
-ORMIEGAZ BAT					Mehatxua. Jipoiaren iragarkia.
+## ONDUE DXOTA ##
 
-"imitxen banozu berotute, ormiegaz be bat eingo zaitxut"
-"ni enai sartzien euren tartien, baie ormiegaz bat eingo dauela esan tzonien..."
-"atzamar puntie dot neiko, zu ormiegaz bat eitxeko"
+1. Diru barik.
 
-ORMIEGAZ TRINKE				Mehatxua. Aurrekoaren parekoa dugu.
+- *ondue dxota nau, eztakot zentimorik pe*
+- *beti ongo gara gu ondue dxota, gasta baiño eztu eitxen da*
 
-"ormiegaz be trinke eingo dauela esan tsonien neuk pe berbie esan tsat"
-"ni eingo nozule ormiaz trinke, neure tripera ez zarana aillegaten"
-"ormiegaz trinketeko kapazidade andidxe okin bizu"
+2. Animu barik.
+- *ondue dxota dau, eztako ezetarako animorik, gixona ill dxatzonik eta ona*
 
-ORMIRI BERBA					Bakarrik berbetan. Aurrean dagoenak arreta ez jartzea.
+## ONURE BARIK ##
 
-"nori nau berbetan ba, ormiri berbetan nau antza"
-"an dau a ormiri berbetan, iñok ez dotso eitxen nogaz dauen be ta"
-"orduek pasaten txuz ormiri berbetan"
-"abadie be elixen ormiri berbetan oten da, a komo la bara be ez dotso eitxen iñok eta"
+Jatekoak zaporerik edo behar duena ez daukanean.
 
-ORREGAZ EZTAU MARIDXERIK		Ez dagoela irabazirik edo zereginik.
+- *zetan ongo da gozo eztako onurerik eta, okelie biar dau orrek*
+- *onure barik iñok eztatu gure, baie buzkentza botaten bazazu...*
+- *ur asko ta onure gitxi dako orrek lapikuek*
 
-"orregaz arraiñegaz eztau maridxerik"
-"egiñalak ein dxe be eztau maridxerik"
-"orrekaz imiekaz maridxe gitxi atarako ku"
+## ORBELA BAÑO SIKUAU ##
 
-ORROTZETIK ARAKUE				Berri-berria dela adierazteko, baina edozer izan daiteke.
+Sikua. Gogorra.
 
-"ori erropie orrotzeik arakue da"
-"zapatak be orrotzetik arakuek tiez"
-"dan dana ezan da orrotzetik arakue"
+- *onek pastelak tauz orbela baiño sikuau*
+- *aunek galletak pe dauz gerra denporan eiñekuen antzagaz, orbela baiño sikuau*
+- *kanpuen itxitxen dozuzen gauze guztidxek paraten diez orbela baiño sikuau*
 
-ORRANTZ ORRANTZ!!!				Mesprezuzko oihua da.
+## ORBELA LEZ ##
 
-"orrantz, orrantz! Ez zaitxut gure geidxau ikusi"
-"naskile zantarra, zuk esan biar zu nireitxik ezer ela? Orrantz, orrantz!"
+Aurrekoa bezala, konparazioan erabiltzen da.
 
-ORTIK ORRANTZ!					Aurrekoaren parekoa da, baina esaldiak bigunagoak izaten direla ematen du.
+- *orbela lez dauz ikopasak, oin lau urtekuek tizela pentsaten da*
+- *baitxe aunek abillanak pe, dxan be ezin dxiez eiñ*
 
-"alamenien ibill dxe da azkanien ortik orrantz bota dau"
-"dxun zaitxez ortik orrantz, da ez etorri nireiñe ezetako be"
+## ORI DONA MASKETU! ##
 
-OSOSOKO SANTUE				Geldi dagoen pertsona.
+Hori da aurpegia!
 
-"bestelako ososoko santue zauz or, eulidxei begire"
-"an on nai ni, ososoko santue lez zeuri begire"
-"bertan dau ososoko santue lez iñora mobidu barik"
+- *ori dona masketu! Balora dakozu ori esaten*
+- *eztostazu esango barriro ezta? Klaro esango dotsutena. Ori dona masketu!*
 
-OSTIDXE ATAR					 Jipoi ederra eman, baina ez bakarrik kolpeka, berbaz ere bai.
+## ORIDXO MERKIE BAIÑO LARRIDXAUE ##
 
-"dxo enau ein, baie ostidxe atara dost esan dosten berbakaz"
-"zelako ostidxe atara dotso ba, bienganien tunbeta ikusi arte ezta lotu"
+Oso nazkagarria.
 
-OSTIDXEK ETA BI AMABI			Ostia! Kaka zaharra!
+- *niri ez presenta ori muntille, oridxo merkie bniño larridxnue da ta*
+- *beran enbrien ama etor dxasku geure ondora. da oridxo merkie baiño larridxaue dalez, enfada-enfada ein gaitxuzen*
+- *oridxo merkie baiño larridxauen antu duko orrek aguriek*
 
-"txo, zuk apurtu dozu kazetako kristela, ostidxek eta bi amabi!"
-"ostidxek eta bi amabi! aztu dxotazak giltzek etzien"
-"Ateletik partidue galdu! Ostidxek eta bi amabi!"
+## ORIDXO MERKIE LAKUE ##
 
-OSTIDXE LAKUE					Oso ona edo oso txarra.
+Txaplata antzekoa. Aspergarria.
 
-"ostidxe lako eguerdidxe prepara dauie txokuen"
-"ostidxe lako arraiñek emon doskue, dxan be eziñ"
-"ostidxe lako zapatak erosi dotez, elegantiek"
-"ostidxelako partidue ikusi du Madrillen Ateletigaz"
+- *benetan da oridxo merkie lakue, agure zantarra, enbra guztidxei gauzek esaten oten da*
+- *ofiziñen be oridxo merkie lakue da, jefiei be dxaboie pasaten oten da*
 
-OSTIDXE LEZ					Oso ona. Dena ondo.
+## ORKO MORKO ##
 
-"ostidxe lez dau au marmintxe"
-"ostidxe lez on da atzoko arraiñe be"
-"ostidxe lez imiñ dxauie Lamerie, banko barridzekaz"
-"egualdidxe dau, ostidxe lez, berorik pez da otzik pez"
+Pertsona dorpea.
 
-OTSEKO BATEN					Sarri. Hurrengo esaldiaren parekoa dugu.
+- *orko morko lako personiegaz nora dxungo nai ba?*
+- *txo, orko morko, mobidu adi, gaurko da ta*
+- *orko morkue da korriten be, zapatak pe orko morkue lakuek takoz*
+- *orko morko utse da, kortan asikue dala pentsaten da*
+- *zer zarala pentsaten zu ba, orko morko ori*
 
-"hotseko baten esaten dost tentela naiela"
-"orrek imiek eztako lotsarik, otseko baten dau dirue eskatuten"
+## ORMIEGAZ BAT ##
 
-OTSIEN OTSIEN					Txitean-pitean.
+Mehatxua. Jipoiaren iragarkia.
 
-"otsien-otsien apurtuten dotez basuek, basotako be eztot eitxen"
-"otsien-otsien telefonotik deike oten da, telefonika pozarren"
-"otsien-otsien due Bilbora, pelikuleren bat ikusten"
+- *itxen banozu berotute, ormiegaz be bat eingo zaitxut*
+- *ni enai sartzien euren tartien, baie ormiegaz bat eingo dauela esan tzonien...*
+- *atzamar puntie dot neiko, zu ormiegaz bat eitxeko*
 
+## ORMIEGAZ TRINKE ##
+
+Mehatxua. Aurrekoaren parekoa dugu.
+
+- *ormiegaz be trinke eingo dauela esan tsonien neuk pe berbie esan tsat*
+- *ni eingo nozule ormiaz trinke, neure tripera ez zarana aillegaten*
+- *ormiegaz trinketeko kapazidade andidxe okin bizu*
+
+## ORMIRI BERBA ##
+
+Bakarrik berbetan. Aurrean dagoenak arreta ez jartzea.
+
+- *nori nau berbetan ba, ormiri berbetan nau antza*
+- *an dau a ormiri berbetan, iñok ez dotso eitxen nogaz dauen be ta*
+- *orduek pasaten txuz ormiri berbetan*
+- *abadie be elixen ormiri berbetan oten da, a komo la bara be ez dotso eitxen iñok eta*
+
+## ORREGAZ EZTAU MARIDXERIK ##
+
+Ez dagoela irabazirik edo zereginik.
+
+- *orregaz arraiñegaz eztau maridxerik*
+- *egiñalak ein dxe be eztau maridxerik*
+- *orrekaz imiekaz maridxe gitxi atarako ku*
+
+## ORROTZETIK ARAKUE ##
+
+Berri-berria dela adierazteko, baina edozer izan daiteke.
+
+- *ori erropie orrotzeik arakue da*
+- *zapatak be orrotzetik arakuek tiez*
+- *dan dana ezan da orrotzetik arakue*
+
+## ORRANTZ ORRANTZ!!! ##
+
+Mesprezuzko oihua da.
+
+- *orrantz, orrantz! Ez zaitxut gure geidxau ikusi*
+- *naskile zantarra, zuk esan biar zu nireitxik ezer ela? Orrantz, orrantz!*
+
+## ORTIK ORRANTZ! ##
+
+Aurrekoaren parekoa da, baina esaldiak bigunagoak izaten direla ematen du.
+
+- *alamenien ibill dxe da azkanien ortik orrantz bota dau*
+- *dxun zaitxez ortik orrantz, da ez etorri nireiñe ezetako be*
+
+## OSOSOKO SANTUE ##
+
+Geldi dagoen pertsona.
+
+- *bestelako ososoko santue zauz or, eulidxei begire*
+- *an on nai ni, ososoko santue lez zeuri begire*
+- *bertan dau ososoko santue lez iñora mobidu barik*
+
+## OSTI BI TXE ERDIGAZ ##
+
+Oso azkar.
+
+- *Floren erdu Sotapatroien puestora osti bi txe erdigaz!*
+- *Txetxo erdu osti bi txe erdigaz, ostantzien armosotakue emongo tzut!*
+
+## OSTIDXE ATARA ##
+
+Jipoi ederra eman, baina ez bakarrik kolpeka, berbaz ere bai.
+
+- *dxo enau ein, baie ostidxe atara dost esan dosten berbakaz*
+- *zelako ostidxe atara dotso ba, bienganien tunbeta ikusi arte ezta lotu*
+
+## OSTIDXEK ETA BI AMABI ##
+
+Ostia! Kaka zaharra!
+
+- *txo, zuk apurtu dozu kazetako kristela, ostidxek eta bi amabi!*
+- *ostidxek eta bi amabi! aztu dxotazak giltzek etzien*
+- *Ateletik partidue galdu! Ostidxek eta bi amabi!*
+
+## OSTIDXE LAKUE ##
+
+Oso ona edo oso txarra.
+
+- *ostidxe lako eguerdidxe prepara dauie txokuen*
+- *ostidxe lako arraiñek emon doskue, dxan be eziñ*
+- *ostidxe lako zapatak erosi dotez, elegantiek*
+- *ostidxelako partidue ikusi du Madrillen Ateletigaz*
+
+## OSTIDXE LEZ ##
+
+Oso ona. Dena ondo.
+
+- *ostidxe lez dau au marmintxe*
+- *ostidxe lez on da atzoko arraiñe be*
+- *ostidxe lez imiñ dxauie Lamerie, banko barridzekaz*
+- *egualdidxe dau, ostidxe lez, berorik pez da otzik pez*
+
+## OTSEKO BATEN ##
+
+Sarri. Hurrengo esaldiaren parekoa dugu.
+
+- *hotseko baten esaten dost tentela naiela*
+- *orrek imiek eztako lotsarik, otseko baten dau dirue eskatuten*
+
+## OTSIEN OTSIEN ##
+
+Txitean-pitean.
+
+- *otsien-otsien apurtuten dotez basuek, basotako be eztot eitxen*
+- *otsien-otsien telefonotik deike oten da, telefonika pozarren*
+- *otsien-otsien due Bilbora, pelikuleren bat ikusten*
