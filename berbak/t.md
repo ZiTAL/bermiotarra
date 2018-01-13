@@ -490,11 +490,19 @@ Alua. Beti erabiltzen da gogor hitz egiten denean, edota, haserre tonuan.
 - *arraiñ asko ekartsue ezta? Arraiñ asko? Zeure tortolie!*
 - *arek tako, tortolie erreta, ibill dxen beste gixonegaz*
 
+## TOTAL ##
+
+Oso.
+
+- *total ondo pasa du Mañuko jaidxetan*
+- *azterketie total txarto eiñ dxot*
+- *total politxo pintze dauie Talako ormie*
+
 ## TOTALEKUE ##
 
 Totalekoa. Ezer edo inor baino gehiago.
 
-- *okasintie totalek-ue da bera gixona*
+- *okasintie totalekue da bera gixona*
 - *erosi dauen kotxiek, korridxe dako totalekue*
 - *totalekue zara gero, eztau zu baiño andra fiñaurik*
 
