@@ -61,10 +61,9 @@ Al'stazuie email bidez be bota: zital@riseup.net baie goidxen imindxotelez bota 
 
 Esker berezidxek:
 
-- Jose Martos.
-- Iñigo Aldai.
-- Dorleta Kortazar.
+- Jose Martos
+- Iñigo Aldai
+- Dorleta Kortazar
+- Ainhoa Astui
 
 Eskerrik asko!
-
-
