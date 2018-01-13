@@ -1046,7 +1046,7 @@ Bermeon, batez ere gizon argalei aplikatzen zaie. Bazegoen gizon bat, argala eta
 
 ## ANDAKA ##
 
-Duela berrogeitaz urteak -orain ere noizbehinka ikus daiteke- joko baten jarduten zuen gazteek eta umeek. Joko hau, animalia baten antzera jarrita -lautxakurrean deritzoguna- besteak gure gorputzaren gainetik saltatzean zetzan. Honela, bat behean, besteak saltatu eta makurtu. Dena katean. Hitza bai dela oraindino.
+Duela berrogeitaz urteak -orain ere noizbehinka ikus daiteke- joko baten jarduten zuen gazteek eta umeek. Joko hau, animalia baten antzera jarrita -lautxakurrean deritzoguna- besteak gure gorputzaren gainetik saltatzean zetzan. Honela, bat behean, besteak saltatu eta makurtu, denak errenkada bat eginez.
 - *andaka dabiltzuz arek tonpoidxen*
 - *ez ibilli andaka izterra apurtuko zu te*
 - *andaka ibilli gariez goixe guztidxen*
