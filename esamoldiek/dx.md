@@ -49,7 +49,7 @@ Pitxer eta katiluak. *Jarra* hitza erabili da.
 
 ## DXIBO-DXIBO ##
 
-Zibua.
+Zabua. *Columpio*.
 
 - *ama, eruen dxibo-dxibutara*
 - *ezpazu dxaten meridxandie eztau dxibo-dxiborik*

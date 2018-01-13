@@ -183,7 +183,7 @@ Beste hitz batzuekin gertatu den bezala, bi hitz hauek ere erdaraz berba egiten 
 
 - *has hecho kalba, eres una kalbistera*
 
-## KALLINPAN ##
+## KALINPAN ##
 
 Egunaren ordu guztietan kalean egotea. 
 
@@ -389,6 +389,17 @@ Igarotzea.
 - *arraiñ guztidxen karridxue ordubetien ein dxu*
 
 Gaztelerako *acarreo*.
+
+## KARTAPARTILLEK ##
+
+Kontuak konpondu; zentzu guztietan.
+
+- *zer, eiñ dxauie kartapartillek ela?*
+- *bai, arek eiñ dxauie, baie zuk eta nik pe kartapartillek ein biduz*
+- *zemat eta ariñau eiñ kartapartillek, obeto*
+- *kartapartillek eiñ dxuz, baie ondiño eztogu konpondu dana*
+
+Hitz honek ez du zentzu handirik formari begiratu ezkero, baina hor dago eta badirudi, *cuentas de partija* hitz multzotik sartu dela. *Partille* arrainontzietan egiten den diru banaketa da. Eta banaketa hori mahai baten inguruan egiten zenez, mahai gaineko kartak edo *karta-partillek* hori izan liteke.
 
 ## KASKANTE ##
 
@@ -851,6 +862,14 @@ Ingurua.
 Gaztelerako *contorno* hitzak beste bat hartu du euskaraz emateko.
 
 kontomo > kontomo + /une/ kontornoune > kunturrune/
+
+## KURUBIDXUE ##
+
+Liztorra.
+
+- *kurubidxuek pike dost eta min dakot*
+- *kurubidxuek aritzatxun... zemat kure!*
+- *kurubidxuek erliek baño peligro handidxaue dakoie*
 
 ## KUSTIÑUE ##
 
