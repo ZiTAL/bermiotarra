@@ -409,6 +409,14 @@ Ezer egin barik. Lanik egin barik.
 - *an dakozuz arek ama ta alabie zer eiñ ezien binboliñe dxoten*
 - *binbolifie dxoten on barik, anun eskobie da kolarra eskobatu*
 
+## BIRI BIRIKE ##
+
+Erdi zorabiatuta, egon ezinarekin, aurrera eta atzera ibili.
+
+- *biri-birike pasa dot gau osue ta banun medikunera*
+- *biri-birike berton medikuen analizuri itxaroten*
+- *biri-birike zeuri begire, ta zu bertan tortola bedeinkatulez!*
+
 ## BITSIK KALDU BARIK ##
 
 Denborarik galdu gabe.
