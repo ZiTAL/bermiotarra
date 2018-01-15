@@ -42,7 +42,7 @@ Esaldi hau peioratiboan erabiltzen da.
 Eta gainera...
 
 - *da kotxie nora eztala, soiñeko arropa guztidxek apurtu txuz*
-- *"zure lagunek nora eztiela, euren lagunen lagunek pe dxaten etor diez*
+- *zure lagunek nora eztiela, euren lagunen lagunek pe dxaten etor diez*
 - *da neure disgustue nora eztala, beste puñeteriek betik gora ez altzateko berbak esan*
 
 ## NOTAKI BOTAKI! ##

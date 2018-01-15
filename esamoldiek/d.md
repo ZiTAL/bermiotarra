@@ -125,7 +125,7 @@ Diruzale amorratua.
 Diruzale oso amorratua.
 
 - *arek elekidau pagako txikito bat, ezta pentza be, diruen mamarrue danagaz*
-- *beran andrie be diruen rnamarro utze da*
+- *beran andrie be diruen mamarro utze da*
 - *bestelako diruen mamarro bi dauz or*
 
 ## DIZENAK ETA EZTIZENAK ##

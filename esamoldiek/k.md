@@ -170,7 +170,7 @@ Miseria gorrian.
 
 - *il dxenien fameli guztidxe geratu zan kale gogorran ganien*
 - *oraiñ ezteidxela ein negarrik, ze berak pe ainbeste jente itxi dau kale gogorran ganien*
-- *imeterno asko itxi txuz kale gogorrien, etziek eta diruek ostute*
+- *ime terno asko itxi txuz kale gogorrien, etziek eta diruek ostute*
 
 ## KALIEK AUSTEN ##
 
@@ -329,8 +329,6 @@ Asko, kantitate handia.
 
 ## KIÑUE ATARA ##
 
-Bi zentzutan azaltzen dela ere esan dugu: biziki jardun egitekoan, eta "bronka" ederra jaurti. Baina beste zentzu baten ere erabiltzen dela baieztatuko dugu.
-
 1. Biziki jardun egitekoan.
 
 - *kiñue atara tzat oneri kotxieri, ia eztau balidxo ezetako be*
@@ -339,6 +337,8 @@ Bi zentzutan azaltzen dela ere esan dugu: biziki jardun egitekoan, eta "bronka" 
 2. Errieta egin.
 
 *zure aiztiek laguneri kiñue atara tzo, eintzozen aldarridxekaz...*
+
+Baina beste zentzu baten ere erabiltzen dela baieztatu dugu.
 
 ## KOFRIE LEZ BETETA ##
 
@@ -500,5 +500,5 @@ Ebaketa bat egitera joan ospitalera.
 Iskanbila.
 
 - *orreneko etzien gaur be kutxilluek eta askak ezango diez, diro guztidxe gasta dauela enteraten dizenien*
-- *kutxilluek eta askak ezan diez Larnerako taberna baten, mutil batek eta enbra batek eiñ dxauie pellikan*
+- *kutxilluek eta askak ezan diez Lamerako taberna baten, mutil batek eta enbra batek eiñ dxauie pellikan*
 - *amen berez armaten diez kutxilluek eta askak*

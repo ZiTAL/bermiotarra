@@ -105,7 +105,7 @@ Gilaz gora. Itsasontziak egoten diren moduan. Konparazioan etzanda edo erdi etza
 Lelo baten antzekoa da *gitxitxu* berbari erantzuteko.
 
 - *gitxitxu dxan biar da tipue konserbateko. Bai, gitxitxu baie sarritxu*
-- *gitxitxu baie sarritxu dxan biar dala diño rnedikuek*
+- *gitxitxu baie sarritxu dxan biar dala diño medikuek*
 
 ## GOBERNUEN KONTRAKUE ##
 

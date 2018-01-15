@@ -13,7 +13,7 @@ Harridurazkoa da. Edozein egoeratan erabiltzen da.
 Aditz guztiekin erabilia da. Gaztelerako *ya que...* adierazten du.
 
 - *idxek eta etor zaran, au biarra ein gu*
-- *eztot pentza etortie, baie idxek eta arnen nauen, ziñera dxungo gariez*
+- *eztot pentza etortie, baie idxek eta amen nauen, ziñera dxungo gariez*
 - *idxek eta txikidxena naien neuri emon bistazu eraztune*
 - *idxek eta eztakidxen, etzagu esango ezebe*
 - *idxek eta apurtute dauen, bota eingu sastarratara*

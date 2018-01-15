@@ -117,7 +117,7 @@ Paela, itsasontzietan arraina gordetzerakoan erabiltzen diren trabesetara jarrit
 
 Itsasontzia gilarekin perpendikularrean doanean esaten da. Konparazioan txarto ibiltzen den pertsona.
 
-- *arnen guez trabes trabeska korrontak tiñonien, eurekaz batera*
+- *amen guez trabes trabeska korrontak tiñonien, eurekaz batera*
 - *gu aixiek tiñonien guez ba, trabes trabeska, azkaningoko txikitue artzien*
 - *trabes trabeska dxun da mozkorragaz, eztaitx zelan aillegako dan etzera*
 

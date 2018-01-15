@@ -20,7 +20,7 @@ Oso urrun.
 Min handiak daudenean.
 
 - *jaune il noixuko doloriekaz egon nai*
-- *"gure ime txikidxe be alaurike egon da jaune il noixuko doloriekaz*
+- *gure ime txikidxe be alaurike egon da jaune il noixuko doloriekaz*
 - *zelako gaue pasa dot ba, tripetako miñekaz, jaune il noixuko doloriekaz*
 - *saldarra zoldu arte jaune il noixuko doloriek egoten diez*
 

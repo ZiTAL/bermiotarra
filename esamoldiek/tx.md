@@ -88,7 +88,7 @@ Burutik erdi eginda dagoena.
 
 ## TXILIN TXALAN ##
 
-Bi pertsonak, besoak elkarri lotuta genatzen den "sila"n umetxoa jarri eta kulunkatzen ibiltzea da.
+Bi pertsonak, besoak elkarri lotuta umetxoa bertan gainean kulunkatzen ibiltzea da.
 
 - *ona bazara txilin txalanka ibilliko zara izekok eta neuk*
 - *ai ze ondo! Txilin txalan, ze ondo ibilliko gara*

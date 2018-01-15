@@ -256,7 +256,7 @@ Zapore gutxi edo batere ez. Gehienetan janariei dagokie.
 
 Pepelerdoaren begiak.
 
-- *niri ez irniñi beseuen begidxek, ezetuten zaitxut eta*
+- *niri ez imiñi beseuen begidxek, ezetuten zaitxut eta*
 - *beran beseuen begijekaz beitu dosten da aurrera segidu zauen ezer esan barik*
 - *gusta be eitxie berori beseuen begidune*
 - *ensegidako baten imintxen txuz beseuen begidxek, engañe gure zaitxuzenien*
@@ -349,7 +349,7 @@ Berba gogorrak esan.
 
 Kolpatu. Jo.
 
-- *ernoten tsuten ostidxegaz betondue be baltzitxu eingo tsut*
+- *emoten tsuten ostidxegaz betondue be baltzitxu eingo tsut*
 - *amerik tire betondue baltzitxu orduko*
 - *zapatien takoiegaz dxo da betondue baltzitxuko tsola esan tso*
 - *betondue baltzitxu barik gero, nok esan dotsu zuri berandu etorteko?*
@@ -444,7 +444,7 @@ Sergera, hegaluze eta hegalaburren multzoa da. Baina konparazioan, gizon multzoa
 
 Burutaldia. Txabetada. Ez da burua galduta edukitzea, momentuko guraria baizik.
 
-- *noiz etorko da ba? Bolo sandxiek ernoten tsonien*
+- *noiz etorko da ba? Bolo sandxiek emoten tsonien*
 - *gure gixonak zelako bolo saindxek okitxen txuz ba*
 - *neuk pe okitxen dotez bolo saindxek neuri konbeniten dxastenien*
 
@@ -482,7 +482,7 @@ Bai zera!
 
 Entzundakoa edo esandakoa ez dela sinisten, zalantzan jartzen dela edo pertsona bat edo gauza bat badaezpadakoa dela adierazteko esaten da. Mesprezua adierazteko ere bai.
 
-- *bota gatza orreri rnutilleri, ez da fidxetekue ta*
+- *bota gatza orreri mutilleri, ez da fidxetekue ta*
 - *zer zauz esaten, diro asko dakola? Bota gatza!*
 - *bota gatza orreri dxatekuri, eztako bertuterik pe ta*
 

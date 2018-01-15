@@ -223,7 +223,7 @@ Esanahi ezberdinak:
 
 1. Oso urrun.
 
-- *non dau berori elixie ba, arnatxarridxen etzien dau te*
+- *non dau berori elixie ba, amatxarridxen etzien dau te*
 - *amatxarridxen etzien erosi dau etzie*
 
 2. Batek daki!
@@ -252,7 +252,7 @@ Oso urrun. Aurrean badago beste honen antzeko bat, baina hau leunagoa da.
 
 Beste honek badu aurretik pareko bat. Hala ere, honen tonua leunagoa dela esan dugu.
 
-- *arna txitxien imie zara zu, nik etsut esan ogidxe ekarteko?*
+- *ama txitxien imie zara zu, nik etsut esan ogidxe ekarteko?*
 - *aurrek amatxitxien semiek ekar txuz trastiek, baie erun biko txuz*
 
 ## AMEN GU! ##
@@ -261,7 +261,7 @@ Harridura, oihu edo haserrea adierazten duen lokuzioa dugu.
 
 - *amen gu! Tentelan antzien euren begire*
 - *amen gu! Mobidu be ezin, da denporie aurrera*
-- *ez dauela autobusik? Arnen gu! Da orain zer?*
+- *ez dauela autobusik? Amen gu! Da orain zer?*
 
 ## ANAIDXE TXIKIDXE ##
 
@@ -511,7 +511,7 @@ Gogorra. Konparazioan jarrera gogorra.
 - *emon doskun okelie arridxe ta ormie baiño gogorraue ezan da*
 - *arridxe ta ormie baiño gogorrau para dxast tripie; ia peritonitis bakot?*
 - *arridxe ta ormie baiño gogorraue da, negarrik pe eztau eiñ entierruen*
-- *neuk esan kotxie itxitxeko, neurie apurtute dauela ta, da arridxe ta orrnie baiño gogorrau, ezetz kontesta*
+- *neuk esan kotxie itxitxeko, neurie apurtute dauela ta, da arridxe ta ormie baiño gogorrau, ezetz kontesta*
 
 ## ARRIKO TRAPUE LEZ IBILLI ##
 
@@ -602,7 +602,7 @@ Lelo antzekoa da.  *zer egingo diogu ba!* esan nahi du. Dena barkatu behar dela.
 
 Pertsona dorpea edo trauskila dirudienari esaten zaio.
 
-- *txo, asto dxaidxo da rnando azi aiz*
+- *txo, asto dxaidxo da mando azi aiz*
 - *eztau orrelakorik, asto dxaidxo da mando azi da, progresaten due*
 
 ## ASTO DXUN DA MANDO ETORRI ##
@@ -727,7 +727,7 @@ Ausarta izan.
 - *onek eztako atzeko otzik, berrogei milloiko etzie erosi dau*
 - *nik eztakot atzeko otzik oneri lau berba esateko*
 - *osti batzuk emoteko eztakot atzeko otzik gero*
-- *arnetik eta Gernikera oiñez dxuteko be eztako atzeko otzik, eztako ikararik*
+- *ametik eta Gernikera oiñez dxuteko be eztako atzeko otzik, eztako ikararik*
 
 ## ATZEKO TIRIE ##
 

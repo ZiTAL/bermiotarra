@@ -13,7 +13,7 @@ Arin. Azkar.
 
 - *entera danien, berak ikusi gure dauen pelikulie dauzela Bilbon emoten, makiñe guztidxen dxun da*
 - *nora dator korridxen ba, makiñe guztidxen dator da*
-- *arnen guez gu makiñe guztidxen Talara, an zer dauen ikusten*
+- *amen guez gu makiñe guztidxen Talara, an zer dauen ikusten*
 
 ## MANDARA EIÑ ##
 
@@ -93,7 +93,7 @@ Negar asko egin eta sarri.
 
 Mur-mur.
 
-- *auntxe be marra-rnarra dabill, eztaitx zeitxik baie*
+- *auntxe be marra-marra dabill, eztaitx zeitxik baie*
 - *marra-marra zauz berandu etor naielako*
 - *zeitxik zauz marra-marra? ze eiñ dxatzu ba?*
 
