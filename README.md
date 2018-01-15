@@ -1,21 +1,19 @@
-# Bermioko berba eta esamoldiek #
+# Bermiotarra #
 
-*Begoña Bilbao Alboniga*k idatzi zauen *Bermeoko berba eta esamolde kresaltsuak (2002)* liburue referente moduen hartute, Bermioko berbak eta esamoldiek digitalera pasatie da ideie.
+*Begoña Bilbao Alboniga*k idatzi zauen *Bermeoko berba eta esamolde kresaltsuak (2002)* liburue referente moduen hartute, Bermioko berbak eta esamoldiek digitalera pasatie da ideie, baie beste liburu batzuk be topa dotezelez ba... ia danon artien beteten badun hiztegidxe!
 
 Proiektue [Markdown](https://en.wikipedia.org/wiki/Markdown) erabilitze ezango da, erreza dalakon, eta holan edonok al' izateko parte hartu.
 
-Lagunduteko, bajatu fitxeroren bat -DOC karpeta barruen topako'zuiez-
+Lagunduteko, bajatu fitxeroren bat - DOC karpeta barruen topako'zuiez - eta hurrengo formatuen bota eistazuie e-mailera mesedez: zital@riseup.net
 
 ---
 
 Estandar bat imintzeko asmoz:
 
-1. Lelen: berbien esanahidxe.
+1. Berbien esanahidxe.
 2. Adibidiek esaldidxetan.
 3. Informaziño gehidxau berbiri buruz
 4. Atzizkidxek >< bitxartien.
-
-Berba edo esamolde barridxek e-posta bidez be bota: zital@riseup.net baie goiko formatuegaz mesedez imindxotelez bota mesedez.
 
 Esker berezidxek:
 
