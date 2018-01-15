@@ -90,7 +90,7 @@ Saltsa guztietan sartzen den pertsona.
 
 Hitz honek >ro< gaztelerako atzizkia hanu du. 
 
-/saltsa/ + /ro/ > saltsero/
+/saltsa/ + /ro/ → saltsero/
 
 ## SALTSAIDXO / UE ##
 
@@ -118,7 +118,7 @@ Ukabilkada. Kolpea. Ostia.
 - *emoten tsuten sanblazintxiegaz konta be ezu eingo*
 - *sanblazintxie emon barik enai geraruko*
 
-Nola sustraitu den hitz hau ez dago susmorik ere. Hitzaren konposizioan hiru elementu sartu dira: /San/ /Blas/ + /zinta/ >sanblazinta > sanblazintxe
+Nola sustraitu den hitz hau ez dago susmorik ere. Hitzaren konposizioan hiru elementu sartu dira: /San/ /Blas/ + /zinta/ >sanblazinta → sanblazintxe
 
 ## SANDXE / IE ##
 
@@ -186,7 +186,7 @@ Iraina da. Mesprezuzkoa. Ez da erabiltzen zentzu konkretuan.
 
 Askotan bezala, hemen ere >to< atzizkia hartu da, izen batetatik adjektibo bat ateratzeko.
 
-/sama/ + /to/ > samato/ Baina eufoniagatik /z/ tartekatu da eta /sarnazto/ eman du.
+/sama/ + /to/ → samato/ Baina eufoniagatik /z/ tartekatu da eta /sarnazto/ eman du.
 
 ## SARTENA ##
 
@@ -209,7 +209,7 @@ Kolpea. Ostia. Ukabilkada.
 
 Kasu honetan >zo< atzizkia erabili da.
 
-/sartena/ + /zo/ > sartenazo/
+/sartena/ + /zo/ → sartenazo/
 
 ## SASKELA ##
 
@@ -249,7 +249,7 @@ Zaborreria izango da. Baina soroko orbel siku eta abar ere bai.
 - *sakeleidxek erreten on da ta ertzaiñe etor dxatzo aldarrike*
 - *zer batzien da berton saskeleidxe ba, neuk pe laster emongo tzatie su, datorrela ertzaiñe ostike*
 
-Aurreko >saskel< + >eria< atzizkia > sakeleria/
+Aurreko >saskel< + >eria< atzizkia → sakeleria/
 
 Gero fonetikako aldaketak jasan ondoren: /saskeleidxe/ eman du.
 
@@ -302,11 +302,11 @@ Soldadutza.
 - *serbezidxue eiñ dxe gero ezkonduko dala esan dau*
 - *serbezidxue, ein be elekide ein biar*
 
-/servicio > serbezio > serbezidxo/, bokalen asimilazioaz.
+/servicio → serbezio → serbezidxo/, bokalen asimilazioaz.
 
 ## SERRAPOLLERA ##
 
-Jantzietan lotzeko erabiltzen diren *cierre* gaztelerakoa hartuta egin dugu hitz hau. Aurretik hasitako bide bati jarratuz, eta lokuzioetan ere azaltzen den moduan, Latino Amerikan erabiltzen den *pollera (falda)* Hitza hartu da zuzenean, /cierra pollera > zerrapollera > serrapollera/
+Jantzietan lotzeko erabiltzen diren *cierre* gaztelerakoa hartuta egin dugu hitz hau. Aurretik hasitako bide bati jarratuz, eta lokuzioetan ere azaltzen den moduan, Latino Amerikan erabiltzen den *pollera (falda)* Hitza hartu da zuzenean, /cierra pollera → zerrapollera → serrapollera/
 
 - *albuen imiñi bi tsazuz serrapollerak*
 - *serrapollerak erosi bi dotez erropientzako*
@@ -322,7 +322,7 @@ Agirika gogor baten esaten da.
 - *setentzidxe atako tsut ezpazara esanekue*
 - *aren setentzidxe kantata dau, geu tiñogune ezpadau eitxen*
 
-Gaztelerako *sentencia* erabili da oraingoan, /sentencia > setenzia > sctentzia > setentzidxe/.
+Gaztelerako *sentencia* erabili da oraingoan, /sentencia → setenzia → sctentzia → setentzidxe/.
 
 ## SILENTZIDXUE ##
 
@@ -333,7 +333,7 @@ Isiltasuna.
 
 Maileguak gureganatzen oso jaioak garenez, hemen daukagu adibide berezi bat
 
-/silencio > silentzio > silentzioa > silentzidxue/
+/silencio → silentzio → silentzioa → silentzidxue/
 
 Ohikoa den bezala, /iu/ bokal bitartean /j/ epentetikoa sartuta >silentzidxue< eman du.
 
@@ -434,7 +434,7 @@ Jenio txarra. Arrabia.
 - *subrebidxekaz etor dxast alabatxi lotsak emoten*
 
 Gaztelerako *soberbia* ederto egokitu da Bermeoko hizkeran.  
-/soberbia > sobrebia > subrebidxe/ /ia/ > /idxe/.
+/soberbia → sobrebia → subrebidxe/ /ia/ → /idxe/.
 
 Kontsonante dardarkariaren metatesia jasan ondoren, bokalen ixtea gertatu da.
 
@@ -448,7 +448,7 @@ Koleratsua.
 
 Hitz honi gazteterako >so< atzizkia lotu zaio, adjektiboa sortzeko.
 
-/soberbia/ + /so/ > soberbioso > subrebioso/
+/soberbia/ + /so/ → soberbioso → subrebioso/
 
 ## SU / E ##
 
@@ -470,7 +470,7 @@ Zorte ona. Baina kasu honetan, pertsona, animalia edo gauza bat izan daiteke zor
 - *geure katue be suertosie da, ainbeste bidar dxeusi de teillatotik ta ondiño bixirik tau*
 - *neure aiztie be suertosie da, kotzeko azidente bape eztau okiñ*
 
-Gaztelerako *suerte* hitzari >so< atzizkia erantsi zaio /suerte/ + /so/ > suertoso/
+Gaztelerako *suerte* hitzari >so< atzizkia erantsi zaio /suerte/ + /so/ → suertoso/
 
 ## SUESTA ##
 
@@ -481,7 +481,7 @@ Itsasoko ur-jantzietan ezin faltatu buruko kapela.
 - *bapor guztidxen eziñ ezan dot topa nire suestako zintxie*
 
 Gaztelerako *sueste* hitza hartu da zuzenean.  
-/sueste > suesta/.
+/sueste → suesta/.
 
 Askotan bezala, erdiko azken bokalea ireki egin da.
 
@@ -496,7 +496,7 @@ Koleratsu. Haserre bizian.
 
 Gaztelerako *sulfurar* aditzak, zentzu figuratuan *irritar* *encolerizar* ematen du; beraz, zentzua ere berbera da.
 
-/sulfurar > sulfure/
+/sulfurar → sulfure/
 
 ## SUMIÑE ##
 
@@ -551,7 +551,7 @@ Sudurzuloak.
 
 Hitz konposatu honen bigarren elementua *zulo* da, Baina ikusi dugu aurrerago, hitz horren eboluzioa zein izan den:
 
-/surzuloa > sunziloa > surtzillue/
+/surzuloa → sunziloa → surtzillue/
 
 Azkuek Lekeitioko hitza bezala azaltzen du, baina Bermeon ez da ezagutzen besterik.
 

@@ -33,7 +33,7 @@ Adjektibo moduan. Gehienetan gizonezkoei aplikatzen zaie.
 - *ez ezan (izan) abillariñe*
 
 Bi adjetibok osatzen duten hitza dela dirudi:  
-/abilla + arifia/ > abillariña > abillariñe/
+/abilla + arifia/ → abillariña → abillariñe/
 
 Baina beste hipotesi hau ere kontutan har daiteke:  
 /abill + arifi/ aginte erako forma, hain zuzen.
@@ -61,7 +61,7 @@ Hitz hau oso zaharra da, emakumezko abokaturik ez zegoenekoa, hain zuzen. Baina 
 - *eztau abogadesarik pe orrelakorik*
 - *niri ez eiñ abogadesie lez berba*
 
-/abogada/ + /sa/ > abogadesa/
+/abogada/ + /sa/ → abogadesa/
 /sa/ atzizkia gaur egun erabiltzen ez dan arren, Bermeon erabiltzen da oraindino.
 
 Adjektibo moduan eta askotan substantibo legez.
@@ -101,11 +101,11 @@ Ziur aski, hitz hau erdaratik sartu da, baina hitzaren etimologia nekez ikus dai
 
 Bat gaztelerako *aburrir* hitzetik datorrena, eta bestea, gaztelaniako *aborrecer* hitzetik datorrena.
 
-1. /aburrir/ + /du/ > aburridu > abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: /abrurridu> abrusidu/
+1. /aburrir/ + /du/ → aburridu → abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: /abrurridu> abrusidu/
 
-Baina disimilatzeko /u/ > /o/ bihurtuz *abrosidu* eman du.
+Baina disimilatzeko /u/ → /o/ bihurtuz *abrosidu* eman du.
 
-2. /aborrecer/ + idu/ > aborrezidu > abrozidu > abrosidu
+2. /aborrecer/ + idu/ → aborrezidu → abrozidu → abrosidu
 
 Azken honek egin du biderik laburrena, eta zentzua ere egokia dela dirudi, jasanezinezko egoera gorrotatzen duela esateko balio baitu.
 
@@ -234,7 +234,7 @@ Aixu, gizon!
 
 Ziur, *aizu gixon* duela oinarri.
 
-/aizu gizon > agixon/
+/aizu gizon → agixon/
 
 ## AGUAZERA ##
 
@@ -401,7 +401,7 @@ Arrain ixikiak harrapatzeko erabiltzen da karnata moduan; harra edo zizarea hobe
 - *arraiñtxen dxun gure bazu aixarrak atrapa bizuz*
 - *aixarrik ezta lez on enai dxun arraniñtxen*
 
-Hitz honen konposizioa /aitz-harra./ da; beraz, /aitzarra > aizarra > aixarra. Ikusten denez /i/ ez du galtzen, nahiz eta /z/ palatalizatu.
+Hitz honen konposizioa /aitz-harra./ da; beraz, /aitzarra → aizarra → aixarra. Ikusten denez /i/ ez du galtzen, nahiz eta /z/ palatalizatu.
 
 ## AIXEBIE ##
 
@@ -520,7 +520,7 @@ Hitz honen bariante bat -akometidu< da, eta D.A.R. n agertzen da Bermeokoa dela 
 
 Gaztelaniazko *acometer* dirudi; beharbada hori izan daiteke hitzaren etimologia, gero beste zentzu bat hartu badu ere.
 
-/acometer/ + /du > akometidu/ akomotidu
+/acometer/ + /du → akometidu/ akomotidu
 
 ## AKORDA ##
 
@@ -546,7 +546,7 @@ Aitzakiak dira. Gehienetan pluralean. Baina singularrean ere erabiltzen da, gutx
 
 Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k. Honek Etxeita aipatzen du; Mundakan ere esango zen garai batetan, baina Bermeon, oraindik, bizi-bizirik dago. Agian hitz honen egiazko jatorria -akiakula- hitza izan daiteke, baina Bermeon joera handia dago edozein hitzetatik, batez ere, arrainen izenetatik, beste bat ateratzeko, eta baliteke, -akula- arrainaren izenetik etortzea.
 
-akula + keria > akulakeria > akulekeidxe
+akula + keria → akulakeria → akulekeidxe
 
 ## ALA ##
 
@@ -661,15 +661,15 @@ Adinekoetan entzuten da, berrogei urtetik gorakoetan eta gizonezkoetan gehiago.
 
 Forma bi hauen eboluzioa honela izan da:
 
-/ alabatxo > alabatxu > alatxu / alabatxo > alabatxu > alabatxü > alabatxi > alatxi /alatxi > alatxe /
+/ alabatxo → alabatxu → alatxu / alabatxo → alabatxu → alabatxü → alabatxi → alatxi /alatxi → alatxe /
 
 Arraroa badirudi ere, enfasiak bokal itxia irekiagoan bihurtu du.
 
 /ü/ horrek ez dauka zerikusirik zuberotarrarekin, Bermeon, batez ere portuan, eta han lan egiten duten emakumeek enfasi apur batez hitz egiterakoan, /u/ normal bat /ü/ bihurtzen dute.
 
 Adibide batzuk:
-- /entzun egizu > entzuizu > entzuizü > entzüizü > entzizi/ egin da.
-- /txetxotxu > txetxotxü/ egin den bezalaxe.
+- /entzun egizu → entzuizu → entzuizü → entzüizü → entzizi/ egin da.
+- /txetxotxu → txetxotxü/ egin den bezalaxe.
 
 ## ALAURIDXE ##
 
@@ -874,7 +874,7 @@ Hau, *langosta!* esatea legez da. Edo beste hau:
 
 Hitzaren jatorria gaztelerako *albondiguilla* izango da; orduan, erabiltzen den *amondongillek* bariantetik sortutakoa izango dugu *amandrongillek*.
 
-/albondiguilla > almondongilla > amondongille > amandrongilla/
+/albondiguilla → almondongilla → amondongille → amandrongilla/
 
 Aurreko N galdu eta /r/ bat desarroilatu du; lehenengo /o/ bokala /a/ bihurtu da asimilazioz.
 
@@ -888,7 +888,7 @@ Amaginarrebagai. Aitaginarreba egin den bezala egiten da; /kidxe/ atzizkia hartu
 - *aren amañarrabakidxe neure lagune da*
 - *amañarrabakidxentzat ekar txuz arraiñek*
 
-Hala ere, ikusten da, *gina* multzoa galdu eta /e/ > /a/ egin dela.
+Hala ere, ikusten da, *gina* multzoa galdu eta /e/ → /a/ egin dela.
 
 ## AMAÑE / AMAIÑE ##
 
@@ -903,7 +903,7 @@ Azkuek Bermeoko hitza bezala azaltzen du, baina *rendirse* delakoan.
 
 Hitzaren jatorria gaztelerako *amainar* izan daiteke. Zentzua, ostera, *recoger velas* izan daiteke.
 
-/amainar > amaina > amaiñe/amañe
+/amainar → amaina → amaiñe/amañe
 
 ## AMAPERRIE ##
 
@@ -917,7 +917,7 @@ Masa. Zentzu ezberdinetan erabilia da.
 - *au lapikue eziñ dxe dxan amasie eiñdxe dau te*
 - *kokletan amasie ondo ein barik tau*
 
-/masa > amasa/. Kasu honetan /a/ proteikoa sartu da.
+/masa → amasa/. Kasu honetan /a/ proteikoa sartu da.
 
 ## AMATXARRIDXE ##
 
@@ -1001,8 +1001,8 @@ Bi esanahi:
 
 Azkuek Mundakan jartzen du eta *carnada en salmuera* dela dio.
 
-Etimologia zein? Posibilitate bi agertzen zaizkigu: -amu + ki- > amuki, biguntzeko /z/ sartuz.  
-Edo beste hau: -amu + utsik- > amutsik > amusik > amuski metatesi bidez.
+Etimologia zein? Posibilitate bi agertzen zaizkigu: -amu + ki- → amuki, biguntzeko /z/ sartuz.  
+Edo beste hau: -amu + utsik- → amutsik → amusik → amuski metatesi bidez.
 
 Dena dela, ez daukat hain argi.
 
@@ -1039,7 +1039,7 @@ Argi dago gaztelerako *hambre* dela, /ki/ atzikia erantsita.
 - *anbrikis guztidzek takoie suertie*
 - *anbrikis aiz txo! egun guztidxen dxaten!*
 
-*hambre* + ki > anbreki > anbriki.  
+*hambre* + ki → anbreki → anbriki.  
 Gero /s/ bat gehitu zaio, eufoniagatik edo.
 
 Bermeon, batez ere gizon argalei aplikatzen zaie. Bazegoen gizon bat, argala eta eskasa izatearren *Anbrikis* ezizena zeukana; eta horrela ezagutzen zen izena ahaztuta.
@@ -1235,7 +1235,7 @@ Oker edo zeharretara dagoen zerbait. Aurrekoaren aldaki bat dela dirudien arren,
 
 /do/ hori, baliteke gazteleratik hartuta egotea, askotan analogiaz egiten baitira esaldiak. Seguru aski gaztelerako *inclinado* izango da etimologia.
 
-/inclinado >anklinado > ankinado > ankinido/
+/inclinado >anklinado → ankinado → ankinido/
 
 Moduzko adberbio funtzioan erabiltzen da.
 
@@ -1553,7 +1553,7 @@ Zekena. Dena nabi duena, dena beretzat gordetzen duena.
 Azkuek beste zentzu batez jaso du *jugador, tramposo, mañoso*.
 Baina Bermeon gaztelerako *raquero* ren definizioa nolabait betetzen du hitz horrek: *ladrón, pirata de puertos y costas* Beraz, gaztelerako esanahi horri jarraitzen dio.
 
-raquero > rakero > arrakerol
+raquero → rakero → arrakerol
 
 ## ARRANKA ##
 
@@ -1574,7 +1574,7 @@ Abiatu, abiadura hartu, eta beste zentzu batetan, adorea.
 
 Argi dago gaztelerako *arrancar* aditza erabili dela oinarri bezala.
 
-/arranque > arranke/ + /ada/ arrancada
+/arranque → arranke/ + /ada/ arrancada
 
 ## ARRAIÑE ##
 
@@ -1631,7 +1631,7 @@ Arrasto. Aztarna.
 - *zuk ikusi zu pastelan arrasarik? Guk dana dxanda topa du*
 - *arigaz garbitxu ezketiño, loidxen arrasarik pe ezta ikusten*
 
->arrastoa< hitzaren laburpena dela dirudi, >to< galduz /arrasto > arrasa/
+>arrastoa< hitzaren laburpena dela dirudi, >to< galduz /arrasto → arrasa/
 
 ## ARRASKADIE ##
 
@@ -1666,7 +1666,7 @@ Sorbalda gainean norbait eramatea. Gehienetan umea.
 
 >kokozillo< hitza geroago azalduko den legez, buruaren amaieraren erdialdea da atzeko alderdian.
 
->kokota< + >zillo< hitzez konposatua. Baina >zillo< hitza ere, geroago agertuko da. Hala ere azalpen bat egin beharra dago, hau da, nola sortu den hitz hori. /zulo/ > zulu; /zulu > zülu; /zülu > zilu; /zilu > zillu/.
+>kokota< + >zillo< hitzez konposatua. Baina >zillo< hitza ere, geroago agertuko da. Hala ere azalpen bat egin beharra dago, hau da, nola sortu den hitz hori. /zulo/ → zulu; /zulu → zülu; /zülu → zilu; /zilu → zillu/.
 
 Aurrerago esan den bezala, >ü< horrek ez du zerikusirik zuberotarrarekin.
 
@@ -1690,7 +1690,7 @@ Zentzu berdinaz erabiltzen dira biak baina erabiliagoa da azken hau. Hala ere be
 - *arria/erria bera otzarie, pixo andidxe dako ta*
 - *arria/erria beistek*
 
-Hitz honetan ez da /ia/ horretan ohiko /j/ epentetikoa sartu, /a/ > /e/ bakarrik egin da.
+Hitz honetan ez da /ia/ horretan ohiko /j/ epentetikoa sartu, /a/ → /e/ bakarrik egin da.
 
 ## ARRIKOSKORRA ##
 
@@ -1732,7 +1732,7 @@ Harroa eta handigurakoa. Harroa baino are harroagoa. Harro hitza era askotara er
 - *ganera ministrun alabie dala pentsaten dau*
 - *arrokaka utse da, iñok eziñ dxau auenta beragaz*
 
-Hitz honen konposizioan izen bat eta adjektibo bat batzen dira. /arro + kaka/ > arrokaka/
+Hitz honen konposizioan izen bat eta adjektibo bat batzen dira. /arro + kaka/ → arrokaka/
 
 ## ARROTZAK ##
 
@@ -1809,7 +1809,7 @@ Azaburua izan daiteke, baina ez dago argi. Konparazioan pertsonekin erabiltzen d
 
 - *azatrongu lako zapatak erosi txuz*
 
-Hitzaren konposizioa >asa< eta >trongo< hitzez dago osotuta. /trongo<tronko/ Leherkari hoskabea, hostun egin da.
+Hitzaren konposizioa >asa< eta >trongo< hitzez dago osotuta. /trongo → tronko/ Leherkari hoskabea, hostun egin da.
 
 ## ASESIÑE ##
 
@@ -1873,7 +1873,7 @@ Berriketa. Mota guztietako esamesak direla adierazten du.
 
 Galtzen ari den hitza da. Jadanik, berrogei urtetik gorakoetan baino ez da entzuten.
 
-/aza + orri + azi/ > azorrazi/
+/aza + orri + azi/ → azorrazi/
 
 Baina, Koldo Izagirreren *Lokuzioak* liburuan, >hasi orraziak< *gertakizunak* defunzioaz dator. Hitzaren jatorria ori izan daiteke, baina zentzua bestelakoa da.
 
@@ -1901,7 +1901,7 @@ Untzigintza.
 - *astillei barridxen dau aren bapora*
 - *astilidxeko gixonak tiez or dauzenak*
 
-/astilleroa > astillerue > astilleue > astilleidxe > astilleidxe > astilidxe.
+/astilleroa → astillerue → astilleue → astilleidxe → astilleidxe → astilidxe.
 
 Azken bariante biak erabiltzen dira maizen. Hala ere ez da argia eboluzioa, zeren lanbide hori duen gizonari *astillerue* deitzen zaio.
 
@@ -1944,7 +1944,7 @@ Ikusten denez, aurreko hiru esaldiotan >atea< hitza errepikatu egiten da, ez, os
 
 Hitz horren konposizioa >ate-oste< izan daiteke baina ez da ziurra, ezpainetako /p/ leherkaria desarroilatzen baitu.
 
-/ate/ + oste/ > ateoste > ateosta > ateposta/
+/ate/ + oste/ → ateoste → ateosta → ateposta/
 
 ## ATEZA ##
 
@@ -1980,7 +1980,7 @@ Eroa edo erdi zoroa. Batzuetan konparazioan erabiltzen da.
 - *orren alabie atrapada utse da*
 - *alabatxu, atrapadie zara zu orrek gauzek esateko*
 
-/atrapado > atrapaue/ (gizonezkoa) /a/apada > atrapadea > atrapadie/ (andrazkoa)
+/atrapado → atrapaue/ (gizonezkoa) /a/apada → atrapadea → atrapadie/ (andrazkoa)
 
 ## ATRASIEN ##
 
@@ -2000,7 +2000,7 @@ Atrebentzia.
 
 Askotan egiten den bezala, erdarazko hitz batez eta euskal atzizki baiez baliatuz, hitz berria sortu da.
 
-Konposizioan, >atrevi(miento)< + -kuntza- atzizkia. /atrever + kuntza/ > atrebekuntza > atrebikuntze/
+Konposizioan, >atrevi(miento)< + -kuntza- atzizkia. /atrever + kuntza/ → atrebekuntza → atrebikuntze/
 
 ## ATROZA ##
 
@@ -2192,7 +2192,7 @@ Adberbioan funtzioan.
 
 Erdarazko *acelerar* aditzetik sartua, esanahi ezberdinetan erabiltzen da.
 
-/acelerar > azelera > azelera/
+/acelerar → azelera → azelera/
 
 ## AZKANENGOBIGARREN ##
 
@@ -2227,7 +2227,7 @@ Ahaztutakoan. Inor gogoratzen ez denean.
 - *aztute itxi dun bertan, da aztuzkuen non diñoskun berana dala*
 - *ez ein kasurik aztuzkuen erun gu te, ostantzien aldarrike asiko da*
 
-/aztutakoan > aztuzkoan > aztuzkoan > aztuzkuen/
+/aztutakoan → aztuzkoan → aztuzkoan → aztuzkuen/
 
 ## AZUKALLO ##
 

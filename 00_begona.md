@@ -59,18 +59,18 @@ Gainera, liburu honek beste zerbaitetarako ere balioko duenaren itxaropena dauka
 
 - Ortografia errespetatu den arren, -h-rik ez da sartu.
 - Maileguzko berbetan, /j/ beloko frikari gorra, bere horretan utziko dugu.
-- Bustidurarako joera horregatik, askotan, /z/ > /x/ egingo dugu.
+- Bustidurarako joera horregatik, askotan, /z/ → /x/ egingo dugu.
 - Batzuetan adizkien forma ezberdinak agertzen dira: >emon</>omon< edo >etor</>otor<. Horrek esan nahi du biak erabiltzen direla, testuinguruaren arabera.
 - Berba batzuk, hiztegietan zer nolako definizioz agertzen diren azaltzen dira. Ez badago azalpenik hiztegietan agertzen ez delako edo gaur egun zentzu konkretu bakarra ematen zaiolako izan da. 
 - Ahalik eta argien jartzen saiatu arren, ezinezkoa gertatzen da gehienetan, laburpenak asko direlako, hizkuntza askotan gertatzen den bezalaxe. Aditza eta Fonetika liburuan, Bermeoko euskaran sarrien ematen diren aldakuntzak azaltzen dira. Baina horiek idatzita ikustean, oso zail egiten zaigu ulertzea. Esaterako -eta batzuk bakarrik aipatzearren- honela egiten ditugu honako hauek:
 
-* izan > ezan
-* behar > bi
-* begiratu > beitu
-* dogu > du
-* egingo > eingo/ingu
-* ezer ere ez > ezebez 
-* Askotan agertzen da /ts/ > /tz/ eginda, hori baita gure joera. Biak agertzearen arrazoi berezirik ez dago.
+* izan → ezan
+* behar → bi
+* begiratu → beitu
+* dogu → du
+* egingo → eingo/ingu
+* ezer ere ez → ezebez 
+* Askotan agertzen da /ts/ → /tz/ eginda, hori baita gure joera. Biak agertzearen arrazoi berezirik ez dago.
 
 /j/ eta /dx/ grafiak:
 

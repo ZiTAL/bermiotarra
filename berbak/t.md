@@ -115,7 +115,7 @@ Berandutzea. Atzerapena.
 
 Kintanak bakarrik jaso du Bermeon hain erabilia den hitz hau.
 
-/kardanza > tardantza/
+/kardanza → tardantza/
 
 ## TARRAZTO ##
 
@@ -187,7 +187,7 @@ Patxada.
 
 Ez du gaztelerako *templanza* hitzaren esanahia, nahiz eta formaz berdina izan.
 
-/templanza > tenplanza > tenplantza/
+/templanza → tenplanza → tenplantza/
 
 ## TENTELA ##
 

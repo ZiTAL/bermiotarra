@@ -74,7 +74,7 @@ Beherazkoa. >beherazkoa< hitza erdaratuta agertzen da.
 - *emon tson notezidxegaz bajeratan para da*
 - *bajerintzako limoien ure da ona*
 
-/bajada > bajara > bajera/
+/bajada → bajara → bajera/
 
 ## BAKARTADAN ##
 
@@ -105,7 +105,7 @@ Balantzada.
 
 Gazteleratik hartua, >ada< atzizida jarrita sortu da hitz hori.
 
-/balanceo > balanzea > balantzada > balantzadea/ /ea> ie/
+/balanceo → balanzea → balantzada → balantzadea/ /ea> ie/
 
 Azkuek ez du jaso eta D.A.E.k *balantza* hitza jaso du Aranzazu egutegian dakarren zita bat aipatuz. Hiru Mila Hiztegian *balanizada* agertzen da.
 
@@ -266,7 +266,7 @@ Ertaina. Pertsona eta gauza guztiei aplikaturik.
 
 - *arek Afrikan barrabaskeidxe eiñ dxau, iñok paiño arraiñ geidxau atrapa*
 
-Gaztelaniako /barrabasada/ > barrabas + /keria/ > /barrabaskeria/ > /barrabaskeije/
+Gaztelaniako /barrabasada/ → barrabas + /keria/ → /barrabaskeria/ → /barrabaskeije/
 
 Azkuek ez du jaso. D.A.R.k gaztelaniako zentzuaz jaso du.
 
@@ -345,7 +345,7 @@ Begiak puztuta. Betazpiak puztuta.
 - *a mutille gusta niri? Bera begiputze?*
 - *begiputzek ez okitxeko manzanillien ure da ona*
 
-/begi + putz > begiputz/
+/begi + putz → begiputz/
 
 ## BEGITELA ##
 
@@ -355,7 +355,7 @@ Betazal jausiak.
 - *begi politxek takoz baie begitela da*
 - *aitxe be begitela da, arrebie be bai, da imerik okitxen badau, begitela ezango da*
 
-/begi + epel > begipel > begitel/
+/begi + epel → begipel → begitel/
 
 ## BEIÑ ##
 
@@ -385,8 +385,8 @@ Begizkoa.
 
 *begizko* hitzetik sartutakoa dela argi dago, baina *begikune* hitzetik ere etor daitekeenaren susmoa ere hor dago.
 
-/begizkoa > beizkoa > beizkue/
-/begikune > beikune > beizkune/
+/begizkoa → beizkoa → beizkue/
+/begikune → beikune → beizkune/
 
 ## BEIZKUNE EIÑ ##
 
@@ -419,7 +419,7 @@ Belarri-ondokoa. Zartada.
 - *zelako belarreskiñekue emon tso ba, belarridxe be gorritxute imin tso*
 - *omon belarreskiñekue, ezta lotzien da*
 
-/belarri + izkina/ > belarreskina >  belarreskiñie
+/belarri + izkina/ → belarreskina →  belarreskiñie
 
 Hitz honek beste sinonimo bat eduki arren, *belarriondoko* berau erabiltzen da gehiago.
 
@@ -450,7 +450,7 @@ Norbere kontura. Bere kabuz.
 
 /bere + ekitean/ hitzen konposaketa dela dirudi. Hirugarren pertsonan erabiltzen da.
 
-/ekitean > (e)kitxean > kitxien >t< palatalizatu eta /ea/ > /ie/ egin da.
+/ekitean → (e)kitxean → kitxien >t< palatalizatu eta /ea/ → /ie/ egin da.
 
 ## BERANDUEK ##
 
@@ -589,7 +589,7 @@ Janariak.
 
 Gazteleratik hartua, erabilera zabala dauka.
 
-/Vívere > bibera/
+/Vívere → bibera/
 
 ## BIENGANIE ##
 
@@ -604,7 +604,7 @@ Zoladura. Lurra.
 - *azidente bat on da, ta bienganien on diez batzuk illdxe*
 
 /beean + ganean/ hitzez osatzen da.  
-/beearenganean > bienganean/ aurreko >e< disimilatu egin da.
+/beearenganean → bienganean/ aurreko >e< disimilatu egin da.
 
 ## BIETZARRIDXE ##
 
@@ -617,7 +617,7 @@ Estropezu. Era guzlietakoak.
 
 Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k, Bermeoko hitza bezala azalduz.
 
-/behatz/ > bietz + arria > bietzarria > bietzarrije/
+/behatz/ → bietz + arria → bietzarria → bietzarrije/
 
 ## BIDXARKOPASATA ##
 
@@ -729,7 +729,7 @@ Arrodatzen.
 
 D.A.R.k, Beran jartzen du hitz hau, baina froga daitekeen bezala, hitz honen erabilera Bermeon oso zabala da.
 
-/birinbola + ka > birinbolaka/
+/birinbola + ka → birinbolaka/
 
 ## BIZARDO ##
 
@@ -742,7 +742,7 @@ Bizartsua.
 - *mutil bizardo bat topa du bidien da, ikaratu ein garie*
 - *bizarduen antza dakozu orregaz bizarragaz*
 
-/bizar + do/ atzizkia > bizardo
+/bizar + do/ atzizkia → bizardo
 
 ## BIZIDXENA ##
 
@@ -752,7 +752,7 @@ Minbizia.
 - *gure laguneri medikuek esan tso bizidxena dakola*
 - *bizidxena osatuteko okelie dxan bi dela diñoie*
 
-/biziarena > bizidxena/
+/biziarena → bizidxena/
 
 ## BOLADIE ##
 
@@ -871,7 +871,7 @@ Denbora laburrean.
 
 Hitz hau, gaztelerako *breve* tik hartuta dago, baina oso zaharra da.
 
-/breve > brebe + ro + an > breberoan/
+/breve → brebe + ro + an → breberoan/
 
 ## BREBIE ##
 
@@ -913,7 +913,7 @@ Gazteen artean batez ere, eta gehienetan nesken artean. Nahiko galduta dago.
 
 Hitz. honek gaztelerako *brillo* hitzarekin zerikusi handia du: *un ir y venir corto, que dure tanto como un relampago* Hori da hitzaren esanahia.
 
-/brillo + ada > brilloada > brillada/. /oa/ > /a/.
+/brillo + ada → brilloada → brillada/. /oa/ → /a/.
 
 ## BRUSE ##
 

@@ -68,7 +68,7 @@ Oraingoan.
 - *oingutan ezpadot erosten eztot erosko eguno be*
 
 Hitz hau pluraleko forman eraiki da:  
-/oraingoetan > oingoetan > oingutan/ Bermeon, *orain* eta *oin* alternantzian erabiltzen dira, erdizka erabiltzen direla biak esan genezake, kasu honetan, laburrena aukeratu dugu.
+/oraingoetan → oingoetan → oingutan/ Bermeon, *orain* eta *oin* alternantzian erabiltzen dira, erdizka erabiltzen direla biak esan genezake, kasu honetan, laburrena aukeratu dugu.
 
 ## OKASINTE ##
 
@@ -108,7 +108,7 @@ Bai, bai! Horretan egon!
 - *dirue emoteko ? Olakunbi! Eztotsut emoten!*
 - *ez esan niri olakunbi, emon ein biko dostazu te*
 
-/olakoan bi > olakuen bi > olakunbi/
+/olakoan bi → olakuen bi → olakunbi/
 
 ## OILLARGITA ##
 
@@ -140,7 +140,7 @@ Ondo egiten den ustean.
 - *ondusterako esaten dxatzu, baie zuk ezu eitxen kasurik*
 - *ondustien eitxen zu lakuen erosi etzie da gero txarto urten*
 
-/ondo ustean > ondustean > ondustien/
+/ondo ustean → ondustean → ondustien/
 
 ## OSKILLE ##
 

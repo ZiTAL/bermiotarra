@@ -11,7 +11,7 @@ Laguntza.
 
 *laguntza* hitzari >iño< atzizkta itsatsi zaio.
 
-/laguntza + /iño/ > laguntziño
+/laguntza + /iño/ → laguntziño
 
 ## LAIXARRA ##
 
@@ -36,7 +36,7 @@ Gaur egun *Lamera* izen propio bat da. Bermeoko Lamera nagusiari deitzen zaiona,
 
 Hitz hau gaztelerako *alameda* tik sartu da.
 
-/alameda > lameda > lamera/
+/alameda → lameda → lamera/
 
 ## LAMAIDXE ##
 
@@ -94,7 +94,7 @@ Bota. Jaurti.
 
 Gaztelerako *lanzar* aditzetik zuzenean hartuta dago.
 
-/lanzar > lantza/
+/lanzar → lantza/
 
 ## LANTZADAK ##
 
@@ -114,7 +114,7 @@ Noizbehinka.
 
 *lantzean behin* da hitz honen jatorria.
 
-/lantzean bein + etan > lantzien beinetan > lantzimeñetan/
+/lantzean bein + etan → lantzien beinetan → lantzimeñetan/
 
 ## LAPURREIDXETAN ##
 
@@ -180,7 +180,7 @@ Sugea.
 
 Hitz konposatu hau, /larru + suge/ hitzez osatzen da.
 
-/larrusugea > larrusubea > larrosuboie/
+/larrusugea → larrusubea → larrosuboie/
 
 Hitz hau gehiago erabiltzen da auzoetan, zeren herri barruan narrasti guztiei *suboie* deitzen baitzaie.
 
@@ -239,7 +239,7 @@ Aurreko egun baten.
 - *zer pasa da lengunien ba?*
 - *lengunien ezetu dotezen mutillekaz on gariez*
 
-Hitz hau /lehengo/ + /egunean/ hitzen konposizioa da, /leengo egunean/> lengogunien > lengunien/
+Hitz hau /lehengo/ + /egunean/ hitzen konposizioa da, /leengo egunean/> lengogunien → lengunien/
 
 ## LIGORRA ##
 
@@ -271,7 +271,7 @@ Itsasontzietan lanean aritzean erabiltzen duten fraka.
 
 Hitz honen konposizioa, /loia/ artzekoa/ da.
 
-/loia artzeko > loidxe artziko > loidxartziko/
+/loia artzeko → loidxe artziko → loidxartziko/
 
 Izen bihurturik agertzen da.
 
@@ -373,7 +373,7 @@ Behar bezain besterako eman.
 
 Gaztelerako *lucir* aditzetik hartua da eta aditz funtzioa betetzen du, zentzua berdina ez bada ere.
 
-/lucir > luzir/ + /du/ > luzidu/
+/lucir → luzir/ + /du/ → luzidu/
 
 ## LUZIMENTO / UE ##
 
@@ -383,7 +383,7 @@ Aurrekoa, baina oraingoan izen funtzioan agertzen da.
 - *orrek zapatak luzimento andikuek tiez*
 - *luzimentoko belarrikuek erosi arren, eztotez imitxen*
 
-/lucir > luzir/ + /miento/ (gaztelerako atzizkia) > luzimento/ eman du.
+/lucir → luzir/ + /miento/ (gaztelerako atzizkia) → luzimento/ eman du.
 
 ## LUZIEN ##
 

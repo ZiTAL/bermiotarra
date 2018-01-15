@@ -24,7 +24,7 @@ Hankak meheak dauzkan pertsona.
 
 Hitz honen konposizioan *txanka* eta *me* (mehe) erabili dira.
 
-/txanka + me/ > txankame/
+/txanka + me/ → txankame/
 
 ## TXANKAPISTOLA ##
 
@@ -36,7 +36,7 @@ Hitz honen konposizioan *txanka* eta *me* (mehe) erabili dira.
 
 Kasu honetan, *txanka* eta *pistola* izan dira konposaketan parte hartu dutenak. Baina, >pistola< hitza ogi mota bati dagokio, hau da, oso mehe eta luzea den ogi tipo bati.
 
-/txanka + pistola/ > txankapistola/
+/txanka + pistola/ → txankapistola/
 
 ## TXANTELA ##
 
@@ -422,7 +422,7 @@ Kizkur. Kiribildua.
 
 Hitz honi gaztelerazko >ado< atzizkia erantsita egin dugu.
 
-/txirikillo/ + /ado/ > txirikillado >txirikillau
+/txirikillo/ + /ado/ → txirikillado >txirikillau
 
 ## TXIRIKILLO ##
 
@@ -479,7 +479,7 @@ Arreta erakartzeko egiten dugun zarata hori: txist, txist.
 
 Onomatopeiazko hitz hau, deklinatu eta adberbio forman ere erabiltzen da:
 
-/chis/ + /ada/ > txistada/
+/chis/ + /ada/ → txistada/
 
 Azkuek jaso du forma hau baina badirudi, erabileran ez dela hain arrunta esanahi honetaz, Bermeon normalki erabilizen da.
 
@@ -583,7 +583,7 @@ Galtzen ari den hitza da, adinekoetan bakarrik entzuten da.
 - *txoferrista para kotxie, txise larri da amen jentie ta!*
 - *gure txoferristie total ona ezan da, geuk kure dune eiñ dxau*
 
-/txofer/ + /ista/ > txoferrista/
+/txofer/ + /ista/ → txoferrista/
 
 ## TXOIÑUE ##
 
@@ -685,11 +685,11 @@ Iskanbilak. Pasadizuak.
 
 Hitz hau konposatua dena argi dago, baina argi ez dagoena, lehen elementua zein izan zitekeen da. Hipotesi bat bota ezkero hauxe izango litzateke:
 
-/guzur/ + upiñek/ > guzurrupiñek/.
+/guzur/ + upiñek/ → guzurrupiñek/.
 
 Disimilatzeko, bokal itxi gehiegi dagoenez, euretariko bat erori egin da, eta horren kontsonantea berarekin batera.
 
-/ zurrupiñek > txurrupiñek > txurupiñek/
+/ zurrupiñek → txurrupiñek → txurupiñek/
 
 ## TXUT ##
 

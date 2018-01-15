@@ -39,7 +39,7 @@ Goialdea.
 
 Hitz konposatu honek erabilera zabalagora jo du:
 
-/kai/ + /gane > kaigane/
+/kai/ + /gane → kaigane/
 
 ## KAIÑE ##
 
@@ -268,7 +268,7 @@ Bonbiltzar.
 
 Azkuek ez du jaso hitz hau, baina bai *kankil* forma. Baliteke hau izatea bestearen oinarria. D.A.R.k bai jaso duela Bermeokoa dela azalduz.
 
-/kankil/ + /oi/ atzizkia > kankilloi/
+/kankil/ + /oi/ atzizkia → kankilloi/
 
 ## KANKINKABARA ##
 
@@ -319,7 +319,7 @@ Lainotua.
 
 Gaztelerako *encapotado* hitzetik sortua da.
 
-/encapotado > kapotado > kapotaue > kapaue/
+/encapotado → kapotado → kapotaue → kapaue/
 
 ## KAPONA ##
 
@@ -618,7 +618,7 @@ Lepondo. Kokot.
 
 Hitz hau konposatua da:
 
-/kokot/ + /zulo/ > kokozulo > kokozülo > kokozilo > kokozillo/
+/kokot/ + /zulo/ → kokozulo → kokozülo → kokozilo → kokozillo/
 
 ## KOLARRA ##
 
@@ -628,7 +628,7 @@ Etxeko portalea.
 - *kolarra garbitxuteko interiñie ekar bizan dot*
 - *giltzek galdu dotez da oiñ eztakot kolarrera nondik sartu*
 
-Badirudi gaztelerako *corral* hitzetik sartu dela. /corral/ > korrala > kolarra/ metatesiaren bidez.
+Badirudi gaztelerako *corral* hitzetik sartu dela. /corral/ → korrala → kolarra/ metatesiaren bidez.
 Azkuek Mundaka eta Bermeorako jaso du hitz hau.
 
 ## KOLORIE ##
@@ -640,7 +640,7 @@ Arrabia. Kolera. Azentuatu egin behar dugu hitz borren zentzua argi uzteko.
 - *eztotsu emoten kólorie, berandu berandu datortzunien zeu berari begire on da?*
 - *eztost emoten kólorerik, baie bai ernegue*
 
-Gaztelerako *cólera* zuzen zuzenean sartu da. /cólera > kolera > kolerie > kólorie/ bokalaren asimilazioz.
+Gaztelerako *cólera* zuzen zuzenean sartu da. /cólera → kolera → kolerie → kólorie/ bokalaren asimilazioz.
 
 ## KOMADA ##
 
@@ -650,7 +650,7 @@ Antzinako armairu bat.
 - *badakidxela euskerie diño, baie komadan barruen sartute okitxeko baiño eztotso balidxo*
 - *ori komadie andidxeidxe da onako da beste leko baten imin bide*
 
-Gaztelerako *comoda* -azentu barik- da. /comoda > komoda > komada/ bi >o< horietako baten disimilazioz.
+Gaztelerako *comoda* -azentu barik- da. /comoda → komoda → komada/ bi >o< horietako baten disimilazioz.
 
 ## KOMENIMENTUE ##
 
@@ -770,8 +770,8 @@ Bermeon *korosta* itsasontziaren aurrea izan arren, beste leku batzuetan, hau da
 
 Gaztelerako *codaste* dela diradi hitz honen jatorria: *codaste, madero vertical sobre el extremo de la quilla que sostiene el timón*.
 
-/co daste > kodaste > korosta/  
-/d/ > /r/ normala den bezala Bermeon. Gero, nomalak diren bokalen irekiera eta asimilazioz iritsi da guk erabiltzen dugun formara.
+/co daste → kodaste → korosta/  
+/d/ → /r/ normala den bezala Bermeon. Gero, nomalak diren bokalen irekiera eta asimilazioz iritsi da guk erabiltzen dugun formara.
 
 - *Mutile korostan dau ia sergerorik ikusten dauen*
 - *Nebera di dakuz barruen, bata korostan eta bestie popaganien*
@@ -832,7 +832,7 @@ Lotsa. Heziketa.
 
 Gaztelerako *crianza* hitzetik datorrela ezin ukatu, gero esanahi ezberdinez erabiltzen bada ere.
 
-/crianza > kriantza > krientza/
+/crianza → kriantza → krientza/
 
 ## KRISKO ##
 
@@ -861,7 +861,7 @@ Ingurua.
 
 Gaztelerako *contorno* hitzak beste bat hartu du euskaraz emateko.
 
-kontomo > kontomo + /une/ kontornoune > kunturrune/
+kontomo → kontomo + /une/ kontornoune → kunturrune/
 
 ## KURUBIDXUE ##
 

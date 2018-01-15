@@ -175,7 +175,7 @@ Paseo. Buelta.
 - *egunien, egunien pasidie eiñ ezkero argaldu eitxen da*
 - *pasidek eta pasidek emoten duz guk Benidorren gauzenien*
 
-Gaztelerako *paseo* hitza eta >ada< atzizkia elkartu dira. /paseo/ + /ada/ > paseado > pasiada > pasida > paside/ Esan beharra dago *pasiadie* ere esaten dela.
+Gaztelerako *paseo* hitza eta >ada< atzizkia elkartu dira. /paseo/ + /ada/ → paseado → pasiada → pasida → paside/ Esan beharra dago *pasiadie* ere esaten dela.
 
 ## PASIÑUE ##
 
@@ -240,8 +240,8 @@ Borroka. Elkar joka.
 
 Gaztelerako *pelea* hitza hartu da hitz honen oinanitzat:
 
-/pelea/ + /ada/ atzizkia > peleada/  
-/ada > kada/> pelekada > pelikada > pellikada/
+/pelea/ + /ada/ atzizkia → peleada/  
+/ada → kada/> pelekada → pelikada → pellikada/
 
 ## PELLIKAN ##
 
@@ -254,7 +254,7 @@ Borrokan.
 
 Aurrekoa bezala atzizki batez aldatu da, baina oraingoan moduzko adherbioa egiteko >ka< atzizkia erabili da.
 
-/pelea/ + /ka/ > peleaka > peliaka > pellika/
+/pelea/ + /ka/ → peleaka → peliaka → pellika/
 
 Eta normala den bezala, azkenean >n< sudurkaria jarri zaio.
 
@@ -316,7 +316,7 @@ Kopeta-ilea.
 - *modan dauen gauzie da perkillue, baie ez dxast gustaten*
 - *perkilluek larreidxe ebai dozuz*
 
-/flequillo > plekillo > prekillo > perkillo/
+/flequillo → plekillo → prekillo → perkillo/
 
 Horren parean *ferkillo* ere erabiltzen da, baina gaur egun, gehiago entzuten da erdarazko *flekillue*.
 
@@ -382,7 +382,7 @@ Pipa. Dupa.
 
 Gaztelerako *pipa* hitzari >toi< atzizkia erantzi zaio handitasuna adierazteko.
 
-/pipa/ + /toi/ > pipatoi > pipetoi/
+/pipa/ + /toi/ → pipatoi → pipetoi/
 
 ## PIPITXE / IE ##
 
@@ -435,7 +435,7 @@ Marrazo familiako arraina. Baina konparazioan, pertsonei aplikatzen zaie, batez 
 - *eguzki lar artun dot eta pitxarrosie lez nau*
 - *pitxarrosie lez zauz gorritxute*
 
-/pintarroja > pitxarrosa/
+/pintarroja → pitxarrosa/
 
 ## PITXOI / NA / IE ##
 
@@ -503,7 +503,7 @@ Itxuroso/a. Tipaso/a.
 
 Gaztelerako *planta* hitzari /so/ atzizkiak (hau ere gaztelerakoa) erantzi zaio, nahiz eta hitz honek ez onartu atzizki hori.
 
-/plantal + /so/ > plantoso/ >a< sartzen zaio femeninoa egiteko.
+/plantal + /so/ → plantoso/ >a< sartzen zaio femeninoa egiteko.
 
 ## PLASTANGA ##
 
@@ -599,7 +599,7 @@ Politu.
 
 Hitz hau, >tu< partizipioa hartuz gero, aditz bihurtu da.
 
-/polit/ + /tu/ > politu > poliztu/. Kasu honetan >z< bat desarroilatu da. Eta ez ote da askoz ere politagoa azken hau?
+/polit/ + /tu/ → politu → poliztu/. Kasu honetan >z< bat desarroilatu da. Eta ez ote da askoz ere politagoa azken hau?
 
 ## POLONTIEN ##
 
@@ -667,7 +667,7 @@ Dagokion kantitatea. (dirua)
 
 Hipotesi bat erabiliz, latinezko *portio-oniz* = *parte, porción* edo *pro portione* = *proporción* hitzetik etor daiteke.
 
-/proponione > porrationea > porratiboa >porratibue/
+/proponione → porrationea → porratiboa >porratibue/
 
 Beraz, dardarkarien metatesia gertatu ondoren, leherkati hoskabea erori eta leherkari hostuna eta >a< bokalea garatu dira.
 
@@ -679,7 +679,7 @@ Beraz, dardarkarien metatesia gertatu ondoren, leherkati hoskabea erori eta lehe
 - *ezta popertzakue, baie eitxen bastazu obeto*
 - *popertza popertza dxun bi zan dau ziñera, imie olan ittitxe?*
 
-/por fueza > poperza > popertza/
+/por fueza → poperza → popertza/
 
 2. Gutxietsi. Mezprezatu.
 
@@ -687,7 +687,7 @@ Beraz, dardarkarien metatesia gertatu ondoren, leherkati hoskabea erori eta lehe
 - *ori erosi zu? Popertzakue da berori dxantzi biarra*
 - *Benidorrera dxun zara, baie popertzakue da bertara dxun biarra*
 
-/por fuerza/ + /ko > porfuerzako > poperzako > popertzako/
+/por fuerza/ + /ko → porfuerzako → poperzako → popertzako/
 
 Koldo Izagirrek bere *Lokuzioetan* *popuertzakoa* jartzen du eta lehenengoko esanahia bakarrik jasotzen du.
 
@@ -766,7 +766,7 @@ Aurrerago *apurrek* aipatu dugu. Ba, hitz hau horren sinonimo bat da, legatzaren
 - *baie potrokillo konjelauek eztiez oten ondo*
 - *porrokilluek edozelakuek tauz elegante*
 
-Hitz hau *potro* eta >killo< atzizkiaz osatzen da, /potro/ + /killo/ > potrokillo/ 
+Hitz hau *potro* eta >killo< atzizkiaz osatzen da, /potro/ + /killo/ → potrokillo/ 
 
 ## POTROSO / UE ##
 
@@ -853,7 +853,7 @@ Frijituki.
 - *gure ama beti dabill prijidukidxek eitxen, eguno bez ensaladarik*
 - *prijidukidxek eztiez ba gorputzerako onak*
 
-Batzuetan gertatzen den moduan /f/ > /p/ egin da. Gero aldaketa fonetiken eraginez, beste itxura bat hartu du hitzak.
+Batzuetan gertatzen den moduan /f/ → /p/ egin da. Gero aldaketa fonetiken eraginez, beste itxura bat hartu du hitzak.
 
 ## PROPORTZIÑUE ##
 

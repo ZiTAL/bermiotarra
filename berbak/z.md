@@ -93,7 +93,7 @@ Jendaila. Zaborreria. Gauza zantarrak.
 
 Arraro zamarra izan arren >ria< eta ez >keria< atzizkia erabiltzea, hemen, horrela gertatu da:
 
-/zantar + /ria/ > zantarreria/
+/zantar + /ria/ → zantarreria/
 
 ## ZANTARKILLO ##
 
@@ -204,7 +204,7 @@ Kolpea.
 
 Kasu honetan ez du >ada< atzizkia hartu, >zo< atzizkia baizik. Askotan gertatzen da fenomeno hau Bermeon, hau da, gaztelerako atzizki bat hartzea.
 
-/zart/ + /zo/ > zartazo/. Hala ere, esan beharra dago, *zartada* hitza ere erabiltzen dela eta biak ia ia parekaturik daukatela erabilera.
+/zart/ + /zo/ → zartazo/. Hala ere, esan beharra dago, *zartada* hitza ere erabiltzen dela eta biak ia ia parekaturik daukatela erabilera.
 
 ## ZATI BITXU ##
 
@@ -246,7 +246,7 @@ Ugari. Nahi den guztia. Zenbat gura.
 
 Fonetikazko aldaketei ezker, honelako zenbait hitz sortzen da.
 
-/zenbat gura/ > zemakure.
+/zenbat gura/ → zemakure.
 
 ## ZEPAITXE ##
 
@@ -258,7 +258,7 @@ Zerbait.
 
 Aurrekoan bezala, laburpenek beste hitz bat sortu dute.
 
-/zerbait > zepaitxe/
+/zerbait → zepaitxe/
 
 ## ZERENTENIDUEK ##
 
@@ -276,7 +276,7 @@ Konturatu gabe zerbait egiten aritzea. Zerbait egitearren.
 - *amen zauzen arte, zereñekidxen jersie eingo dostazu*
 - *aiuntamientuen be alan oten diez, zereñekidxen biarrien*
 
-/zereginean/ > zerekinean > zerenekian> zereñekidxen/
+/zereginean/ → zerekinean → zerenekian> zereñekidxen/
 
 ## ZERIKUSIDXEN ##
 
@@ -338,7 +338,7 @@ Adimena.
 
 Gaztelerako *ciencia* hitz farfailtsua erabili da beste izen hori sortzeko.
 
-/ciencia > zientzia > zientzidxe/
+/ciencia → zientzia → zientzidxe/
 
 ## ZINGELEKUE ##
 
@@ -403,7 +403,7 @@ Zoldu egitea. Itzemin.
 - *orrek zaldarrak zoltziñera ekartie bi dau*
 - *zoltziñek miñ andidxe emoten dau, baie ariñau osatuko dxatzu*
 
-/zoltze > zoltzia > zoltzina > zoltziñe/
+/zoltze → zoltzia → zoltzina → zoltziñe/
 
 ## ZORRIZTO ##
 

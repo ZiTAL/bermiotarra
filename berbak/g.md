@@ -33,8 +33,8 @@ Haina. Hainakoa.
 
 Ez dauka D.A.R.k jaso duen zentzua.
 
-/haina > gaina > gaiña > gaiñe/
-/hainakoa > gaiñekue/
+/haina → gaina → gaiña → gaiñe/
+/hainakoa → gaiñekue/
 
 ## GALAPA / N ##
 
@@ -91,7 +91,7 @@ Nabarmenkeriak.
 - *ikusi bazun aren gangarkeidxek, lotsatu eingo zaran*
 - *badaitx nik arek gangarkei asko eitxen txuzena*
 
-/gangar/ + /keria/ > gangarkeria > gangarkeidxek/
+/gangar/ + /keria/ → gangarkeria → gangarkeidxek/
 
 Izenaren funtzioa betetzen du.
 
@@ -106,7 +106,7 @@ Alperra. Lanari ixo egiten diona.
 - *gangilloie lez dabill ara ta ona ezer ein barik*
 - *iñok eztau gure gangilloirik etzien*
 
-Azkuek bere hiztegian Mundakako hitza bezala jaso duen *gangil* hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerako >on< atzizkia, >oi< bihurtzen da.  Beraz, honela geratuko litzateke /gangil + oi > gangilloi/
+Azkuek bere hiztegian Mundakako hitza bezala jaso duen *gangil* hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerako >on< atzizkia, >oi< bihurtzen da.  Beraz, honela geratuko litzateke /gangil + oi → gangilloi/
 
 ## GANGUS ##
 
@@ -149,7 +149,7 @@ Samako gorroa.
 
 Gaztelerako *gargajo* bera da, baina fonetikaz ezberdintzen da.
 
-/gargajo > gargaijo/ >i< bat desarroilatuz gero.
+/gargajo → gargaijo/ >i< bat desarroilatuz gero.
 
 ## GARRA ##
 
@@ -171,7 +171,7 @@ Pasatuta dagoena. Galduta. Zentzu figuratuan modatik pasatuta.
 
 Azkuek jaso du bere hiztegian baina zentzu mugatuagoan, berak Gernikarako esaten du, eta *rancio del tocino* jartzen du.
 
-/garrantzia > garrantzijo/
+/garrantzia → garrantzijo/
 
 ## GAUE ##
 
@@ -214,7 +214,7 @@ Atun eta zimarroien gibela.
 
 Azken esaldian konparazioan sartu da hitz hori.
 
-/gibel/ /marroi/ > gibelmarroi > gibamarroi > gibarroi/
+/gibel/ /marroi/ → gibelmarroi → gibamarroi → gibarroi/
 
 ## GILTZEK ##
 
@@ -444,7 +444,7 @@ Gura ez. Edozein aditzekin.
 
 Hitz honen konposizioa beste bat behar luke izan, zeren osagaiak *gura* eta *ezean* dira. Beraz honela: /gura ezean/. Baina horren ordez *ezik* eskluientea sartu da, nahiz eta beste zentzu bat izan.
 
-/gura/ + /ezik/ > guraezik > gurazik > guzik/
+/gura/ + /ezik/ → guraezik → gurazik → guzik/
 
 Horren zergatia ez dago argi. Beste kasu askotan bezala, ilun geratzen da.
 

@@ -57,7 +57,7 @@ Zentzu guzti hauetan, baina, gainera, gogorrak direnean erabiltzen da.
 
 Bermeoko hizkeran hitzak sortzeko edo egokitzeko jokaera argi ikus daiteke etsenplu hauetan. Gaztelerako *degüello* hitza erabilli da:
 
-/degüello/ > degollu/ diptongoa monoptongatuz.
+/degüello/ → degollu/ diptongoa monoptongatuz.
 
 ## DEJANIELAPAZIENTZIA ##
 
@@ -81,7 +81,7 @@ Nabarmen utzi. Salatu. Lotsarazi.
 
 Gaztelerako *declarar* aditza gauzak agirian jartzeko erabiltzen da.
 
-/declarar > deklara/
+/declarar → deklara/
 
 ## DEKORA ##
 
@@ -113,7 +113,7 @@ Ahozabal. Demasekoa.
 
 Erdarazko *de más* hitzak gehiegikeria adierazten du
 
-/de mas > demasa/
+/de mas → demasa/
 
 ## DENPORALTZA ##
 
@@ -167,14 +167,14 @@ Desegin.
 - *indxaba danak eiñ dxiez desasidu, orrenbeste su ezta okin biar*
 
 Kasu honetan >du< partizipioa erabili da gaztelerazko hitza euskaratzeko.  
-/dezhacer- + du > desazedu > desasidu/
+/dezhacer- + du → desazedu → desasidu/
 
 Adberbio moduan.
 
 - *au telie desasite dau*
 - *txikota desasite topa du dxun garizenien*
 
-/dezhacer- + ta > desazeta > desasite/ Askotan atzizki biak hartzen ditu: /dezhacer- + du + ta > desazeduta > desasidute/
+/dezhacer- + ta → desazeta → desasite/ Askotan atzizki biak hartzen ditu: /dezhacer- + du + ta → desazeduta → desasidute/
 
 ## DESBRAZETE / DELBRAZETE ##
 
@@ -244,7 +244,7 @@ Ez da arduragabekeria, adia galtzea baizik.
 
 Gaztelerako *descuidar* aditzetik hartuta dago baina zentzua ez berdina.
 
-*descuidar* > deskide. Hau *deskidatu* izan beharko litzateke, baina ez du eman.
+*descuidar* → deskide. Hau *deskidatu* izan beharko litzateke, baina ez du eman.
 
 ## DESKIDUE ##
 
@@ -259,7 +259,7 @@ Gaztelerako *descuidar* aditzetik hartuta dago baina zentzua ez berdina.
 - *deskiduen, neu ez nauela etorten bada, esan bidxar etorteko*
 - *deskiduen ez balekitzo akaba, beste erropa bat prepara bi dau*
 
-descuido > deskido. Hemen /ui/ > /i/ monoptongatu da.
+descuido → deskido. Hemen /ui/ → /i/ monoptongatu da.
 
 ## DESKONORTA ##
 

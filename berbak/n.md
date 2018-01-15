@@ -105,7 +105,7 @@ Ugari. Kantitatea. Edonoretazat.
 - *ziñeko entradak artzieko kola matxue on da ta gero barriz nokure*
 - *lelangotan oten da arrapatie ze gero, egunek pasata, nokure oten diez baiñe freskuek*
 
-/nork gura/ > nok gure > nokure/ Leherkari bietatik ozena erortzen da gorraren mesedetan. Dardarkaria ere jausi egiten da.
+/nork gura/ → nok gure → nokure/ Leherkari bietatik ozena erortzen da gorraren mesedetan. Dardarkaria ere jausi egiten da.
 
 ## NONZERBARRI ##
 
@@ -127,7 +127,7 @@ Norbait.
 - *etor naienien eskillarie apurtute on da, asike nopaitxek eiñ dxau*
 - *nopaitxen zapatak tiez onek, aztute itxiko zan txuzen*
 
-/norbait > nopait > nopaitxe/
+/norbait → nopait → nopaitxe/
 
 ## NOPAITXEN ##
 
@@ -139,7 +139,7 @@ Nonbait.
 
 Hitzaren eboluzioa goikoaren antzekoa izan da.
 
-/nonbaiten > nopaiten > nopaitxen/
+/nonbaiten → nopaiten → nopaitxen/
 
 ## NOPERA ##
 

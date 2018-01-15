@@ -42,7 +42,7 @@ Aurretik azaldu ditugu *entzadu* eta *frakonozkuek* hitzak. Horietakoa dugu best
 - *gaurko gaztiek pe dxakenarruek dxazten dauie euridxe danien*
 - *baie oraingo dxakenarruek politxauek tiez*
 
-/jaka/ + larru/namil > dxalcenarru > dxakenarro/
+/jaka/ + larru/namil → dxalcenarru → dxakenarro/
 
 Aurretik esandakoa kontutan izanik, hemen ere >u< bokalea deklinatu gabe doan hitzean >o< bihurtzen da.
 
@@ -109,7 +109,7 @@ Jaka luzea. Zentzu peioratiboan erabiltzen da.
 
 Hitz honekin batera *jipoi* ere erabiltzen da; eta gaztelerako *chaqueton* hitzaren azken silaba >ton< eta *jipoi* hitzaz konposatuta dagoela dirudi.
 
-jipoi + ton > jipoiton > dxipeton > dxipetoi.
+jipoi + ton → jipoiton → dxipeton → dxipetoi.
 
 ## DXIRTADA ##
 

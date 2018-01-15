@@ -29,10 +29,10 @@ Gehigarria, baina likidoa.
 
 Formaz *egarria* bada ere, zentzua besterik da. Seguru *gehigarria* dela hitz honen jatorrizko forma.
 
-/geigarria > geigarrije/ > geigarridxe.
+/geigarria → geigarrije/ → geigarridxe.
 
 Bokal itxidura gertatuz gero, >j< epentetikoa sartu da, oso normala bait da Bermeoko hizkeran.
-/geigarridxe > eigarridxe > egarridxe/
+/geigarridxe → eigarridxe → egarridxe/
 
 ## EGUERDIDXE ##
 
@@ -56,7 +56,7 @@ Bazkaldu ostean. Arratsaldean.
 - *eguerdikora ezan ezik eztau eitxen biarrik*
 - *eguerdikorako prepara plaidxera dxuteko*
 
-Oso arraroa egiten zait hitz bau, baina hor dago. /nora/ erabiltzen da /noiz/ erabili beharrean. /eguerdi + ko + ra/ > eguerdikora/
+Oso arraroa egiten zait hitz bau, baina hor dago. /nora/ erabiltzen da /noiz/ erabili beharrean. /eguerdi + ko + ra/ → eguerdikora/
 
 ## EIDXO ##
 
@@ -98,7 +98,7 @@ Ekinean. Konturatu barik zerbait egitea. Ekinean-ekinean.
 
 Hitz honen etimologia *ekinean* hitza da.
 
-/ekinean > ekiñean > ekiñien > ekiñijen > eiñekidxen/
+/ekinean → ekiñean → ekiñien → ekiñijen → eiñekidxen/
 
 Kontsonanteen metatesia egin da. Aurrerago ere, ikusi dugun bezala, nahiz eta palatalizatu, Bermeoko hizkerak ez du galtzen aurreko >i<. Horregatik, kasu honetan, sudurkari borren aurrean >i< bat desarroilatu du.
 
@@ -114,7 +114,7 @@ Aginte kutsuaz erabilitako aditza da.
 
 Nahiz eta *ekarri* aditzetik hartuta egon, zentzua *eman* da.
 
-/ekar eidazu > ekardazu > ekadazu > ekazu > ekau/
+/ekar eidazu → ekardazu → ekadazu → ekazu → ekau/
 
 Azkuek, bere hiztegian Mundaka Ipazter eta Bermeorako jartzen du.
 
@@ -139,7 +139,7 @@ Arlanpa. Moilan batelak igotzeko egindakoa.
 
 Gaztelerako *rambla* hitzetik hartuta dago, baina zentzua ez du hitz horri dagokiona, *rampa* hitzari baizik.
 
-/ratnbla > erranbla > elanbra/. >I< eta >rr< kontsonanteen metatesiaren bidez aldatu da hitza.
+/ratnbla → erranbla → elanbra/. >I< eta >rr< kontsonanteen metatesiaren bidez aldatu da hitza.
 
 ## ELASTIKO / UE ##
 
@@ -172,7 +172,7 @@ Aukeran.
 - *elejidxe on da lez, elejiten emon dost*
 - *ezta on elejirik, da dauena artun de etorri bi zan nai*
 
-Argi dago gaztelerako *a elegir* hartuta dagoena. /elegir > elegia > eleji/
+Argi dago gaztelerako *a elegir* hartuta dagoena. /elegir → elegia → eleji/
 
 ## ENBAJA ##
 
@@ -185,7 +185,7 @@ Arrain lantegietan erabiltzen den hitza da. Antxoa, zein atun trontzoiak latetan
 - *bertan on gara, antxoba lez enbajata, prentsata*
 - *an bota dostez kajan barruen enbajata tomate guztidxek*
 
-Gaztelerako *empacar* = *enfardar, empaquetar* hitzetik harruta dago. /empacar > enpaka > enbaja/ Joera normala ez izan arren /p/ > /b/ egitea, gehienetan alderantziz gertatzen baita, Bermeon behintzat, kasu batzuetan ematen da.
+Gaztelerako *empacar* = *enfardar, empaquetar* hitzetik harruta dago. /empacar → enpaka → enbaja/ Joera normala ez izan arren /p/ → /b/ egitea, gehienetan alderantziz gertatzen baita, Bermeon behintzat, kasu batzuetan ematen da.
 
 ## ENBAJADA ##
 
@@ -229,7 +229,7 @@ Liluratu. Turditu. Tontatu.
 
 Hitz honek, gaztelerako *embobar* eta bobalicona hitzak hartu ditu oinarritzat.
 
-/emboba + licar > enbobalika > enboalika > enbolika > enbolike/
+/emboba + licar → enbobalika → enboalika → enbolika → enbolike/
 
 ## ENBRA / IE ##
 
@@ -264,7 +264,7 @@ Aditz funtzioan:
 
 Badirudi hitz hau, gaztelerako *endemia* hitzetik sortu dela. Hala ere, ez nagoenez seguru, hitz honen eboluzioa zein izan zitekeen, hipotesi modura azaltzen dut hurrengoa.
 
-/endemia + tu/ > endemikatu > endeikatu > endekatu
+/endemia + tu/ → endemikatu → endeikatu → endekatu
 
 ## ENEFRAKAS ##
 
@@ -307,7 +307,7 @@ Engainatzen duena.
 - *zu zara engañoti bet*
 - *engatiotidxekaz eztot kure ibilli*
 
-Gaztelerako *engaño* erabili da adjetibo hau egiteko. /engaño + -ti- atzizkia gehituz > engañoti/
+Gaztelerako *engaño* erabili da adjetibo hau egiteko. /engaño + -ti- atzizkia gehituz → engañoti/
 
 ## ENKALLE ##
 
@@ -460,7 +460,7 @@ Itsasoan ibiltzen diren jantziak. Gaur egun plastiko edo nylonezkoak dira, baina
 
 Esan bezala, gaztelerazko *encerado* hitzetik datorkigu.
 
-/encerado > entzerado > entzeado > entzado > entzadu/
+/encerado → entzerado → entzeado → entzado → entzadu/
 
 ## EPERDIKARIE ##
 
@@ -541,11 +541,11 @@ Dirdira.
 
 Gaztelerako *relucir* aditza aldatuz gero egin da hitz hau.
 
-/relucir/ + dad > relucidad/
+/relucir/ + dad → relucidad/
 
 Desegokia da baina hor dago.
 
-/relucidad > erluzidad > erluzidade/
+/relucidad → erluzidad → erluzidade/
 
 Ez da egon >e< protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
 
@@ -586,7 +586,7 @@ Kezka. Haserrea.
 Azkuek ez du jaso bere hiztegian eta D.A.R.k, lehenengoa jaso du, baina zentzu ezberdinez. Honek gaztelerako zentzuaz azaltzen du. Kintanak ere *ernega* eta >ernegu< jaso ditu, baina zentzua gaztelerakoa bera da.
 
 *renegar* erdarazko aditza hartu da.  
-/renegar > ernegar > ernega/
+/renegar → ernegar → ernega/
 
 Lehenengo kontsonantea eta bokalea tokiz aldatuz gero, eta azken dardarkaria erorita, euskarazko forma eman zaio, eta izenaren funtzioa betetzen du.
 
@@ -615,9 +615,9 @@ Estropada.
 
 Gazteterako *regateo* hitzetik sortu dena argi dago.
 
-/regateo > errebateo > embatio/
+/regateo → errebateo → embatio/
 
-Gero artikulua gehituz: /erretatioa > errebatiue.  
+Gero artikulua gehituz: /erretatioa → errebatiue.  
 Batzuetan /g/ desarroilatzen du: /errebatigue/
 
 ## ERREBOLBIDU ##
@@ -639,7 +639,7 @@ Zurrunbilo. (Itsasokoa)
 Arrantzale giroan bakarrik erabiltzen den hitz bat da.
 
 Honen sorrera, remolino hitzari zor zaio.  
-/remolino > arremolino > errebolino > erreborino (asimilazioz) > errebomo/ >i< galduz gero.
+/remolino → arremolino → errebolino → erreborino (asimilazioz) → errebomo/ >i< galduz gero.
 
 ## ERREBUELTADA ##
 
@@ -651,7 +651,7 @@ Kurba.
 - *errebueltadatan ikaratuten nai geidxen*
 - *errebueltadarik ez balekide on, ez lekidiez etorko txikillistek*
 
-Gaztelaniako *revuelta* (segunda vuelta) hitza hartu da beste esanahi hori jartzeko /revuelta + -ada- > errebueltada/
+Gaztelaniako *revuelta* (segunda vuelta) hitza hartu da beste esanahi hori jartzeko /revuelta + -ada- → errebueltada/
 
 ## ERREDONDAMENTIEN ##
 
@@ -681,7 +681,7 @@ Kategorikoki. Ia beti izaten da erantzuna ezezkoa.
 - *arek etso eiñ errakadorik, berak baietz esan badau be*
 - *gaur egun ezta eitxen errekadorik*
 
-/recado > errekado / errekadue
+/recado → errekado / errekadue
 
 Gaztelerazko zentzua bera dauka: *mensaje* = *provisión diaria*
 
@@ -704,7 +704,7 @@ Arrantzale giroko hitza da. Itsasontzi bat enkanterako bidean jartzea da. Baina 
 - *ez pentsa errematerako biarrak eingo dauienik*
 - *erremata gogorra ezan da, baie azkanien konpondu diez*
 
-/remate > erremate > errematea > errematie/
+/remate → erremate → errematea → errematie/
 
 ## ERREMENTA ##
 
@@ -718,7 +718,7 @@ Lehertu.
 - *ez errementa iñor e? Amen ezkauz tentelak eta*
 
 Gaztelerako *reventar* aditzetik sortua da.  
-/reventar > errebentar > errementar > errementa /
+/reventar → errebentar → errementar → errementa /
 
 Kintanaren hiztegian baino ez dator hitz hau, eta bertan beste zentzu batez agertzen da: *desternillarse* zentzua ematen dio.
 
@@ -739,7 +739,7 @@ Ahuldu. Nekatu.
 - *allega garizenien, errendidute, oire barrure dxun garizen*
 - *errendidu-errendidu eiñdxe zauzela ta kalera zuez?*
 
-Erdarazko *rendidos de cansancios berbera dugu, /rendir/ + /du/ partizipioa > errendidu/
+Erdarazko *rendidos de cansancios berbera dugu, /rendir/ + /du/ partizipioa → errendidu/
 
 Kintanak *producir* zentzuaz jaso du hitz hau.
 
@@ -761,7 +761,7 @@ Hilera.
 
 *erronka* edo *errenka* hitzen bariante bat izan daiteke, zeren, Bermeon, atzizkiak itsatsi eta gehitzeko joera baitago, eta horrela, >ada< atzizkia gehitu zaio.
 
-/errenkola/ + /ada/ > errenkolada/
+/errenkola/ + /ada/ → errenkolada/
 
 ## ERRESKADIE ##
 
@@ -794,7 +794,7 @@ Miaketa.
 
 Gaztelerako *registrar* aditzetik sartua, Bermeon normalak diren fonefikazko arauak ematen dira:
 
-/registrar > erregistrar > errekistrar/ Azken honek beste bariante bat eman du, gaur ere noizbehinka entzuten den *errekistre*; baina ez da hain erabilia. Eta badirudi, hortik irten duela gaur erabilitako forma: /errekistre > erreskitxe/
+/registrar → erregistrar → errekistrar/ Azken honek beste bariante bat eman du, gaur ere noizbehinka entzuten den *errekistre*; baina ez da hain erabilia. Eta badirudi, hortik irten duela gaur erabilitako forma: /errekistre → erreskitxe/
 
 ## ERRETOLIKIE ##
 
@@ -940,7 +940,7 @@ Orrazia. Era guztietakoak, baila itsasoan erabiltzen dena ere. Gaur egun adintsu
 
 Gaztelerako *escarpidor* hitza hartu da, hitz honen oinarritzat.
 
-/escarpidor > eskrapidor > eskripidor/. Hau, metatesia gertatu ondoren, >i< bokalaren asimilazioaz egin da.
+/escarpidor → eskrapidor → eskripidor/. Hau, metatesia gertatu ondoren, >i< bokalaren asimilazioaz egin da.
 
 ## ESKUREKO ##
 
@@ -1002,7 +1002,7 @@ Estutu. Itsatsi.
 
 Seguru asko gaztelerako *trincar* aditza izango da hitz honen jatorria, *desabandona* hitzean eta *eztropeza* hitzean egin den bezala, >ez< partikula aurretik jarrita:
 
-/ez/ > + /trinear/ > eztrinkar > eztrinke > estrinke/
+/ez/ → + /trinear/ → eztrinkar → eztrinke → estrinke/
 
 ## ETXADA ##
 
@@ -1016,7 +1016,7 @@ Sarea itsasoratzea arrainak harrapatzeko. Baina gero, herrira pasatu da, eta zen
 - *lelangoko etxadiegaz diruek etzera, dxokue aulan da*
 
 Gaztelerako *echar* aditzetik hartua.  
-/echada (acción de echar) > etxada/
+/echada (acción de echar) → etxada/
 
 ## ETXALAK ##
 
@@ -1029,7 +1029,7 @@ Erauntsia.
 
 Hitz hau konposatua da:
 
-/etxa/ + /ahala/ > etxala/
+/etxa/ + /ahala/ → etxala/
 
 Bokal berdinak izan arren, ez da egon disimilaziorik eta erdiko bokal bi erori egin dira.
 
@@ -1046,7 +1046,7 @@ Azken kasu hau hika forman agertzen da baina emakumeen arteko hikan.
 
 Badago *etxaramon* forma ere, Azkuek jaso duena, Kintanak ere jaso du bere hiztegian. Horren laburpena izango da goian aipatutakoa, Beraz:
 
-*ez jaramon* hitzetatik sortua /ez jaramon > ejaramon > etxaramon > etxamon/
+*ez jaramon* hitzetatik sortua /ez jaramon → ejaramon → etxaramon → etxamon/
 
 Azkuek ez du jaso, baina bai D.A.R.k, Mundaka eta Bermeorako, hain zuzen.
 
@@ -1137,7 +1137,7 @@ Pertsona delikatua, ala fina izatea nahi duena. Gehienetan emakumezkoei dagokie.
 - *zure lagune, eznirikutuko personie da*
 
 Hitz konposatu hau hiru elementuk osatzen dute:  
-/ez/ + /niri/ + ikutu/ > eznirikutu/ + /riko > eznirikuturikoa > eznirikuitikoa/ /r/ galdu eta /oa/ > /ue/
+/ez/ + /niri/ + ikutu/ → eznirikutu/ + /riko → eznirikuturikoa → eznirikuitikoa/ /r/ galdu eta /oa/ → /ue/
 
 ## EZTROPEZA ##
 

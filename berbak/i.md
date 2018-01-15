@@ -148,7 +148,7 @@ Gizon oso lizuna, neska gaztetzoak gustatzen zaakiona.
 - *imelapurrek ibill dziez atzoko berbenan*
 - *imelopurren antzeko bategaz etor da Benidorretik*
 
-/ume/> /ime/ + /lapurra/ > imelapurra > imelapurre
+/ume/> /ime/ + /lapurra/ → imelapurra → imelapurre
 
 ## IMEMOKUE ##
 
@@ -246,7 +246,7 @@ Ahalegintsua.
 
 Hitz hauen oinarria bilatzeko hipotesi baten sartu behar da. Hau da, *inquirir* aditza hartu. Hala ere ez dago argi zein izan zitekeen hitz honen eboluzioa.
 
-/inquiridor/ /inquiridoso/ > inkiridoso > inkirridoso > inkirrodxoso/ Gero, hemendik *inkirridxo* geratuko zen.
+/inquiridor/ /inquiridoso/ → inkiridoso → inkirridoso → inkirrodxoso/ Gero, hemendik *inkirridxo* geratuko zen.
 
 ## INKISISIÑUE ##
 
@@ -508,7 +508,7 @@ Jaso.
 
 Gaztelerako *izar* aditza du oinarri hitz honek.
 
-/izar > iza > ixe/
+/izar → iza → ixe/
 
 ## IXENTA ##
 
@@ -530,7 +530,7 @@ Urtebetetzea urteurrena edo horrelako zerbait ospatzen deneko oparitxoa edo gomu
 - *aren ixentaxiñuek eskasak ezaten diez*
 - *amuman ixentaziñue dakozu amen*
 
-Ikusten denez ez du *ixenta* ren antz handirik, zentzua beste bide batelik baitoa. Gainera, hartu duen atzizkia ere beste bat da, >pen< hartu beharrean >zino< hartu du: /izenda + zino > izendazino > izentazino > ixentaziño/
+Ikusten denez ez du *ixenta* ren antz handirik, zentzua beste bide batelik baitoa. Gainera, hartu duen atzizkia ere beste bat da, >pen< hartu beharrean >zino< hartu du: /izenda + zino → izendazino → izentazino → ixentaziño/
 
 ## IXIXENA ##
 

@@ -64,9 +64,9 @@ Pertsona fidagaitza. Gehienetan emakumeen artean erabiltzen da. Aurrekoaren zent
 
 Aurreko hitzaren zentzu berbera ematen zaionez askotan, jatorria ere bera izan daitekeela pentsatzekoa da. Gaztelerako *fandanguero* hitza honela geratuko litzateke hurrengo eboluzioa gertatuz:
 
-/fandanguero > fandangero > fandanero > fandaero > fandero/
+/fandanguero → fandangero → fandanero → fandaero → fandero/
 
-Baina beste hipotesi bat ere hor dago: *pandero* hitza hartuta egindakoa. Hitz honen definizioetariko bat *mujer necia y charlatana* da. Beraz ez da baztertzekoa hau ere, zeren eboluzioa askoz ere laburragoa izango litzateke: ez dago /p/ > /f/ zaharra egitea baino.
+Baina beste hipotesi bat ere hor dago: *pandero* hitza hartuta egindakoa. Hitz honen definizioetariko bat *mujer necia y charlatana* da. Beraz ez da baztertzekoa hau ere, zeren eboluzioa askoz ere laburragoa izango litzateke: ez dago /p/ → /f/ zaharra egitea baino.
 
 Gainera, D.A.R.k *fanderuen dirue* *dinero escaso* esan nahi duena jaso du, Bermeoko hitza bezala azaltzen duelarik.
 
@@ -152,7 +152,7 @@ Azalean egotea.
 
 Gaztelerako *flotando* gerundioa hartu da esanahi hori erabiltzeko; literalki hartu ere.
 
-/flotando > flotan/ Azken silaba galdu besterik ez du egin.
+/flotando → flotan/ Azken silaba galdu besterik ez du egin.
 
 ## FORRA ##
 

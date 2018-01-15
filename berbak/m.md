@@ -107,9 +107,9 @@ Albotik kendu ere egiten ez den laguntzailea. Zentzu peioratiboan beti.
 
 Hitz bau, frantseseko *mademoiselle* tik sartu da.
 
-/mademoiselle > mamuaselle > mamaselle > /mamaixela/
+/mademoiselle → mamuaselle → mamaselle → /mamaixela/
 
-/ua/ > /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, normala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
+/ua/ → /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, normala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
 
 ## MAMALA ##
 
@@ -199,7 +199,7 @@ Maneiatu.
 
 Argi dago gaztelerako *manejar* aditzetik sartuta dagoela.
 
-/manejar > maneja/
+/manejar → maneja/
 
 ## MANEJUE ##
 
@@ -226,7 +226,7 @@ Ganora. Trebetasuna.
 
 Nondik sartu den hitz hau ez dago argi. Baliteke, gaztelerako *mangonada* *golpe que se da con el brazo y manga* hitzetik deribatzea. Hau hipotesi bat, besterik ez da.
 
-/mangonada > mangada > manga/
+/mangonada → mangada → manga/
 
 ## MANIE ##
 
@@ -317,7 +317,7 @@ Mareoa.
 - *ba mareziñuei kasu ein bi tsazu*
 - *mareziñue mareziñuen ganien dako, ta Bilbora altza bi dauie*
 
-/mareo > mare + zino > marezino > mareziño > mareziñue/
+/mareo → mare + zino → marezino → mareziño → mareziñue/
 
 ## MARIDXE ##
 
@@ -460,7 +460,7 @@ Lotsagabekoa.
 
 Hitz hau gaztelerako *más que tú* da, hau da, *el no va más*. Ezer baino gehiago eta handiagoa.
 
-/más que tú > masketu/
+/más que tú → masketu/
 
 ## MASPASA ##
 
@@ -530,7 +530,7 @@ Mailua.
 
 Gaztelerako *martillo* tik hartu da zuzen zuzenean.
 
-/martillo > matraillo/
+/martillo → matraillo/
 
 /r/ dardarkariaren metatesia izan da aldatzailea.
 
@@ -588,4 +588,4 @@ Zikindu. Lohitu. Maziru.
 
 Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan adberbio funtzioa betetzen du. Azken bi esaldietan aditzaren funtzioa.
 
-/mazi + tu > mazitu > mazitxu/
+/mazi + tu → mazitu → mazitxu/

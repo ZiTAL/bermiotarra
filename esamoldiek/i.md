@@ -20,9 +20,9 @@ Aditz guztiekin erabilia da. Gaztelerako *ya que...* adierazten du.
 
 Gaztelerako *ya que* horri *eta* gehitu zaio forma hori lortuz.
 
-/ya que > iake > ijake/
+/ya que → iake → ijake/
 
-Normala denez /j/ epentetikoa sartu zaio. /j/ > /dx/. Gero apokope baten bidez azken /e/ galdu eta /a/ > /e/ egin da.
+Normala denez /j/ epentetikoa sartu zaio. /j/ → /dx/. Gero apokope baten bidez azken /e/ galdu eta /a/ → /e/ egin da.
 
 ## IKUE ATARA ##
 
