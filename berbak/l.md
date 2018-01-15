@@ -143,7 +143,7 @@ Lapurra.
 Neurria edo pisua ondo jota.
 
 - *larguro bota esnie gero, karu da ta!*
-- *arek Gemikeko gitaniek larguro meiduten txuz telak*
+- *arek Gernikeko gitaniek larguro meiduten txuz telak*
 - *larguro larguro ez, baie bueno, largurotxu emoten dauie bestiek pe*
 
 ## LARDXAKIÑE ##
