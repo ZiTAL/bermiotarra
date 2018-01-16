@@ -30,6 +30,14 @@ Denbora ez galtzea.
 - *kaderak mobidu berandu de ta*
 - *kaderak mobiten bazuz ariñau aillegako gariez*
 
+## KAFEKOLETXIE ESNIEGAZ ##
+
+Kafesnea.
+
+- *ata eistezu kafekoletxie esniegaz bidxotza lo dakot eta*
+- *goizetan armosotarako kafekoletxie esniegaz elegante oten da*
+- *kafekoletxie esniegaz hartzien badoten kumunera nuen osti bi txe erdigaz*
+
 ## KAKA ATARA ##
 
 Errieta gogor egitea.
