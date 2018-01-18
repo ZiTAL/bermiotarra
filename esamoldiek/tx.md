@@ -97,6 +97,14 @@ Badago kantu bat lelo ori erabiltzen dena:
 
 - *txilin txalan, eskatuten bozu infernora*
 
+## TXIRI-TXIRI ##
+
+Astiro.
+
+- *biharra ondo ein bide, baie txiri-txiri, eztau prisik eta*
+- *trankil ogon, ernega barik, txiri-txiri*
+- *hobeto txiri-txiri juen eta gauzek ondo ein*
+
 ## TXIRLETA LEZ ##
 
 Arin, azkar, mugikor pozik.
