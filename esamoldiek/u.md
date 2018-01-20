@@ -78,11 +78,11 @@ Zerbait txarra gertatuko den sumoa.
 
 ## USO BERO ##
 
-Gizonzalea den emakumea definitzeko erabiltzen den itirzetaliko beste bat.
+Gizonzalea den emakumea definitzeko erabiltzen den hitzetariko beste bat.
 
 - *ezan dan uso-berogaz, zelan arrapa dau bera mutille ba?*
 - *Benidorrera dxun danien ezetu dau, da berari mutilleri ez dotso lez ardure uso-bero bat ezan badan be*
-- *nire gixonagaz dabillela? Lixie lez kenduko dotsat azala uso-bero txarridxorreri*
+- *nire gixonagaz dabillela? Lixie lez kenduko tsat azala uso-bero txarridxorreri*
 
 ## USO KOZIÑERIE ##
 

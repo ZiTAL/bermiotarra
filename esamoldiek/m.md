@@ -190,7 +190,7 @@ Monja antzeko emakumea.
 
 - *orreri ez esan ezebe mixi-mixidxe da ta, santuek dxaten dabillena*
 - *mixi-mixidxe be zelakue da ba, danagaz ikaratuten da*
-- *aparentzidxe mixi mixidxena, baie gero etxos de kamabal*
+- *aparentzidxe mixi mixidxena, baie gero etxos de karnabal*
 - *eskillaran be iñok eztau asmaten mixi-mixidxe dalakon*
 
 ## MOKO TRUKEN ##

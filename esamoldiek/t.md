@@ -61,7 +61,7 @@ Neurtu barik. Gutxi gorabehera.
 
 ## TERTZA FALTAUE ##
 
-Zalantzazko fama edo erreputazioa txarra daukan pertsona. *Tertza* berba honen inguruan esaldi asko sortu dira, hurrengo agermen direnak, adibidez. Tretza, edo tertza, Bermeon esaten den bezala, arrantzarako apareiua dam eta hau krielean bilbatzen da.
+Zalantzazko fama edo erreputazioa txarra daukan pertsona. *Tertza* berba honen inguruan esaldi asko sortu dira, hurrengo agertzen direnak, adibidez. Tretza, edo tertza, Bermeon esaten den bezala, arrantzarako apareiua da eta hau krielean bilbatzen da.
 
 - *zuk esan zun enbrie tertza faltaue da, beraneante guztidxekaz ibillikue*
 - *beran aiztie be tertza faltaue ezan da, baie Bilbora dxun danien morroi bategaz ezkondu de*

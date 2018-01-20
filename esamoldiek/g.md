@@ -121,7 +121,7 @@ Gogoa dagoen momentua, gogoa badago ez dago momentu txarrik.
 
 - *Madrillera duzela bizitxen entzun dot; balora dako. E, gogue arraiñ*
 - *gure Anuska goixeko ordu bidxetan on da indxabak dxaten; ezta sasoie baie, gogue arraiñ*
-- *goixion goixien altzaten da Sollubera dxuteko. Kapazidadie dako, dakon edadien be. Gogue arraiñ alabatxi*
+- *goixien goixien altzaten da Sollubera dxuteko. Kapazidadie dako, dakon edadien be. Gogue arraiñ alabatxi*
 
 ## GOIDXE DXOTEKUE ##
 

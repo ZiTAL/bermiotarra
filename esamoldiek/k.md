@@ -361,8 +361,8 @@ Kofra itsasoko txori bat da. Honek harrapatzen duen guztia jaten du. Horregatik 
 Pertsona edo animalia oso zikina.
 
 - *eztot kure dxaten dxuen, koipien andiko mandie dizen lekora*
-- *egidxe da, koziñerie koipien andiko mandie da*
-- *baie txetxo! Koipien andiko mandie zara!*
+- *egidxe da, eskatza koipien andiko mandielez dakoie*
+- *baie txetxo! Koipezto! Koipien andiko mandie zara!*
 
 Koipearen handiko alderdia garbia beharko luke izan, baina ez, horretan geratu da. Gainera, ikusiko ditugu geroago beste adibide batzuk.
 
