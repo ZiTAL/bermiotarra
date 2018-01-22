@@ -236,14 +236,6 @@ Zerbait esan berba batetik bestera.
 - *berba batetik bestera esan dost ezkondu eitxen dala*
 - *ez kanbidxe konbertsasiñue, kapaz zara zu berba batetik bestera edozer esateko ta*
 
-## BERENUELAKO AIXIE ##
-
-Haize oso hotza.
-
-- *bera berenulako aixie azurretan be sartun eitxen ezan da*
-- *zer da aixe berenue dauena! Onek aixiek eitxen txuz larrosa guztidxek erre*
-- *itxosotik datorren aixe berenue edonondik sartzien da*
-
 ## BERTUTE BARIK ##
 
 Zapore gutxi edo batere ez. Gehienetan janariei dagokie.

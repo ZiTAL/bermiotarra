@@ -67,6 +67,14 @@ Oraindino adineko jendeak, hau da, hirurogei urtetik gorakoek, etxean sartzerako
 
 - *aimari prusimie, egunon danori*
 
+## AIXE BENERUE ##
+
+Haize oso hotza.
+
+- *bera aixe benerue azurretan be sartun eitxen ezan da*
+- *zer da aixe berenue dauena! Onek aixiek eitxen txuz larrosa guztidxek erre*
+- *itxosotik datorren aixe berenue edonondik sartzien da*
+
 ## AIXE BERDIE ##
 
 Itsasoko ipar-haizea. Hotza. Arrantzaleen artean asko erabilia, baita herrian bertan ere.
