@@ -271,6 +271,12 @@ Harridura, oihu edo haserrea adierazten duen lokuzioa dugu.
 - *amen gu! Mobidu be ezin, da denporie aurrera*
 - *ez dauela autobusik? Amen gu! Da orain zer?*
 
+## AN ZARALAKUEN AMEN ##
+
+Gauzak azkar egitea.
+
+- *Korrike jun zara ogidxe bile la? an zaralakuen amen!*
+
 ## ANAIDXE TXIKIDXE ##
 
 Zakila.
@@ -399,6 +405,13 @@ Erabat argal.
 - *ze argal dau a enbrie, arime fielan antza dako*
 - *alabatxi, dxango zu arime fiela lez zauz de*
 
+## ARIN DXE ONDO, TXORIDXEK EGAZ ##
+
+Gauzak ondo egiteko poliki egin behar direla.
+
+- *ia trankil ogo, arin dxe ondo, txoridxek egaz eitzen dauie te*
+- *arrapaladan zabilz, gauzek arin dxe ondo ein bi diez, ostantzien txoridxek egaz*
+
 ## ARIRE IMIÑI ##
 
 Erara ipini. Artez jarri.
@@ -483,6 +496,14 @@ Aurpegia zatitu edo apurtu. Biak erabiltzen dira. Figuratiboan intentzioa hori d
 - *zuk esastazu niri, arpidxe be zatitxu eingostazule, da gure dot dxakiñ zeitxik*
 - *ba, arpidxe zatitxuko tzutelakon, besterik ezebez*
 - *da olan sin mas arpidxe apurtu? Zer dala ta*
+
+## ARRA BATEKO BIDIEN ##
+
+Hurbil.
+
+- *non dakozun boligrafue? Arra bateko bidien, zeure musturren aurrien dakozu*
+- *Izaro urrun? Arra bateko bidien badauen!*
+- *Kafranka eztau urrun, arra bateko bidien baño!*
 
 ## ARRA BATEKO GIXONA ##
 

@@ -25,6 +25,14 @@ Zigorra. Zartadak.
 
 Gazteleratik hartua, hitz konposatu honen zentzua argi dago: *dale fuerte* hitza pluralizatuta erabiltzen da.
 
+## DANGILIZKE ##
+
+Dandarrez edo dariola zerbait janztea.
+
+- *txetxo erropa txikidxauek erosi dangilizke dakozuz eta!*
+- *argaldu ein zara ta oin erropak dangilizke*
+- *Kantiflaselez daruluz frakak, dangilizke!*
+
 ## DARDART ##
 
 Zentzu askotan erabilitako forma hau, oso erabilia da Bermeon.

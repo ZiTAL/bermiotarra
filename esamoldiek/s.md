@@ -14,6 +14,14 @@ Baina jatekoari Sakea aterako diogula esaten badugu:
 
 Beraz, kasu askotan gertatzen den moduan, esaldia eta esanahia ez dira etortzen bat.
 
+## SALTSA DANATAKO PEREJILLE ##
+
+Beti arazoetan egoten den pertsona.
+
+- *ikastolako saltsa danatako perejille da Iban*
+- *saltsa danatako perejille dok hori, ta oin kartzelan*
+- *horrek morroiek txarto akabako dau, saltsa dabatako perejille da ta*
+
 ## SAMAKO AZURRERARTE ##
 
 Gogaituta. Nazkatuta.

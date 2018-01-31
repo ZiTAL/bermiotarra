@@ -462,6 +462,14 @@ Lelo baten antzera erabiltzen da. Ez dagoela ezer, ez gauza onik, ezta itxaropen
 - *esperantzie badakozue, behintzet. Esperantzie? Boluek saltsan!*
 - *kotxe elegantie dakozuiela esan dost zure koiñatuek. Beran boluek saltsan!*
 
+## BORRO KOLORIE ##
+
+Masail gorriak dituen pertsona. Gehienetan, mozkor dagoenari esaten zaio.
+
+- *an dator lebatz manduegaz, borro kolorie zer dakar ba*
+- *orregaz borro koloriegaz ezin zu konduzidu*
+- *borro kolorie zer dakarzu ba! Auntzek pe Herrikon ibil zara patxaranak edaten?*
+
 ## BOST BOST! ##
 
 Bai zera!

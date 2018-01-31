@@ -218,6 +218,14 @@ Bakarrik berbetan. Aurrean dagoenak arreta ez jartzea.
 - *orduek pasaten txuz ormiri berbetan*
 - *abadie be elixen ormiri berbetan oten da, a komo la bara be ez dotso eitxen iñok eta*
 
+## ORRERI BELAKABU ##
+
+Pertsona batekin deseroso zaudenean, alde egiteko esaten den esamoldea.
+
+- *an dator a, baguez hametik, orreri belakabu!*
+- *ori morroie artzako basatzie baño zantarraue da, orreri belakagu*
+- *ori andrie eztot aguantaten, orreri belakagu, eta baguez beste taberna batera*
+
 ## ORREGAZ EZTAU MARIDXERIK ##
 
 Ez dagoela irabazirik edo zereginik.

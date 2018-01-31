@@ -11,7 +11,7 @@ Itsas kabra. Konparazioan, kolore gorriagatik.
 
 Gura eta ezinezkoa gertatzen danean. Batez ere ekonomian.
 
-- *beti dau a kabu monta ezifiik, asko bidau te...*
+- *beti dau a kabu monta eziñik, asko bidau te...*
 - *dirorik ez, da ezin erosi neuk gure dotena. kabu monta eziñik beste askon antzien*
 - *Benidorrera dxuteko, kabu monta eziñik ibillitxe?*
 

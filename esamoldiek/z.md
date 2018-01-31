@@ -30,6 +30,21 @@ Zati-zatika.
 - *zatike potrike zabiltzez atune pixeten, botaixu dana eztakozu or ezer da*
 - *emoteko okiñ dxosten dirue zatike potrike emon dost*
 
+## ZAZPI SUETAS ##
+
+Beti arazoetan dagoen pertsona.
+
+- *aregaz zazpi suetasegaz nora zuez ba, baietz folloieran baten sartun*
+- *a zazpi suetasa baietz laster kartzelan sartun*
+- *zazpi suetasa zer zara ba, txarto amaitxuko zu*
+
+## ZEMAT KURE ##
+
+Nahi beste.
+
+- *lebatza ekar dauie kalatik zemat kure!*
+- *dirue nik? Zemat kure!*
+
 ## ZER DAN EDO ZER EZTAN ##
 
 Informazio bila.

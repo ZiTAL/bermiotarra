@@ -22,6 +22,14 @@ Egia benetakoa. Azpimarratzeko esaten da.
 - *nik ez diñot guzurrik, egi berdaderue baiño*
 - *egi berdaderue dala diño, baie guzur txarridxe diño*
 
+## EGUALDIDXE HAVANA CUBA ##
+
+Eguraldi ona.
+
+- *egualdidxe havana cuba! Aritzatxure osti bi txe erdigaz!*
+- *aurton Madalenatan egualdidxe havana cuba!*
+- *Canariasen egunero egualdidxe havana cuba*
+
 ## EGUNEK ARGI ##
 
 Konturatu.

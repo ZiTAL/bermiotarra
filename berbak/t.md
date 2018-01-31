@@ -115,7 +115,7 @@ Berandutzea. Atzerapena.
 
 Kintanak bakarrik jaso du Bermeon hain erabilia den hitz hau.
 
-/kardanza → tardantza/
+/tardanza → tardantza/
 
 ## TARRAZTO ##
 

@@ -142,6 +142,22 @@ Ondo egiten den ustean.
 
 /ondo ustean → ondustean → ondustien/
 
+## ORDIDXE ##
+
+Mozkorra.
+
+- *atzo parranda matxue! Zelako ordidxe hartu zan dun baie...*
+- *Herrikoko patxaranagaz ordidxe zelakue baie!*
+- *Madalenatatik bueltan beti ordidxegaz mandaz mandazka!*
+
+## ORDIRIK ##
+
+Mozkorrik.
+
+- *atzo imie ordirik allega zan dasten etxera, ta gaur zigortute telebisiño barik*
+- *gaur egungo gaztiek astebururo dauz ordirik*
+- *au morroie beti dau ordirik, zerbezak zemat kure edaten dauz eta*
+
 ## OSKILLE ##
 
 Oso txikia. Eskasa.

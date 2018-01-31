@@ -185,6 +185,14 @@ Gizon gaztea gaixorik dagoenean edo hiltzen denean esaten da.
 - *gorringue lako gixona ezan da, baie oin beitu zelan dauen*
 - *ze gazte il dxe zuen albokue, gorringue lako gixona, ondiño imie*
 
+## GUARDA ABAJO ##
+
+Erori.
+
+- *baporetik guarda abajo jun de, eta itso ein dxe*
+- *berenganie laban eta guarda abajo jun nai*
+- *berenganie apurtu, eta an junde guarda abajo*
+
 ## GUARDA GUARDAKA ##
 
 Hitz hau arrantzale giroan erabiltzen den hitz bat da, eta denborale handia dagoenean ontzia asko mugitzeari deitzen zaio.

@@ -24,6 +24,12 @@ Gaztelerako *ya que* horri *eta* gehitu zaio forma hori lortuz.
 
 Normala denez /j/ epentetikoa sartu zaio. /j/ → /dx/. Gero apokope baten bidez azken /e/ galdu eta /a/ → /e/ egin da.
 
+## IGUAL EZANGO ZARA OSABA KARNALA, EZER EZ PADAKOZU IÑOR BE E ZARA; IGUAL EZANGO ZARA BIGARREN LENGUSU, ASKO BADAKOZU OSABA ZAITZUZ ZU ##
+
+Interesengatik dabilen pertsonari esaten zaio.
+
+- *Zu oin nora zatoz ba, dirue bizu le? Igual ezango zara osaba karnala, ezer ez padakozu iñor be e zara, igual ezango zara bigarren lengusu, asko badakozu osaba zaitzuz zu*
+
 ## IKUE ATARA ##
 
 Errieta handia egitea.
@@ -31,13 +37,6 @@ Errieta handia egitea.
 - *kalien entzun dau enbarazada dauena, da etzera dxun danien ikue atara dotso alabiri*
 - *nora dator au ikue ataraten ba, ataraixu kulpie dakonari*
 - *zelako ikue atara dotzo nobidxuri, berari ezebe esan barik Dolostire dxun dalakon*
-
-## LURRIEN IKUSI BE EZTIZENAK EITXEN ##
-
-Oso txikiak.
-
-- *zelako piperrak dakozuz ba, lurrien ikusi be eztizenak eitxen*
-- *ime txarri guztidxek, lurrien ikusi be eztizenak eitxen, aurrek dabiltzuz kotxiekaz*
 
 ## IL DA JESUS!	##
 

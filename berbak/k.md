@@ -608,6 +608,14 @@ Batu. Itsasoko terminoa da, tresna edo apareiuak batzea esan nabi du. Baina herr
 
 Gaztelerako *coger* da. Baina Mañu eta Bakio bitartean dauden baserriren baten *koixu* entzun dut.
 
+## KOIPEZTO ##
+
+Pertsona zikina.
+
+- *a koipeztue ostabe batorren surre ebai bikot!*
+- *aren koipeztuen atzagaz guarda abajo nuen*
+- *jaten asi orduko eskuek garbitxu koipezto!*
+
 ## KOKOZILLO ##
 
 Lepondo. Kokot.

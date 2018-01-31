@@ -180,6 +180,13 @@ Oso gazi.
 - *eurek antxobak lupue baiño gazidxau on dizelez, gero urek edaten eidxo*
 - *makallue be batzutan lupue lez oten da, baie dxan eitxen du*
 
+## LURRIEN IKUSI BE EZTIZENAK EITXEN ##
+
+Oso txikiak.
+
+- *zelako piperrak dakozuz ba, lurrien ikusi be eztizenak eitxen*
+- *ime txarri guztidxek, lurrien ikusi be eztizenak eitxen, aurrek dabiltzuz kotxiekaz*
+
 ## LUZE ME TA BISTOSUE ##
 
 Luzea, mehea eta dirdaitsua, baina nabarmena. Edozertan erabilia, bana pertsonekin ere. Gauza edo pertsonak meheak direla, eta askotan fruitu edo onura gabekoak adierazteko erabilia.

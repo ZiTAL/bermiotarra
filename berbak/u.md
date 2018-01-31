@@ -139,6 +139,13 @@ Diruaren faltaz, estu, larri, urkatuta bizi.
 - *geure denpora guztidxen bizi zan gariez urketute*
 - *orduen nor ezta bixi izan urketute ba*
 
+## URRIELAKUE ##
+
+Pertsona oso fina, langilea eta garbia.
+
+- *berori andrie diruei aixie emoten, da bera gixona urrielakue*
+- *berorren gixonan ama be urrielakue ezan da*
+
 ## URRUMADIE ##
 
 Burrunbada. Marruma.

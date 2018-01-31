@@ -66,6 +66,21 @@ Hitz hau oso zaharra da, emakumezko abokaturik ez zegoenekoa, hain zuzen. Baina 
 
 Adjektibo moduan eta askotan substantibo legez.
 
+## ABORROTZA ##
+
+Zarata handia.
+
+- *su ta gar-en konziertuen aborrotza zer on da ba!*
+- *Sorgerth-en konziertuen bai on zala aborrotza, kantantieri osti erdi be entenidu bez!*
+
+## ABORROZITE ##
+
+Aspertuta.
+
+- *aborrozite nau berton deberak eitzen*
+- *gaur aborrozite, baie atzo parrandan elegante!*
+- *Ateletin partidue total txarra, aborrozite on garizen arrausike denpora guztidxen*
+
 ## ABREBIDXUE ##
 
 Energia handia lanerako. Azkar ibili.

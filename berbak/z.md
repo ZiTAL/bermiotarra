@@ -214,6 +214,14 @@ Erdi bi.
 - *bidxotza be zati bitxute dakot, baie ez bategaz ez bestiaz enau*
 - *au ogidxe zati bitxu, imiri emoteko*
 
+## ZAZKELA ##
+
+Pertsona zikina.
+
+- *zazkela zer zara ba, sundie Mañutik pe asma!*
+- *zazkela matxue bera, beti erropa bardiñekaz*
+- *arek zazkelak atzazalak beti kakagaz beteta!*
+
 ## ZAZPIKIDXE ##
 
 Pertsona mugikorra, geldi egoten ez dena. Horren ondorioz esamesa guztien jabe egiten dena.

@@ -59,6 +59,14 @@ Neurtu barik. Gutxi gorabehera.
 - *tanto konto baten emonda, zelan dxakingu zemat metro paga biar tsagun ba?*
 - *arek a berbie tanto kontu baten esan dau, meidu barik berbiek takon pisue*
 
+## TARDATZIE BILE / EMON ##
+
+Umeak momentu baterako etxetik kanpora botatzeko aitzakia.
+
+- *txetxo jun zaitzez tardantzie bile amumanera*
+- *alabatxu tire izekonera, eta esan tardantzie emoteko*
+- *onek imiek azukara lar jan dau, eta oin eztau nok aguantako dauen, amumanera botakot tardantzie bile*
+
 ## TERTZA FALTAUE ##
 
 Zalantzazko fama edo erreputazioa txarra daukan pertsona. *Tertza* berba honen inguruan esaldi asko sortu dira, hurrengo agertzen direnak, adibidez. Tretza, edo tertza, Bermeon esaten den bezala, arrantzarako apareiua da eta hau krielean bilbatzen da.
