@@ -721,6 +721,16 @@ Kontagaia.
 - *ori be kontaduidxetarako dakozu? Eztau zu lakorik*
 - *nire gauzek ez ibilli kontaduidxerako, eztot gure ta*
 
+## KONTXIDXOPIEN ##
+
+Udaletxearen azpian.
+
+- *kontxidxopien geratu gara txupinazorako*
+- *kontxidxopien oten diez drogaten*
+- *udaletxie erre zanetik kontxidxopie baño ezta geratzien*
+
+Kontzeilupean berbatik datorrela uste dugu.
+
 ## KOPLA ##
 
 Tontakeria. Aitzakia.
