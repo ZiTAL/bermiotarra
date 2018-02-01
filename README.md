@@ -21,7 +21,5 @@ Esker berezidxek:
 - Iñigo Aldai
 - Dorleta Kortazar
 - Ainhoa Astui
-- Eneritz German Zabala
-- Madalena Lopez (Madalen Legoie)
 
 Eskerrik asko!
