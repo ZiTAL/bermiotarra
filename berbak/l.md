@@ -198,13 +198,14 @@ Azkuek eta Kintanak jaso dute hitz hau, baina ez esanahia, hau ezberdina baita b
 
 ## LEGOIE ##
 
-1. Gauzak ondo egiten duen gizona. Adimen edo indar handikoa.
+1. Gauzak ondo egiten duena. Adimen edo indar handikoa.
 
-- *txo! Legoie zara txo, eztau zu lakorik, aiñ ariñ ikasi zu konduziten?*
+- *Madalenen lobie loegie da txo! Burgorarte korridxen juten da!*
 - *a imie legoie da, eskolan be dana ikasten dau berez*
 - *legoie lako morroie da txo, esko bategaz altza dau kotxie*
 
 2. Mutil galanta.
+
 - *ai! zelako mutille da ba, legoie lako mutille*
 - *a bada legoie, ni nai tigrie*
 
