@@ -347,6 +347,16 @@ Begiak puztuta. Betazpiak puztuta.
 
 /begi + putz → begiputz/
 
+## BEGIRE ##
+
+Itxaroten.
+
+- *hamen nau hamar mille ordu zeuri begire*
+- *berari begire berton jesarritxe*
+- *ia non gauzen? zeuri begire berton!*
+
+Azentua lehenengo silaban dago. *bégire*
+
 ## BEGITELA ##
 
 Betazal jausiak.
