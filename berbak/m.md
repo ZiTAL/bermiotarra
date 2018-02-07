@@ -280,6 +280,14 @@ Balio gabeko gauza. Gutxietsia. Despektiboan sarri.
 - *ori telie ez erosi, mantar mantarra da ta*
 - *zeuzer dalakuen erosi dot erropie ta mantarrak urten dost*
 
+## MANTEKAUE ##
+
+Izozkia.
+
+- *erdu Pereiranera mantekaue jaten*
+- *uden askatan jaten duz mantekauek*
+- *neureko mantekaurik gozuena limoiena da*
+
 ## MANUEN ##
 
 Ahul dagoen edo dabilen pensona, animalia edo gauza.

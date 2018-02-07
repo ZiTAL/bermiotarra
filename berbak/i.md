@@ -451,7 +451,7 @@ Gaztelerako *lazarillo* edo horren antzeko zerbait definitzeko erabili izan dela
 
 ## ITXUGIÑE ##
 
-Itogina. Konparazioan, gauzak berehala egitea edo esatea guslatzen zaiona.
+Itogina. Konparazioan, gauzak berehala egitea edo esatea gustatzen zaiona.
 
 - *bestelako latie emoten zauz, itxugiñori*
 - *ez ezan itxugiñe da trankill egon*
