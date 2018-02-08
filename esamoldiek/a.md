@@ -603,6 +603,14 @@ Sareak hartu ezinik. Figuratiboan bi zentzu:
 - *eztaitx beragaz nok auentako dauen, arterik artun eziñik dau te*
 - *diro apur bet irebazten dauinien artiek artun eziñik paraten diez*
 
+## ARTZAKO ARIE BAÑO ZANTARRAUE ##
+
+Zikina.
+
+- *ori morroie artzako arie baño zantarraue da, beti due erropa zantarrakaz*
+- *zer diñozu!! Dorleta ezta artzako arie baño zantarrau, a neska elegantie da txo!*
+- *zeu bai zarala artzako basatzie baño zantarraue, egunero itsosupeteko zundiegaz zatoz eta!*
+
 ## ARTZAKO BELENIELAKUE ##
 
 Zikina.
@@ -653,7 +661,7 @@ Astakilo. Ezjakina.
 
 Pertsona ahanzkorra denean.
 
- *ekar zu ogidxe? aztu eiñ dxast. Astue kortan da mandue etzien*
+- *ekar zu ogidxe? aztu eiñ dxast. Astue kortan da mandue etzien*
 - *itxistazu dirue, etzien aztute nator da. Astue kortan da mandue etzien*
 
 ## ASTUEN BABAK ##
