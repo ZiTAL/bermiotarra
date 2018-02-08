@@ -635,6 +635,14 @@ Lelo antzekoa da.  *zer egingo diogu ba!* esan nahi du. Dena barkatu behar dela.
 - *partidue ikusten dxun biar, da okiñ ez non dxuen. Au de kalamidadie! Asko gazak eta*
 - *andramaidxek abrosidute pasako tez auntxe be, arantz da onantz, urruburuen antzien, asko gazak eta*
 
+## ATA KONTU ##
+
+Atera kontua. Lelo baten antzekoa da. Esaldi egin bat hitz baten bihurtu da.
+
+- *ata kontu postie naiela, berton, mobidu barik*
+- *ata kontu iñuzentie naiela, eztost kasurik eitxen da*
+- *zer dau berton ba! Ata kontu andramaidxek tizela*
+
 ## ASTO DXAIDXO TA MANDO AZI ##
 
 Pertsona dorpea edo trauskila dirudienari esaten zaio.

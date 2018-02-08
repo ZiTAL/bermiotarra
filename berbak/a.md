@@ -1936,14 +1936,6 @@ Arrain bat da. Konparazioan erabiltzen da. Lodi eta dorpea den pertsonari, hain 
 - *ataluen antzeko morroi bet ezan da etor dana*
 - *gero be ezango aiz atalue, eztok ernegaten da*
 
-## ATAKONTU ##
-
-Atera kontua. Lelo baten antzekoa da. Esaldi egin bat hitz baten bihurtu da.
-
-- *atakontu postie naiela, berton, mobidu barik*
-- *atakontu iñuzentie naiela, eztost kasurik eitxen da*
-- *zer dau berton ba! Atakontu andramaidxek tizela*
-
 ## ATAPOSTA / ATEPOSTA ##
 
 Etxeko sarrerako atea.
