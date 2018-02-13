@@ -597,3 +597,11 @@ Zikindu. Lohitu. Maziru.
 Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan adberbio funtzioa betetzen du. Azken bi esaldietan aditzaren funtzioa.
 
 /mazi + tu → mazitu → mazitxu/
+
+## MURMOIE ##
+
+Behe-lainoa.
+
+- *dauen murmoiegaz Sollube be ezta ikusten*
+- *Mañu idxe beti dau murmoiegaz, bidiek eitzen juen eta galdu!*
+- *dauen murmoiegaz ezindxe juen mendire*
