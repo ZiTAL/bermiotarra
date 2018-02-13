@@ -370,6 +370,14 @@ Lexikoan *eskoganekue* hitza agertzen da zentzu berberaz gaztelerako itzulpen li
 - *eztot gure bigarren eskokorik ezer*
 - *karue ezanda be, obeto orrotzetik arakue bigarren eskokue baiño*
 
+## BIDIEK EITZEN ##
+
+Ibilaldia.
+
+- *Mundekara guez bidiek eitzen, egualdi ona dau te*
+- *Domekan etxien? Erdu bidiek eitzen portora*
+- *Errotatatik elegante dau bidiek eitzen juteko*
+
 ## BIDXAR BE EGUNE DAU ##
 
 Aurretik denbora dagoela adierazteko.
