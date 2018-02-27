@@ -357,7 +357,7 @@ Arropa garbiketa.
 
 - *dxabonadurie eiñdxe itxi bi dot kalera urten orduko*
 - *nik dxabonadure asko dakot eta eziñ dxot urten ba*
-- *dxabonadurek interifiieri emoten tsatez*
+- *dxabonadurek interiñieri emoten tsatez*
 - *eskeitxe dakozun dxabonadurie, ariñ ein zu*
 - *dxabonadurek ez palelddotez okiñ Bilbora dxungo leidnai*
 
