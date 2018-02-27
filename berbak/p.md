@@ -849,7 +849,7 @@ Lapiko hauek irten zirenean, euretariko baten izena *presto* izan zen eta orduti
 
 Frijituki.
 
-- *prijidukidxen useifiegaz larritxute nau*
+- *prijidukidxen useiñegaz larritxute nau*
 - *gure ama beti dabill prijidukidxek eitxen, eguno bez ensaladarik*
 - *prijidukidxek eztiez ba gorputzerako onak*
 

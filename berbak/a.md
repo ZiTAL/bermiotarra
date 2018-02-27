@@ -33,10 +33,12 @@ Adjektibo moduan. Gehienetan gizonezkoei aplikatzen zaie.
 - *ez ezan (izan) abillariñe*
 
 Bi adjetibok osatzen duten hitza dela dirudi:  
-/abilla + arifia/ → abillariña → abillariñe/
 
-Baina beste hipotesi hau ere kontutan har daiteke:  
-/abill + arifi/ aginte erako forma, hain zuzen.
+*abilla* + *ariña* → *abillariña* → *abillariñe*
+
+Baina beste hipotesi hau ere kontutan har daiteke:
+  
+*abill* + *ariñ* aginte erako forma, hain zuzen.
 
 ## ABILLE ##
 

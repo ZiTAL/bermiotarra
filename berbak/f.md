@@ -192,7 +192,7 @@ Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia defini
 Aurretik *entzaduek* aipatu ditugu, itsasoko jantziak bezala. Oraingoan frakei dagokie bitz hau.
 
 - *frakonezkuek dxantzitxe nora due ba, arraiñik pe eztauie ekarri txe*
-- *arek enbarkazifiuek arraiñe dakar antza, gixonak frakonezkuek takanie soiñien da*
+- *arek enbarkaziñuek arraiñe dakar antza, gixonak frakonezkuek takanie soiñien da*
 - *frakonezko luzieidxek dakotez da estorba eitxen dostie*
 
 Hitz hau konposatua da: *fraka* olanezkoak (*lona*). Frakak josi eta gero, linaza olioa ematen zitzaion. Gaur egun plastiko edo tela sintetikoz egindakoak izaten dira, baina izena mantentzen dute.

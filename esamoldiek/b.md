@@ -407,7 +407,7 @@ Ezer egin barik. Lanik egin barik.
 
 - *Baie dxakin lekide zer eitxen on zarien oraiñ arte? Zera, binboliñe dxoten!*
 - *an dakozuz arek ama ta alabie zer eiñ ezien binboliñe dxoten*
-- *binbolifie dxoten on barik, anun eskobie da kolarra eskobatu*
+- *binboliñe dxoten on barik, anun eskobie da kolarra eskobatu*
 
 ## BIRI BIRIKE ##
 

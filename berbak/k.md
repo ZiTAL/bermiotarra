@@ -743,7 +743,7 @@ Kontzeilupean berbatik datorrela uste dugu.
 
 Tontakeria. Aitzakia.
 
-- *koplak eitxen ibilltxen da atentzifiue deitxuteko*
+- *koplak eitxen ibilltxen da atentziñue deitxuteko*
 - *ez ein koplarik ostantzien berton itxiko zaitxut*
 - *dana ezanda koplie, eztau okiñ ezer*
 

@@ -343,7 +343,7 @@ Itsasontzientzat erabiltzen den hitza, hizkera arruntera pasatu da.
 
 - *ez zarala entera? Enpanadie be ez takozu zuk txikidxe*
 - *zelako enpanadie dako ba, ondiño pasa barik tako atzokue*
-- *ekar dauen enpanadigaz ifior be eztau ezetu*
+- *ekar dauen enpanadigaz iñor be eztau ezetu*
 
 Gaztelerako *enpanada* edo *torta* bi hitz horien zentzua hartu du literalki, baina zentzu figuratuan erabiliz.
 
@@ -491,7 +491,7 @@ Gauza baten era.
 
 1. Artez egon.
 
-- *ez zu inuñi kaltzetifiek eratara iruntzera baiño*
+- *ez zu inuñi kaltzetiñek eratara iruntzera baiño*
 - *ez zauz erara, okerretara zabiltzez*
 
 2. Eskura izan.
@@ -517,7 +517,7 @@ Hitz honen jatorria *erdi eginean* da. D.A.R.k jaso duena antzekoa da, baina ez 
 
 - *ama bakan-ik geratu dxatzo lez, berak artu bi dau. Ezta erlaue makala*
 - *bapor barridxe eitxeko bankuen atara bi dau dirue ta dauzen interesakaz bestelako erlaue*
-- *deklarazifiue eitxen dunien erlaue dxeusko dxasku*
+- *deklaraziñue eitxen dunien erlaue dxeusko dxasku*
 
 2. Gripea.
 
@@ -853,7 +853,7 @@ Azkuek, D.A.R., P.M. eta Kintanak *diestro* zentzuaz azaltzen dute forma hau, Be
 Obeditzen ez duena.
 
 - *au imie esantxarreko utse da, eztau eitxen esaten tsatena*
-- *ez esan esantxarrekue ostantzien belarrieskifiekue emongo tsut*
+- *ez esan esantxarrekue ostantzien belarrieskiñekue emongo tsut*
 - *esantxarrekue ezatearren pasa dxatzo pasa dxatzona*
 - *esantxarrekue bazara ez zaitxut erungo Bilbora*
 
@@ -919,7 +919,7 @@ Esku txarrekoa. Aurretik *esku onekoa* jarri dugu, baina hau erabat alderantzizk
 
 - *eztot kure ori andrie etortie dendara eskotxarrekue da ta*
 - *eskotxarreko bat etorten badxatzu egun guztidxen ez zu salduko ezebe*
-- *aurrek estrefie nau. Enebada! Eskotxarrekue da ori*
+- *aurrek estreñe nau. Enebada! Eskotxarrekue da ori*
 
 ## ESKOERARA ##
 
@@ -1025,7 +1025,7 @@ Erauntsia.
 - *ez urten kalera etxalak dauz botaten da*
 - *etxalak ezan diez etzetik urten dunien*
 - *etxalak pa diez laster beteko da depositue urena*
-- *etxala dau botaten gero, ia inundazifiuek etorten badiez*
+- *etxala dau botaten gero, ia inundaziñuek etorten badiez*
 
 Hitz hau konposatua da:
 

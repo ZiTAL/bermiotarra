@@ -282,7 +282,7 @@ Kolorea galdu.
 1. Balentria.
 
 - *destrozue eiñ dxau, iñok paiño arraiñ geidxau atrapa*
-- *arraifie atrapa dau arek destrozue*
+- *arraiñe atrapa dau arek destrozue*
 
 2. Kantitate handia. Asko.
 
