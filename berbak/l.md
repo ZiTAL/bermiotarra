@@ -200,7 +200,7 @@ Azkuek eta Kintanak jaso dute hitz hau, baina ez esanahia, hau ezberdina baita b
 
 1. Gauzak ondo egiten duena. Adimen edo indar handikoa.
 
-- *Madalenen lobie loegie da txo! Burgorarte korridxen juten da!*
+- *Madalenen lobie legoie da txo! Burgorarte korridxen juten da!*
 - *a imie legoie da, eskolan be dana ikasten dau berez*
 - *legoie lako morroie da txo, esko bategaz altza dau kotxie*
 
