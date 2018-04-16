@@ -13,6 +13,7 @@ if(!$search)
 
 $files = getFiles($dirs);
 
+$result = array();
 foreach($files as $file)
 {
     $input = file_get_contents($file);
@@ -25,13 +26,17 @@ foreach($files as $file)
 
     if($search_nodes->length>0)
     {
+        $result[$file] = array();
         foreach($search_nodes as $sn)
         {
             $parent_node = getParentNode($sn);
             $h = getPrevNode($parent_node, 'h2');
-            echo "{$h->nodeValue}\n";
+            if(!in_array($h, $result[$file], true))
+                $result[$file][] = $h;
         }
     }
+    
+    print_r($result);
 }
 
 function getFiles($dirs)
