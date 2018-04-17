@@ -31,7 +31,7 @@ Formaz *egarria* bada ere, zentzua besterik da. Seguru *gehigarria* dela hitz ho
 
 /geigarria → geigarrije/ → geigarridxe.
 
-Bokal itxidura gertatuz gero, *j< epentetikoa sartu da, oso normala bait da Bermeoko hizkeran.
+Bokal itxidura gertatuz gero, *j* epentetikoa sartu da, oso normala bait da Bermeoko hizkeran.
 /geigarridxe → eigarridxe → egarridxe/
 
 ## EGUERDIDXE ##
@@ -100,7 +100,7 @@ Hitz honen etimologia *ekinean* hitza da.
 
 /ekinean → ekiñean → ekiñien → ekiñijen → eiñekidxen/
 
-Kontsonanteen metatesia egin da. Aurrerago ere, ikusi dugun bezala, nahiz eta palatalizatu, Bermeoko hizkerak ez du galtzen aurreko *i<. Horregatik, kasu honetan, sudurkari borren aurrean *i< bat desarroilatu du.
+Kontsonanteen metatesia egin da. Aurrerago ere, ikusi dugun bezala, nahiz eta palatalizatu, Bermeoko hizkerak ez du galtzen aurreko *i*. Horregatik, kasu honetan, sudurkari borren aurrean *i* bat desarroilatu du.
 
 ## EKAU ##
 
@@ -139,7 +139,7 @@ Arlanpa. Moilan batelak igotzeko egindakoa.
 
 Gaztelerako *rambla* hitzetik hartuta dago, baina zentzua ez du hitz horri dagokiona, *rampa* hitzari baizik.
 
-/ratnbla → erranbla → elanbra/. *i< eta *rr< kontsonanteen metatesiaren bidez aldatu da hitza.
+/ratnbla → erranbla → elanbra/. *i* eta *rr* kontsonanteen metatesiaren bidez aldatu da hitza.
 
 ## ELASTIKO / UE ##
 
@@ -547,7 +547,7 @@ Desegokia da baina hor dago.
 
 /relucidad → erluzidad → erluzidade/
 
-Ez da egon *e< protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
+Ez da egon *e* protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
 
 ## ERNEGA ##
 
@@ -583,7 +583,7 @@ Kezka. Haserrea.
 - *ondiño ernegue kendu barik takot*
 - *arpeidxen igarten eixatzu ernegue*
 
-Azkuek ez du jaso bere hiztegian eta D.A.R.k, lehenengoa jaso du, baina zentzu ezberdinez. Honek gaztelerako zentzuaz azaltzen du. Kintanak ere *ernega* eta *ernegu< jaso ditu, baina zentzua gaztelerakoa bera da.
+Azkuek ez du jaso bere hiztegian eta D.A.R.k, lehenengoa jaso du, baina zentzu ezberdinez. Honek gaztelerako zentzuaz azaltzen du. Kintanak ere *ernega* eta *ernegu* jaso ditu, baina zentzua gaztelerakoa bera da.
 
 *renegar* erdarazko aditza hartu da.  
 /renegar → ernegar → ernega/
@@ -599,7 +599,7 @@ Abar. Edozein motatako abarrak.
 - *orrek arboliek errama asko dako*
 - *neguen arbolai erramak kentzien dxakoie*
 
-Erdarako *rama* hitzari *e< proteiko bat erantsi zaio.
+Erdarako *rama* hitzari *e* proteiko bat erantsi zaio.
 
 ## ERREBATI(G)UE ##
 
@@ -639,7 +639,7 @@ Zurrunbilo. (Itsasokoa)
 Arrantzale giroan bakarrik erabiltzen den hitz bat da.
 
 Honen sorrera, remolino hitzari zor zaio.  
-/remolino → arremolino → errebolino → erreborino (asimilazioz) → errebomo/ *i< galduz gero.
+/remolino → arremolino → errebolino → erreborino (asimilazioz) → errebomo/ *i* galduz gero.
 
 ## ERREBUELTADA ##
 
@@ -747,7 +747,7 @@ Kintanak *producir* zentzuaz jaso du hitz hau.
 
 Errain-gaia.
 
-Arinago aipatu dugu *ki< atzizkia erabiliz nola egiten diren honelako hitzak:
+Arinago aipatu dugu *ki* atzizkia erabiliz nola egiten diren honelako hitzak:
 
 - *errenkidxegaz dxun da Bilbora*
 
@@ -759,7 +759,7 @@ Hilera.
 - *baporak bata bestien atzien etor diez, errenkoladan*
 - *errenkolada andidxe on da ziñerako entradak artzien*
 
-*erronka* edo *errenka* hitzen bariante bat izan daiteke, zeren, Bermeon, atzizkiak itsatsi eta gehitzeko joera baitago, eta horrela, *ada< atzizkia gehitu zaio.
+*erronka* edo *errenka* hitzen bariante bat izan daiteke, zeren, Bermeon, atzizkiak itsatsi eta gehitzeko joera baitago, eta horrela, *ada* atzizkia gehitu zaio.
 
 /errenkola/ + /ada/ → errenkolada/
 
@@ -940,7 +940,7 @@ Orrazia. Era guztietakoak, baila itsasoan erabiltzen dena ere. Gaur egun adintsu
 
 Gaztelerako *escarpidor* hitza hartu da, hitz honen oinarritzat.
 
-/escarpidor → eskrapidor → eskripidor/. Hau, metatesia gertatu ondoren, *i< bokalaren asimilazioaz egin da.
+/escarpidor → eskrapidor → eskripidor/. Hau, metatesia gertatu ondoren, *i* bokalaren asimilazioaz egin da.
 
 ## ESKUREKO ##
 
@@ -1000,7 +1000,7 @@ Estutu. Itsatsi.
 - *ori erropie ez dxantzi, estrinketa dakozu te*
 - *an dxun dxatzu a, gonie estrinketa popie be markata*
 
-Seguru asko gaztelerako *trincar* aditza izango da hitz honen jatorria, *desabandona* hitzean eta *eztropeza* hitzean egin den bezala, *ez< partikula aurretik jarrita:
+Seguru asko gaztelerako *trincar* aditza izango da hitz honen jatorria, *desabandona* hitzean eta *eztropeza* hitzean egin den bezala, *ez* partikula aurretik jarrita:
 
 ez + trinear → eztrinkar → eztrinke → estrinke.
 
