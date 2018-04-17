@@ -1,4 +1,5 @@
 <?php
+include('../private/common.php');
 
 $dirs = array
 (
@@ -35,31 +36,8 @@ foreach($files as $file)
                 $result[$file][] = $h;
         }
     }
-    
-    print_r($result);
-}
 
-function getFiles($dirs)
-{
-    $allow = array
-    (
-        '/\.html/i'
-    );
-    $files = array();
-    foreach($dirs as $dir)
-    {
-        $f = scandir($dir);
-        
-        foreach($f as $g)
-        {
-            foreach($allow as $a)
-            {
-                if(preg_match($a, $g))
-                    $files[] = "{$dir}/{$g}";
-            }
-        }
-    }
-    return $files;
+    print_r($result);
 }
 
 function getSearch()
