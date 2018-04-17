@@ -125,14 +125,14 @@ Erdarazko *de más* hitzak gehiegikeria adierazten du
 
 ## DENPORALTZA ##
 
-Ekaitz gogorra. Leunagoa denean *denporalie* esaten da. Baina kasu honetan >tza< ugaritasunezko atzizkia jarri da.
+Ekaitz gogorra. Leunagoa denean *denporalie* esaten da. Baina kasu honetan *tza* ugaritasunezko atzizkia jarri da.
 
 - *denporaltzie dauelez ez tiez dxungo itxosora*
 - *atzo denporaltzie on da baie gaur bare-bare dau*
 - *denporaltziegaz on diez iru egunien*
 - *denporaltza andidxe ekar dau te, etzien geratu bi zan dauie*
 
-Azken esaldi honetan gainera, >andi< adjetiboaz indartu da denporaltza.
+Azken esaldi honetan gainera, *andi* adjetiboaz indartu da denporaltza.
 
 ## DERROT ##
 
@@ -155,7 +155,7 @@ Arraro samarra den arren, hitz honek esanahi hori dauka Bermeon. Oso erabilia da
 - *etzie desabandonaten badau deretxo guztidxek galtzien txuz*
 - *eskapa eiñ dxau Madrillera, gixona ta alabie desabandonata*
 
-Ikusten denez, *abandonar* gaztelerako aditza eta euskaraz ere erabiltzen den >des< aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
+Ikusten denez, *abandonar* gaztelerako aditza eta euskaraz ere erabiltzen den *des* aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
 
 ## DESAPARTA ##
 
@@ -174,7 +174,7 @@ Desegin.
 - *aixiek arbola guztidxek desasidu eiñ txus*
 - *indxaba danak eiñ dxiez desasidu, orrenbeste su ezta okin biar*
 
-Kasu honetan >du< partizipioa erabili da gaztelerazko hitza euskaratzeko.  
+Kasu honetan *du* partizipioa erabili da gaztelerazko hitza euskaratzeko.  
 /dezhacer- + du → desazedu → desasidu/
 
 Adberbio moduan.
@@ -386,7 +386,7 @@ Aurretik azaldu ditugu *entzadu* eta *frakonozkuek* hitzak. Horietakoa dugu best
 
 /jaka/ + larru/namil → dxalcenarru → dxakenarro/
 
-Aurretik esandakoa kontutan izanik, hemen ere >u< bokalea deklinatu gabe doan hitzean >o< bihurtzen da.
+Aurretik esandakoa kontutan izanik, hemen ere *u* bokalea deklinatu gabe doan hitzean *o* bihurtzen da.
 
 Kasu honetan, ez da larruzko jaka, linaza olioa emandako olanazko jaka baizik. Gero, horrek, larruaren funtzioa beteko du.
 
@@ -449,7 +449,7 @@ Jaka luzea. Zentzu peioratiboan erabiltzen da.
 - *beran dxipetoie garbiten on nai ontxerarte*
 - *dxipetoieri botoiek kanbidxe bi tsatez*
 
-Hitz honekin batera *jipoi* ere erabiltzen da; eta gaztelerako *chaqueton* hitzaren azken silaba >ton< eta *jipoi* hitzaz konposatuta dagoela dirudi.
+Hitz honekin batera *jipoi* ere erabiltzen da; eta gaztelerako *chaqueton* hitzaren azken silaba *ton* eta *jipoi* hitzaz konposatuta dagoela dirudi.
 
 jipoi + ton → jipoiton → dxipeton → dxipetoi.
 
@@ -471,7 +471,7 @@ Zerbaiten kontra jo.
 
 Hitz hau *jo erazi* izango da seguruena, -era- zatikia galdu eta - ka- tartizkia hartu ondoren: /jo + ka + zo/
 
-Baina beste hipotesi hau ere kontutan izan beharko litzateke: beste kasu batzuetan bezala gazteleratik hartutako *tortazo* hitzaren >zo< atzizkia izan liteke.
+Baina beste hipotesi hau ere kontutan izan beharko litzateke: beste kasu batzuetan bezala gazteleratik hartutako *tortazo* hitzaren *zo* atzizkia izan liteke.
 
 ## DXOSI ##
 
@@ -502,7 +502,7 @@ Erdi edo osorik erotuta.
 - *dxota dauela diñoie. Neguen uger eitxen dau orrek Aritxatxun*
 - *enebada! Dxota ete nau ba, orrek gauzek eitxeko?*
 
-D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen >joa< forma. Hau, *jo* aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, *tocado de la cabeza* definizioaz agertzen da.
+D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen *joa* forma. Hau, *jo* aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, *tocado de la cabeza* definizioaz agertzen da.
 
 ## DXUENA ##
 
