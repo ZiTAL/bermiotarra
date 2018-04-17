@@ -1,24 +1,29 @@
 <?php
 
-function getFiles($dirs)
+function getFiles($dirs, $allow = NULL)
 {
+/*
     $allow = array
     (
-        '/\.html/i'
+        '/\.md/i'
     );
-    $files = array();
-    foreach($dirs as $dir)
-    {
-        $f = scandir($dir);
+*/
+	$files = array();
+	foreach($dirs as $dir)
+	{
+		$f = scandir($dir);
 
-        foreach($f as $g)
-        {
-            foreach($allow as $a)
-            {
-                if(preg_match($a, $g))
-                    $files[] = "{$dir}/{$g}";
-            }
-        }
-    }
-    return $files;
+		foreach($f as $g)
+		{
+			if($allow!==NULL)
+			{
+				foreach($allow as $a)
+				{
+					if(preg_match($a, $g))
+						$files[] = "{$dir}/{$g}";
+				}
+			}
+		}
+	}
+	return $files;
 }

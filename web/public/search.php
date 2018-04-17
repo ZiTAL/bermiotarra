@@ -3,8 +3,8 @@ include('../private/common.php');
 
 $dirs = array
 (
-	realpath(__DIR__."/../../berbak"),
-	realpath(__DIR__."/../../esamoldiek")
+	realpath(__DIR__."/berbak"),
+	realpath(__DIR__."/esamoldiek")
 );
 
 $search = getSearch();
@@ -12,14 +12,25 @@ $search = getSearch();
 if(!$search)
 	exit('E_SEARCH');
 
-$files = getFiles($dirs);
+$files = getFiles($dirs, array
+(
+        '/\.html/i'
+));
 
+$names = array();
 $result = array();
 foreach($files as $file)
 {
+    preg_match("/[^\/]+\/[^\/]+\.html$/i", $file, $m);
+    $m = $m[0];
+    
     $input = file_get_contents($file);
 
+	$input = preg_replace("/^([\S\s]+)<body>\s*/im", '', $input);
+	$input = preg_replace("/\s*<\/body>([\S\s]+)$/im", '', $input);
+
     $dom = new DOMDocument('1.0', 'utf-8');
+    $dom->encoding = 'utf-8';
     $dom->loadHTML(utf8_decode($input));
 
     $xpath = new DOMXPath($dom);
@@ -27,18 +38,28 @@ foreach($files as $file)
 
     if($search_nodes->length>0)
     {
-        $result[$file] = array();
         foreach($search_nodes as $sn)
         {
             $parent_node = getParentNode($sn);
             $h = getPrevNode($parent_node, 'h2');
-            if(!in_array($h, $result[$file], true))
-                $result[$file][] = $h;
+            $a = $xpath->query('a', $h);
+            $a = $a->item(0);
+            $a_name = $a->nodeValue;
+            
+            if(!in_array($a_name, $names))
+            {
+                $result[$m][] = array
+                (
+                    'name' => $a_name,
+                    'href' => $a->getAttribute('href')
+                );
+                $names[] = $a_name;
+            }
         }
     }
-
-    print_r($result);
 }
+
+print_r($result);
 
 function getSearch()
 {
