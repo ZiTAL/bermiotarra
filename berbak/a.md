@@ -118,7 +118,7 @@ Ziur aski, hitz hau erdaratik sartu da, baina hitzaren etimologia nekez ikus dai
 
 Bat gaztelerako *aburrir* hitzetik datorrena, eta bestea, gaztelaniako *aborrecer* hitzetik datorrena.
 
-1. /aburrir/ + /du/ → aburridu → abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: /abrurridu> abrusidu/
+1. /aburrir/ + /du/ → aburridu → abrurridu/, /r/ bat desarroilatu du asimilazioz. Gero, disimilatzeko /s/ sartu da eta honela: abrurridu → abrusidu
 
 Baina disimilatzeko /u/ → /o/ bihurtuz *abrosidu* eman du.
 
@@ -321,7 +321,7 @@ Hitzaren jatorria *aihen* (tallo) izan daiteke, amarratzeko zutoiak ere sustraia
 
 ## AIDXENEKUE ##
 
-Ontziko gizonen artean gazteena. >aidxenekue< zeregin ezberdinak betetzen ditu. Errekaduak egin, itsasontzia garbitu, gizonei orduak eman, eta abar luze bat.
+Ontziko gizonen artean gazteena. *aidxenekue* zeregin ezberdinak betetzen ditu. Errekaduak egin, itsasontzia garbitu, gizonei orduak eman, eta abar luze bat.
 
 - *ori aidxenekuek ein bidau*
 - *aidxeneko mutilleri esan, bidxar zortziretan etor bidauela*
@@ -533,7 +533,7 @@ Alamena eman. Agindu kutsu bat ere badauka.
 - *da zuk akomotiten dostazu dxun ein binaiela*
 - *akomotitso  etxie erosteko*
 
-Hitz honen bariante bat -akometidu< da, eta D.A.R. n agertzen da Bermeokoa dela aipatuz.
+Hitz honen bariante bat *akometidu* da, eta D.A.R. n agertzen da Bermeokoa dela aipatuz.
 
 Gaztelaniazko *acometer* dirudi; beharbada hori izan daiteke hitzaren etimologia, gero beste zentzu bat hartu badu ere.
 
@@ -1252,7 +1252,7 @@ Oker edo zeharretara dagoen zerbait. Aurrekoaren aldaki bat dela dirudien arren,
 
 /do/ hori, baliteke gazteleratik hartuta egotea, askotan analogiaz egiten baitira esaldiak. Seguru aski gaztelerako *inclinado* izango da etimologia.
 
-/inclinado >anklinado → ankinado → ankinido/
+inclinado → anklinado → ankinado → ankinido
 
 Moduzko adberbio funtzioan erabiltzen da.
 
@@ -1393,7 +1393,7 @@ Zama. Baina ez da fisikoa, erantzukizun bat izatea baizik.
 - *honegaz legiegaz arbaldada andidxek datortzoz armadoriri*
 - *eskerrak antxobien kosterie ona ezan dana arbaldadie kentziko lepotik*
 
-Hitz honen etimologia gaztelerako *albarda* da. Zaldi zamalariek erabiltzen dutena hain zuzen, >r/l< ren metatesia jasan ondoren, horrela geratu da.
+Hitz honen etimologia gaztelerako *albarda* da. Zaldi zamalariek erabiltzen dutena hain zuzen, *r/l* ren metatesia jasan ondoren, horrela geratu da.
 
 ## ARBIDXEK ##
 
@@ -1616,9 +1616,9 @@ Itsasontzietan erabilitako hitza, gero hizkera arruntera pasatu da.
 - *eziñ dxot urten kalera etzie arrantxe barik*
 - *arrantxeta itxi dotez gauze danak*
 
-Frantseseko *ranger* aditzetik datorrela dirudi. Hitz honek, itsasoan >ala< ematen du; beraz, gazteleraz *arranchar = recoger,ordenar*.
+Frantseseko *ranger* aditzetik datorrela dirudi. Hitz honek, itsasoan *ala* ematen du; beraz, gazteleraz *arranchar = recoger,ordenar*.
 
-Hipotesi hau argi badago ere, ezin daiteke baztertu beste teoria hau: Hitz hau >arraiñ< eta >te< batez osotutako hitza izatea. Orain >te< hori, beste hitzen baten bukaera bada ala ez, ez da ziurra. Beste kasu askotan bezala, /ñ/ ondoko sudurkariak >te< palatalizatu egin du.
+Hipotesi hau argi badago ere, ezin daiteke baztertu beste teoria hau: Hitz hau *arraiñ* eta *te* batez osotutako hitza izatea. Orain *te* hori, beste hitzen baten bukaera bada ala ez, ez da ziurra. Beste kasu askotan bezala, /ñ/ ondoko sudurkariak *te* palatalizatu egin du.
 
 ## ARRAPALDIDXE ##
 
@@ -1637,7 +1637,7 @@ Arrakasta. Merkatuan erosle asko egonez gero, jeneroa arin saltzen denean.
 - *portuen itsosupeteko arrapatie egon da eta arraiñek eztau eiñ bost minutu be, eskuetatik pe kendu*
 - *beraniantiek etor diez da eurekaitxik on da arrapatie*
 
-Hitz hau, moduzko forman agertzen da D.A.R.n, >arrapataka<. Gainera, ez du zentzu bera *precipitadamente* jartzen baitu. Hitzaren konposizioa >arrapa< hitza + >ta< atzizkiak osatzen dute. Beraz, definizioa, harrapatzeko eskeintza izango da.
+Hitz hau, moduzko forman agertzen da D.A.R.n, *arrapataka*. Gainera, ez du zentzu bera *precipitadamente* jartzen baitu. Hitzaren konposizioa *arrapa* hitza + *ta* atzizkiak osatzen dute. Beraz, definizioa, harrapatzeko eskeintza izango da.
 
 ## ARRASA ##
 
@@ -1648,7 +1648,7 @@ Arrasto. Aztarna.
 - *zuk ikusi zu pastelan arrasarik? Guk dana dxanda topa du*
 - *arigaz garbitxu ezketiño, loidxen arrasarik pe ezta ikusten*
 
->arrastoa< hitzaren laburpena dela dirudi, >to< galduz /arrasto → arrasa/
+*arrastoa* hitzaren laburpena dela dirudi, *to* galduz: arrasto → arrasa
 
 ## ARRASKADIE ##
 
@@ -1671,7 +1671,7 @@ Behintzat zentzu hori dauka erabileran.
 - *bestelako arrastie dako mutill orrek, danak beran atzien*
 - *arrastie okin badau be, aur dau ezkondu barik*
 
->arrakasta< hitzaren laburpena, >ka< atzizkia galduz gero egin da. Hala ere, azken hau, zaharrenen artean ere ez da ezagutzen, bestea bai, ordea.
+*arrakasta* hitzaren laburpena, *ka* atzizkia galduz gero egin da. Hala ere, azken hau, zaharrenen artean ere ez da ezagutzen, bestea bai, ordea.
 
 ## ARREKOKOZILLO ##
 
@@ -1681,11 +1681,13 @@ Sorbalda gainean norbait eramatea. Gehienetan umea.
 - *arrekokozillo artzien banozu eztot eingo negarrik*
 - *aitxe danak on diez imiek arrekokozillo artun de*
 
->kokozillo< hitza geroago azalduko den legez, buruaren amaieraren erdialdea da atzeko alderdian.
+*kokozillo* hitza geroago azalduko den legez, buruaren amaieraren erdialdea da atzeko alderdian.
 
->kokota< + >zillo< hitzez konposatua. Baina >zillo< hitza ere, geroago agertuko da. Hala ere azalpen bat egin beharra dago, hau da, nola sortu den hitz hori. /zulo/ → zulu; /zulu → zülu; /zülu → zilu; /zilu → zillu/.
+*kokota* + *zillo* hitzez konposatua. Baina *zillo* hitza ere, geroago agertuko da. Hala ere azalpen bat egin beharra dago, hau da, nola sortu den hitz hori.
 
-Aurrerago esan den bezala, >ü< horrek ez du zerikusirik zuberotarrarekin.
+zulo → zulu; zulu → zülu; zülu → zilu; zilu → zillu.
+
+Aurrerago esan den bezala, *ü* horrek ez du zerikusirik zuberotarrarekin.
 
 ## ARRELEPO ##
 
@@ -1695,7 +1697,7 @@ Aurrekoaren parekoa, baina oraingoan lepoa (bizkarra) erabilita, Hala ere, ez da
 - *arrelepo eruteko andidxeidxe zara*
 - *eziñ dxau korridu, da arrelepo erun bikozu*
 
-Hitz hau ere aurrekoa bezala konposatua da, baina oraingoan >lepo< hitza erabiliz. Azkuek Lekeitio eta Ondarrun kokatzen du hitz hau. Hala ere, esan beharra dago, Bermeon ere asko esaten dela.
+Hitz hau ere aurrekoa bezala konposatua da, baina oraingoan *lepo* hitza erabiliz. Azkuek Lekeitio eta Ondarrun kokatzen du hitz hau. Hala ere, esan beharra dago, Bermeon ere asko esaten dela.
 
 ## ARRIA / ERRIE ##
 
@@ -1755,7 +1757,7 @@ Hitz honen konposizioan izen bat eta adjektibo bat batzen dira. /arro + kaka/ �
 
 Barrabilak.
 
-Legatzaren arbiak ere askotan >arrotzak< deitzen dira. Agian analogiaz.
+Legatzaren arbiak ere askotan *arrotzak* deitzen dira. Agian analogiaz.
 
 - *enai kapaz arrotzatako miñegaz. Ori andrien faltie zu*
 - *lebatzan arrotzak gozuenak tiez, baie niriek pe eztiz txarrak*
@@ -1826,7 +1828,7 @@ Azaburua izan daiteke, baina ez dago argi. Konparazioan pertsonekin erabiltzen d
 
 - *azatrongu lako zapatak erosi txuz*
 
-Hitzaren konposizioa >asa< eta >trongo< hitzez dago osotuta. /trongo → tronko/ Leherkari hoskabea, hostun egin da.
+Hitzaren konposizioa *asa* eta *trongo* hitzez dago osotuta. trongo → tronko. Leherkari hoskabea, hostun egin da.
 
 ## ASESIÑE ##
 
@@ -1847,12 +1849,12 @@ Erabat ahulduta.
 
 Urrunago.
 
-Aurretik ikusi dugun *asau* hitza >ago< gehituta izango dugu oraingo hau.
+Aurretik ikusi dugun *asau* hitza *ago* gehituta izango dugu oraingo hau.
 
 - *len baño asiau bixi de*
 - *ez zu gure asiau dxuen?*
 
-Azkuek, Bermeon, Mundaka eta Txorierrin kokatzen du bere hiztegian, baina >asago< forman agertzen da eta forma horrek *más lejos* esan nahi du. Bermeotarrok aurrekoa eta biak erabiltzen ditugu normalean.
+Azkuek, Bermeon, Mundaka eta Txorierrin kokatzen du bere hiztegian, baina *asago* forman agertzen da eta forma horrek *más lejos* esan nahi du. Bermeotarrok aurrekoa eta biak erabiltzen ditugu normalean.
 
 ## ASKATAN ##
 
@@ -1883,7 +1885,7 @@ Berriketa. Mota guztietako esamesak direla adierazten du.
 - *azorrazidxek guztidxek batzien ibilltzen dxatzu a*
 - *nireñe ez etorri azorrazidxekaz*
 
->eragin< aditza erabiliz:
+*eragin* aditza erabiliz:
 
 - *beti zauz azorrazidxei eraitxen*
 - *erain beti, betiko gauzei, erain azorrazidxei*
@@ -1892,7 +1894,7 @@ Galtzen ari den hitza da. Jadanik, berrogei urtetik gorakoetan baino ez da entzu
 
 /aza + orri + azi/ → azorrazi/
 
-Baina, Koldo Izagirreren *Lokuzioak* liburuan, >hasi orraziak< *gertakizunak* defunzioaz dator. Hitzaren jatorria ori izan daiteke, baina zentzua bestelakoa da.
+Baina, Koldo Izagirreren *Lokuzioak* liburuan, *hasi orraziak* *gertakizunak* defunzioaz dator. Hitzaren jatorria ori izan daiteke, baina zentzua bestelakoa da.
 
 ## ASTAKADA ##
 
@@ -1946,12 +1948,12 @@ Etxeko sarrerako atea.
 - *atapostako ate barridxe imin bidu*
 - *atepostako atie dxo dau baten batek*
 
-Ikusten denez, aurreko hiru esaldiotan >atea< hitza errepikatu egiten da, ez, ostera, hurrengo esaldietan:
+Ikusten denez, aurreko hiru esaldiotan *atea* hitza errepikatu egiten da, ez, ostera, hurrengo esaldietan:
 
 - *atepostako giltze galdu dot*
 - *atepostan topa dot neuri begire*
 
-Hitz horren konposizioa >ate-oste< izan daiteke baina ez da ziurra, ezpainetako /p/ leherkaria desarroilatzen baitu.
+Hitz horren konposizioa *ate-oste* izan daiteke baina ez da ziurra, ezpainetako /p/ leherkaria desarroilatzen baitu.
 
 /ate/ + oste/ → ateoste → ateosta → ateposta/
 
@@ -1976,7 +1978,7 @@ Atrakua. Betekada.
 - *atrakaldidxe eiñ dxauie bankuen, da diro pillue erun dauie*
 - *geuk pe atrakaldidxe ein biku dirorik eztauenien*
 
-Bi hitz dira berba honen osaketa: >atraku< eta >aldia<. Palatalizazioa normala da Bermeoko hizkeran.
+Bi hitz dira berba honen osaketa: *atraku* eta *aldia*. Palatalizazioa normala da Bermeoko hizkeran.
 
 ## ATRAPAUE / DA / IE ##
 
@@ -2009,7 +2011,7 @@ Atrebentzia.
 
 Askotan egiten den bezala, erdarazko hitz batez eta euskal atzizki baiez baliatuz, hitz berria sortu da.
 
-Konposizioan, >atrevi(miento)< + -kuntza- atzizkia. /atrever + kuntza/ → atrebekuntza → atrebikuntze/
+Konposizioan, *atrevi(miento)* + -kuntza- atzizkia. atrever + kuntza → atrebekuntza → atrebikuntze.
 
 ## ATROZA ##
 
@@ -2164,7 +2166,7 @@ Nik neuk ez dakit nondik etor litekeen. Gehienetan hondartzan edo haitzetan erat
 - *auntxek nuen auzpez, pelikulie akaba orduko*
 - *auzpez dabiltzu a biarrak akabaten plaidxera dxuteko*
 
-Lehenengoak bakarrik dauka esanahi konkretua. Azkuek, >aozpez< jaso du, baina lehenengo zentzuaz.
+Lehenengoak bakarrik dauka esanahi konkretua. Azkuek, *aozpez* jaso du, baina lehenengo zentzuaz.
 
 ## AXIXAN / AUDIAN ##
 

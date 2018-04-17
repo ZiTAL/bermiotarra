@@ -68,7 +68,7 @@ Batela. Badian, arrain txikitan erabiltzen den batela.
 
 ## BAJERIE ##
 
-Beherazkoa. >beherazkoa< hitza erdaratuta agertzen da.
+Beherazkoa. *beherazkoa* hitza erdaratuta agertzen da.
 
 - *bajeriek urten tso pantalonatara*
 - *emon tson notezidxegaz bajeratan para da*
@@ -103,9 +103,11 @@ Balantzada.
 - *zelako balantzadie eiñ dxau ba, dakon mozkorragaz ez da estrañue*
 - *balantzadiegaz bienganera dxeusi de*
 
-Gazteleratik hartua, >ada< atzizida jarrita sortu da hitz hori.
+Gazteleratik hartua, *ada* atzizida jarrita sortu da hitz hori.
 
-/balanceo → balanzea → balantzada → balantzadea/ /ea> ie/
+balanceo → balanzea → balantzada → balantzadea.
+
+ea → ie.
 
 Azkuek ez du jaso eta D.A.E.k *balantza* hitza jaso du Aranzazu egutegian dakarren zita bat aipatuz. Hiru Mila Hiztegian *balanizada* agertzen da.
 
@@ -164,7 +166,7 @@ Oso beltzarana. Baina horrenbesteko beltzarana ez denari, gaztelerako *moreno* e
 - *bera enbrie baltzamo-baltzamo bat da*
 - *ez artun geidxau eguzkirik baltzamu lez parako zara ta*
 
-Hitz hau ez dator *beltzaran* hitzetik, baizik eta >baltz< + >ama< bi hitz hauen konposaketatik; zeren, sarritan, emakumezkoari dagokionean, *BALTZAMA* ere entzuten da, gaur egun gutxiago bada ere. Eta horrela, gizonezkoari, maskulinoaren ezaugarria jarri zaio. Dena den, hau ere, gero eta gutxiago entzuten da.
+Hitz hau ez dator *beltzaran* hitzetik, baizik eta *baltz* + *ama* bi hitz hauen konposaketatik; zeren, sarritan, emakumezkoari dagokionean, *BALTZAMA* ere entzuten da, gaur egun gutxiago bada ere. Eta horrela, gizonezkoari, maskulinoaren ezaugarria jarri zaio. Dena den, hau ere, gero eta gutxiago entzuten da.
 
 ## BALTZUNE ##
 
@@ -319,7 +321,7 @@ Bataiatu. Baina Bermeon *bautize* berba erabiltzen da zentzu literalean. Hala er
 
 Potentzialaren baiezko partikula.
 
-Ahalerako aditza erabiltzeko forma berezia. Ez dago >ahal< erabili beharrik potentziala egiteko.
+Ahalerako aditza erabiltzeko forma berezia. Ez dago *ahal* erabili beharrik potentziala egiteko.
 
 - *bazin zu kalera etorri bueltatxu bet emoten?*
 - *ezin dxot etorri oraiñ, baie gerotxuau bazin dxot etorri*
@@ -419,7 +421,7 @@ Auzoetan, gehienetan *ardia*, *arkumie* eta *billotsa* esaten da. Harategian, os
 
 Azkuek Bermeon eta Mundakan jartzen du, baina *corderillo* zentzuaz. Kintanak *voz infantil de cordero* dela dio.
 
-*bee* ahotsa eta >ka< atzizkiaz osatutako hitza da seguru aski.
+*bee* ahotsa eta *ka* atzizkiaz osatutako hitza da seguru aski.
 
 ## BELARRESKIÑEKUE ##
 
@@ -446,7 +448,7 @@ Belak puzteko moduko haizea. Bermeon, haizea hitza, kasu honetan erabili den bez
 - *an due belaxe, iñok auentako ete dau beragaz*
 
 Azken honek *harro* zentzua dauka.
-Kasu batzuetan >i< galdu egiten du ohituraren kontra.
+Kasu batzuetan *i* galdu egiten du ohituraren kontra.
 
 ## BERAKITXIEN ##
 
@@ -458,9 +460,9 @@ Norbere kontura. Bere kabuz.
 - *neure kitxien eskribidu dot kartie*
 - *ara, zeurekitxien eingo zu, eztakozu iñon biarrizanik*
 
-/bere + ekitean/ hitzen konposaketa dela dirudi. Hirugarren pertsonan erabiltzen da.
+*bere* + *ekitean* hitzen konposaketa dela dirudi. Hirugarren pertsonan erabiltzen da.
 
-/ekitean → (e)kitxean → kitxien >t< palatalizatu eta /ea/ → /ie/ egin da.
+ekitean → (e)kitxean → kitxien *t* palatalizatu eta *ea* → *ie* egin da.
 
 ## BERANDUEK ##
 
@@ -613,8 +615,9 @@ Zoladura. Lurra.
 - *bienganie dau labanduteko moduen, asike ibilli kuidadugaz*
 - *azidente bat on da, ta bienganien on diez batzuk illdxe*
 
-/beean + ganean/ hitzez osatzen da.  
-/beearenganean → bienganean/ aurreko >e< disimilatu egin da.
+*behean* + *ganean* hitzez osatzen da.  
+
+beearenganean → bienganean. Aurreko *e* disimilatu egin da.
 
 ## BIETZARRIDXE ##
 
@@ -627,7 +630,7 @@ Estropezu. Era guzlietakoak.
 
 Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k, Bermeoko hitza bezala azalduz.
 
-/behatz/ → bietz + arria → bietzarria → bietzarrije/
+behatz → bietz + arria → bietzarria → bietzarrije.
 
 ## BIDXARKOPASATA ##
 
@@ -697,7 +700,7 @@ Hitz konposatua da eta errepikatu egiten da.
 - *ez emon biribueltarik dxeusi eingo zara ta*
 - *ia, biribueltadie emon bi zu ikusteko goniek aldegoirik badako*
 
->bira + buelta + ada< atzizkia.
+*bira* + *buelta* + *ada* atzizkia.
 
 ## BIRIBUELTAKA ##
 
@@ -955,7 +958,7 @@ Paseo. Bueltatxoa.
 - *bueltadie ein bi du gaue eiñ orduko*
 - *ez etorri berandu gero; bueltada bat emon da etzera*
 
-Kasu honetan ere, gaztelerako *vuelta* ri >ada< atzizkia jarri eta euskaratu egin da hitza. Aurretik aipatutako *biribueltadie* hitz haren bariante bat da.
+Kasu honetan ere, gaztelerako *vuelta* ri *ada* atzizkia jarri eta euskaratu egin da hitza. Aurretik aipatutako *biribueltadie* hitz haren bariante bat da.
 
 ## BUENO! ##
 
