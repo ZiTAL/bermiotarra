@@ -977,7 +977,7 @@ Ardo asko edaten duena.
 
 ## BURDIKADA / IE ##
 
-Kantitate handia.
+1. Kantitate handia.
 
 Ugaritasunaren sinonimoa izan daiteke, esanahi berdina baitute.
 
@@ -985,9 +985,7 @@ Ugaritasunaren sinonimoa izan daiteke, esanahi berdina baitute.
 - *zelan dxungo nai kalera ba, an dakot burdikadie ta*
 - *gure etzien abillek garie burdikada erropak batzien*
 
-## BURDIKADA / IE ##
-
-Hitz hau, formaz *burdikada* lakoa bada ere, esanahia ezberdina da arrantzale giroan erabiltzen baita. Itsasontziak ihes egiteko maniobra da hori. Analogiaz, herrian ere esaten da, baina ez askorik.
+2. Itsasontziak ihes egiteko maniobra da. Analogiaz, herrian ere esaten da, baina ez askorik.
 
 - *neugaz tofez ez eitxeko, burdikadie eiñ dxau*
 

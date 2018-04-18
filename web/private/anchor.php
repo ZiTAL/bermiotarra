@@ -1,21 +1,12 @@
 <?php
-include('common.php');
 
-$dirs = array
-(
-	realpath(__DIR__."/../../berbak"),
-	realpath(__DIR__."/../../esamoldiek")
-);
-
-$files = getFiles($dirs);
-
-foreach($files as $file)
+function anchor($input, $title)
 {
 	$dom = new DOMDocument('1.0', 'utf-8');
 	$dom->preserveWhiteSpace = false;
 	$dom->formatOutput = true;
 
-	$dom->loadHTML(utf8_decode(file_get_contents($file)));
+	$dom->loadHTML(utf8_decode($input));
 	$dom->encoding = 'utf-8';
 
 	$xpath = new DOMXPath($dom);
@@ -54,5 +45,15 @@ foreach($files as $file)
 	$body = $body->item(0);
 	$body = $body->ownerDocument->saveHTML($body);
 	$body = preg_replace("/(^\s*<body>\s*|\s*<\/body>\s*$)/", '', $body);
-	echo $body;
+
+	$title = "Bermiotarra: {$title}";
+
+	$header = file_get_contents('header.tpl');
+	$footer = file_get_contents('footer.tpl');
+
+	$regex = "/".preg_quote('<?=$title;?>')."/";
+	$header = preg_replace($regex, $title, $header);
+	$html = $header.$body.$footer;
+
+	return $html;
 }

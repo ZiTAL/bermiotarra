@@ -288,15 +288,13 @@ Konturatu gabe zerbait egiten aritzea. Zerbait egitearren.
 
 ## ZERIKUSIDXEN ##
 
-Ikusgarria. Harrigarria.
+1. Ikusgarria. Harrigarria.
 
 - *eztau zerikusi andirik, dxaidxek ezan da be*
 - *ba Gernikeko dxaidxetan zerikusidxe ezan da ba*
 - *aren ezkontzie zerikusidxe ezan da alabatxi*
 
-## ZERIKUSIDXEN ##
-
-Ederto. Primeran.
+2. Ederto. Primeran.
 
 - *zerikusidxen ein tsu erropie alatxu*
 - *atzo aiñ dxoten tartiek zerikusidxen urten dost*
