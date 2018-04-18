@@ -48,10 +48,17 @@ foreach($files as $file)
             
             if(!in_array($a_name, $names))
             {
+		$next_nodes = getNextNodes($h);
+		$html = "{$h->ownerDocument->saveHTML($h)}\n";
+		
+		foreach($next_nodes as $nn)
+		  $html.= $nn->ownerDocument->saveHTML($nn);
+		
                 $result[$m][] = array
                 (
                     'name' => $a_name,
-                    'href' => $a->getAttribute('href')
+                    'href' => $a->getAttribute('href'),
+                    'html' => $html
                 );
                 $names[] = $a_name;
             }
@@ -123,4 +130,22 @@ function getPrevNode($node, $node_name)
 	while($prev->nodeName!==$node_name && $prev!==NULL);
 
 	return $prev;
+}
+
+function getNextNodes($node)
+{
+    $result = array();
+    do
+    {
+      if(!isset($next))
+	$next = $node->nextSibling;
+      else
+	$next = $next->nextSibling;
+      if($next)
+	$result[] = $next;
+      else
+	break;
+    }
+    while($next->nodeName!=='h2' || $next->nodeName!=='h1');
+    return $result;
 }
