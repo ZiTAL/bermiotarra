@@ -12,12 +12,14 @@ function anchor($input, $title)
 	$xpath = new DOMXPath($dom);
 
 	// remove all attributes
+/*	
 	$attr = $xpath->query('//*[@*]');
 	foreach($attr as $a)
 	{
 		while($a->hasAttributes())
 			$a->removeAttribute($a->attributes->item(0)->nodeName);
 	}
+*/
 
 	// add anchor to all h2
 	$hs = $xpath->query('//h2');
@@ -48,8 +50,8 @@ function anchor($input, $title)
 
 	$title = "Bermiotarra: {$title}";
 
-	$header = file_get_contents('header.tpl');
-	$footer = file_get_contents('footer.tpl');
+	$header = file_get_contents('templates/header.tpl');
+	$footer = file_get_contents('templates/footer.tpl');
 
 	$regex = "/".preg_quote('<?=$title;?>')."/";
 	$header = preg_replace($regex, $title, $header);

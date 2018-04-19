@@ -10,63 +10,85 @@ $dirs = array
 $search = getSearch();
 
 if(!$search)
-	exit('E_SEARCH');
-
-$files = getFiles($dirs, array
-(
-        '/\.html/i'
-));
-
-$names = array();
-$result = array();
-foreach($files as $file)
 {
-    preg_match("/[^\/]+\/[^\/]+\.html$/i", $file, $m);
-    $m = $m[0];
-    
-    $input = file_get_contents($file);
+        $title = 'Bermiotarra: Bilatzailie';
 
-	$input = preg_replace("/^([\S\s]+)<body>\s*/im", '', $input);
-	$input = preg_replace("/\s*<\/body>([\S\s]+)$/im", '', $input);
+        include('../private/templates/header.tpl');
+        include('../private/templates/search.tpl');
+        include('../private/templates/footer.tpl');
+}
+else
+{
 
-    $dom = new DOMDocument('1.0', 'utf-8');
-    $dom->encoding = 'utf-8';
-    $dom->loadHTML(utf8_decode($input));
+    $files = getFiles($dirs, array
+    (
+            '/\.html/i'
+    ));
 
-    $xpath = new DOMXPath($dom);
-    $search_nodes = $xpath->query("//*[contains(text(), '{$search}')]");
-
-    if($search_nodes->length>0)
+    $names = array();
+    $result = array();
+    foreach($files as $file)
     {
-        foreach($search_nodes as $sn)
+        preg_match("/[^\/]+\/[^\/]+\.html$/i", $file, $m);
+        $m = $m[0];
+        
+        $input_original = file_get_contents($file);
+        $input_original = preg_replace("/^([\S\s]+)<body>\s*/im", '', $input_original);
+        $input_original = preg_replace("/\s*<\/body>([\S\s]+)$/im", '', $input_original);
+
+        $input_lower  = mb_strtolower($input_original, 'utf-8');
+        
+        $dom_original = new DOMDocument('1.0', 'utf-8');
+        $dom_original->encoding = 'utf-8';
+        $dom_original->loadHTML(utf8_decode($input_original));
+        
+        $xpath_original = new DOMXPath($dom_original);
+
+        $dom = new DOMDocument('1.0', 'utf-8');
+        $dom->encoding = 'utf-8';
+        $dom->loadHTML(utf8_decode($input_lower));
+
+        $xpath = new DOMXPath($dom);
+        
+        $search_nodes = $xpath->query("//*[contains(text(), '{$search}')]");
+
+        if($search_nodes->length>0)
         {
-            $parent_node = getParentNode($sn);
-            $h = getPrevNode($parent_node, 'h2');
-            $a = $xpath->query('a', $h);
-            $a = $a->item(0);
-            $a_name = $a->nodeValue;
-            
-            if(!in_array($a_name, $names))
+            foreach($search_nodes as $sn)
             {
-		$next_nodes = getNextNodes($h);
-		$html = "{$h->ownerDocument->saveHTML($h)}\n";
-		
-		foreach($next_nodes as $nn)
-		  $html.= $nn->ownerDocument->saveHTML($nn);
-		
-                $result[$m][] = array
-                (
-                    'name' => $a_name,
-                    'href' => $a->getAttribute('href'),
-                    'html' => $html
-                );
-                $names[] = $a_name;
+                $parent_node = getParentNode($sn);
+                $h = getPrevNode($parent_node, 'h2');
+                $a = $xpath->query('a', $h);
+                $a = $a->item(0);
+                $a->setAttribute('href', $m.$a->getAttribute('href'));
+                
+                $a_name = $a->nodeValue;
+                
+                if(!in_array($a_name, $names))
+                {
+                    $h_original = $xpath_original->query("//h2[@id=\"".$h->getAttribute('id')."\"]");
+                    $h_original = $h_original->item(0);
+
+                    $next_nodes = getNextNodes($h_original);
+                    $html = "{$h_original->ownerDocument->saveHTML($h_original)}\n";
+                    
+                    foreach($next_nodes as $nn)
+                        $html.= $nn->ownerDocument->saveHTML($nn);
+
+                    $result[$m][] = $html;
+                    $names[] = $a_name;
+                }
             }
         }
     }
-}
 
-print_r($result);
+    foreach($result as $file => $values)
+    {
+        echo "<a href=\"{$file}\">{$file}</a>\n";
+        foreach($values as $value)
+            echo "{$value}\n";
+    }
+}
 
 function getSearch()
 {
@@ -91,7 +113,10 @@ function getSearch()
 		}
 	}
 	if($search)
-        $search = strtolower($search);
+        $search  = mb_strtolower($search, 'utf-8');
+    else
+        return false;
+
 	return $search;
 }
 
@@ -135,17 +160,20 @@ function getPrevNode($node, $node_name)
 function getNextNodes($node)
 {
     $result = array();
+
     do
     {
-      if(!isset($next))
-	$next = $node->nextSibling;
-      else
-	$next = $next->nextSibling;
-      if($next)
-	$result[] = $next;
-      else
-	break;
+        if(!isset($next))
+            $next = $node->nextSibling;
+        else
+            $next = $next->nextSibling;
+        if($next)
+            $result[] = $next;
+        else
+            break;
     }
-    while($next->nodeName!=='h2' || $next->nodeName!=='h1');
+    while($next->nodeName!=='h2' && $next->nodeName!=='h1');
+
+    $result  = array_slice($result, 1, -1);    
     return $result;
 }
