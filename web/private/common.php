@@ -20,7 +20,10 @@ function getFiles($dirs, $allow = NULL)
 				foreach($allow as $a)
 				{
 					if(preg_match($a, $g))
-						$files[] = "{$dir}/{$g}";
+					{
+                        //if(in_array("{$dir}/{$g}", $files))
+                            $files[] = "{$dir}/{$g}";
+					}
 				}
 			}
 		}

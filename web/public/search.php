@@ -9,39 +9,35 @@ $dirs = array
 
 $search = getSearch();
 
-if(!$search)
-{
-        $title = 'Bermiotarra: Bilatzailie';
+$title = 'Bermiotarra: Bilatzailie';
 
-        include('../private/templates/header.tpl');
-        include('../private/templates/search.tpl');
-        include('../private/templates/footer.tpl');
-}
-else
+if($search!=='')
 {
-
+    $title.= " - {$search}";
+    
     $files = getFiles($dirs, array
     (
-            '/\.html/i'
+            '/^[a-z]{1}\.html/i',
     ));
 
     $names = array();
     $result = array();
     foreach($files as $file)
     {
+        //echo "{$file}\n";
         preg_match("/[^\/]+\/[^\/]+\.html$/i", $file, $m);
         $m = $m[0];
-        
+
         $input_original = file_get_contents($file);
         $input_original = preg_replace("/^([\S\s]+)<body>\s*/im", '', $input_original);
         $input_original = preg_replace("/\s*<\/body>([\S\s]+)$/im", '', $input_original);
 
         $input_lower  = mb_strtolower($input_original, 'utf-8');
-        
+
         $dom_original = new DOMDocument('1.0', 'utf-8');
         $dom_original->encoding = 'utf-8';
         $dom_original->loadHTML(utf8_decode($input_original));
-        
+
         $xpath_original = new DOMXPath($dom_original);
 
         $dom = new DOMDocument('1.0', 'utf-8');
@@ -49,21 +45,24 @@ else
         $dom->loadHTML(utf8_decode($input_lower));
 
         $xpath = new DOMXPath($dom);
-        
+
         $search_nodes = $xpath->query("//*[contains(text(), '{$search}')]");
 
         if($search_nodes->length>0)
         {
             foreach($search_nodes as $sn)
             {
+                if($sn->nodeName==='h1')
+                    continue;
+
                 $parent_node = getParentNode($sn);
                 $h = getPrevNode($parent_node, 'h2');
                 $a = $xpath->query('a', $h);
                 $a = $a->item(0);
                 $a->setAttribute('href', $m.$a->getAttribute('href'));
-                
+
                 $a_name = $a->nodeValue;
-                
+
                 if(!in_array($a_name, $names))
                 {
                     $h_original = $xpath_original->query("//h2[@id=\"".$h->getAttribute('id')."\"]");
@@ -71,7 +70,7 @@ else
 
                     $next_nodes = getNextNodes($h_original);
                     $html = "{$h_original->ownerDocument->saveHTML($h_original)}\n";
-                    
+
                     foreach($next_nodes as $nn)
                         $html.= $nn->ownerDocument->saveHTML($nn);
 
@@ -81,14 +80,17 @@ else
             }
         }
     }
-
-    foreach($result as $file => $values)
-    {
-        echo "<a href=\"{$file}\">{$file}</a>\n";
-        foreach($values as $value)
-            echo "{$value}\n";
-    }
 }
+
+$search_results = '';
+foreach($result as $file => $values)
+{
+    $search_results.= "<a href=\"{$file}\">{$file}</a>\n";
+    foreach($values as $value)
+        $search_results.="{$value}\n";
+}
+
+include('../private/templates/search.tpl');
 
 function getSearch()
 {
@@ -115,7 +117,7 @@ function getSearch()
 	if($search)
         $search  = mb_strtolower($search, 'utf-8');
     else
-        return false;
+        return '';
 
 	return $search;
 }
@@ -174,6 +176,6 @@ function getNextNodes($node)
     }
     while($next->nodeName!=='h2' && $next->nodeName!=='h1');
 
-    $result  = array_slice($result, 1, -1);    
+    $result  = array_slice($result, 1, -1);
     return $result;
 }
