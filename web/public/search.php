@@ -83,14 +83,18 @@ if($search!=='')
 }
 
 $search_results = '';
-foreach($result as $file => $values)
+if(isset($result))
 {
-    $search_results.= "<a href=\"{$file}\">{$file}</a>\n";
-    foreach($values as $value)
-        $search_results.="{$value}\n";
+    foreach($result as $file => $values)
+    {
+        $search_results.= "<a href=\"{$file}\">{$file}</a>\n";
+        foreach($values as $value)
+            $search_results.="{$value}\n";
+    }
 }
 
-include(__DIR__"/../private/templates/search.tpl");
+$link_home = 'index.php';
+include(__DIR__."/../private/templates/search.tpl");
 
 function getSearch()
 {

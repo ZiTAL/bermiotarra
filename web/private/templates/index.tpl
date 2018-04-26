@@ -1,4 +1,5 @@
 <?php include('header.tpl'); ?>
+<a href="search.php">Bilatzailie</a>
 <ul>
 <?php foreach($result as $dir => $value): ?>
 	<li><h1><?php echo $dir; ?></h1>

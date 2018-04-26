@@ -6,9 +6,23 @@ $dir_output = realpath(__DIR__."/../public/");
 
 $dirs = array
 (
+        realpath(__DIR__."/../public/berbak"),
+        realpath(__DIR__."/../public/esamoldiek")
+);
+
+foreach($dirs as $dir)
+{
+    $command = "rm -rf {$dir}";
+    shell_exec($command);
+}
+
+$dirs = array
+(
         realpath(__DIR__."/../../berbak"),
         realpath(__DIR__."/../../esamoldiek")
 );
+
+// -----------------------------------
 
 $files = getFiles($dirs, array
 (

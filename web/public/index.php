@@ -34,4 +34,5 @@ foreach($files as $file)
 }
 
 $title = 'Bermiotarra';
+$link_home = '';
 include(__DIR__."/../private/templates/index.tpl");

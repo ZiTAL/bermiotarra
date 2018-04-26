@@ -5,4 +5,4 @@
 <title><?=$title;?></title>
 </head>
 <body>
-<h1>Bermiotarra</h1>
+<h1><a href="<?=$link_home;?>">Bermiotarra</a></h1>

@@ -50,11 +50,14 @@ function anchor($input, $title)
 
 	$title = "Bermiotarra: {$title}";
 
-	$header = file_get_contents('templates/header.tpl');
-	$footer = file_get_contents('templates/footer.tpl');
+	$header = file_get_contents(__DIR__."/templates/header.tpl");
+	$footer = file_get_contents(__DIR__."/templates/footer.tpl");
 
 	$regex = "/".preg_quote('<?=$title;?>')."/";
 	$header = preg_replace($regex, $title, $header);
+	$regex = "/".preg_quote('<?=$link_home;?>')."/";
+	$header = preg_replace($regex, '/../../', $header);	
+	
 	$html = $header.$body.$footer;
 
 	return $html;
