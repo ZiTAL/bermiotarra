@@ -1,5 +1,5 @@
 <?php
-include('../private/common.php');
+include(__DIR__."/../private/common.php");
 
 $dirs = array
 (
@@ -90,7 +90,7 @@ foreach($result as $file => $values)
         $search_results.="{$value}\n";
 }
 
-include('../private/templates/search.tpl');
+include(__DIR__"/../private/templates/search.tpl");
 
 function getSearch()
 {
