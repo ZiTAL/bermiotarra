@@ -12,7 +12,7 @@ function anchor($input, $title)
 	$xpath = new DOMXPath($dom);
 
 	// remove all attributes
-/*	
+/*
 	$attr = $xpath->query('//*[@*]');
 	foreach($attr as $a)
 	{
@@ -56,8 +56,8 @@ function anchor($input, $title)
 	$regex = "/".preg_quote('<?=$title;?>')."/";
 	$header = preg_replace($regex, $title, $header);
 	$regex = "/".preg_quote('<?=$link_home;?>')."/";
-	$header = preg_replace($regex, '/../../', $header);	
-	
+	$header = preg_replace($regex, '../', $header);
+
 	$html = $header.$body.$footer;
 
 	return $html;
