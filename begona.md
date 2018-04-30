@@ -2,7 +2,7 @@ Hau sarrerie Begoña Bilbao Albonigak idatzi zauen *Bermeoko berba eta esamolde 
 
 # Begoña Bilbao Alboniga #
 
-Liburu honetako berba bakoitzean,  
+>Liburu honetako berba bakoitzean,  
 bermeotar askoren boza dago,  
 batez ere, nire familiako jendearena,  
 gaur ez daudenak nire ondoan,  
