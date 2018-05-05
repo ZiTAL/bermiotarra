@@ -56,6 +56,9 @@ if($search!=='')
                     continue;
 
                 $parent_node = getParentNode($sn);
+                if($parent_node->nodeName==='h1')
+                    continue;
+
                 $h = getPrevNode($parent_node, 'h2');
                 $a = $xpath->query('a', $h);
                 $a = $a->item(0);
