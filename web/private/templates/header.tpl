@@ -6,3 +6,4 @@
 </head>
 <body>
 <h1><a href="<?=$link_home;?>">Bermiotarra</a></h1>
+<div id="content">

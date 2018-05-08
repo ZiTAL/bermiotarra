@@ -24,7 +24,6 @@ if($search!=='')
     $result = array();
     foreach($files as $file)
     {
-        //echo "{$file}\n";
         preg_match("/[^\/]+\/[^\/]+\.html$/i", $file, $m);
         $m = $m[0];
 
@@ -45,20 +44,17 @@ if($search!=='')
         $dom->loadHTML(utf8_decode($input_lower));
 
         $xpath = new DOMXPath($dom);
+        $content = $xpath->query("//div[@id=\"content\"]");
+        $content = $content->item(0);
 
-        $search_nodes = $xpath->query("//*[contains(text(), '{$search}')]");
+        $search_nodes = $xpath->query("//*[contains(text(), '{$search}')]", $content);
 
         if($search_nodes->length>0)
         {
             foreach($search_nodes as $sn)
             {
-                if($sn->nodeName==='h1')
-                    continue;
-
                 $parent_node = getParentNode($sn);
-                if($parent_node->nodeName==='h1')
-                    continue;
-
+                
                 $h = getPrevNode($parent_node, 'h2');
                 $a = $xpath->query('a', $h);
                 $a = $a->item(0);
@@ -140,7 +136,7 @@ function getParentNode($node)
 
 		$parent_node = $tmp->parentNode;
 	}
-	while($parent_node->nodeName!=='body');
+	while($parent_node->nodeName!=='div' && $parent_node->getAttribute('id')!=='content');
 
 	$parent_node = $tmp;
 
