@@ -47,7 +47,7 @@ if($search!=='')
         $content = $xpath->query("//div[@id=\"content\"]");
         $content = $content->item(0);
 
-        $search_nodes = $xpath->query("//*[contains(text(), '{$search}')]", $content);
+        $search_nodes = $xpath->query($content->getNodePath()."//*[contains(text(), '{$search}')]");
 
         if($search_nodes->length>0)
         {
@@ -135,6 +135,9 @@ function getParentNode($node)
 			$tmp = $parent_node;
 
 		$parent_node = $tmp->parentNode;
+		echo "{$node->nodeName}\n";
+		echo "{$parent_node->nodeName}\n";
+		echo "--------------\n";
 	}
 	while($parent_node->nodeName!=='div' && $parent_node->getAttribute('id')!=='content');
 
