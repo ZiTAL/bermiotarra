@@ -135,9 +135,6 @@ function getParentNode($node)
 			$tmp = $parent_node;
 
 		$parent_node = $tmp->parentNode;
-		echo "{$node->nodeName}\n";
-		echo "{$parent_node->nodeName}\n";
-		echo "--------------\n";
 	}
 	while($parent_node->nodeName!=='div' && $parent_node->getAttribute('id')!=='content');
 
