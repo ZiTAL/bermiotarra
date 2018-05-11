@@ -11,10 +11,10 @@ $search = getSearch();
 
 $title = 'Bermiotarra: Bilatzailie';
 
-if($search!=='')
+if(count($search)>1)
 {
     $title.= " - {$search}";
-    
+
     $files = getFiles($dirs, array
     (
             '/^[a-z]{1}\.html/i',
@@ -157,7 +157,8 @@ function getPrevNode($node, $node_name)
 
 		$prev = $tmp->previousSibling;
 	}
-	while($prev->nodeName!==$node_name && $prev!==NULL);
+	//while($prev->nodeName!==$node_name && $prev!==NULL);
+	while($prev->nodeName!=='div' && $prev->getAttribute('id')!=='content');
 
 	return $prev;
 }
