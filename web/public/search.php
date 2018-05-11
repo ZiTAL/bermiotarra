@@ -157,8 +157,7 @@ function getPrevNode($node, $node_name)
 
 		$prev = $tmp->previousSibling;
 	}
-	//while($prev->nodeName!==$node_name && $prev!==NULL);
-	while($prev->nodeName!=='div' && $prev->getAttribute('id')!=='content');
+	while($prev->nodeName!==$node_name && $prev!==NULL);
 
 	return $prev;
 }
