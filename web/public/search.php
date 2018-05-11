@@ -11,7 +11,8 @@ $search = getSearch();
 
 $title = 'Bermiotarra: Bilatzailie';
 
-if(strlen($search)>1)
+//if(strlen($search)>1)
+if($search!=='')
 {
     $title.= " - {$search}";
 
@@ -44,6 +45,15 @@ if(strlen($search)>1)
         $dom->loadHTML(utf8_decode($input_lower));
 
         $xpath = new DOMXPath($dom);
+
+		// h1-ak ezabatu
+		$h1s = $xpath->query('//h1');
+		if($h1s->length>0)
+		{
+			foreach($h1s as $h1)
+				$h1->parentNode->removeChild($h1);
+		}
+
         $content = $xpath->query("//div[@id=\"content\"]");
         $content = $content->item(0);
 
@@ -54,7 +64,7 @@ if(strlen($search)>1)
             foreach($search_nodes as $sn)
             {
                 $parent_node = getParentNode($sn);
-                
+
                 $h = getPrevNode($parent_node, 'h2');
                 $a = $xpath->query('a', $h);
                 $a = $a->item(0);
