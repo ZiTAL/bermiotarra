@@ -11,7 +11,7 @@ $search = getSearch();
 
 $title = 'Bermiotarra: Bilatzailie';
 
-if(count($search)>1)
+if(strlen($search)>1)
 {
     $title.= " - {$search}";
 
