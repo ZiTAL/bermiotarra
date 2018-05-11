@@ -1,5 +1,5 @@
 <?php include('header.tpl'); ?>
-<a href="search.php">Bilatzailie</a>
+<?php include('search_box.tpl'); ?>
 <ul>
 <?php foreach($result as $dir => $value): ?>
 	<li><h1><?php echo $dir; ?></h1>

@@ -1,11 +1,4 @@
 <?php include('header.tpl'); ?>
-<form method="get">
-<label>Bilatzailie: </label>
-<br />
-<input type="text" name="search" value="<?php echo $search; ?>"/>
-<br />
-<input type="submit" />
-</form>
-<br />
+<?php include('search_box.tpl'); ?>
 <?php echo $search_results; ?>
 <?php include('footer.tpl'); ?>
