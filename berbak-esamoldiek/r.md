@@ -18,3 +18,4 @@ Aurpegi dorpea edo txerri antza daukana.
 - *kanpoko mutil bategaz ezkondu de, aulako rusiako txarridxe lako bategaz*
 - *gernikar bategaz dabill, da bera enbrie rusiako txarri utse*
 - *bakixu rusiako txarridxe esaten tsoiena?*
+

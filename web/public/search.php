@@ -3,8 +3,7 @@ include(__DIR__."/../private/common.php");
 
 $dirs = array
 (
-	realpath(__DIR__."/berbak"),
-	realpath(__DIR__."/esamoldiek")
+	realpath(__DIR__."/berbak-esamoldiek")
 );
 
 $search = getSearch();

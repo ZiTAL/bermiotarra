@@ -6,8 +6,7 @@ $dir_output = realpath(__DIR__."/../public/");
 
 $dirs = array
 (
-        realpath(__DIR__."/../public/berbak"),
-        realpath(__DIR__."/../public/esamoldiek")
+        realpath(__DIR__."/../public/berbak-esamoldiek")
 );
 
 foreach($dirs as $dir)
@@ -18,8 +17,7 @@ foreach($dirs as $dir)
 
 $dirs = array
 (
-        realpath(__DIR__."/../../berbak"),
-        realpath(__DIR__."/../../esamoldiek")
+        realpath(__DIR__."/../../berbak-esamoldiek")
 );
 
 // -----------------------------------
