@@ -1,6 +1,8 @@
 <?php
+/*
 if(isset($_POST['q']))
     header("location: /search/{$_POST['q']}/");
+*/
 
 include(__DIR__."/../private/common.php");
 

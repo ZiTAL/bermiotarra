@@ -1,4 +1,4 @@
-<form action="search.php" method="post">
+<form action="search.php" method="get">
 <label>Bilatzailie: </label>
 <br />
 <input type="text" name="q" value="<?php echo $q; ?>"/>
