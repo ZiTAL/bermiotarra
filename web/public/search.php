@@ -1,4 +1,7 @@
 <?php
+if(isset($_POST['q']))
+    header("location: /search/{$_POST['q']}/");
+
 include(__DIR__."/../private/common.php");
 
 $dirs = array
@@ -6,14 +9,13 @@ $dirs = array
 	realpath(__DIR__."/berbak-esamoldiek")
 );
 
-$search = getSearch();
+$q = getSearch();
 
 $title = 'Bermiotarra: Bilatzailie';
 
-//if(strlen($search)>1)
-if($search!=='')
+if($q!=='')
 {
-    $title.= " - {$search}";
+    $title.= " - {$q}";
 
     $files = getFiles($dirs, array
     (
@@ -56,7 +58,7 @@ if($search!=='')
         $content = $xpath->query("//div[@id=\"content\"]");
         $content = $content->item(0);
 
-        $search_nodes = $xpath->query($content->getNodePath()."//*[contains(text(), '{$search}')]");
+        $search_nodes = $xpath->query($content->getNodePath()."//*[contains(text(), '{$q}')]");
 
         if($search_nodes->length>0)
         {
@@ -107,31 +109,31 @@ include(__DIR__."/../private/templates/search.tpl");
 function getSearch()
 {
 	global $argv;
-	$search = NULL;
+	$q = NULL;
 
 	if(isset($argv))
 	{
 		if(isset($argv[1]))
 		{
-			preg_match("/\-\-search=([^$]+)$/", $argv[1], $search);
-			if($search)
-				$search = $search[1];
+			preg_match("/\-\-q=([^$]+)$/", $argv[1], $q);
+			if($q)
+				$q = $q[1];
 		}
 	}
 	else
 	{
 		if(isset($_REQUEST))
 		{
-			if(isset($_REQUEST['search']))
-				$search = $_REQUEST['search'];
+			if(isset($_REQUEST['q']))
+				$q = $_REQUEST['q'];
 		}
 	}
-	if($search)
-        $search  = mb_strtolower($search, 'utf-8');
+	if($q)
+        $q  = mb_strtolower($q, 'utf-8');
     else
         return '';
 
-	return $search;
+	return $q;
 }
 
 function getParentNode($node)
