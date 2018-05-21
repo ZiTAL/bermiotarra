@@ -12,7 +12,7 @@ Mozkorra lez ibili, baina edan barik.
 
 Ireki.
 
-- *bidxar jai egune dala ta, okindegidxe beranduau idegiku*
+- *bidxar jai egune dala ta, okindegidxe beranduau edegiku*
 
 ## EDERRAK EMON PALO BARIK ##
 
