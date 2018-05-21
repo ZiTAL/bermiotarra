@@ -1,5 +1,11 @@
 # N #
 
+## NAGIDXEK ATARA ##
+
+Normalean ohetik jeiki eta gero besoak luzatzeari esaten zaio, askotan aharrausiarekin batera egiten da.
+
+- *nagidxek ataten nauela, lepuen krakadie! Zahartuten hasitxen nau!*
+
 ## NASKILLIE ##
 
 Esaten duenarekin jendea nahasten duen pertsona.

@@ -90,6 +90,12 @@ Iazko urtearen aurrekoa. Orain bi urte.
 - *guzurre zauz esaten, igelenien ezta ezan da*
 - *zuk esango dostazu niri, ni igelenien dxun banai!*
 
+## IGIRI ##
+
+Ireki.
+
+- *Igiri ahue, hagiñek gutxutez ikusi txe*
+
 ## IGUAL EZANGO ZARA OSABA KARNALA, EZER EZ PADAKOZU IÑOR BE E ZARA; IGUAL EZANGO ZARA BIGARREN LENGUSU, ASKO BADAKOZU OSABA ZAITZUZ ZU ##
 
 Interesengatik dabilen pertsonari esaten zaio.

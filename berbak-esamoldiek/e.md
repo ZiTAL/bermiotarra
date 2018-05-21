@@ -8,6 +8,12 @@ Mozkorra lez ibili, baina edan barik.
 - *edan bako mozkorra txarraue dala esaten dauie, ez zara akordaten ezegaz be*
 - *edan bako mozkorra lez nuen kaletik, mandaz mandazka*
 
+## EDEGI ##
+
+Ireki.
+
+- *bidxar jai egune dala ta, okindegidxe beranduau idegiku*
+
 ## EDERRAK EMON PALO BARIK ##
 
 Agirika egin. Lotsak eman.
