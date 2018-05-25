@@ -570,6 +570,14 @@ Etxeko ibilgua.
 - *ba niri karrajo bako etzie gustaten dxast*
 - *karrajorako alfonbra barridxe erosi dozule?*
 
+## KARRAMARRUE ##
+
+Minbizia.
+
+- *osabari analizuek ein, eta karramarrue atrapa txoie*
+- *tripen min dakola ta, medikunera juen, eta karramarrue dakola esan txoie*
+- *Ur Handitan telebisiñoko programan bermiotar batek karramarrueri buruz berba ein zauien*
+
 ## KARRERIE ##
 
 Solasgaia.
