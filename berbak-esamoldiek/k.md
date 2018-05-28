@@ -162,7 +162,7 @@ Pertsona epela, energia bakoa.
 - *ia akabata dau gizajie, kaka eitxeko idxarrik pe eztako*
 - *nora onekaz, kaka eitxeko indxarrik pe eztakoienakaz*
 
-## KAKA EITXEKO MOLDARIX PEZ ##
+## KAKA EITXEKO MOLDARIK PEZ ##
 
 Pertsona epela, energia bakoa.
 
