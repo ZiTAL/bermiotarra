@@ -2000,3 +2000,10 @@ Efektua.
 
 Hitz hau, *txut* eta >ada< atzizkiaz konposatzen da.
 
+## TXUTXUMUTXUEK ##
+
+Zurrumurruak.
+
+- *Patxi Lopez ministrorako? Horrek txutxumutxuek diez!*
+- *txutxumutxuek bai, ein lo albora begire! Lehendakari eta oin ministrue!
+- *haren andran aurretik pasaten naien bakotzien txutxumutxuke hasten diez.
