@@ -1414,6 +1414,13 @@ Ez baterako ez besterako. Zalantzak daudenean.
 - *eztaix Bilbora dxun biar badot edo ez, enau ez ardauteko ez uretarako*
 - *pintoreruek esan dost zuridxegaz pintxeko dauela, da Mirenek diñost ezetz, da oiñ enau ez ardauteko ez uretarako*
 
+## EZ BATA, EZ BESTIE, EZ ZEZTRIE
+
+Ez bata, ez bestea, ezta hurrengo ere.
+
+- *Gazteako esataridxek zeintzuk dizen onak? Ez bata, ez bestie, ez zeztrie!*
+- *nok irebazi dau rugby txapelketie, Irlandak, Inglaterrak edo Frantzik? Ba ez batak, ez bestiek, ez zeztriek, Galesek!* 
+
 ## EZEBE EZ DALAKUEN ##
 
 Disimuluaz.
