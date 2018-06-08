@@ -1106,6 +1106,13 @@ Burutik ondo ez dabilena.
 - *txabetiek eztau ekarri ezan dxatzona*
 - *txabetie beti txabeta, berak gure dauena eiñ*
 
+## TXANGA ##
+
+Izorratu.
+
+- *bueno ia ez padan txangaten egualdidxe... aritzatxure jun gudot eta!*
+- *txo automotorra txanga dast, eta tallerrea saka-sakaka eruen bizan dot!*
+
 ## TXAKURRE EZAN BAZAN AINKE ##
 
 Zerbait bilatzen ari garenean, eta aurrean eduki eta ikusi ez, esaldi hori erabiltzen dugu.
