@@ -232,7 +232,7 @@ Bai, bai! Horretan egon!
 
 ## OLLUN POPAK ##
 
-Holzak edo ikarak eragindako oilo ipurdiak.
+Hotzak edo ikarak eragindako oilo ipurdiak.
 
 - *ollun popak takotez eiñdxe, otxitxu ein nai*
 - *otz zara la? Zer ba? Olluen popak ikusten tsutez*
@@ -240,6 +240,12 @@ Holzak edo ikarak eragindako oilo ipurdiak.
 - *eztakot nik ollun poparik, eztakot otzik eta*
 
 Hitz honen bigarren osagaiak, *popa* k, ipurdia esan nahi du Bermeoko hizkeran. Beraz *oiloaren ipurdiak* izango litzateke literalki.
+
+## ONDO EIN ##
+
+Gabonetan zorionak emateko modua da.
+
+- *ondo ein! Eta urte barri on!*
 
 ## ONDO EIN BADAU ONDO TOPAKO DAU ##
 
