@@ -1030,9 +1030,16 @@ Hilekoekin egon.
 - *ama negarrez dakozunien oien sartun, da bertan on pasa arte*
 - *ama negarrez dakotenien eztot okitxen ezetarako ganarik pe*
 
+## AMA PUTIEN ETXIEN ##
+
+Oso urrun.
+
+- *Markiñe non dauen? Ama putien etxien!*
+- *oporratan ama putien etxerarte hotelan barruen oteko*
+
 ## AMA TXITXIEN IMIE / SEMIE ##
 
-Beste honek badu aurretik pareko bat. Hala ere, honen tonua leunagoa dela esan dugu.
+Iraina, baina tonua leunagoa da.
 
 - *ama txitxien imie zara zu, nik etsut esan ogidxe ekarteko?*
 - *aurrek amatxitxien semiek ekar txuz trastiek, baie erun biko txuz*
