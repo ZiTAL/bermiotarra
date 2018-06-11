@@ -177,7 +177,7 @@ Zeharo nahastero / a.
 
 Iskanbila gogorrak.
 
-- *gaur gure etxien okela txikitxuek ezango diez nire gixonagaz da nigaz, gau guztidxe parrandan pasa dau arek*
+- *gaur gure etzien okela txikitxuek ezango diez nire gixonagaz da nigaz, gau guztidxe parrandan pasa dau arek*
 - *zeure lagunen etzien be ezan diez okela txikitxuek, berorreitxik gauzieitxik*
 - *taberna guztidxetan ezan diez okela txikitxuek, ardauek eitxen dauena da ori*
 

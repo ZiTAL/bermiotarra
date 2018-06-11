@@ -954,7 +954,7 @@ Gazteleratik hartua, erabilera zabala dauka.
 Ibilaldia.
 
 - *Mundekara guez bidiek eitzen, egualdi ona dau te*
-- *Domekan etxien? Erdu bidiek eitzen portora*
+- *Domekan etzien? Erdu bidiek eitzen portora*
 - *Errotatatik elegante dau bidiek eitzen juteko*
 
 ## BIDXAR BE EGUNE DAU ##

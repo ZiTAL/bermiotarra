@@ -1030,12 +1030,12 @@ Hilekoekin egon.
 - *ama negarrez dakozunien oien sartun, da bertan on pasa arte*
 - *ama negarrez dakotenien eztot okitxen ezetarako ganarik pe*
 
-## AMA PUTIEN ETXIEN ##
+## AMA PUTIEN ETZIEN ##
 
 Oso urrun.
 
-- *Markiñe non dauen? Ama putien etxien!*
-- *oporratan ama putien etxerarte hotelan barruen oteko*
+- *Markiñe non dauen? Ama putien etzien!*
+- *oporratan ama putien etzerarte hotelan barruen oteko*
 
 ## AMA TXITXIEN IMIE / SEMIE ##
 
