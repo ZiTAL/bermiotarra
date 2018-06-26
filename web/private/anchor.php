@@ -6,20 +6,13 @@ function anchor($input, $title)
 	$dom->preserveWhiteSpace = false;
 	$dom->formatOutput = true;
 
-	$dom->loadHTML(utf8_decode($input));
+	$dom->loadHTML($input);
 	$dom->encoding = 'utf-8';
 
-	$xpath = new DOMXPath($dom);
+	$str = $dom->saveHTML($dom->documentElement);
+	$str = utf8_decode($str);
 
-	// remove all attributes
-/*
-	$attr = $xpath->query('//*[@*]');
-	foreach($attr as $a)
-	{
-		while($a->hasAttributes())
-			$a->removeAttribute($a->attributes->item(0)->nodeName);
-	}
-*/
+	$xpath = new DOMXPath($dom);
 
 	// add anchor to all h2
 	$hs = $xpath->query('//h2');
@@ -43,10 +36,9 @@ function anchor($input, $title)
 		$h->appendChild($a);
 	}
 
-	$body = $xpath->query('//body');
-	$body = $body->item(0);
-	$body = $body->ownerDocument->saveHTML($body);
-	$body = preg_replace("/(^\s*<body>\s*|\s*<\/body>\s*$)/", '', $body);
+    $body = $dom->saveHTML($dom->documentElement);
+    $body = utf8_decode($body);
+    $body = preg_replace("/((.*?)<body>\s*|\s*<\/body>(.*?)$)/", '', $body);
 
 	$title = "Bermiotarra: {$title}";
 
