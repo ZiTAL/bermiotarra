@@ -189,6 +189,16 @@ Azkuek jaso du bere hiztegian baina zentzu mugatuagoan, berak Gernikarako esaten
 
 /garrantzia → garrantzijo/
 
+## GARUE ##
+
+Garoa. Hotza eta hezetasunaren eraginez gauzak bustita agertzen direnean, batez ere goizetan, bedartzak, kotxeak eta abar.
+
+- *udien gauz baie berdartzan egunero garue, fresko-fresko!*
+- *Aritzatxure goizien goizetik eta bedartzan ondiño garue!*
+- *goizero garue kotxien txo! Garbitxuteko elegante dator!*
+
+Gazteleraz **rocío**.   
+
 ## GAUE ##
 
 Energia gabeko pensona.
