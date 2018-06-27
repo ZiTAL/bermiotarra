@@ -265,6 +265,11 @@ Erdizka egin gauzak. Erdizka, ondo egin barik utzi.
 
 Azkuek eta Kintanak jaso dute hitz hau, baina ez esanahia, hau ezberdina baita bietan.
 
+## LASTATIDXE ##
+
+- *lastatidxen lasto tartien elegante eitxen da lo*
+- *lastatidxen lo? Dauzen beste moskitxogaz, astuen boluek!*
+
 ## LAU DOBLE EINDXE ##
 
 Ezertarako gogo barik.
@@ -527,6 +532,12 @@ Gelditu. Geratu.
 - *kotxie ezta lotzien Bilborarte*
 
 Azkuek jaso du hitz hau, erabilera murritzaz bada ere, baina ez du Bermeo aipatzen, bai, ostera, Mundaka eta Gernika. Bermeon, ordea, *geratu* edo *gelditu* erabiltzen badira ere, horien ordez *lotu* erabiltzea da normalena.
+
+## LUKIDXE ##
+
+Azeria.
+
+- *Almiken Jontxun etxetik lukidxek ibiltzen diez olluek topaten*
 
 ## LUMETXA ##
 

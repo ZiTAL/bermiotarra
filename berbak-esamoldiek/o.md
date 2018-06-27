@@ -204,6 +204,12 @@ Aberatsa. Diruduna.
 - *iñok eztaki, baie ori mutille okintsue da*
 - *bai, entzun dot okintsuek tizela*
 
+## OLA ##
+
+Egurra.
+
+- *honegaz olagaz maidxe bat eingu*
+
 ## OLAKO MARKARIK ##
 
 Harridurazko esaldia da.
@@ -611,3 +617,8 @@ Gizon oso galanta.
 
 Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, *otzo* gaztelerako *oso* da. Beharbada gaztelerako esaldia kontutan hartuta egingo zen.
 
+## OZALIE ##
+
+Txarriaren janaria.
+
+- *txarridxeri ozalie emon biherko datsoie zarataka dabilz eta!*

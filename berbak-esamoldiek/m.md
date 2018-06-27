@@ -111,6 +111,12 @@ Pertsona oso trankila, oso ona, baina energia gabekoa.
 - *klaro dana malmosa, oneidxe ezatie ezta ona*
 - *malmosa be malmosa da gero*
 
+## MAMA ##
+
+Oso ondo, batez ere itsasoko urari.
+
+- *aritzatxun ure mama!*
+
 ## MAMAIXELA ##
 
 Albotik kendu ere egiten ez den laguntzailea. Zentzu peioratiboan beti.
@@ -514,6 +520,13 @@ Mozorrotutakoa. Haratusteetan mozorrotuta dabilena.
 - *marruek asko on diez gauien, baie goizalderantz iñor bez*
 - *ime pillo ibill dxiez marro dxatzitze puxikekaz jentie dxoten*
 
+## MASAGABIDXE ##
+
+Borra handia.
+
+- *masagabidxegaz emoten batxuten zulora zuez!*
+- *baserridxen beti okin bide masagabiren bat badaezpada!*
+
 ## MASAMORRA ##
 
 Itsasoko terminoa da. Karnata moduan itsasora botatzen den nahastea da. Konparazioan: Endredoa. Nahasmendua.
@@ -870,6 +883,13 @@ Murmur.
 
 - *beti dabill murru-murru, beti asarratute, beti umore txarrien*
 - *oin be murru-murru zabiltzez, zer dakozun esateko esan argi ta garbi*
+
+## MUSKILE ##
+
+Mutxikina.
+
+- *gosien gosiegaz sagarran muskile be jan!*
+- *muskile bota eidxok zaztarratara!*
 
 ## MUSTE ##
 

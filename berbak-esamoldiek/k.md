@@ -632,6 +632,12 @@ Kontuak konpondu; zentzu guztietan.
 
 Hitz honek ez du zentzu handirik formari begiratu ezkero, baina hor dago eta badirudi, *cuentas de partija* hitz multzotik sartu dela. *Partille* arrainontzietan egiten den diru banaketa da. Eta banaketa hori mahai baten inguruan egiten zenez, mahai gaineko kartak edo *karta-partillek* hori izan liteke.
 
+## KARTOLAK ##
+
+Gurdien hegaletako tapak.
+
+- *ia erdu neugaz baserrie gurdidxeri kartolak imintzen*
+
 ## KASKABELA LAKUE ##
 
 Oso arrain freskoa. Batez ere bokarta.
@@ -1005,6 +1011,12 @@ Aurreko bien parekoa dugu hau ere, zikinkeria adierazten duena.
 - *aizte bidxek tiez koipien mamarruek, soiñeko erropai beitutre baiño eztau*
 - *a txikitzerik etor da koipien mamarruen antzagaz*
 - *baporien be koipien mamarro utse da*
+
+## KOIXO ##
+
+Herren.
+
+- *Andres koixoka ibildxe, seguru Aritzatxun jeusi eindxela!*
 
 ## KOIXO KOIXOKA ##
 

@@ -25,11 +25,16 @@ Ahobero. Ez da adurtia hitzaren zentzu konkretuan.
 
 ## BABILLE ##
 
-Zakila. Bermeon esanahi hori dauka hitz horrek. Ez da *metxa* hiztegietan datorren bezala.
+1.- Zakila.
 
 - *babille opera tsoie da oraiñ an dau ezer ein barik*
 - *babille txikidxe dakoienak ez dakoie arrastarik*
 - *ime moko batek baño babil txikidxaue dako*
+
+2.- Tripa haundia.
+
+- *Olentzeron babille dakola ata kontu!*
+- *txo holako babillegaz makurtu be ezin zara ein!*
 
 Hitz hau, *zakil* hitza ordezkatzeko dauden hitzetariko bat da.
 
@@ -418,6 +423,13 @@ Ahalerako aditza erabiltzeko forma berezia. Ez dago *ahal* erabili beharrik pote
 - *Bilbora bazuez, da bazin bazu, ekarri neuri be medikuen bolantiek*
 
 Forma hau, *ezin* en analogiaz egin da. Oso erabilia da, baina gaur egun, eta euskara idatzia gero eta gehiago sartzen ari denez, mesprezuz hartzen da forma hori. Ezjakinena bezala.
+
+## BEDARLEKUE ##
+
+Zelaia.
+
+- *erdu haurra berdalekora fubolan jokatuten*
+- *aritzatxun goiko berdalekuen beruegaz itxota on garan*
 
 ## BEGIDXE AFORRA ##
 
@@ -1247,6 +1259,13 @@ Lelo baten antzera erabiltzen da. Ez dagoela ezer, ez gauza onik, ezta itxaropen
 - *arraiñ asko dakartzue, ezta? Arraiñ asko? Boluek saltsan!*
 - *esperantzie badakozue, behintzet. Esperantzie? Boluek saltsan!*
 - *kotxe elegantie dakozuiela esan dost zure koiñatuek. Beran boluek saltsan!*
+
+## BONBATXUEK ##
+
+Mahonezko prakak.
+
+- *Andra maidxetan bonbatxuekaz fresko-fresko*
+- *bonbatxuek agurek baño eztauie eruten*
 
 ## BORBOLERA ##
 

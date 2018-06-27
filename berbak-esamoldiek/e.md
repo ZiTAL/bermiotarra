@@ -625,6 +625,20 @@ Lotsak eman.
 
 Azkuek bere Morfologia liburuan *eratara* jaso duela dio D.A.R.k eta *a derechas* definizioaz jartzen du. Bermeon ere erabiltzen da forma hori.
 
+## ERATSITZE ##
+
+Zauriengatik azala altxatuta duzunean.
+
+- *eridiek eratsitze itxi dost eskue, ta dolore mandue dakot*
+
+## ERATZI ##
+
+Jetzi.
+
+- *behidxek erazten nuen, esnie erun bidu herrire ta*
+
+Gazteleraz **ordeñar**.
+
 ## ERDI ZIMARROIE ##
 
 Maltzurra. Trikimailuak ondo ezagutzen dituena.
@@ -1153,6 +1167,12 @@ Zekenkeria.
 - *eskue dxeusi be ez dxatzo eitxen, ez dotsu ezer emongo*
 - *ene alabie! Eskue dxeusi barik dakozu ikarie la?*
 - *bota bota ez dxatzu eskorik dxeusiko ta*
+
+## ESKUBERIE ##
+
+Belarra mozteko erratza.
+
+- *ekau eskuberie honek bedarrak ebai ein biduz eta!*
 
 ## ESKUGAZ KENDUIKO MODUEN ##
 

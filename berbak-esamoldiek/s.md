@@ -104,10 +104,13 @@ Beti arazoetan egoten den pertsona.
 
 ## SALTSAIDXO / UE ##
 
-Itsaskia. Konparazioan bronkioak kargatuta.
+1.- Itsaskia.
 
 - *saltsaidxotxue onda ta eziñ ezanda arterik bota*
 - *saltsaidxue dauela be arraiñek atrapaten dauie*
+
+2.- Bronkioak kargatuta.
+
 - *bularrien dakoten saltsaidxue eztaitx zek kenduko dauen*
 - *ori saltsaidxue kentzieko esnie mielagaz artun bi zu*
 
@@ -443,6 +446,12 @@ Sugandila. Hitz, hau eta geroxeago ikusiko dugun *sorantxillie* auzoetan aurkitu
 - *siruntxilleri eguzkidxe gustaten dxatzoie*
 - *imiek botillen barruen gordeten dauie siruntxillek*
 
+## SOIDXIE ##
+
+Itsasorako otzara.
+
+- *soidxiek prepara itsosora guez eta!*
+
 ## SOIJE LABANA ##
 
 Burusoila.
@@ -457,6 +466,13 @@ Besterik gabe. Ezer barik.
 
 - *etzetik urten dauenien soiñien soiñekuekaz urten zauen, da bueltan aberastute etor da*
 - *soiñien soiñekuekaz bota dau etzetik kanpora*
+
+## SOLUE ##
+
+Baratza, ortua.
+
+- *soluen dakotazen tomatiek mama!*
+- *aurton soluen piperrak baño eztuz imingo*
 
 ## SONDAIN ##
 

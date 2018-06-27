@@ -1654,6 +1654,13 @@ Larrua jotzea adierazteko era bat.
 - *apaidxue eitxen dauzenien eztakoie iñon pentsamenturik*
 - *guk eitxen du apaidxue, goixien, atsaldien da gauien*
 
+## APATZ ##
+
+Eseri aditza, baina umeei soilik zuzendua.
+
+- *txetxito erdu hauna eta egin apatz eguerdidxe jan bidu te*
+- *egin apatz neure altxuen telebisiñuen ateletin partidue dau te*
+
 ## APATZA ##
 
 Mahai betearen aurrean egin edo egingo dugun betekadaren berri azaltzeko.
@@ -1661,6 +1668,13 @@ Mahai betearen aurrean egin edo egingo dugun betekadaren berri azaltzeko.
 - *a zelako apatza dakun, atiek pe enau artungo*
 - *ixillik egon, apatza daku te. Zegaz? Pastelakaz*
 - *orain apatza ta gero enpatxuegaz, auri bai ondo!*
+
+## APATZAK ##
+
+Animalien oinak
+
+- *txakur ostidxen apatzan markie fraka zuridxetan*
+- *txakur txikitxue ezateko apatzak handidxek dakoz*
 
 ## APREMIÑUE ##
 
@@ -2767,6 +2781,12 @@ Nahikeria asko daukan emakumea.
 - *zer da! Nok auentako dau berorregaz atxaganeko birjiñiegaz!*
 - *eztot kure berori atxaganeko birjiñie*
 - *berorrek atxaganeko birjiñiek eztako lagunik pe*
+
+## ATXURRE ##
+
+Aitzurra.
+
+- *atxurregaz soluen biharrien gau ta egun, mangata nau!*
 
 ## ATZAMARRA EMON DA BESUE ARTUN ##
 
