@@ -9,9 +9,6 @@ function anchor($input, $title)
 	$dom->loadHTML($input);
 	$dom->encoding = 'utf-8';
 
-	$str = $dom->saveHTML($dom->documentElement);
-	$str = utf8_decode($str);
-
 	$xpath = new DOMXPath($dom);
 
 	// add anchor to all h2
@@ -36,9 +33,13 @@ function anchor($input, $title)
 		$h->appendChild($a);
 	}
 
-    $body = $dom->saveHTML($dom->documentElement);
-    $body = utf8_decode($body);
-    $body = preg_replace("/((.*?)<body>\s*|\s*<\/body>(.*?)$)/", '', $body);
+	// karaktere raruek HTML-ra ez pasateko
+	$body = $xpath->query('//body');
+	$body = $body->item(0);
+	$body = $body->ownerDocument->saveHTML($body);
+	$body = utf8_decode($body);
+	// <body> </body> kendu
+	$body = preg_replace("/(^\s*<body>\s*|\s*<\/body>\s*$)/", '', $body);
 
 	$title = "Bermiotarra: {$title}";
 
