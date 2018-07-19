@@ -12,14 +12,11 @@ from PIL import Image, ImageFont, ImageDraw
 
 # fitxero danak hartun #
 
-files = []
-
 dir = sys.path[0]+"/.."
 dir = os.path.realpath(dir)+"/berbak-esamoldiek"
 
-l = glob(dir+"/*.md")
-l.sort()
-files = files + l
+files = glob(dir+"/*.md")
+files.sort()
 
 # ariñautik erabili duzen berbak hartun #
 
@@ -74,7 +71,7 @@ with open(words_cache_file, 'w') as outfile:
 base = Image.new('RGB', (1280, 720), (255, 255, 255, 0))
 base = base.convert('RGBA')
 
-font = ImageFont.truetype('FreeSans.ttf', 20)
+font = ImageFont.truetype('UniversCondensed.ttf', 20)
 
 d = ImageDraw.Draw(base)
 
