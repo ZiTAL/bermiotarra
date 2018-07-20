@@ -8,6 +8,7 @@ from glob import glob
 import json
 import random
 from hashlib import md5
+import tempfile
 from PIL import Image, ImageFont, ImageDraw
 
 # fitxero danak hartun #
@@ -36,7 +37,7 @@ for file in files:
 		for line in f:
 			resource = re.search("^##\s([^#]+)\s##", line)
 			if resource != None:
-				tmp = resource.group(1).encode('utf-8')
+				tmp = resource.group(0).encode('utf-8')
 				if b:
 					resources.append(b)
 				hash = md5()
@@ -62,24 +63,55 @@ words_cached.append(resources[r]['id'])
 with open(words_cache_file, 'w') as outfile:
     json.dump(words_cached, outfile)
 
-#print(resources[r]['id'])
-#print(resources[r]['title'])
-#print(resources[r]['desc'])
+# markdown sortu
 
-# irudidxe sortu
+# fuentien tamañue
+md = """
+---
+documentclass: extarticle
+fontsize: 20pt
+---
+"""
 
-base = Image.new('RGB', (1280, 720), (255, 255, 255, 0))
-base = base.convert('RGBA')
+# orridxen zenbakidxe kendu
+"""
+
+\pagenumbering{gobble}
+
+"""
+
+md = md +resources[r]['title']+"\n"+resources[r]['desc']+resources[r]['title']+"\n"+resources[r]['desc']+resources[r]['title']+"\n"+resources[r]['desc']
+
+# artxibo tenporala
+fd, path = tempfile.mkstemp()
+with os.fdopen(fd, 'w') as tmp:
+	tmp.write(md)
+
+# pdf-ra pasa
+os.system("pandoc "+path+" -f markdown -t latex --latex-engine=xelatex -o "+path+".pdf")
+
+# pdf-tik png-ra
+os.system("convert "+path+".pdf -background white -alpha remove "+path+".png")
+
+os.remove(path)
+os.remove(path+".pdf")
+
+# png fitxeruek hartun
+
+files = glob(path+"*.png")
+files.sort()
 
 font = ImageFont.truetype('UniversCondensed.ttf', 20)
 
-d = ImageDraw.Draw(base)
+for i in files:
+	img = Image.open(i)
+	img = img.convert('RGBA')
 
-d.text((10,20), resources[r]['title'], font = font, fill=(0, 0, 0, 255))
-d.text((10,30), resources[r]['desc'], font = font, fill=(0, 0, 0, 255))
+	d = ImageDraw.Draw(img)
 
-#base.show()
+	d.text((472, 730), "#zitalbot", font = font, fill=(0, 0, 0, 255))
+	d.text((300, 750), "http://zital-pi.no-ip.org/bermiotarra/", font = font, fill=(0, 0, 0, 255))
 
-base.save("image.png", "PNG")
+	img.save(i, "PNG")
 
 sys.exit()
