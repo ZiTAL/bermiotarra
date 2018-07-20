@@ -664,14 +664,14 @@ Haitzetan aurki daitekeen karramarro txiki uletsua.
 
 ## KASKIE ##
 
-Burutik egin, erdi edo osorik.
+Zoratu, erdi edo osorik.
 
 - *kaskie eiñ dxela, da aurregaz atxakidxegaz, diro guztidxek kendu tsoie*
 - *zelan kaskie da ba, ointxerarte ondo egon da ta*
 
 ## KASKIETA ##
 
-*Kaskie* ren adberbiozko forma da.
+Zoratu, erdi edo osorik, **kaskie**-ren adberbiozko forma da.
 
 - *isilik on e? Kaskieten asitxe nau ta ez dakot burue orretarako*
 - *zeuk pe ez imiñi kaskieta zauzenaren atxakirik*
