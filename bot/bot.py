@@ -133,6 +133,6 @@ for i in files:
 		images.append(str(media_id))
 
 images = ",".join(images)
-r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot", 'media_ids': images})
+r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttp://zital-pi.no-ip.org/bermiotarra/", 'media_ids': images})
 
 sys.exit()
