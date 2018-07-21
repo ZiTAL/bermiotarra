@@ -10,6 +10,7 @@ import random
 from hashlib import md5
 import tempfile
 from PIL import Image, ImageFont, ImageDraw
+from TwitterAPI import TwitterAPI
 
 # fitxero danak hartun #
 
@@ -37,7 +38,7 @@ for file in files:
 		for line in f:
 			resource = re.search("^##\s([^#]+)\s##", line)
 			if resource != None:
-				tmp = resource.group(0).encode('utf-8')
+				tmp = resource.group(1).encode('utf-8')
 				if b:
 					resources.append(b)
 				hash = md5()
@@ -55,10 +56,11 @@ for file in files:
 # aleatoidxue hartun
 
 r = random.randint(0, len(resources))
+element = resources[r]
 
 # toka dan berbie cache-n sartu #
 
-words_cached.append(resources[r]['id'])
+words_cached.append(element['id'])
 
 with open(words_cache_file, 'w') as outfile:
     json.dump(words_cached, outfile)
@@ -80,7 +82,7 @@ fontsize: 20pt
 
 """
 
-md = md +resources[r]['title']+"\n"+resources[r]['desc']+resources[r]['title']+"\n"+resources[r]['desc']+resources[r]['title']+"\n"+resources[r]['desc']
+md = md +"##"+element['title']+"##\n"+element['desc']
 
 # artxibo tenporala
 fd, path = tempfile.mkstemp()
@@ -113,5 +115,24 @@ for i in files:
 	d.text((300, 750), "http://zital-pi.no-ip.org/bermiotarra/", font = font, fill=(0, 0, 0, 255))
 
 	img.save(i, "PNG")
+
+# twitter
+
+credentials_file = sys.path[0]+"/twitter.credentials"
+with open(credentials_file, 'r') as f:
+	credentials = json.load(f)
+
+api = TwitterAPI(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'], credentials['ACCESS_TOKEN_KEY'], credentials['ACCESS_TOKEN_SECRET'])
+images = []
+for i in files:
+	file = open(i, 'rb')
+	data = file.read()
+	r = api.request('media/upload', None, {'media': data})
+	if r.status_code == 200:
+		media_id = r.json()['media_id']
+		images.append(str(media_id))
+
+images = ",".join(images)
+r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot", 'media_ids': images})
 
 sys.exit()
