@@ -103,7 +103,7 @@ os.remove(path+".pdf")
 files = glob(path+"*.png")
 files.sort()
 
-font = ImageFont.truetype('UniversCondensed.ttf', 20)
+font = ImageFont.truetype(sys.path[0]+"UniversCondensed.ttf", 20)
 
 for i in files:
 	img = Image.open(i)
