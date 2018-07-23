@@ -714,7 +714,7 @@ Ustekabean.
 2. Oso urrun.
 
 - *Ibil nai dendarik denda, susun kordaraino allega nai da eztot topa bizandotena*
-- *Markiñe non dauen? Susun kordan!
+- *Markiñe non dauen? Susun kordan!*
 
 ## SUTETIK ARA ##
 
