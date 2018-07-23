@@ -705,11 +705,16 @@ Ustekabean.
 
 ## SUSUN KORDAN ##
 
-Hara eta hona ibili, noraezean.
+1. Hara eta hona ibili, noraezean.
 
 - *alabatxi, zeu topa eziñik ibilli nai denpora guztidxen, susun kordan*
 - *susun kordan ibilli garizelez atsalde guztidxen, azkanien txokolatie dxaten dxun gariez*
 - *kalera urteteko diñostazu? Susun kordan ibilltxeko?*
+
+2. Oso urrun.
+
+- *Ibil nai dendarik denda, susun kordaraino allega nai da eztot topa bizandotena*
+- *Markiñe non dauen? Susun kordan!
 
 ## SUTETIK ARA ##
 
