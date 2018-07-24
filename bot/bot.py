@@ -136,6 +136,4 @@ for i in files:
 images = ",".join(images)
 r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttp://zital-pi.no-ip.org/bermiotarra/", 'media_ids': images})
 
-
-
 sys.exit()
