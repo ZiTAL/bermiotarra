@@ -131,8 +131,11 @@ for i in files:
 	if r.status_code == 200:
 		media_id = r.json()['media_id']
 		images.append(str(media_id))
+	os.remove(i)
 
 images = ",".join(images)
 r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttp://zital-pi.no-ip.org/bermiotarra/", 'media_ids': images})
+
+
 
 sys.exit()
