@@ -541,7 +541,7 @@ Figuratiboan zerbanek ihes egin, adibidez diruak eskapatu.
 
 Uzker asko botatzen duen pertsona, batez ere umeei aplikaturik.
 
-- *au imie aixetsue da, beti dabil uzkerrak botaten+
+- *au imie aixetsue da, beti dabil uzkerrak botaten*
 - *amari emon dau, zeu be aixetsue zara ta*
 
 ## AIXETU ##
