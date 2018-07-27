@@ -686,15 +686,15 @@ Dirdira.
 - *orrek eraztunek botaten dauen erluzidadiek begidxetan be miñ eitxen dau*
 - *eguzkidxek erluzidade andidxe dako*
 
-Gaztelerako *relucir* aditza aldatuz gero egin da hitz hau.
+Gaztelerako **relucir** aditza aldatuz gero egin da hitz hau.
 
-/relucir/ + dad → relucidad/
+relucir + dad → relucidad.
 
 Desegokia da baina hor dago.
 
-/relucidad → erluzidad → erluzidade/
+relucidad → erluzidad → erluzidade.
 
-Ez da egon *e* protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
+Ez da egon **e** protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
 
 ## ERMERIE ##
 
