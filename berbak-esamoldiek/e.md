@@ -954,7 +954,7 @@ Gaztelerako *registrar* aditzetik sartua, Bermeon normalak diren fonefikazko ara
 
 ## ERRETOLIKIE ##
 
-Berba uholdea. Leku askotan galduta dagoen berba hau, tinko mantentzen da Benneon, zentzu honetan behintzat.
+Berba uholdea. Leku askotan galduta dagoen berba hau, tinko mantentzen da Bermeon, zentzu honetan behintzat.
 
 - *bestelako erretolikie dabil, egunen baten kantsako da*
 - *zelako erretolikie arma dost ba, dxuten be eztost itxi*
