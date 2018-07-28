@@ -21,5 +21,7 @@ Esker berezidxek:
 - Iñigo Aldai
 - Dorleta Kortazar
 - Ainhoa Astui
+- Miren Aizpurua Bilbao
+- Tessa Andonegi
 
 Eskerrik asko!
