@@ -17,11 +17,12 @@ Estandar bat imintzeko asmoz:
 
 Esker berezidxek:
 
-- Jose Martos
+- Joseba Martos
 - Iñigo Aldai
 - Dorleta Kortazar
 - Ainhoa Astui
+- Iñaki Monasterio Allika
 - Miren Aizpurua Bilbao
-- Tessa Andonegi
+- Tessa Andonegi Santamaria
 
 Eskerrik asko!
