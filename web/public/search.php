@@ -39,7 +39,7 @@ if($q!=='')
 
         $dom_original = new DOMDocument('1.0', 'utf-8');
         $dom_original->encoding = 'utf-8';
-        $dom_original->loadHTML(utf8_decode($input_original));
+        $dom_original->loadHTML($input_original);
 
         $xpath_original = new DOMXPath($dom_original);
 
@@ -85,6 +85,8 @@ if($q!=='')
 
                     foreach($next_nodes as $nn)
                         $html.= $nn->ownerDocument->saveHTML($nn);
+
+                    $html = utf8_decode($html);
 
                     $result[$m][] = $html;
                     $names[] = $a_name;
