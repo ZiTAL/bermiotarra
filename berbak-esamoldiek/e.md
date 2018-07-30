@@ -204,9 +204,7 @@ Horixe berori. Ondo. Horrela da.
 - *bidxar etorko dala esan dau ezta ? Ekilikua*
 - *zuk danari esan bi tzazu ekilikua*
 
-Hitz honen etimologia frantseseko **qui** eta **quoi** erlatibozko izenordeak izan daitezke; hau formari dagokionean, baina ez da argia, zeren zentzua ez da bera: *le qui et le quoi*
-
-Beste aukera bat italierazko *eccoli qua* izan daiteke, **eccoli** hitza **ecco**-tik datorrelako, eta berori latinezko **ecce, eccum**, **hona hemen** esanahia duelarik.
+Hitz honen etimologia  italierazko *eccoli qua* izan daiteke, **eccoli** hitza **ecco**-tik datorrelako, eta berori latinezko **ecce, eccum**, **hona hemen** esanahia duelarik.
 
 ## ELANBRA ##
 
