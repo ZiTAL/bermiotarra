@@ -207,7 +207,7 @@ Betiko haserretu.
 - *nik zugaz eztot gure tratorik, urrun da fitx*
 - *zuk niri urrun da fitx? Ez, neuk zeuri urrun da fitx*
 
-Ingelesezko **run and feet** esalditik etor daiteke.
+Ingelesezko **run and feet** esalditik etor daiteke, edota agian, Iparraldeko **fite** → **fitx** bihurtu delako.
 
 ## URRUNGUEN ##
 
