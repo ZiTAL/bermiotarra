@@ -26,5 +26,6 @@ Esker berezidxek:
 - Tessa Andonegi Santamaria
 - Lander Telletxea
 - @montantxo / twitter
+- Biotz Fradua Agirre
 
 Eskerrik asko!
