@@ -25,6 +25,6 @@ Esker berezidxek:
 - Miren Aizpurua Bilbao
 - Tessa Andonegi Santamaria
 - Lander Telletxea
-- @montatxo
+- @montantxo / twitter
 
 Eskerrik asko!
