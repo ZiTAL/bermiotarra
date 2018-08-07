@@ -353,13 +353,16 @@ Izozkia.
 
 ## MANUEN ##
 
-Ahul dagoen edo dabilen pensona, animalia edo gauza.
+1. Ahul dagoen edo dabilen pertsona, animalia edo gauza.
 
 - *ori mutille geixorik tau antza, manuen dabill dxe*
 - *manieko zara alabatxi manuen zabiltzez da*
-- *au txikota manuen dau, ondo ezpazu amarraten laster erungo dau arbolie aixiek*
 - *euridxe manuen manuen botaten dau*
 - *pausuek pe manuen eitxen txuz*
+
+2. Ondo lotu gabe dagoen gauza.
+
+- *au txikota manuen dau, ondo ezpazu amarraten laster erungo dau arbolie aixiek*
 
 ## MANUKUE ##
 
