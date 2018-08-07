@@ -24,5 +24,6 @@ Esker berezidxek:
 - Iñaki Monasterio Allika
 - Miren Aizpurua Bilbao
 - Tessa Andonegi Santamaria
+- Lander Telletxea
 
 Eskerrik asko!
