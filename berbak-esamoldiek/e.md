@@ -354,16 +354,16 @@ Aditz funtzioan:
 
 ## ENDEKATUTE ##
 
-*Endekatu*, baina adberbio funtzioan.
+Sikatu. Gutxi garatu, baina adberbio funtzioan.
 
 - *onek sagarrak endekatute dauz*
 - *endekatute dau au imie, geixoren bat dako antza*
 - *endekatuiko gixona da ori, asi be ezta eitxen da*
 - *endekatute geratu da, etsazu ikusten tximorrak?*
 
-Badirudi hitz hau, gaztelerako *endemia* hitzetik sortu dela. Hala ere, ez nagoenez seguru, hitz honen eboluzioa zein izan zitekeen, hipotesi modura azaltzen dut hurrengoa.
+Badirudi hitz hau, gaztelerako **endemia** hitzetik sortu dela. Hala ere, ez nagoenez seguru, hitz honen eboluzioa zein izan zitekeen, hipotesi modura azaltzen dut hurrengoa.
 
-/endemia + tu/ → endemikatu → endeikatu → endekatu
+**endemia** + **tu**  → **endemikatu** → **endeikatu** → **endekatu**.
 
 ## ENE ALABIE! ##
 
