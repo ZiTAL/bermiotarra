@@ -11,9 +11,9 @@ Bi zentzutan erabiltzen da esaldi hau:
 
 2. Puta.
 
-Azken hau, gazteen artean erabiltzen da gehien bat.
-
 - *orrek esan dauen enbrie babalorie da, edozeiñegaz dabill*
+
+Azken hau, gazteen artean erabiltzen da gehien bat.
 
 ## BABAZTO ##
 
@@ -25,18 +25,16 @@ Ahobero. Ez da adurtia hitzaren zentzu konkretuan.
 
 ## BABILLE ##
 
-1.- Zakila.
+1. Zakila.
 
 - *babille opera tsoie da oraiñ an dau ezer ein barik*
 - *babille txikidxe dakoienak ez dakoie arrastarik*
 - *ime moko batek baño babil txikidxaue dako*
 
-2.- Tripa haundia.
+2. Tripa haundia.
 
 - *Olentzeron babille dakola ata kontu!*
 - *txo holako babillegaz makurtu be ezin zara ein!*
-
-Hitz hau, *zakil* hitza ordezkatzeko dauden hitzetariko bat da.
 
 ## BADAEZPADAKUE ##
 
@@ -80,13 +78,13 @@ Bai, baina...
 
 ## BAJERIE ##
 
-Beherazkoa. *beherazkoa* hitza erdaratuta agertzen da.
+Beherazkoa.
 
 - *bajeriek urten tso pantalonatara*
 - *emon tson notezidxegaz bajeratan para da*
 - *bajerintzako limoien ure da ona*
 
-/bajada → bajara → bajera/
+**bajada** → **bajara** → **bajera**.
 
 ## BAKARTADAN ##
 
@@ -123,13 +121,13 @@ Balantzada.
 - *zelako balantzadie eiñ dxau ba, dakon mozkorragaz ez da estrañue*
 - *balantzadiegaz bienganera dxeusi de*
 
-Gazteleratik hartua, *ada* atzizida jarrita sortu da hitz hori.
+Gazteleratik hartua, **ada** atzizida jarrita sortu da hitz hori.
 
-balanceo → balanzea → balantzada → balantzadea.
+**balanceo** → **balanzea** → **balantzada** → **balantzadea**.
 
-ea → ie.
+**ea** → **ie**.
 
-Azkuek ez du jaso eta D.A.E.k *balantza* hitza jaso du Aranzazu egutegian dakarren zita bat aipatuz. Hiru Mila Hiztegian *balanizada* agertzen da.
+Azkuek ez du jaso eta D.A.E.k **balantza** hitza jaso du Aranzazu egutegian dakarren zita bat aipatuz. Hiru Mila Hiztegian **balanizada** agertzen da.
 
 ## BALANTZADAKA ##
 
@@ -212,7 +210,7 @@ Azkuek ez du jaso esanahi honekin; bai, ostera, D.A.R.k, Astarloaren zita bat et
 
 Baita P.M.k ere. Bermeon oso erabilia da.
 
-## BANDULERA /IE ##
+## BANDULERA / IE ##
 
 Beti da femeninoa. *bandolero* hitza andrazkoei aplikatuta agertzen da. Zentzua ere ez da gozoa. Gehienetan etxean gutxi egoten den pertsona izango da.
 
@@ -272,7 +270,7 @@ Aurrekoaren adberbiozko forma. Moduzko adberbioaren funtzioa betetzen du.
 - *barrue be barbantzadaka dakot emon dosten arrabidxugaz*
 - *ez imiñi iñor barbantzadaka*
 
-Hitz hau onomatopeiazko *bar-bar* izan daiteke, /ada/ atzizkia itsatsiz.
+Hitz hau onomatopeiazko **bar-bar** izan daiteke, **-ada** atzizkia itsatsiz.
 
 ## BARBARAN ZAZPI BARRIEK ##
 
@@ -304,11 +302,11 @@ Ertaina. Pertsona eta gauza guztiei aplikaturik.
 
 - *arek Afrikan barrabaskeidxe eiñ dxau, iñok paiño arraiñ geidxau atrapa*
 
-Gaztelaniako /barrabasada/ → barrabas + /keria/ → /barrabaskeria/ → /barrabaskeije/
+Gaztelaniako **barrabasada** → **barrabas** + **keria** → **barrabaskeria** → **barrabaskeidxe**
 
 Azkuek ez du jaso. D.A.R.k gaztelaniako zentzuaz jaso du.
 
-## BARRE  MASIE ##
+## BARRE MASIE ##
 
 Barre asko.
 
@@ -337,7 +335,7 @@ Tripulantea. Hurrengo hitzetikk sortuta dago forma hau.
 - *barruko bat ill dxe ta entierrora nuen*
 - *eztaitx nik ori ixena dakon gixonik badan barrukue*
 
-Azkuek ez du jaso, baina bai D.A.R.k, Txomin Agirreren *Kresala*ko zita bat aipatuz.
+Azkuek ez du jaso, baina bai D.A.R.k, Txomin Agirreren **Kresala**-ko zita bat aipatuz.
 
 Hitz hau kostan erabiltzen den hitz bat da, oso erabilia, eta hiztegi askotan agertzen ez dena.
 
@@ -352,7 +350,7 @@ Gorrotoa izatea.
 
 Itsasontzi bat, hobeto esanda, honen barrua.
 
-- *barmen eiñ dxu dxan da lo; gure gixonak biarrien dauzen artien gu Tenerife ikusten dxun gariez*
+- *barruen eiñ dxu dxan da lo; gure gixonak biarrien dauzen artien gu Tenerife ikusten dxun gariez*
 - *barruen eztabil zarrik, danak kariez gaztiek*
 - *barruen eztosku itxitxen telebisiñorik ikusten*
 
@@ -366,7 +364,7 @@ Edonon lo.
 
 ## BASOMUTUE ##
 
-Basamortua. Kasu honetan *oihana* izan liteke, ez delako zentzu zehatzean erabiltzen.
+Basamortua. Kasu honetan **oihana** izan liteke, ez delako zentzu zehatzean erabiltzen.
 
 - *basomuturarte dxun bizan du bera bille*
 - *basomutuen bizi da ta*
@@ -374,13 +372,13 @@ Basamortua. Kasu honetan *oihana* izan liteke, ez delako zentzu zehatzean erabil
 
 ## BASTIMENTUE ##
 
-Hitz honek janarien horniketa esanahi du gazteleraz.
+Elikagai hornikuntza.
 
 - *bastimentuek eskasak tauz gure etzien*
 - *gosie neikue ta bastimentorik ez*
 - *itxosora duez ela, ta bastimentuek sartzieko esan dau patroiek*
 
-Gazteleratik hartua da eta garai batetan asko erabilia izan arren, gaur egun galtzen ari den hitza da. Bermeon, adinekoen artean bakarrik erabiltzen da. Ez dut aurkitu euskaratuta.
+Gaztelerazko **abastecimiento**-tik dator, eta garai batetan asko erabilia izan arren, gaur egun galtzen ari den hitza da. Bermeon, adinekoen artean bakarrik erabiltzen da. 
 
 ## BATEKO BASTUE ##
 
@@ -391,18 +389,22 @@ Zartazoa. Ukabilkada. Kolpea.
 
 ## BATIITUE ##
 
-Bataiatu. Baina Bermeon *bautize* berba erabiltzen da zentzu literalean. Hala ere, pertsona bat ez dela behar den modukoa edo *kristiñue* adierazteko, hitz hori erabiltzen da zentzurik peioratiboenean.
+Bataiatu. Baina Bermeon **bautize** berba erabiltzen da zentzu literalean. Hala ere, pertsona bat ez dela behar den modukoa, edo **kristiñue** adierazteko, hitz hori erabiltzen da zentzurik peioratiboenean.
 
 - *zu ez zara batiitue, zeitxik ein zu ori?*
 - *nor ez da amen batiitue, danak padiez antzekuek*
 
 ## BATUN-BATUNE ##
 
-Batu eta batu dabilena. Gezurrak eta egiak, denak batzen dituen pertsona.
+1. Batu eta batu dabilena. Gezurrak eta egiak, denak batzen dituen pertsona.
 
 - *ez siñestu asreri batun-batune da ta*
 - *zure lagunen aistien gixona batun-batun utse da*
 - *zu barriz! andrak paiño txarraue zara, batun-batune*
+
+2. Edonorekin dabilen pertsona.
+
+- *ori lagun barik urteten dau parrandan, batun-batune da ta, gero edonogaz amaitxuten dau parrandan.*
 
 ## BATZO AREK BERAN BURURI ##
 
@@ -416,13 +418,13 @@ Norbere burua inorena baino gehiagotzat eduki.
 
 Potentzialaren baiezko partikula.
 
-Ahalerako aditza erabiltzeko forma berezia. Ez dago *ahal* erabili beharrik potentziala egiteko.
+Ahalerako aditza erabiltzeko forma berezia. Ez dago **ahal** erabili beharrik potentziala egiteko.
 
 - *bazin zu kalera etorri bueltatxu bet emoten?*
 - *ezin dxot etorri oraiñ, baie gerotxuau bazin dxot etorri*
 - *Bilbora bazuez, da bazin bazu, ekarri neuri be medikuen bolantiek*
 
-Forma hau, *ezin* en analogiaz egin da. Oso erabilia da, baina gaur egun, eta euskara idatzia gero eta gehiago sartzen ari denez, mesprezuz hartzen da forma hori. Ezjakinena bezala.
+Forma hau, **ezin** en analogiaz egin da. Oso erabilia da, baina gaur egun, eta euskara idatzia gero eta gehiago sartzen ari denez, mesprezuz hartzen da forma hori. Ezjakinena bezala.
 
 ## BEDARLEKUE ##
 
@@ -439,7 +441,7 @@ Begia beiztu kolpe baten ondorioz.
 - *emoten tzuten ostidxegaz, begidxe be aforrata itxiko tsut*
 - *begidxe aforra baiño ariñau ekarri diruek ona*
 
-Badirudi, antzinako txalupetako belak aforratzetik datorrela hitza, hau da, belak aforra edo batu. Baina zentzua ez da berdina. Horregatik beste hipotesi bat gaztelerako *forrar* aditza izan daitekeela esan behar da. Beltzez estali.
+Badirudi, antzinako txalupetako belak aforratzetik datorrela hitza, hau da, belak aforra edo batu. Baina zentzua ez da berdina. Horregatik beste hipotesi bat gaztelerako **forrar** aditza izan daitekeela esan behar da. Beltzez estali.
 
 ## BEGIDXE BE OSTU ##
 
@@ -535,7 +537,7 @@ Begiak puztuta. Betazpiak puztuta.
 - *a mutille gusta niri? Bera begiputze?*
 - *begiputzek ez okitxeko manzanillien ure da ona*
 
-/begi + putz → begiputz/
+**begi** + **putz** → **begiputz**.
 
 ## BEGIRE ##
 
@@ -549,7 +551,7 @@ Azentua lehenengo silaban dago. *bégire*
 
 ## BEGIRIK PEZ ##
 
-Deusik. Ezer ez. Gehienetan arrainari dagokio.
+Ezer ez. Gehienetan arrainari dagokio.
 
 - *zer, ekartzue ezer ela? Begirik pe ez alabatxu*
 - *zetan duez itxosora ba, begirik pe ez atrapateko*
@@ -562,7 +564,7 @@ Betazal jausiak.
 - *begi politxek takoz baie begitela da*
 - *aitxe be begitela da, arrebie be bai, da imerik okitxen badau, begitela ezango da*
 
-/begi + epel → begipel → begitel/
+**begi** + **epel** → **begipel** → **begitel**
 
 ## BEGIZ DXAN ##
 
@@ -587,10 +589,10 @@ Begizkoa.
 - *baten batek beizkune ein tso*
 - *beizkune ez eitxeko kutune imin bide*
 
-*begizko* hitzetik sartutakoa dela argi dago, baina *begikune* hitzetik ere etor daitekeenaren susmoa ere hor dago.
+**begizko** hitzetik sartutakoa dela argi dago, baina **begikune** hitzetik ere etor daitekeenaren susmoa ere hor dago.
 
-/begizkoa → beizkoa → beizkue/
-/begikune → beikune → beizkune/
+**begizkoa** → **beizkoa** → **beizkue**.
+**begikune** → **beikune** → **beizkune**.
 
 ## BEIZKUNE EIÑ ##
 
@@ -599,15 +601,15 @@ Begizkoaren konjurua.
 - *oneri imiri beizkune ein bi dxatzo*
 - *beizkune ein barik ez dxatzo kenduko ori geixue*
 
-Azkuek ez du jaso bere hiztegian, bai, ordea, D.A.R.k Ortuzarren *Oroigarriale* obrako zita bat aipatuz. Beraz, Bermeoko hitza bezala.
+Azkuek ez du jaso bere hiztegian, bai, ordea, D.A.R.k Ortuzarren **Oroigarriale** obrako zita bat aipatuz. Beraz, Bermeoko hitza bezala.
 
 ## BEIÑ ##
 
 Oraindik.
 
-Zentzu horretan erabiltzen da Bermeon eta *ondiño* hitzarekin batera oso erabilia da.
+Zentzu horretan erabiltzen da Bermeon eta **ondiño** hitzarekin batera oso erabilia da.
 
-*noizbait* edo *behin* esateko *egun baten* erabiltzen da.
+**noizbait** edo **behin** esateko **egun baten** erabiltzen da.
 
 - *beiñ egon, ondiño ezta sasoie ta*
 
@@ -627,11 +629,11 @@ Ardia orokorrean. Txikia edo handia, berdin da. Ez da ezagutzen beste hitzik ard
 - *bekerekak dxaboten dxun da Amerikara*
 - *kotxie ezin pasa on da, bekerekaz beteta on da kamiñue ta*
 
-Auzoetan, gehienetan *ardia*, *arkumie* eta *billotsa* esaten da. Harategian, ostera, auzoetakoek *artxue* eskatuko dute eta herrikoek *korderue*.
+Auzoetan, gehienetan **ardia**, **arkumie** eta **billotsa** esaten da. Harategian, ostera, auzoetakoek **artxue** eskatuko dute eta herrikoek **korderue**.
 
-Azkuek Bermeon eta Mundakan jartzen du, baina *corderillo* zentzuaz. Kintanak *voz infantil de cordero* dela dio.
+Azkuek Bermeon eta Mundakan jartzen du, baina **corderillo** zentzuaz. Kintanak **voz infantil de cordero** dela dio.
 
-*bee* ahotsa eta *ka* atzizkiaz osatutako hitza da seguru aski.
+**bee** ahotsa eta **-ka** atzizkiaz osatutako hitza da seguru aski.
 
 ## BEKOKIDXE GARBI ##
 
@@ -658,8 +660,8 @@ Belak puzteko moduko haizea. Bermeon, haizea hitza, kasu honetan erabili den bez
 - *alabatxi belaxe zara, ez eixu gasta orrenbeste*
 - *an due belaxe, iñok auentako ete dau beragaz*
 
-Azken honek *harro* zentzua dauka.
-Kasu batzuetan *i* galdu egiten du ohituraren kontra.
+Azken honek **harro** zentzua dauka.
+Kasu batzuetan **i** galdu egiten du ohituraren kontra.
 
 ## BELARRESKIÑEKUE ##
 
@@ -669,9 +671,9 @@ Belarri-ondokoa. Zartada.
 - *zelako belarreskiñekue emon tso ba, belarridxe be gorritxute imin tso*
 - *omon belarreskiñekue, ezta lotzien da*
 
-/belarri + izkina/ → belarreskina →  belarreskiñie
+**belarri** + **izkina** → **belarreskina** →  **belarreskiñie**.
 
-Hitz honek beste sinonimo bat eduki arren, *belarriondoko* berau erabiltzen da gehiago.
+Hitz honek beste sinonimo bat eduki arren, **belarriondoko** berau erabiltzen da gehiago.
 
 Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k Bermeoko hitza dela azalduz.
 
@@ -700,9 +702,9 @@ Norbere kontura. Bere kabuz.
 - *neure kitxien eskribidu dot kartie*
 - *ara, zeurekitxien eingo zu, eztakozu iñon biarrizanik*
 
-*bere* + *ekitean* hitzen konposaketa dela dirudi. Hirugarren pertsonan erabiltzen da.
+**bere** + **ekitean** hitzen konposaketa dela dirudi. Hirugarren pertsonan erabiltzen da.
 
-ekitean → (e)kitxean → kitxien *t* palatalizatu eta *ea* → *ie* egin da.
+**ekitean** → **(e)kitxean** → **kitxien**; **t** palatalizatu eta **ea** → **ie** egin da.
 
 ## BERANDUEK ##
 
@@ -742,17 +744,17 @@ Hizpidea.
 - *berbaleko asko dau amen, ezebezatako*
 - *berbalekue berbalekue lez imiñ dxot, baie eztost ardure*
 
-Azkuek ez du jaso. D. A. R.k beste esanahi batez azaltzen du, *mentidero* zentzuaz hain zuzen.
+Azkuek ez du jaso. D. A. R.k beste esanahi batez azaltzen du, **mentidero** zentzuaz hain zuzen.
 
 ## BERDELA ##
 
-Berdela. Baina kasu honetan *mozkorra*.
-
-Bermeon, itsasoko beste gai asko bezala, herriko egoeran sartu da, kasu honetan mozkorra definitzeko erabiltzen da.
+Berdela. Baina kasu honetan **mozkorra**.
 
 - *berdel matxugaz etor nai etzera*
 - *lagunen despediden danok on garizen berdelagaz*
 - *berdela be berdela lakue ezan da atzo gauekue*
+
+Bermeon, itsasoko beste gai asko bezala, herriko egoeran sartu da.
 
 ## BERDETU ##
 
@@ -778,7 +780,7 @@ Zaporea.
 - *ur asko bota ezkero bertutie kentzien dxatzoie iñdxabai*
 - *bertute ona okitxeko estarlux bota bi zazu okeliri*
 
-Seguru aski, gaztelerako *virtud* hitza hartu da hitz hori egiteko. *Virtud* gauza ona bezala, gero jatekoari edo jakiei aplikatuz.
+Seguru aski, gaztelerako **virtud** hitza hartu da hitz hori egiteko. **Virtud** gauza ona bezala, gero jatekoari edo jakiei aplikatuz.
 
 ## BERTUTE BARIK ##
 
@@ -835,18 +837,18 @@ Zelan, ze ondo, askotan sarkasmo ikutu batekin.
 
 - *bestela zauz berton, Aritzatxun eguzkidxe hartzien*
 
-Bermeon *bestela* esateko *ostantzien* esaten dugu.
+Bermeon **bestela** esateko **ostantzien** erabiltzen da.
 
 ## BESTELA NAU / ZAUZ / DAU...! ##
 
-Denbora luzean itxaroten egotea. Hala ere *bestea* eta *bestelakue* lokuzioak askotan agertzen dira era guztietako esaldietan.
+Denbora luzean itxaroten egotea. Hala ere **bestea** eta **bestelakue** lokuzioak askotan agertzen dira era guztietako esaldietan.
 
 - *bestela nau berton zutunik, zeu noix etorriko*
 - *bestela dau bertan oso osoko santue lez*
 
 ## BESTELAKUE NAU / ZAUZ / DAU...! ##
 
-*Bestela* bezala era guztietako esaldietan agertzen da, batez ere esaldiari sarkasmo kutsua emateko.
+**Bestela** bezala era guztietako esaldietan agertzen da, batez ere esaldiari sarkasmo kutsua emateko.
 
 - *bestelakue zauz or, iñoren azaorrazidxei eraitxen*
 - *bestelako diro pillue dau irebazten!*
@@ -879,7 +881,7 @@ Gezurrekin bete.
 
 ## BETERRE ##
 
-Hitz honen esangura beste bat da guretzat. Bermeoko hizkeran *makar* gura baitu esan. Ez da *begi-erre* hiztegi askotan agertzen den moduan.
+Hitz honen esangura beste bat da guretzat. Bermeoko hizkeran **makar** gura baitu esan. Ez da **begi-erre** hiztegi askotan agertzen den moduan.
 
 Hala ere, gero pertsona zekenei aplikatua izan da.
 
@@ -959,7 +961,7 @@ Janariak.
 
 Gazteleratik hartua, erabilera zabala dauka.
 
-/Vívere → bibera/
+**Vívere** → **bibera**.
 
 ## BIDIEK EITZEN ##
 
@@ -996,7 +998,7 @@ Bihurdura.
 - *ez ibilli korridxen bidxorkadie ein barik*
 - *bidxorkadie santiritue eiñdxe kentzien da*
 
-Ikusten denez, Bermeon atzizkia aldatuta erabiltzen da. Ez du Azkue, Kintanak edo D.A.R.k ematen dioten zentzua. Azkuek eta P.M.k, zentzu horretan *biurdura* hitza darabilte.
+Ikusten denez, Bermeon atzizkia aldatuta erabiltzen da. Ez du Azkue, Kintanak edo D.A.R.k ematen dioten zentzua. Azkuek eta P.M.k, zentzu horretan **biurdura** hitza darabilte.
 
 ## BIDXORRA ##
 
@@ -1008,7 +1010,7 @@ Zentzu hauekin erabiltzen da. Bigarrena gutxiago bada ere.
 - *bidxorrak plantxe eziñik onai arratzalde santu guztidxen*
 - *oneri txikotari bidxorra kendu bi dxatzo*
 
-Aurrekoa bezala *biur* hitzetik hartu da eta zentzu horiek eman zaizkio.
+Aurrekoa bezala **biur** hitzetik hartu da eta zentzu horiek eman zaizkio.
 
 ## BIDXOTZA LO ##
 
@@ -1046,9 +1048,9 @@ Zoladura. Lurra.
 - *bienganie dau labanduteko moduen, asike ibilli kuidadugaz*
 - *azidente bat on da, ta bienganien on diez batzuk illdxe*
 
-*behean* + *ganean* hitzez osatzen da.  
+**behean** + **ganean** hitzez osatzen da.  
 
-beearenganean → bienganean. Aurreko *e* disimilatu egin da.
+**beearenganean** → **bienganean**. Aurreko **e** disimilatu egin da.
 
 ## BIETZARRIDXE ##
 
@@ -1061,7 +1063,7 @@ Estropezu. Era guzlietakoak.
 
 Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k, Bermeoko hitza bezala azalduz.
 
-behatz → bietz + arria → bietzarria → bietzarrije.
+**behatz** → **bietz** + **arria** → **bietzarria** → **bietzarridxe**.
 
 ## BIGARREN ESKOKUE ##
 
@@ -1097,7 +1099,7 @@ Hori ba!
 
 Arrazoia emateko batzuetan, baieztapena beste batzuetan, enfatikoa ere bada: *biiinke*
 
-Gaztelerako *bien que...* lokuzio hori hartuz egin da.
+Gaztelerako **bien que...** lokuzio hori hartuz egin da.
 
 - *eztozue pentzaten ori dala onena? Binke*
 - *au aulan ein bidu ezta andrak? Binke*
@@ -1122,7 +1124,7 @@ Hitz konposatua da eta errepikatu egiten da.
 - *ez emon biribueltarik dxeusi eingo zara ta*
 - *ia, biribueltadie emon bi zu ikusteko goniek aldegoirik badako*
 
-*bira* + *buelta* + *ada* atzizkia.
+**bira** + **buelta** + **-ada** atzizkia.
 
 ## BIRIBUELTAKA ##
 
@@ -1141,7 +1143,7 @@ Birikia. Baina zentzu figuratiboan asko mugitzen dena.
 - *au telie txar-txarra da ebaitxen, birikidxe lez dabil*
 - *birikidxe baiño txarraue zara txo*
 
-*biriki* hitza erabili da adjektiboa sortzeko.
+**biriki** hitza erabili da adjektiboa sortzeko.
 
 ## BIRINBOLA / IE ##
 
@@ -1151,7 +1153,7 @@ Biribilak diren eta arrodatzen duten gauza guztiak.
 - *birinbola bat okiñ dxau barruen da orain eztako*
 - *birinbolie lako gauze bat sartu bi tzazu ondo imiñi gure bazu*
 
-Hitz hau logikaz sortu da. Badago hiztegian, honen antzeko hitz bat, *txiringol* edo *txirinbol* hitza Bermeon ere erabiltzen dena. Baina hori *tresna* bat izango da, berdin da biribila ez bada ere. Orduan, gauza biribilentzat beste hau sortu da: *birinbola*.
+Hitz hau logikaz sortu da. Badago hiztegian, honen antzeko hitz bat, **txiringol** edo **txirinbol** hitza Bermeon ere erabiltzen dena. Baina hori **tresna** bat izango da, berdin da biribila ez bada ere. Orduan, gauza biribilentzat beste hau sortu da: **birinbola**.
 
 ## BIRINBOLAKA ##
 
@@ -1164,7 +1166,7 @@ Arrodatzen.
 
 D.A.R.k, Beran jartzen du hitz hau, baina froga daitekeen bezala, hitz honen erabilera Bermeon oso zabala da.
 
-/birinbola + ka → birinbolaka/
+**birinbola** + **ka** → **birinbolaka**.
 
 ## BITSE DAIDXOLA ##
 
@@ -1193,7 +1195,7 @@ Bizartsua.
 - *mutil bizardo bat topa du bidien da, ikaratu ein garie*
 - *bizarduen antza dakozu orregaz bizarragaz*
 
-/bizar + do/ atzizkia → bizardo
+**bizar** + **do** atzizkia → **bizardo**.
 
 ## BIZIDXENA ##
 
@@ -1203,7 +1205,7 @@ Minbizia.
 - *gure laguneri medikuek esan tso bizidxena dakola*
 - *bizidxena osatuteko okelie dxan bi dela diñoie*
 
-/biziarena → bizidxena/
+**biziarena** → **bizidxena**.
 
 ## BOBO SERGERIE ##
 
@@ -1376,7 +1378,7 @@ Onomatopeikoa. Zarata hotsa.
 - *urteten zunien atiri emon brauntadie*
 - *zelako brauntadie eiñ dxau ba bonbiek esplota dauenien*
 
-Hitz hau *braunt* onomatopeiazkoa da.
+Hitz hau **braunt** onomatopeiazkoa da.
 
 ## BREBERUEN ##
 
@@ -1388,9 +1390,9 @@ Denbora laburrean.
 - *etzie erosi gure danien ezta pentza biar bi bidar, breberuen ein bide*
 - *gauzek breberuen ein bizaten diez gero damutu barik*
 
-Hitz hau, gaztelerako *breve* tik hartuta dago, baina oso zaharra da.
+Hitz hau, gaztelerako **breve** tik hartuta dago, baina oso zaharra da.
 
-/breve → brebe + ro + an → breberoan/
+**breve** → **brebe** + **ro** + **an** → **breberoan**.
 
 ## BREBIE ##
 
@@ -1400,7 +1402,7 @@ Olio-berakatza. Zenbait jatekori gainetik botatzen zaion olio-berakatz errea.
 - *barbañei erre ta gero, brebie botaten badxatzo asko  be gozuau*
 - *orrek antxobak oridxo brebetan sartu ezkero obeto dxaten diez*
 
-Hitz hau ere, aurrekoa bezala, *breve* hitzetik hartuta dago.
+Hitz hau ere, aurrekoa bezala, **breve** hitzetik hartuta dago.
 
 ## BREGALDARIE ##
 
@@ -1412,7 +1414,7 @@ Galipot galdara. Konparazioan tartera edo ontzi erraldoia.
 
 ## BREKEKE ##
 
-Trentin.
+Alferkeria.
 
 - *zu takozu brekeke, Bilbora dxun bi zule ta ondiño etzien?*
 - *zelako brekeke dakoie ba, ezkondu ein biar da ondiño be etzie erosi barik*
@@ -1430,15 +1432,15 @@ Gazteen artean batez ere, eta gehienetan nesken artean. Nahiko galduta dago.
 - *eskolatik urten da brilladie emon gu*
 - *ama, urtengot kalera? Brillada bat baiño ez e?*
 
-Hitz. honek gaztelerako *brillo* hitzarekin zerikusi handia du: *un ir y venir corto, que dure tanto como un relampago* Hori da hitzaren esanahia.
+Hitz. honek gaztelerako **brillo** hitzarekin zerikusi handia du: **un ir y venir corto, que dure tanto como un relampago** Hori da hitzaren esanahia.
 
-/brillo + ada → brilloada → brillada/. /oa/ → /a/.
+**brillo** + **ada** → **brilloada** → **brillada**. **oa** → **a**.
 
 ## BRUSE ##
 
 1. Eskuila.
 
-Seguruena frantseseko *brosse* edo ingeleseko *brush* hitzetik hartuta dago. Baina hizkuntza hauetan, orokorrean *cepillo* bada ere, Bermeon, ontzia garbitzeko eskuila handia da.
+Seguruena frantseseko *brosse* edo ingeleseko *brush* hitzetik hartuta dago. Baina hizkuntza hauetan, orokorrean **cepillo** bada ere, Bermeon, ontzia garbitzeko eskuila handia da.
 
 - *au loidxe kentzieko, bruse ekar biko zu*
 - *arraska ori ondo brusegaz*
@@ -1453,7 +1455,7 @@ Gehienetan umeak eskolan, baita etxean ere, erabiltzen dutena.
 - *brusegaz ibilli kalien frakak ez loitxuteko*
 - *etzera zatozen momentuen bruse dxantziko zu gero*
 
-Kasu honetan hitzak forma berdinak izan arren ez du esanahi berdina, oraingoan hitzaren jatorria erdarazko *blusa* edo *blusón* da.
+Kasu honetan hitzak forma berdinak izan arren ez du esanahi berdina, oraingoan hitzaren jatorria erdarazko **blusa** edo **blusón** da.
 
 ## BUELTADIE ##
 
@@ -1464,7 +1466,7 @@ Paseo. Bueltatxoa.
 - *bueltadie ein bi du gaue eiñ orduko*
 - *ez etorri berandu gero; bueltada bat emon da etzera*
 
-Kasu honetan ere, gaztelerako *vuelta* ri *ada* atzizkia jarri eta euskaratu egin da hitza. Aurretik aipatutako *biribueltadie* hitz haren bariante bat da.
+Kasu honetan ere, gaztelerako **vuelta** ri **-ada** atzizkia jarri eta euskaratu egin da hitza. **biribueltadie** hitzaren bariante bat da.
 
 ## BUENO! ##
 
@@ -1550,7 +1552,7 @@ Berebalako heriotza. Enbolia edo infarto batez.
 
 ## BURUZKUE ##
 
-Portuan arrain salerosketa txikiak egiten dituena. Gaztelerazko *al por menor* izango litzateke. Saltzaile hauek kantitate txikiak edo arrain banakak erosten dituzte, itsasontziko gizonari ematen zaion arrain partea eta neskatillena, gero eurak arrandegietan saltzeko.
+Portuan arrain salerosketa txikiak egiten dituena. Gaztelerazko **al por menor** izango litzateke. Saltzaile hauek kantitate txikiak edo arrain banakak erosten dituzte, itsasontziko gizonari ematen zaion arrain partea eta neskatillena, gero eurak arrandegietan saltzeko.
 
 - *orrek buruzkuek parritz negargarridxek tiez, iru txikidxen gu dauie arrabiek*
 - *gaurtik aurrera etzatie emongo buruzkuei arraiñik*
