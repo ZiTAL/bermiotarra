@@ -276,10 +276,10 @@ Hitz hau onomatopeiazko *bar-bar* izan daiteke, /ada/ atzizkia itsatsiz.
 
 ## BARBARAN ZAZPI BARRIEK ##
 
-Eten gabeko barreak.
+Etengabeko barreak.
 
 - *zer da orrrenbeste barre emoten tsuena ba? Barbaran zazpi barriek tiez orrek*
-- *zemat barre eiñ dxu ba, lotu be ez eitxekuek, barbaran zazpi barriek esan dizela ata kontu*
+- *zemat barre eiñ dxu ba, lotu be ez eitxekuek, barbaran zazpi barriek ezan dizela ata kontu*
 - *isillik ongo zarie, aitxe dau lota, edo barbaran zazpi barriek takozuie*
 
 ## BARDINGO / UE ##
