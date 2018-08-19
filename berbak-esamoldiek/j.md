@@ -73,16 +73,11 @@ Antza denez, *Juan Trinko* ezizenez ezagutzen zen gizon batek horrelako ibilera 
 
 ## JUEGUE ##
 
-1. Hezurretako artikulazioa.
+Hezurretako artikulazioa.
 
 - *belauneko juegue dakot paralizeta*
 - *ba nik azidentie okin dxotenien, izter bidxetako juegue okin dxot lotute*
 - *medikuek esan dost, atzamarran juegue ez galtzieko pelotie ibilltxeko eskuetan*
-
-2. Barruko kamiseta.
-
-- *Erikek eta Monasek beti daruie juegue kamisetien azpitxik*
-- *aitxitxe beti due juegue eta frakarroiekaz Aritzatxure*
 
 Gaztelerako *juego* (de dos cosas articuladas) hitzetik literalki hartua.
 
