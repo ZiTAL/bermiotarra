@@ -684,7 +684,7 @@ Gortu.
 - *ene alabie, belarridxe be erun tzazu ein tzazun aldarridxegaz*
 - *ez ein niri aldarririk, belarridxe erun dostazu te*
 
-## BELEK DXOTA ##
+## BEIEK DXOTA ##
 
 Guztiz nekatuta edo hilekoekin egotea.
 
