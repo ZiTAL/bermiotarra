@@ -1357,12 +1357,16 @@ Etxebizitza bat aldatzen denean, hango altzariak edo tretxuen mudantza.
 
 ## ETZEBETE ##
 
-Zerbait apurtu. Zerbaitek txarto irten.
+1. Zerbait apurtu. Zerbaitek txarto irten.
 
 - *an, eiñ dxot etzebete, jersie apurtu dot*
 - *etzebete ein zu, non galdu zu dirue ba*
 - *aur ba, etzebete eiñ dxau, pintxeta okiñ dxauena atzera loitxu*
 - *irebazitxe dakozela oposiziñuek eta berba lar eitxiarren etzebete eiñ dxau, galdu eiñ txuz de*
+
+2. Asko.
+
+- *etzebete bibera erosi duz parrilladarako*
 
 ## ETZEGUNE ##
 
