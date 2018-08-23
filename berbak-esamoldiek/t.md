@@ -978,7 +978,7 @@ Trumonada. Konparazioan, aurreko hitzak ematen duen zentzua dauka.
 
 ## TRUXUEK ##
 
-Erauntsia.
+Euri-zaparrada.
 
 - *dardakadan pasa dot gaue ezan dizen truxuekaz*
 - *ezta gitxiaureko, inundaziñuek berez datoz truxuekaz*
