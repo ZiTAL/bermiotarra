@@ -315,7 +315,7 @@ Mehatxua. Haserrekuntza baten botatzen dena.
 
 ## AGUAZERA ##
 
-Erauntsia.
+Euri-zaparrada.
 
 - *zelako aguazerak atrapa gaitxuz ba*
 - *au aguazera baiño ezta, laster pasako da*

@@ -1309,7 +1309,7 @@ echada (acción de echar) → etxada.
 
 ## ETXALAK ##
 
-Erauntsia.
+Euri-zaparrada.
 
 - *ez urten kalera etxalak dauz botaten da*
 - *etxalak ezan diez etzetik urten dunien*
@@ -1318,7 +1318,7 @@ Erauntsia.
 
 Hitz hau konposatua da:
 
-/etxa/ + /ahala/ → etxala/
+**etxa** + **ahala** → **etxala**.
 
 Bokal berdinak izan arren, ez da egon disimilaziorik eta erdiko bokal bi erori egin dira.
 
