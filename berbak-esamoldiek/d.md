@@ -131,9 +131,9 @@ Zentzu guzti hauetan, baina, gainera, gogorrak direnean erabiltzen da.
 - *arek atara dosten degollue erropie etsatelako erosi...*
 - *ez atara niri degollorik nik eztakot kulperik eta*
 
-Bermeoko hizkeran hitzak sortzeko edo egokitzeko jokaera argi ikus daiteke etsenplu hauetan. Gaztelerako *degüello* hitza erabilli da:
+Bermeoko hizkeran hitzak sortzeko edo egokitzeko jokaera argi ikus daiteke etsenplu hauetan. Gaztelerako **degüello** hitza erabilli da:
 
-/degüello/ → degollu/ diptongoa monoptongatuz.
+**degüello** → **degollu** diptongoa monoptongatuz.
 
 ## DEJANIELAPAZIENTZIA ##
 
@@ -144,7 +144,7 @@ Asko estutzen ez den pertsona.
 - *ez ezatie dako dejamelapazienzia, da ernegatie dako*
 - *bestelako dejamelapazienzia dau or, eztau gure moja dxuen?*
 
-Gaztelaniatik hartutako hitz honek, *dejame en la paciencia*, esanahi literala dauka.
+Gaztelaniatik hartutako hitz honek, **déjame en la paciencia**, esanahi literala dauka.
 
 ## DEKLARA ##
 
@@ -155,9 +155,9 @@ Nabarmen utzi. Salatu. Lotsarazi.
 - *zeuk deklara zu masuste guztidxe*
 - *iñok eztau deklara amen ezer, asike ixillik on*
 
-Gaztelerako *declarar* aditza gauzak agirian jartzeko erabiltzen da.
+Gaztelerako **declarar** aditza gauzak agirian jartzeko erabiltzen da.
 
-/declarar → deklara/
+**declarar** → **deklara**.
 
 ## DEKORA ##
 
@@ -168,9 +168,9 @@ Konturatu. Akordatu
 - *berak esan dau ez dala delcoraten aregaz personigaz*
 - *dekora zaitxez alabatxu, inportantie da ta*
 
-Gaztelaniako *decorar*, hau da *aprender de memoria* hitza eta esanahitik zuzenean hartuta dago.
+Gaztelaniako **decorar**, hau da **aprender de memoria** hitza eta esanahitik zuzenean hartuta dago.
 
-Ez du Azkuek bere hiztegian Bermeorako jartzen duen zentzuaz jarri. Honek, *flojo*, *tardo* zentzua jartzen dio.
+Ez du Azkuek bere hiztegian Bermeorako jartzen duen zentzuaz jarri. Honek, **flojo**, **tardo** zentzua jartzen dio.
 
 ## DEMANDUEN ##
 
@@ -187,20 +187,20 @@ Ahozabal. Demasekoa.
 - *zure lagune demasa da, destaiñek botaten eztau bera baiño obiaurik*
 - *ez ezan demasekue, ostantzien zeure amaiñe dxungo zara*
 
-Erdarazko *de más* hitzak gehiegikeria adierazten du
+Erdarazko **de más** hitzak gehiegikeria adierazten du.
 
-/de mas → demasa/
+**de mas** → **demasa**.
 
 ## DENPORALTZA ##
 
-Ekaitz gogorra. Leunagoa denean *denporalie* esaten da. Baina kasu honetan *tza* ugaritasunezko atzizkia jarri da.
+Ekaitz gogorra. Leunagoa denean **denporalie** esaten da. Baina kasu honetan **-tza** ugaritasunezko atzizkia jarri da.
 
 - *denporaltzie dauelez ez tiez dxungo itxosora*
 - *atzo denporaltzie on da baie gaur bare-bare dau*
 - *denporaltziegaz on diez iru egunien*
 - *denporaltza andidxe ekar dau te, etzien geratu bi zan dauie*
 
-Azken esaldi honetan gainera, *andi* adjetiboaz indartu da denporaltza.
+Azken esaldi honetan gainera, **handi** adjetiboaz indartu da denporaltza.
 
 ## DERROT ##
 
@@ -211,7 +211,7 @@ Zuzen.
 - *eztakozu galtzeirik derrot dxun ezkero*
 - *iñon lotu barik dxun garizen, derrot bertararte*
 
-Hitz hau gaztelerako *derrota* = *rumbo de las embarcaciones* hitzetik hartua da. Azken bokala galdu ondoren *derrot* geratu da eta zentzua aldatu egin da pixka bat, *con rumbo* izan beharrean *derecho*, *sin parar* egin da.
+Hitz hau gaztelerako **derrota** = **rumbo de las embarcaciones** hitzetik hartua da. Azken bokala galdu ondoren **derrot** geratu da eta zentzua aldatu egin da pixka bat, **con rumbo** izan beharrean **derecho**, **sin parar** egin da.
 
 ## DESABANDONA ##
 
@@ -223,7 +223,7 @@ Arraro samarra den arren, hitz honek esanahi hori dauka Bermeon. Oso erabilia da
 - *etzie desabandonaten badau deretxo guztidxek galtzien txuz*
 - *eskapa eiñ dxau Madrillera, gixona ta alabie desabandonata*
 
-Ikusten denez, *abandonar* gaztelerako aditza eta euskaraz ere erabiltzen den *des* aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
+Ikusten denez, **abandonar** gaztelerako aditza eta euskaraz ere erabiltzen den **des-** aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
 
 ## DESAPARTA ##
 
@@ -233,7 +233,7 @@ Banandu.
 - *entzun dot arek be desaparta eingo dizela*
 - *desaparta ezkero gauzek txarrau paraten diez*
 
-*Desabandona* hitzaren jokabide berdina hartu du.
+**Desabandona** hitzaren jokabide berdina hartu du.
 
 ## DESASIDU ##
 
@@ -242,15 +242,15 @@ Desegin.
 - *aixiek arbola guztidxek desasidu eiñ txus*
 - *indxaba danak eiñ dxiez desasidu, orrenbeste su ezta okin biar*
 
-Kasu honetan *du* partizipioa erabili da gaztelerazko hitza euskaratzeko.  
-/dezhacer- + du → desazedu → desasidu/
+Kasu honetan **du** partizipioa erabili da gaztelerazko hitza euskaratzeko.  
+**dezhacer** + **du** → **desazedu** → **desasidu**.
 
 Adberbio moduan.
 
 - *au telie desasite dau*
 - *txikota desasite topa du dxun garizenien*
 
-/dezhacer- + ta → desazeta → desasite/ Askotan atzizki biak hartzen ditu: /dezhacer- + du + ta → desazeduta → desasidute/
+**dezhacer** + **ta** → **desazeta** → **desasite**. Askotan atzizki biak hartzen ditu: **dezhacer** + **du** + **ta** → **desazeduta** → **desasidute**.
 
 ## DESBRAZETE / DELBRAZETE ##
 
@@ -260,7 +260,7 @@ Besotik helduta.
 - *mojak esaten ezan doskue ez dxuteko desbrazete*
 - *delbrazete agarrata dxun bizan dot ez dxeusteko*
 
-Gaur egun askoz gutxiago erabiltzen da, *del brazo* erabiltzen baita.
+Gaur egun askoz gutxiago erabiltzen da, **del brazo** erabiltzen baita.
 
 ## DESETXUE ##
 
@@ -326,9 +326,9 @@ Ez da arduragabekeria, adia galtzea baizik.
 - *deskideta beste bide batetik dxun gariez*
 - *ez deskide, ze gauzek ondo ezpadiez ikasten gero aztu eitxen diez*
 
-Gaztelerako *descuidar* aditzetik hartuta dago baina zentzua ez berdina.
+Gaztelerako **descuidar** aditzetik hartuta dago baina zentzua ez berdina.
 
-*descuidar* → deskide. Hau *deskidatu* izan beharko litzateke, baina ez du eman.
+**descuidar** → **deskide**. Hau **deskidatu** izan beharko litzateke, baina ez du eman.
 
 ## DESKIDUE ##
 
@@ -343,7 +343,7 @@ Gaztelerako *descuidar* aditzetik hartuta dago baina zentzua ez berdina.
 - *deskiduen, neu ez nauela etorten bada, esan bidxar etorteko*
 - *deskiduen ez balekitzo akaba, beste erropa bat prepara bi dau*
 
-descuido → deskido. Hemen /ui/ → /i/ monoptongatu da.
+**descuido** → **deskido**. Hemen **ui** → **i** monoptongatu da.
 
 ## DESKONORTA ##
 
@@ -448,7 +448,7 @@ Ez damutzea.
 - *noiz dollidu de a ezeitxik ba?*
 - *dollidu ein bi garizela? Zer eiñ dxule ta?*
 
-Gaztelaniako *doler* hitza erabiltzen dugu damu dugula esateko.
+Gaztelaniako **doler** hitza erabiltzen dugu damu dugula esateko.
 
 ## DOMA ##
 
@@ -459,7 +459,7 @@ Ofenditu. Menperatu.
 - *on bia, neuk domako zaitxut*
 - *domata itxi nau beran berbakaz*
 
-Gaztelerazko *domar* aditzaren zentzua daukate azken bi esaldiok. Formaz berdinak badira ere, esanahia ezberdina daukate.
+Gaztelerazko **domar** aditzaren zentzua daukate azken bi esaldiok. Formaz berdinak badira ere, esanahia ezberdina daukate.
 
 ## DUNGULUE ##
 
@@ -511,7 +511,7 @@ Zerbait ospatzeko egiten den bazkaria edo afaria.
 - *baporan berinkaziñuen dxabie okiñ dxun kasinuen*
 - *etze barridxeri teilletue imitxen dxatzonien be okiñ dxu dxabie*
 
-Geroago ikusiko dugun *jana* hitzarekin batera erabiltzen da, baina hau gutxiago.
+Geroago ikusiko dugun **jana** hitzarekin batera erabiltzen da, baina hau gutxiago.
 
 ## DXABONADURIE ##
 
@@ -533,7 +533,7 @@ Xaboi-ura.
 - *dxaboiure dator, da ori dxaboiure itxosora due*
 - *onek esniek dxaboiuren antza dako*
 
-Hitz hau ere, bestea bezala aspalditik sartu da Bermeon, duela laurogei urteko Ortuzarren *Oroigarriak* liburuan agertzen da.
+Hitz hau ere, bestea bezala aspalditik sartu da Bermeon, duela laurogei urteko Ortuzarren **Oroigarriak** liburuan agertzen da.
 
 ## DXAKADA BATEN ##
 
@@ -547,16 +547,16 @@ Berehala egin.
 
 Arrantzaleen itsasoko jantzia. Gaur egun euritarako aproposak daude, baina aurrerago olanaz eta gero linaza olioa emanda erabiltzen zirenak dira. Baina orain ere izen hori ematen zaio.
 
-Aurretik azaldu ditugu *entzadu* eta *frakonozkuek* hitzak. Horietakoa dugu beste hau ere, *entzaduek* jaka eta frakaren konjuntoa da. *frakonozkuek* frakak dira eta *dxakenarroa* jaka da. Hirurek hartzen dute izen ezberdina.
+Aurretik azaldu ditugu **entzadu** eta **frakonozkuek** hitzak. Horietakoa dugu beste hau ere, **entzaduek** jaka eta frakaren konjuntoa da. **frakonozkuek** frakak dira eta **dxakenarroa** jaka da. Hirurek hartzen dute izen ezberdina.
 
 - *inundaziñuek ezan dizenien gixon guztidxek dxakenarruekaz dxantzitxe ibil dizen*
 - *dxakenarruek asko dxaboten zaitxuz euritxen*
 - *gaurko gaztiek pe dxakenarruek dxazten dauie euridxe danien*
 - *baie oraingo dxakenarruek politxauek tiez*
 
-/jaka/ + larru/namil → dxalcenarru → dxakenarro/
+**jaka** + **larru / namil** → **dxalcenarru** → **dxakenarro**.
 
-Aurretik esandakoa kontutan izanik, hemen ere *u* bokalea deklinatu gabe doan hitzean *o* bihurtzen da.
+Aurretik esandakoa kontutan izanik, hemen ere **u** bokalea deklinatu gabe doan hitzean **o** bihurtzen da.
 
 Kasu honetan, ez da larruzko jaka, linaza olioa emandako olanazko jaka baizik. Gero, horrek, larruaren funtzioa beteko du.
 
@@ -586,7 +586,7 @@ Erdi janda ibili.
 
 ## DXANA ##
 
-Aurretik jarri dugun *dxabie* hitzaren parekoa da, baina gaur egun erabiliagoa da.
+Aurretik jarri dugun **dxabie** hitzaren parekoa da, baina gaur egun erabiliagoa da.
 
 - *gaur dxana daku Mikelen egune da ta*
 - *zuek dxana okitxeko eztozue biar ezer zelebrateko*
@@ -628,14 +628,14 @@ Konparazioan osagaiak falta edo gauza eskasekin jantzita.
 
 ## DXARRA KATILLUEK ##
 
-Pitxer eta katiluak. *Jarra* hitza erabili da.
+Pitxer eta katiluak. **Jarra** hitza erabili da.
 
 - *dxarra-katilluek garbitxuteko eztau obiaurik deterjente bat baño*
 - *amentala imiñi dxarra-katilluek garbitxuteko*
 
 ## DXIBO-DXIBO ##
 
-Zabua. *Columpio*.
+Zabua. **Columpio**.
 
 - *ama, eruen dxibo-dxibutara*
 - *ezpazu dxaten meridxandie eztau dxibo-dxiborik*
@@ -673,9 +673,9 @@ Jaka luzea. Zentzu peioratiboan erabiltzen da.
 - *beran dxipetoie garbiten on nai ontxerarte*
 - *dxipetoieri botoiek kanbidxe bi tsatez*
 
-Hitz honekin batera *jipoi* ere erabiltzen da; eta gaztelerako *chaqueton* hitzaren azken silaba *ton* eta *jipoi* hitzaz konposatuta dagoela dirudi.
+Hitz honekin batera **jipoi** ere erabiltzen da; eta gaztelerako **chaquetón** hitzaren azken silaba **ton** eta **jipoi** hitzaz konposatuta dagoela dirudi.
 
-jipoi + ton → jipoiton → dxipeton → dxipetoi.
+**jipoi** + **ton** → **jipoiton** → **dxipeton** → **dxipetoi**.
 
 ## DXIRTADA ##
 
@@ -738,9 +738,9 @@ Zerbaiten kontra jo.
 - *ekar dauen andanigaz, ormigaz be dxokazo ein dxau*
 - *zelako dxokazue ein dxau ba, Mundekatik pe entzun zaratie*
 
-Hitz hau *jo erazi* izango da seguruena, -era- zatikia galdu eta - ka- tartizkia hartu ondoren: /jo + ka + zo/
+Hitz hau **jo erazi** izango da seguruena, **-era-** zatikia galdu eta **-ka-** tartizkia hartu ondoren: **jo** + **ka** + **zo**.
 
-Baina beste hipotesi hau ere kontutan izan beharko litzateke: beste kasu batzuetan bezala gazteleratik hartutako *tortazo* hitzaren *zo* atzizkia izan liteke.
+Baina beste hipotesi hau ere kontutan izan beharko litzateke: beste kasu batzuetan bezala gazteleratik hartutako **tortazo** hitzaren **-zo** atzizkia izan liteke.
 
 ## DXOSI ##
 
@@ -771,7 +771,7 @@ Erdi edo osorik erotuta.
 - *dxota dauela diñoie. Neguen uger eitxen dau orrek Aritxatxun*
 - *enebada! Dxota ete nau ba, orrek gauzek eitxeko?*
 
-D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen *joa* forma. Hau, *jo* aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, *tocado de la cabeza* definizioaz agertzen da.
+D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen **joa** forma. Hau, **jo** aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, **tocado de la cabeza** definizioaz agertzen da.
 
 ## DXUENA ##
 
