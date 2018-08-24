@@ -102,7 +102,7 @@ Harridura, galdezka edo zalantzazko oihu bat da: ohi, ote...
 - *etorko diez oidxez, bidxarko egune baiño lelau oidxez*
 - *enplastue da gixon au oidxez?*
 
-Azkuek *probablemente* zentzuaz jaso du D A R.k *por lo visto* zentzuaz eta biek jartzen dute Mundakarako.
+Azkuek **probablemente** zentzuaz jaso du D A R.k **por lo visto** zentzuaz eta biek jartzen dute Mundakarako.
 
 ## OILLARGITA ##
 
@@ -113,7 +113,7 @@ Oilartuta.
 - *bestelako ollargita due or, mundue dxan biarreko*
 - *ezin dxatzo esan ezebe, zeuzer esaten batsazu laster urtengo dau oillargitak*
 
-Gauza kuriosoa gertatzen da hitz honekin, *oilar* maskulinoa izanik, gaztelerako *gallito* ren azken silaba biak hartuz gero, femeninoa egiteko >a< sartu zaio. Hala ere, gizonezkoei eta emakumezkoei aplikatzen zaie.
+Gauza kuriosoa gertatzen da hitz honekin, **oilar** maskulinoa izanik, gaztelerako **gallito**-ren azken silaba biak hartuz gero, femeninoa egiteko **a** sartu zaio. Hala ere, gizonezkoei eta emakumezkoei aplikatzen zaie.
 
 ## OILLARRAN BEGIDXE ##
 
@@ -133,8 +133,11 @@ Oraingoan.
 - *Euskal Herridxen dau, baie oingutan eztala etorko Bermiora esan dau*
 - *oingutan ezpadot erosten eztot erosko eguno be*
 
-Hitz hau pluraleko forman eraiki da:  
-/oraingoetan → oingoetan → oingutan/ Bermeon, *orain* eta *oin* alternantzian erabiltzen dira, erdizka erabiltzen direla biak esan genezake, kasu honetan, laburrena aukeratu dugu.
+Hitz hau pluraleko forman eraiki da:
+
+**oraingoetan** → **oingoetan** → **oingutan**.
+
+Bermeon, **orain*** eta **oin** alternantzian erabiltzen dira, erdizka erabiltzen direla biak esan genezake, kasu honetan, laburrena aukeratu dugu.
 
 ## OJA BIKO LIBRUE ##
 
@@ -154,7 +157,7 @@ Iskanbilak sortzen dituen pertsona.
 - *asarratu ein nai beragaz, okasintie dalakon*
 - *okasinte okasinte bat da, ezta fidxe biar beragaz*
 
-Azkuek ez du jaso, baina bai D.A.R.k Bermeokoa dela esanez eta Ortuzarren *Oroigarriak* liburuko aipamen bat azalduz.
+Azkuek ez du jaso, baina bai D.A.R.k Bermeokoa dela esanez eta Ortuzarren **Oroigarriak** liburuko aipamen bat azalduz.
 
 ## OKASIÑUE ##
 
@@ -164,7 +167,7 @@ Iskanbila.
 - *zelako okasiñue arma dauie ba, amak eta aitxek pe sartun eiñ dxiez*
 - *nik eztot gu zan sartun, baie azkanien okasinue libreteko sartun ein bi zan nai*
 
-Ez du zerikusirik gaztelerako *ocasión* bitzarekin. Aurreko hitza bemendik sortu da.
+Ez du zerikusirik gaztelerako **ocasión** bitzarekin. Aurreko hitza bemendik sortu da.
 
 ## OKASIÑUEN MAMARRUE ##
 
@@ -234,7 +237,7 @@ Bai, bai! Horretan egon!
 - *dirue emoteko ? Olakunbi! Eztotsut emoten!*
 - *ez esan niri olakunbi, emon ein biko dostazu te*
 
-/olakoan bi → olakuen bi → olakunbi/
+**olakoan bi** → **olakuen bi** → **olakunbi**.
 
 ## OLLUN POPAK ##
 
@@ -245,7 +248,7 @@ Hotzak edo ikarak eragindako oilo ipurdiak.
 - *urten uretatik, ollun popak pe eiñdxe dakozuz de*
 - *eztakot nik ollun poparik, eztakot otzik eta*
 
-Hitz honen bigarren osagaiak, *popa* k, ipurdia esan nahi du Bermeoko hizkeran. Beraz *oiloaren ipurdiak* izango litzateke literalki.
+Hitz honen bigarren osagaiak, **popa**-k, ipurdia esan nahi du Bermeoko hizkeran. Beraz **oiloaren ipurdiak** izango litzateke literalki.
 
 ## ONDO EIN ##
 
@@ -270,7 +273,7 @@ Igerian aritzean, beste batek burua uretan barruan sartzea.
 - *guzu ondakarritxu bet ela?*
 - *ondokarridxe zeure amari emongo tsazu niri barik*
 
-Hitz konposatua da eta *ondo* eta *harri* dira osagaiak.
+Hitz konposatua da eta **ondo** eta **harri** dira osagaiak.
 
 ## ONDUE DXOTA ##
 
@@ -290,7 +293,7 @@ Ondo egiten den ustean.
 - *ondusterako esaten dxatzu, baie zuk ezu eitxen kasurik*
 - *ondustien eitxen zu lakuen erosi etzie da gero txarto urten*
 
-/ondo ustean → ondustean → ondustien/
+**ondo ustean** → **ondustean** → **ondustien**.
 
 ## ONURE BARIK ##
 
@@ -488,7 +491,7 @@ Haserretzen denean berba hau esaten da.
 - *niri eztost emongo ospasik nik eztot kure asarratu te*
 - *ospas, ospas da ospas, iru bidar ospas, zer guzu geidxau*
 
-Beharbada gaztelerako *largo* adierazteko erabiltzen den *ospa* esanahia izango da oinarria, baina ez da segurua.
+Beharbada gaztelerako **largo** adierazteko erabiltzen den **ospa** esanahia izango da oinarria, baina ez da segurua.
 
 ## OSTENTADA/ IE ##
 
@@ -498,7 +501,7 @@ Harroputza. Erakuspena ematea gustatzen zaiona.
 - *ostentada utse da, batso arek beran bururi*
 - *zelako arrue da ba, eztau bera baiño ostentadiaurik*
 
-Gazteterako *ostentar*, *hacer gala de grandezas* hartu da literalki.
+Gazteterako **ostentar**, **hacer gala de grandezas** hartu da literalki.
 
 ## OSTI BI TXE ERDIGAZ ##
 
@@ -593,7 +596,7 @@ Beti hotz dena.
 - *enai ezan otzakille, baie orain bai*
 - *orrek imiek otzakillen arpidxe dakotsu*
 
-Konposizioan *otza* hitzak *kill* atzizkia hartu du.
+Konposizioan **otza** hitzak **-kill** atzizkia hartu du.
 
 ## OTZIKARA ##
 
@@ -604,7 +607,7 @@ Ezpainetako ekzema.
 - *bakixu otzikarak nasta eitxen dizena?*
 - *uretan sartukeran otza sentidu dot eta laster urtengo dau otzikariek*
 
-Ez da hitzaren zentzu konkretuan erabiltzen. Hala ere, badirudi gaztelerako *frio* tik hartu dela zentzua: *tengo un frio en los labios*.
+Ez da hitzaren zentzu konkretuan erabiltzen. Hala ere, badirudi gaztelerako **frio**-tik hartu dela zentzua: **tengo un frio en los labios**.
 
 ## OTZUE ##
 
@@ -615,7 +618,7 @@ Gizon oso galanta.
 - *otzue bada, baie enplasto utse be bai*
 - *Laiden otzue lako mutillek oten diez*
 
-Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, *otzo* gaztelerako *oso* da. Beharbada gaztelerako esaldia kontutan hartuta egingo zen.
+Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, **otzo** gaztelerako **oso** da. Beharbada gaztelerako esaldia kontutan hartuta egingo zen.
 
 ## OZALIE ##
 
