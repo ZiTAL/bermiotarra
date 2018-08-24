@@ -18,7 +18,7 @@ Dotore.
 - *zer ba? Beti dxantzi bi de majarik kalera urteteko ela?*
 - *majarik dxantzi arren ni beti nai betikue*
 
-Gaztelerako *majo* = *ataviado*, *lujoso* hitzetik hartuta dagoela dirudi, zentzuari begiratuta behintzat. Gero femeninora pasatu da. Kasu honetan, substantiboa, adberbio bezala erabili izan da. Femeninoan erabiltzen da beti, nahiz eta gizonezkoei ere aplikatu.
+Gaztelerako **majo** = **ataviado**, **lujoso** hitzetik hartuta dagoela dirudi, zentzuari begiratuta behintzat. Gero femeninora pasatu da. Kasu honetan, substantiboa, adberbio bezala erabili izan da. Femeninoan erabiltzen da beti, nahiz eta gizonezkoei ere aplikatu.
 
 ## MAJAZALE / IE ##
 
@@ -32,7 +32,7 @@ Ondo jantzita edo soineko dotoreak gustatzen zaizkien pertsonak, gizonak eta ema
 
 ## MAJO ##
 
-*Ondo* sarkasmoz esana, peioratibo edo protesta tonuaz askotan.
+**Ondo** sarkasmoz esana, peioratibo edo protesta tonuaz askotan.
 
 - *majo geratu da pintxe zun zatidxe*
 - *eztot pentsa olan geratuko danik, baie majo geratu da*
@@ -95,7 +95,7 @@ Hitz hau oso zaharra da. Nik neure amumari entzunda daukat. Nire amamak, gaur, e
 
 Pertsonen aurrean txarto geratu.
 
-Gaztelerako *malquisto* bera dugu. Baina oso erabilia denez, horregatik sartu da.
+Gaztelerako **malquisto** bera dugu. Baina oso erabilia denez, horregatik sartu da.
 
 - *ara, ni enue ezer esaten, eztot kure malkiste iñogaz da*
 - *iñori mesede bat eitxitxik, norbera lotu malkisteta*
@@ -126,11 +126,11 @@ Albotik kendu ere egiten ez den laguntzailea. Zentzu peioratiboan beti.
 - *an dxun dxatzu a, mamaixelagaz Lamerara. Nogaz? Beran aiztiegaz*
 - *mamaixelagaz dxutekutan etzien lotuko nai*
 
-Hitz bau, frantseseko *mademoiselle* tik sartu da.
+Hitz bau, frantseseko **mademoiselle** tik sartu da.
 
-/mademoiselle → mamuaselle → mamaselle → /mamaixela/
+**mademoiselle** → **mamuaselle** → **mamaselle** → **mamaixela**.
 
-/ua/ → /a/ eman du. Eta arraroa bada ere >ll< sinplitikatu egin da. >s<, normala den bezala, palatalizatu egin da eta horren ondorioz, >i< bat garatu.
+**ua** → **a** eman du. Eta arraroa bada ere **ll** sinplitikatu egin da. **s**, normala den bezala, palatalizatu egin da eta horren ondorioz, **i** bat garatu.
 
 ## MAMALA ##
 
@@ -158,7 +158,7 @@ Mania.
 - *bertara dxuten dakozu mana ezta? Ba ez zara dxungo*
 - *manak takoz beragaz enbrigaz, ezta ba politxe be ba*
 
-Azken boladan *manije* sartu den arren, erabilera zabala dauka oraindino.
+Azken boladan **manije** sartu den arren, erabilera zabala dauka oraindino.
 
 ## MANDA / IE ##
 
@@ -170,7 +170,7 @@ Azken boladan *manije* sartu den arren, erabilera zabala dauka oraindino.
 - *okerreko mandarantz eiñ dxau, ez zauen dxun bi zan arantz da*
 - *goiko mandan dau elixie*
 
-Azkuek ez du jaso, baina D.A.R.k. Mundakako Otxularen *Bertolda* aipatzen du. Hitz honek eman dituen deribazioak dira froga, Bermeon nolako erabilera zabala duen.
+Azkuek ez du jaso, baina D.A.R.k. Mundakako Otxularen **Bertolda** aipatzen du. Hitz honek eman dituen deribazioak dira froga, Bermeon nolako erabilera zabala duen.
 
 2. Alde batera jo edo egin. Inklinatu.
 
@@ -262,7 +262,7 @@ Negozio zikinak, argi ez dauden ekintzak edo gona kontuetarako aplikatua.
 - *mandxungetan sartun ezkero ondo dau gau guztireko*
 - *mandxungerik ezpadako igarri eitxen dxatzo*
 
-Sistema horretan antxoa guztiz *masa* eginda etortzen zenez horregatik zentzu hori.
+Sistema horretan antxoa guztiz **masa** eginda etortzen zenez horregatik zentzu hori.
 
 ## MANEJA ##
 
@@ -273,9 +273,9 @@ Maneiatu.
 - *erropie dxesten maneja bez, da gixonari esan tsat imitzeko*
 - *au erlojue eruen, da ezpazara manejaten atzera ekarri*
 
-Argi dago gaztelerako *manejar* aditzetik sartuta dagoela.
+Argi dago gaztelerako **manejar** aditzetik sartuta dagoela.
 
-/manejar → maneja/
+**manejar** → **maneja**.
 
 ## MANEJUE ##
 
@@ -300,9 +300,9 @@ Ganora. Trebetasuna.
 - *eske, manga eitzen da personie orrek biarrak eitxen*
 - *ganera mangata nauenien eztot eitxen lorik pe*
 
-Nondik sartu den hitz hau ez dago argi. Baliteke, gaztelerako *mangonada* *golpe que se da con el brazo y manga* hitzetik deribatzea. Hau hipotesi bat, besterik ez da.
+Nondik sartu den hitz hau ez dago argi. Baliteke, gaztelerako **mangonada**, **golpe que se da con el brazo y manga** hitzetik deribatzea. Hau hipotesi bat, besterik ez da.
 
-/mangonada → mangada → manga/
+**mangonada** → **mangada** → **manga**.
 
 ## MANIE ##
 
@@ -332,7 +332,7 @@ Higidura. Mugimendua.
 - *maniorik ezpadau eziñ dxe eiñ ezer*
 - *maniue ibill dxauie ertzaiiñek drogadunek atrapaten*
 
-Aipatu dugun *manejo* berbera da baina zentzua aldatzean, hitza bera ere aldatu egin da, bai grafiaz, bai ahoskeran.
+Aipatu dugun **manejo** berbera da baina zentzua aldatzean, hitza bera ere aldatu egin da, bai grafiaz, bai ahoskeran.
 
 ## MANTARRA ##
 
@@ -391,7 +391,7 @@ Mareoa.
 - *ba mareziñuei kasu ein bi tsazu*
 - *mareziñue mareziñuen ganien dako, ta Bilbora altza bi dauie*
 
-/mareo → mare + zino → marezino → mareziño → mareziñue/
+**mareo** → **mare** + **zino** → **marezino** → **mareziño** → **mareziñue**.
 
 ## MARIDXE ##
 
@@ -457,7 +457,7 @@ Asko dakien umea gehienetan. Batzuetan nagusiei ere aplikatzen zaie.
 - *alabatxi marisorgiñ utse zara, zemat takixu ba*
 - *marisorgiñe lez ibilltxen da, dana dxakin guren*
 
-Azkuek jaso du, baina *mariposa* adierazteko.
+Azkuek jaso du, baina **mariposa** adierazteko.
 
 ## MARITENTEL ##
 
@@ -510,7 +510,7 @@ Agirika.
 
 ## MARRAJA ##
 
-Marrazoa. Baina kasu honetan femeninoa da. Gazteleraz *tiburona* izango litzateke. Konparazioan emakume maltzurra, gezurtitxoa, eta trikimailuak erabiltzen dituena.
+Marrazoa. Baina kasu honetan femeninoa da. Gazteleraz **tiburona** izango litzateke. Konparazioan emakume maltzurra, gezurtitxoa, eta trikimailuak erabiltzen dituena.
 
 - *marrajie zara gero, majo eitxen zuz zuk zeuri konbeniten dxatzuzen gauzek*
 - *marrajiaue da beti dau tranpak eitzen*
@@ -539,7 +539,7 @@ Itsasoko terminoa da. Karnata moduan itsasora botatzen den nahastea da. Konparaz
 - *masamorrie gero ta lodidxau due, or sartzien bagara eztu urteten bidxar be*
 - *zemat eta masamorra geidxau obeto*
 
-Gaztelerako *mazamorra* = *mezcla de cosas dispares* hitza bera da.
+Gaztelerako **mazamorra** = **mezcla de cosas dispares** hitza bera da.
 
 ## MASAMORRIE ARMA ##
 
@@ -576,7 +576,7 @@ Lotsagabekoa. Aurpegi-handi.
 - *maskara ederra da a, iñok ezebe esan barik etor da dxaten*
 - *maskarie naiela diñostazu, da zeu zer zara ba?*
 
-Gaztelerako *máscara* hitzetik hartu da, eta esanahia ere bertatik hartu da. Aurpegian maskara bat izan balitz bezala jokatzea.
+Gaztelerako **máscara** hitzetik hartu da, eta esanahia ere bertatik hartu da. Aurpegian maskara bat izan balitz bezala jokatzea.
 
 ## MASKARIEN ARPIDXE ##
 
@@ -593,9 +593,9 @@ Lotsagabekoa.
 - *ez, ori da masketu baiño andidxaue ezatie*
 - *a da masketu, ta beran lagune beste masketu bet*
 
-Hitz hau gaztelerako *más que tú* da, hau da, *el no va más*. Ezer baino gehiago eta handiagoa.
+Hitz hau gaztelerako **más que tú** da, hau da, **el no va más**. Ezer baino gehiago eta handiagoa.
 
-/más que tú → masketu/
+**más que tú** → **masketu**.
 
 ## MASPASA ##
 
@@ -605,7 +605,7 @@ Agure zahar-zaharra. Baina askotan gazteagoei ere aplikatzen zaie.
 - *maspasie da baie ondiño be majazalie da gero*
 - *maspasie baiño maspasiaue da, ta ez pentsa etzien lotzien danik*
 
-Gaztelerako *uva pasa* literalki oinarritzat hastu eta adjektibo hori sortu da.
+Gaztelerako **uva pasa** literalki oinarritzat hastu eta adjektibo hori sortu da.
 
 Azkuek ez du jaso, baina bai D.A.R.k eta Ortuzarren zita bat aipatzen du Bermeoko hitza dela esanez.
 
@@ -653,7 +653,7 @@ Endredoa.
 - *bai, bai, matazak armaten eztau bera baiño obiaurik*
 - *nik eztot arma matazarik, zeuk esan zu lelau ori*
 
-Hitz hau beste zentzu batez agertzen da hiztegietan; eta gaztelerako *madeja* hitzaren zentzua aldatu egin dela esan genezake.
+Hitz hau beste zentzu batez agertzen da hiztegietan; eta gaztelerako **madeja** hitzaren zentzua aldatu egin dela esan genezake.
 
 ## MATAZATAN SARTUN ##
 
@@ -670,11 +670,11 @@ Mailua.
 - *matraillugaz dxo bi zu ori untzie*
 - *eztot ein lorik pe, matrailluen zaratakaz*
 
-Gaztelerako *martillo* tik hartu da zuzen zuzenean.
+Gaztelerako **martillo**-tik hartu da zuzen zuzenean.
 
-/martillo → matraillo/
+**martillo** → **matraillo**.
 
-/r/ dardarkariaren metatesia izan da aldatzailea.
+**r/**dardarkariaren metatesia izan da aldatzailea.
 
 ## MATSAK DXAN DA GERO ##
 
@@ -692,7 +692,7 @@ Erraldoia. Oso handia.
 - *esan dauie mozkor matxazue atrapata dxun dizela oire*
 - *aulako gixon matxazo bat ikusi du Gerniken*
 
-Hitz honek, >zo< atzizkia sartu ezkero, halako handitasun bat ematen dio hitzaren zentzuari.
+Hitz honek, **-zo** atzizkia sartu ezkero, halako handitasun bat ematen dio hitzaren zentzuari.
 
 ## MATXUE ##
 
@@ -703,7 +703,7 @@ Oso handia.
 - *bai neu etor nai, andra matxue errekaduek eitxen*
 - *eztakola dirorik? Bestelako etze matxue erosi dau*
 
-Ez dakigu gaztelerako *macho* hitzetik sartu den, baina ez dauka horren zentzurik.
+Ez dakigu gaztelerako **macho** hitzetik sartu den, baina ez dauka horren zentzurik.
 
 ## MAUTE-MAUTE ##
 
@@ -716,7 +716,7 @@ Asko jan eta edozer.
 
 Zikinkeria. Basa.
 
-*Mazi* hitza, arrantzale giroan erabiltzen da; arraina erakartzeko itsasora botatzen den karnata baita. Baina, gero zikinkeria eta beste esanahi batzuk adierazteko erabili izan da.
+**Mazi** hitza, arrantzale giroan erabiltzen da; arraina erakartzeko itsasora botatzen den karnata baita. Baina, gero zikinkeria eta beste esanahi batzuk adierazteko erabili izan da.
 
 - *ez dxun ortik mazidxe dau asko ta*
 - *mazidxe be ezta oten gitxi tabernatan, herriko dxaidxetan*
@@ -744,22 +744,22 @@ Zikindu. Lohitu. Maziru.
 
 Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan adberbio funtzioa betetzen du. Azken bi esaldietan aditzaren funtzioa.
 
-/mazi + tu → mazitu → mazitxu/
+**mazi** + **tu** → **mazitu** → **mazitxu**.
 
-## MELA MELA ##
+## MELA-MELA ##
 
 1. Bustita, blai eginda.
 
-- *mela mela eindxe etor gariez plaidxetik euridxek atrapata*
-- *ez dxuen guardasol barik mela mela eingo zara ostantzien*
-- *uliek mela mela eiñ ezkero, kirikilluek kendu eitxen diez*
+- *mela-mela eindxe etor gariez plaidxetik euridxek atrapata*
+- *ez dxuen guardasol barik mela-mela eingo zara ostantzien*
+- *uliek mela-mela eiñ ezkero, kirikilluek kendu eitxen diez*
 
 2. Zimelduta. Txirpil.
 
-- *piperrak mela mela eiñdxe ezpadauz eztauz gozo*
-- *kinpulie dora barik mela mela ein bi de saltziri gustue emoteko*
+- *piperrak mela-mela eiñdxe ezpadauz eztauz gozo*
+- *kinpulie dora barik mela-mela ein bi de saltziri gustue emoteko*
 
-Azkuek ez du jaso, baina D.A.R,k Juan San Martinen *Zirikadak* liburutik jaso du. Bermeon asko erabiltzen den hitza da.
+Azkuek ez du jaso, baina D.A.R,k Juan San Martinen **Zirikadak** liburutik jaso du. Bermeon asko erabiltzen den hitza da.
 
 ## MEZA BIARREKUE ##
 
@@ -816,7 +816,7 @@ Ezerezaren truke saldu, eman.
 - *neuk pe etzie alan saldu dot, moko truken*
 - *zuk gauze guztidxek guzuz moko truken*
 
-Hitz honen konposizioan *moko* + *truke* sartu dira.
+Hitz honen konposizioan **moko** + **truke** sartu dira.
 
 ## MOLDA BAKO TRENA ##
 
