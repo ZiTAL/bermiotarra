@@ -20,16 +20,15 @@ Arrantzale giroan erabilitako hitzak, gero, esparru zabalagoa hartu du.
 - *auntxek pe falta eiñ dxau onek fitxiek*
 - *potxera falta-faltaka on da, ta eziñ ezan da apaidxue bota*
 
-Gaztelerako *faltar* aditza erabiltzen da, baina zentzua *fallar* izango litzateke.
+Gaztelerako **faltar** aditza erabiltzen da, baina zentzua **fallar** izango litzateke.
 
 ## FALTADORIE ##
 
-Pertsona zabarra.
+Errespetu gabeko pertsona.
 
 - *zu zara faltadorie, errespetorik ez takozune*
 - *zelako faltadorie da ba, edozer esaten tso personiri*
 - *olako failadoriekaz eztot kure tratorik*
-- *ni faltadorie, da zu zer zara ba?*
 
 ## FAMIE ##
 
@@ -59,24 +58,24 @@ Pertsona gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esaten dituena.
 - *beran fandanguen arpidxegaz beituten tsu da ortik eztau urteten, berana ta berana*
 - *isillik on zaitxez fandanguori!*
 
-Nola sartu den hitz hau ez dago batere argi. Gaztelerako *fandango* hitzak *baile antiguo español* eta *desorden*, *tumulto* zentzua baititu.
+Nola sartu den hitz hau ez dago batere argi. Gaztelerako **fandango** hitzak **baile antiguo español** eta **desorden**, **tumulto** zentzua baititu.
 
 ## FANDERO ##
 
-Pertsona fidagaitza. Gehienetan emakumeen artean erabiltzen da. Aurrekoaren zentzuaz ere erabiltzen da.
+Pertsona fidagaitza, gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esaten dituena . Gehienetan emakumeen artean erabiltzen da.
 
 - *zu bakixu zaran fanderue ederra, entzuten zun guztidxe fama bi zu*
 - *zu fandero! Nire alabiri ikututen batzazu geidxau, zeuk atako zuz kontuek*
 - *berak fandero andidxek esan tsuz orrek berbak? Ezin dxo arpeidxen?*
 - *ni naiela fanderue? Da zeu zer zara ba, fandango andidxori?*
 
-Aurreko hitzaren zentzu berbera ematen zaionez askotan, jatorria ere bera izan daitekeela pentsatzekoa da. Gaztelerako *fandanguero* hitza honela geratuko litzateke hurrengo eboluzioa gertatuz:
+Aurreko hitzaren zentzu berbera ematen zaionez askotan, jatorria ere bera izan daitekeela pentsatzekoa da. Gaztelerako **fandanguero** hitza honela geratuko litzateke hurrengo eboluzioa gertatuz:
 
-/fandanguero → fandangero → fandanero → fandaero → fandero/
+**fandanguero** → **fandangero** → **fandanero** → **fandaero** → **fandero**.
 
-Baina beste hipotesi bat ere hor dago: *pandero* hitza hartuta egindakoa. Hitz honen definizioetariko bat *mujer necia y charlatana* da. Beraz ez da baztertzekoa hau ere, zeren eboluzioa askoz ere laburragoa izango litzateke: ez dago /p/ → /f/ zaharra egitea baino.
+Baina beste hipotesi bat ere hor dago: **pandero** hitza hartuta egindakoa. Hitz honen definizioetariko bat **mujer necia y charlatana** da. Beraz ez da baztertzekoa hau ere, zeren eboluzioa askoz ere laburragoa izango litzateke: ez dago **p** → **f** zaharra egitea baino.
 
-Gainera, D.A.R.k *fanderuen dirue* *dinero escaso* esan nahi duena jaso du, Bermeoko hitza bezala azaltzen duelarik.
+Gainera, D.A.R.k **fanderuen dirue**-k **dinero escaso** esan nahi duela jaso du, Bermeoko hitza bezala azaltzen duelarik.
 
 ## FANDERUEN ARPIDXE ##
 
@@ -134,13 +133,13 @@ Soinujolea.
 
 ## FIFITE ##
 
-Txori txiki bat da. Izena izango du, baina hemen *fi fi fi* egiten duen txori bati deitzen zaio horrela. Konparazioan, ahots fina eta epela daukan pertsona da.
+Txori txiki bat da. Izena izango du, baina hemen **fi fi fi** egiten duen txori bati deitzen zaio horrela. Konparazioan, ahots fina eta epela daukan pertsona da.
 
 - *enebada! Fifite da, bera lez eitxen dau berba*
 - *bestelako fifite dau or, entzun be ez dxatzo eitxen da*
 - *altuau ein berba, fifite lez barik*
 
-Bazegoen gizonezko bat, horrela berba egitearren, bere izena ahaztuta *FIFIT* zeritzona.
+Bazegoen gizonezko bat, horrela berba egitearren, bere izena ahaztuta **FIFIT** zeritzona.
 
 ## FIRMADIE ##
 
@@ -161,7 +160,7 @@ Oso fina. Mehea.
 
 ## FLAKEZIDXE ##
 
-Trenputxarra.
+Ondoeza.
 
 - *goixe guztidxen ezer artun barik zelako flakezidxe okiñ dxot ba*
 - *neuk pe, atzo Bilbora dxun nai dxan barik eta bidien flakezidxe okiñ dxot*
@@ -175,15 +174,15 @@ Azalean egotea.
 - *eiñ dxauen beste eurigaz kaderak flotan zapatan barruen*
 - *arek esniek euli pillo bat okiñ dxau bitsen ganien flotan*
 
-Gaztelerako *flotando* gerundioa hartu da esanahi hori erabiltzeko; literalki hartu ere.
+Gaztelerako **flotando** gerundioa hartu da esanahi hori erabiltzeko; literalki hartu ere.
 
-/flotando → flotan/ Azken silaba galdu besterik ez du egin.
+**flotando** → **flotan**; azken silaba galdu besterik ez du egin.
 
 ## FORRA ##
 
 Auto zaharra, trauskila. Batez ere karrozeria zaharra daukana.
 
-*FORD* kotxe marka hartu zen aspaldi, esanahi hori emateko. Zentzu peioratiboan erabilia izan da beti.
+**FORD** kotxe marka hartu zen aspaldi, esanahi hori emateko. Zentzu peioratiboan erabilia izan da beti.
 
 - *nora due beran kotxe forragaz ba, ezta aillegako ta*
 - *ezkoganien erosiko kotxe for bategaz dxun diez Madrillera*
@@ -218,17 +217,17 @@ Bainujantzia.
 
 Oso bitxia da hitz honen etimoa. Jakina da, sasoi baten bainujantzia marraduna izaten zela gehienetan. Hortik sartutako hitza literalki pasatu da euskarara.
 
-Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia definitzeko, *traje de bañue* hitzak ordezkatzen du ia beti.
+Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia definitzeko, **traje de bañue** hitzak ordezkatzen du ia beti.
 
 ## FRAKONEZKUEK ##
 
-Aurretik *entzaduek* aipatu ditugu, itsasoko jantziak bezala. Oraingoan frakei dagokie bitz hau.
+Aurretik **entzaduek** aipatu ditugu, itsasoko jantziak bezala. Oraingoan frakei dagokie bitz hau.
 
 - *frakonezkuek dxantzitxe nora due ba, arraiñik pe eztauie ekarri txe*
 - *arek enbarkaziñuek arraiñe dakar antza, gixonak frakonezkuek takanie soiñien da*
 - *frakonezko luzieidxek dakotez da estorba eitxen dostie*
 
-Hitz hau konposatua da: *fraka* olanezkoak (*lona*). Frakak josi eta gero, linaza olioa ematen zitzaion. Gaur egun plastiko edo tela sintetikoz egindakoak izaten dira, baina izena mantentzen dute.
+Hitz hau konposatua da: **fraka** olanezkoak (**lona**). Frakak josi eta gero, linaza olioa ematen zitzaion. Gaur egun plastiko edo tela sintetikoz egindakoak izaten dira, baina izena mantentzen dute.
 
 ## FUETA ##
 
