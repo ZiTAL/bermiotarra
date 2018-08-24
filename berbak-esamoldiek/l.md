@@ -16,9 +16,9 @@ Laguntza.
 - *orrek eztau emoten laguntziñorik pe*
 - *nori emon laguntziñue? Iñori bez*
 
-*laguntza* hitzari >iño< atzizkta itsatsi zaio.
+**laguntza** hitzari **-iño** atzizkia itsatsi zaio.
 
-/laguntza + /iño/ → laguntziño
+**laguntza** + **iño** → **laguntziño**.
 
 ## LAIXARRA ##
 
