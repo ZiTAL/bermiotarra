@@ -77,8 +77,8 @@ Negarrak.
 - *negarlantruei itxi ta tire oire*
 - *negarlantruek partikaran gordeko zuz, ni amen nauen artien*
 
-Hitz konposatu honen bigarren osagaia *lantru*,  
-Badirudi gaztelerako *llanto* hitzetik datorrela, baina nola eboluzionatu du?
+Hitz konposatu honen bigarren osagaia **lantru**.
+Badirudi gaztelerako **llanto** hitzetik datorrela, baina nola eboluzionatu du?
 
 ## NEGARZIÑUEK ##
 
@@ -89,7 +89,7 @@ Negar-zeinuka.
 - *aproposko negarziñuek tizela pentsaten da*
 - *eztiez aproposko negarziñuek alabatxi, benetako negarrak paiño*
 
-Azkuek *negarziñuka* jaso du *fingiendo llanto* zentzuaz.
+Azkuek **negarziñuka** jaso du **fingiendo llanto** zentzuaz.
 
 ## NESKATILLIE ##
 
@@ -126,7 +126,7 @@ Noiz edo noiz. Bazen garaia! Exklamaziozkoa izaten da askotan.
 
 ## NOKIETA ##
 
-Aurretik ikusi dugu *keo* berba. Hortik sortu da beste hau, zentzu berdinaz, gainera. Gaztelerako *fuera de combate*, hain zuzen. Hitza ederki euskaratu da ingelesetik.
+Aurretik ikusi dugu **keo** berba. Hortik sortu da beste hau, zentzu berdinaz, gainera. Gaztelerako **fuera de combate**, hain zuzen. Hitza ederki euskaratu da ingelesetik.
 
 - *parrandan dxuen da gero, nokieta iñok erun biar etzera*
 - *emon dostezen ostidxekaz nokieta itxi nau arek morroiek*
@@ -140,7 +140,7 @@ Ugari. Kantitatea. Edonoretazat.
 - *ziñeko entradak artzieko kola matxue on da ta gero barriz nokure*
 - *lelangotan oten da arrapatie ze gero, egunek pasata, nokure oten diez baiñe freskuek*
 
-/nork gura/ → nok gure → nokure/ Leherkari bietatik ozena erortzen da gorraren mesedetan. Dardarkaria ere jausi egiten da.
+**nork gura** → **nok gure** → **nokure**. Leherkari bietatik ozena erortzen da gorraren mesedetan. Dardarkaria ere jausi egiten da.
 
 ## NONGUE DA BERA! ##
 
@@ -159,7 +159,7 @@ Kuxkuxero. Begiluze. Nontzerberri.
 - *auntxe be nonzerbarri dator, on isillik, ez esan ezebe*
 - *nonzerbarri utse zara alabatxi nondik enteraten zara ba?*
 
-Azkuek ez du jaso, ez eta D.A.R.k ere; baina P.M.k eta Kintanak *nonzerberri* jaso dute. Beraz ez bizkaierazko forma.
+Azkuek ez du jaso, ez eta D.A.R.k ere; baina P.M.k eta Kintanak **nonzerberri** jaso dute. Beraz ez bizkaierazko forma.
 
 ## NOPAITXE ##
 
@@ -170,7 +170,7 @@ Norbait.
 - *etor naienien eskillarie apurtute on da, asike nopaitxek eiñ dxau*
 - *nopaitxen zapatak tiez onek, aztute itxiko zan txuzen*
 
-/norbait → nopait → nopaitxe/
+**norbait** → **nopait** → **nopaitxe**.
 
 ## NOPAITXEN ##
 
@@ -182,7 +182,7 @@ Nonbait.
 
 Hitzaren eboluzioa goikoaren antzekoa izan da.
 
-/nonbaiten → nopaiten → nopaitxen/
+**nonbaiten** → **nopaiten** → **nopaitxen**.
 
 ## NOPERA ##
 
