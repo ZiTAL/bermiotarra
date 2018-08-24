@@ -69,7 +69,7 @@ Beti gizonezkoentzat erabilia. Hala ere, noizbait erabili izan da emakumeren bat
 - *bera mutille juantrinko utse da*
 - *txo, juantrinko, ekarristek auri otzarie*
 
-Antza denez, *Juan Trinko* ezizenez ezagutzen zen gizon batek horrelako ibilera dorpea zeukan, eta hortik adjektibo horren sortzea.
+Antza denez, **Juan Trinko** ezizenez ezagutzen zen gizon batek horrelako ibilera dorpea zeukan, eta hortik adjektibo horren sortzea.
 
 ## JUEGUE ##
 
@@ -79,7 +79,7 @@ Hezurretako artikulazioa.
 - *ba nik azidentie okin dxotenien, izter bidxetako juegue okin dxot lotute*
 - *medikuek esan dost, atzamarran juegue ez galtzieko pelotie ibilltxeko eskuetan*
 
-Gaztelerako *juego* (de dos cosas articuladas) hitzetik literalki hartua.
+Gaztelerako **juego** (de dos cosas articuladas) hitzetik literalki hartua.
 
 ## JUGOI / E ##
 
@@ -90,5 +90,5 @@ Neguko kamiseta lodia.
 - *onentzat imientzat jugoiek tiez onenak ixerdi asko emoten dau te*
 - *itxosorako dozena erdi jugoi erosi tsatez plazako marikaflorreri*
 
-Erdarazko *jubón* da horren jatorria.
+Erdarazko **jubón** da horren jatorria.
 
