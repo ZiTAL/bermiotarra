@@ -20,7 +20,7 @@ Ahohandi. Ozenki berba egiten duena.
 
 Argi dago gau-hontzaren boz lodia edo gogorra hartu dela eredutzat konparazioa egiteko.
 
-Azkuek beste zentzu batez jaso du *persona huraña* definitzen du, eta Mundakan jartzen du.
+Azkuek beste zentzu batez jaso du **persona huraña** definitzen du, eta Mundakan jartzen du.
 
 ## GAIÑE / KUE ##
 
@@ -33,8 +33,8 @@ Haina. Hainakoa.
 
 Ez dauka D.A.R.k jaso duen zentzua.
 
-/haina → gaina → gaiña → gaiñe/
-/hainakoa → gaiñekue/
+**haina** → **gaina** → **gaiña** → **gaiñe**.
+**hainakoa** → **gaiñekue**.
 
 ## GALAPA / N ##
 
@@ -60,7 +60,7 @@ Alferraundi.
 - *beran amak eztau gure entzun semie galufue dakona*
 - *ezpadau gure entzun be, aren semie galufue da*
 
-Gaztelerako *golfo* hitzetik sartua dela dirudi.
+Gaztelerako **golfo** hitzetik sartua dela dirudi.
 
 ## GANBELIE ##
 
@@ -80,11 +80,11 @@ Nabarmenkeriak.
 - *ikusi bazun aren gangarkeidxek, lotsatu eingo zaran*
 - *badaitx nik arek gangarkei asko eitxen txuzena*
 
-/gangar/ + /keria/ → gangarkeria → gangarkeidxek/
+**gangar** + **keria** → **gangarkeria** → **gangarkeidxek**.
 
 Izenaren funtzioa betetzen du.
 
-Bi hitz hauek ez dute, Azkuek edo D.A.R.k eman dieten zentzua, Hauek, *fatuidad* , *engreimiento* zentzuaz azaltzen dute, baina Bermeon, zorakeriak egiten dituen bat izango da.
+Bi hitz hauek ez dute, Azkuek edo D.A.R.k eman dieten zentzua, Hauek, **fatuidad** , **engreimiento** zentzuaz azaltzen dute, baina Bermeon, zorakeriak egiten dituen bat izango da.
 
 ## GANGARRA ##
 
@@ -106,7 +106,7 @@ Alperra. Lanari ixo egiten diona.
 - *gangilloie lez dabill ara ta ona ezer ein barik*
 - *iñok eztau gure gangilloirik etzien*
 
-Azkuek bere hiztegian Mundakako hitza bezala jaso duen *gangil* hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerako >on< atzizkia, >oi< bihurtzen da.  Beraz, honela geratuko litzateke /gangil + oi → gangilloi/
+Azkuek bere hiztegian Mundakako hitza bezala jaso duen **gangil** hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerako **-on** atzizkia, **-oi** bihurtzen da.  Beraz, honela geratuko litzateke **gangil** + **oi** → **gangilloi**.
 
 ## GANGUS ##
 
@@ -120,14 +120,12 @@ Sekula lanerako gogorik ez duena.
 
 Alperra. Lanerako gogo gutxi daukan pertsona.
 
-*Gangus*en sinonimoa izan daiteke, baina kasu honetan gizon eta andrazkoentzat.
-
 - *ganoka, abrebidxue artun*
 - *etsoie itxi orregaz mutillegaz ibilltxen ganoka dalako*
 - *ganoka dalez, iñok eztau gure enbarka*
 - *ganoka ezatitxik bota dauie kanpora frabiketik*
 
-Azkuek eskualde honetako herrietan esaten den hitz.a bezala jaso du, baina zentzua *mujer desmañada* da.
+Azkuek eskualde honetako herrietan esaten den hitza bezala jaso du, baina zentzua **mujer desmañada** da.
 
 Azkuek ere hiztegian Mundaka eta Bermeorako jaso du esanahi honekin.
 
@@ -155,9 +153,9 @@ Samako gorroa.
 - *saman okiñ dxoten gargaidxuegaz berbarik pe eziñ eiñ*
 - *gargaidxukaz samie zarratute dakot*
 
-Gaztelerako *gargajo* bera da, baina fonetikaz ezberdintzen da.
+Gaztelerako **gargajo** bera da, baina fonetikaz ezberdintzen da.
 
-/gargajo → gargaijo/ >i< bat desarroilatuz gero.
+**gargajo** → **gargaijo**; **i** bat desarroilatuz gero.
 
 ## GARRA ##
 
@@ -185,9 +183,9 @@ Pasatuta dagoena. Galduta. Zentzu figuratuan modatik pasatuta.
 - *garrantzidxo useiñe dakoie onek kaltzetiñek*
 - *eztot guzan esan baie arek pastelak garrantzidxotute dauzela pentsaten dot*
 
-Azkuek jaso du bere hiztegian baina zentzu mugatuagoan, berak Gernikarako esaten du, eta *rancio del tocino* jartzen du.
+Azkuek jaso du bere hiztegian baina zentzu mugatuagoan, berak Gernikarako esaten du, eta **rancio del tocino** jartzen du.
 
-/garrantzia → garrantzijo/
+**garrantzia** → **garrantzidxo**.
 
 ## GARUE ##
 
@@ -197,7 +195,7 @@ Garoa. Hotza eta hezetasunaren eraginez gauzak bustita agertzen direnean, batez 
 - *Aritzatxure goizien goizetik eta bedartzan ondiño garue!*
 - *goizero garue kotxien txo! Garbitxuteko elegante dator!*
 
-Gazteleraz **rocío**.   
+Gazteleraz **rocío**.
 
 ## GAUE ##
 
@@ -262,7 +260,7 @@ Eskasa. Garatu gabekoa. Balio gutxikoa.
 - *ez eixu artun ori gauzeztana, artuixu beste bat obiaue*
 - *gauzeztizen pelikulek tauz botaten*
 
-Azkuek ez du jaso bere hiztegian, baina bai D.A.E.k, *inutil*, *inservible* zentzuaz.
+Azkuek ez du jaso bere hiztegian, baina bai D.A.E.k, **inútil**, **inservible** zentzuaz.
 
 ## GAUZIE GAUZIE LEZ ##
 
@@ -316,7 +314,7 @@ Atun eta zimarroien gibela.
 
 Azken esaldian konparazioan sartu da hitz hori.
 
-/gibel/ /marroi/ → gibelmarroi → gibamarroi → gibarroi/
+**gibel** + **marroi** → **gibelmarroi** → **gibamarroi** → **gibarroi**.
 
 ## GILLEZ GORA ##
 
@@ -328,7 +326,7 @@ Gilaz gora. Itsasontziak egoten diren moduan. Konparazioan etzanda edo erdi etza
 
 ## GILTZEK ##
 
-Lokiak. Gaztelerazko *sien*.
+Lokiak. Gaztelerazko **sien**.
 
 - *giltzetako miñe dakot, eztaitx zer dakoten*
 - *golpie giltzetan emon tsolez, siku itxi dau bertan*
@@ -359,6 +357,8 @@ Gozotan.
 - *ai ze ondo dau berton ba, au de gloridxe!*
 - *otz dauenien etzien oten da obien, kalefazinotxuen onduen, gloridxen*
 
+Gaztelerazko **en la gloria**-tik dator.
+
 ## GOBERNA ##
 
 Kasu honetan ez da erabiltzen hitzaren zentzu zehatzean, zaindu edo jagon zentzuaz baizik. Pertsonak eta gauzak izan daitezke.
@@ -369,7 +369,7 @@ Kasu honetan ez da erabiltzen hitzaren zentzu zehatzean, zaindu edo jagon zentzu
 - *txarto goberna ezkero barritz, egun bi bakarrik*
 - *eztakidxe gauzek gobernaten be, esko txarridxek takoie ta*
 
-Gaztelerako *gobernar* hitz hori erabiltzen da honelako esaldiak egiteko.
+Gaztelerako **gobernar** hitz hori erabiltzen da honelako esaldiak egiteko.
 
 ## GOBERNUEN KONTRAKUE ##
 
@@ -492,7 +492,7 @@ Korrokada.
 - *gorazkuek kentzieko bikarbonatue da ona*
 - *gorazkue botaten dauenien berakatz useiñe otaten dau*
 
-Azkuek hitz honi *nauseas* zentzua ematen dio eta P.M.k antzeko zerbait azaltzen du.
+Azkuek hitz honi **nauseas** zentzua ematen dio eta P.M.k antzeko zerbait azaltzen du.
 
 ## GORGOILLE ##
 
@@ -527,7 +527,7 @@ Gogoaren kontra edo gogo barik egitea gauzak. Ibili edo egon ere gogo barik.
 
 ## GORRINGUE LAKO GIXONA ##
 
-Gizon gaztea gaixorik dagoenean edo hiltzen denean esaten da.
+Gizon gaztea gaixorik dagoenean, edo hiltzen denean esaten da.
 
 - *gorringue lako gixona ezan da, baie oin beitu zelan dauen*
 - *ze gazte il dxe zuen albokue, gorringue lako gixona, ondiño imie*
@@ -563,7 +563,7 @@ Azkuek bere hiztegiko gehigarrian azaltzen du, baina berak *graznido* zentzuaz d
 
 ## GRAKU ##
 
-Besteak baino indartsuagoa dela eman nahi duen gizonezkoa. *Tarzan* dela pentsatzen duena.
+Besteak baino indartsuagoa dela eman nahi duen gizonezkoa. **Tarzan** dela pentsatzen duena.
 
 - *zer da bera morroie ba, graku da la?*
 - *grakun antzeko bat agertu dxaskun dxantzan gauzela*
@@ -653,7 +653,7 @@ Jaki bereziak. Finak. Gozoak.
 - *guleridxeri danak imitxen tzoie arpi ona*
 - *zelan dxango dau eguerdidxe ba, guleridxek dxaten on ezkero*
 
-Gaztelerazko *gula* hitzari >eri< atzizkia jarri zaio beste kasu askotan bezala.
+Gaztelerazko **gula** hitzari **-eri** atzizkia jarri zaio beste kasu askotan bezala.
 
 ## GUREZANA ##
 
@@ -680,9 +680,9 @@ Gura ez. Edozein aditzekin.
 - *zure alabie neureñe etor guzik on da*
 - *zeu be aur zuuz bera ikusi guzik*
 
-Hitz honen konposizioa beste bat behar luke izan, zeren osagaiak *gura* eta *ezean* dira. Beraz honela: /gura ezean/. Baina horren ordez *ezik* eskluientea sartu da, nahiz eta beste zentzu bat izan.
+Hitz honen konposizioa beste bat behar luke izan, zeren osagaiak **gura** eta **ezean** dira. Beraz honela: **gura ezean**. Baina horren ordez **ezik** eskluientea sartu da, nahiz eta beste zentzu bat izan.
 
-/gura/ + /ezik/ → guraezik → gurazik → guzik/
+**gura** + **ezik** → **guraezik** → **gurazik** → **guzik**.
 
 Horren zergatia ez dago argi. Beste kasu askotan bezala, ilun geratzen da.
 
@@ -719,7 +719,7 @@ Gezur asko esatea.
 
 ## GUZURREN ANDIKO MANDIE ##
 
-Lokuzio honetako *andiko mandie* hitz multzoa lau edo bost esalditan agertzen da. Beti ere, kontrako zentzuaz, hau da, gezurren kontrako jarrera adierazi beharko luke. baina ez da gertatzen horrela, gezurra hitzaren baieztapena azpimarratzeko egiten da.
+Lokuzio honetako **andiko mandie** hitz multzoa lau edo bost esalditan agertzen da. Beti ere, kontrako zentzuaz, hau da, gezurren kontrako jarrera adierazi beharko luke. baina ez da gertatzen horrela, gezurra hitzaren baieztapena azpimarratzeko egiten da.
 
 - *enebada, areri ez siñestu gero, guzurren andiko mandie da ta*
 - *imerik txikidxenak ezaten diez guzurren andiko mandie*
