@@ -28,7 +28,7 @@ Emakume ederra, bular handien jabea.
 - *gaztie da baie ondo laixarra da*
 - *muxiken on danik enbrarik laixarrenagaz eiñ dxot dxantzan*
 
-Zuhaitz batekin konparatuz atera da adjektibo hau. *lizarra* rekin hain zuzen.
+Zuhaitz batekin konparatuz atera da adjektibo hau. **lizarra** rekin hain zuzen.
 
 ## LAMAIDXE ##
 
@@ -47,7 +47,7 @@ Zauri txikia. Analogiaz, handia dela pentsatzen den edozein min edo sumina.
 - *lamaidxen pupueitxik lotuko zara etzien?*
 - *ezta lamaidxen pupue baiño da an dau jauneilnoixuko doloriekaz, komediante ederra da ta*
 
-Esaldi honen jatorria *la Mari* ren *pupa* ote? Ez dakit, Baina batzuk *lau maridxen* pupua dela ere entzun dut. Dena dela, azken honek ez dauka zentzurik esaldiarekin, zeren Bermeon *lamaidxe* emakumearen alua da. Beraz aluan pupua daukala esan daiteke.
+Esaldi honen jatorria **la Mari** ren **pupa** ote? Ez dakit, Baina batzuk **lau maridxen** pupua dela ere entzun dut. Dena dela, azken honek ez dauka zentzurik esaldiarekin, zeren Bermeon **lamaidxe** emakumearen alua da. Beraz aluan pupua daukala esan daiteke.
 
 ## LAMERA ##
 
@@ -58,11 +58,11 @@ Parke.
 - *lameratxu bet eingo dauie kanposantuen onduen*
 - *baitxe institutuen onduen be beste lamera bat eingo dauie*
 
-Gaur egun *Lamera* izen propio bat da. Bermeoko Lamera nagusiari deitzen zaiona, baina besteak ere *lamerak* dira. Badago *lamera txiki* deritzona ere.
+Gaur egun **Lamera** izen propio bat da. Bermeoko Lamera nagusiari deitzen zaiona, baina besteak ere **lamerak** dira. Badago **lamera txiki** deritzona ere.
 
-Hitz hau gaztelerako *alameda* tik sartu da.
+Hitz hau gaztelerako **alameda** tik sartu da.
 
-/alameda → lameda → lamera/
+**alameda** → **lameda** → **lamera**.
 
 ## LAMEÑEN GOZUE ##
 
@@ -88,7 +88,7 @@ Berba asko egiten duena.
 - *gure imie lamiñ utse da, urte bi baiño eztakoz da berbetan daki...*
 - *lamiñe lez dakozu egun santo guztidxen, berba ta berba*
 
-*Lamia* hitzaren bariante bat da. Hiztegiek ez dute jaso hitz hori zentzu horretaz.
+**Lamia** hitzaren bariante bat da. Hiztegiek ez dute jaso hitz hori zentzu horretaz.
 
 ## LAMIÑEN BIZARRA ##
 
@@ -148,9 +148,9 @@ Bota. Jaurti.
 - *arpeire lantza tsazu ardaue? Laster lantzako tsu berak pe zeuzer*
 - *alako baten, okin txuzen sagar guztidxek lantza tsoz*
 
-Gaztelerako *lanzar* aditzetik zuzenean hartuta dago.
+Gaztelerako **lanzar** aditzetik zuzenean hartuta dago.
 
-/lanzar → lantza/
+**lanzar** → **lantza**.
 
 ## LANTZADAK ##
 
@@ -168,9 +168,9 @@ Noizbehinka.
 - *beti ez, baie lantzimeñetan Gernikera dxuten nai erosten*
 - *lantzimeñetan enpanada utse zara*
 
-*lantzean behin* da hitz honen jatorria.
+**lantzean behin** da hitz honen jatorria.
 
-/lantzean bein + etan → lantzien beinetan → lantzimeñetan/
+**lantzean bein** + **etan** → **lantzien beinetan** → **lantzimeñetan**.
 
 ## LAPIKO TXIKIDXE ##
 
@@ -247,11 +247,11 @@ Sugea.
 - *amen eztau metro biko larrosuboirik*
 - *larrosuboiek bedar andidxe dauen lekuen oten diez*
 
-Hitz konposatu hau, /larru + suge/ hitzez osatzen da.
+Hitz konposatu hau, **larru** + **suge** hitzez osatzen da.
 
-/larrusugea → larrusubea → larrosuboie/
+**larrusugea** → **larrusubea** → **larrosuboie**.
 
-Hitz hau gehiago erabiltzen da auzoetan, zeren herri barruan narrasti guztiei *suboie* deitzen baitzaie.
+Hitz hau gehiago erabiltzen da auzoetan, zeren herri barruan narrasti guztiei **suboie** deitzen baitzaie.
 
 ## LASKITXU ##
 
@@ -287,7 +287,7 @@ Geldiro, haina hasten doana, gorantz doana.
 - *gure neskatue eskolan leba leba due ikasten*
 - *au mutille gero, arbolie lez due gora, leba leba*
 
-Azkuek jaso du hitz hau, baina zentzua *a pulso* jartzen du. Kintanak, ostera, *ir creciendo* dela dio.
+Azkuek jaso du hitz hau, baina zentzua **a pulso** jartzen du. Kintanak, ostera, **ir creciendo** dela dio.
 
 ## LEBER LEBER ##
 
@@ -364,7 +364,7 @@ Aurreko egun baten.
 - *zer pasa da lengunien ba?*
 - *lengunien ezetu dotezen mutillekaz on gariez*
 
-Hitz hau /lehengo/ + /egunean/ hitzen konposizioa da, /leengo egunean/> lengogunien → lengunien/
+Hitz hau **lehengo** + **egunean** hitzen konposizioa da, **leengo egunean** → **lengogunien** → **lengunien**.
 
 ## LEPUE DXAN ##
 
@@ -382,7 +382,7 @@ Lehor. Siku. Pertsonen izaerari ere aplikatua.
 - *ez zaitxez ezan aiñ ligorra, ostantzien bakanik geratu bi zu*
 - *ligortute dauz onek ogidxek*
 
-Hitz hau, *legor* hitzaren bariante bat da, baina zentzuz aldatu egiten da. Azkuek ez du jaso forma hau, baina bai D.A.R.k. Honek ere ez du zentzu berbera, *seco* eta *poco fervoroso* zentzuaz baizik.
+Hitz hau, **legor** hitzaren bariante bat da, baina zentzuz aldatu egiten da. Azkuek ez du jaso forma hau, baina bai D.A.R.k. Honek ere ez du zentzu berbera, **seco** eta **poco fervoroso** zentzuaz baizik.
 
 ## LIXIE LEZ AZALA KENDU ##
 
@@ -441,9 +441,9 @@ Itsasontzietan lanean aritzean erabiltzen duten fraka.
 - *orrek loidxartzikuek ondo dauz ondiño*
 - *ama! loidxartziko garbidxek imiñi otzaran baporera eruteko*
 
-Hitz honen konposizioa, /loia/ artzekoa/ da.
+Hitz honen konposizioa, **loia artzekoa** da.
 
-/loia artzeko → loidxe artziko → loidxartziko/
+**loia artzeko** → **loidxe artziko** → **loidxartziko**.
 
 Izen bihurturik agertzen da.
 
@@ -474,7 +474,7 @@ Lo laburra. Mandoaren loa deritzona.
 - *ara, kantsata nau, baie lokuko bat eitxen badot barridxe lez geratuko nai*
 - *igual da goidxe badator be, ni ez nue lokukue ein barik*
 
-Azkuek jaso du hitz hau, baina zentzua *sueño ligero* da eta Bermeon denbora laburreko loari dagokio, beraz ordu laurdeneko loa gogorra izan daiteke. Erabilera zabala dauka.
+Azkuek jaso du hitz hau, baina zentzua **sueño ligero** da eta Bermeon denbora laburreko loari dagokio, beraz ordu laurdeneko loa gogorra izan daiteke. Erabilera zabala dauka.
 
 ## LORO / UE ##
 
@@ -503,7 +503,7 @@ Erdi lo.
 - *losumustuen banau be, eztot entzuten ezer*
 - *plaidxen be lo eitxen dauie arek, da gero losumustuen dxuten diez uretara, ganien dakoien enpanadie kentziko*
 
-## LOTAN LOTAN ##
+## LOTAN-LOTAN ##
 
 Lozorroan.
 
@@ -519,7 +519,7 @@ Errespetua.
 - *eskolan ze lotsa emoten tsoien eztai nik*
 - *lotsa galduiko imiek, edozelan kontestaten amari!*
 
-Azkuek ez du jaso definizio honetaz, baina bai D.A.R.k *lotsa* hitzaren VII. definizioan, Bermeori dagokiola esanez.
+Azkuek ez du jaso definizio honetaz, baina bai D.A.R.k **lotsa** hitzaren VII. definizioan, Bermeori dagokiola esanez.
 
 ## LOTU ##
 
@@ -531,7 +531,7 @@ Gelditu. Geratu.
 - *iñon lotu barik dxuen etzera*
 - *kotxie ezta lotzien Bilborarte*
 
-Azkuek jaso du hitz hau, erabilera murritzaz bada ere, baina ez du Bermeo aipatzen, bai, ostera, Mundaka eta Gernika. Bermeon, ordea, *geratu* edo *gelditu* erabiltzen badira ere, horien ordez *lotu* erabiltzea da normalena.
+Azkuek jaso du hitz hau, erabilera murritzaz bada ere, baina ez du Bermeo aipatzen, bai, ostera, Mundaka eta Gernika. Bermeon, ordea, **geratu** edo **gelditu** erabiltzen badira ere, horien ordez **lotu** erabiltzea da normalena.
 
 ## LUKIDXE ##
 
@@ -578,9 +578,9 @@ Behar bezain besterako eman.
 - *aitxen partilliek luzidu bez, auri da pasaten dana*
 - *gauze gitxi erositxe be asko luziten dau*
 
-Gaztelerako *lucir* aditzetik hartua da eta aditz funtzioa betetzen du, zentzua berdina ez bada ere.
+Gaztelerako **lucir** aditzetik hartua da eta aditz funtzioa betetzen du, zentzua berdina ez bada ere.
 
-/lucir → luzir/ + /du/ → luzidu/
+**lucir** → **luzir** + **du** → **luzidu**.
 
 ## LUZIEN ##
 
@@ -598,5 +598,5 @@ Aurrekoa, baina oraingoan izen funtzioan agertzen da.
 - *orrek zapatak luzimento andikuek tiez*
 - *luzimentoko belarrikuek erosi arren, eztotez imitxen*
 
-/lucir → luzir/ + /miento/ (gaztelerako atzizkia) → luzimento/ eman du.
+**lucir** → **luzir** + **-miento** (gaztelerako atzizkia) → **luzimento** eman du.
 
