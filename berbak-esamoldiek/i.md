@@ -34,7 +34,7 @@ Apur batengatik.
 
 ## IDXEK ETA ##
 
-Aditz guztiekin erabilia da. Gaztelerako *ya que...* adierazten du.
+Aditz guztiekin erabilia da. Gaztelerako **ya que...** adierazten du.
 
 - *idxek eta etor zaran, au biarra ein gu*
 - *eztot pentza etortie, baie idxek eta amen nauen, ziñera dxungo gariez*
@@ -42,11 +42,11 @@ Aditz guztiekin erabilia da. Gaztelerako *ya que...* adierazten du.
 - *idxek eta eztakidxen, etzagu esango ezebe*
 - *idxek eta apurtute dauen, bota eingu sastarratara*
 
-Gaztelerako *ya que* horri *eta* gehitu zaio forma hori lortuz.
+Gaztelerako **ya que** horri **eta** gehitu zaio forma hori lortuz.
 
-/ya que → iake → ijake/
+**ya que** → **iake** → **ijake**
 
-Normala denez /j/ epentetikoa sartu zaio. /j/ → /dx/. Gero apokope baten bidez azken /e/ galdu eta /a/ → /e/ egin da.
+Normala denez **j** epentetikoa sartu zaio. **j** → **dx**. Gero apokope baten bidez azken **e** galdu eta **a** → **e** egin da.
 
 ## IDXELIEN ##
 
@@ -66,7 +66,7 @@ Igo.
 - *idxengo zara aurra teillatora?*
 - *zelan idxengo nai ba, eztakot eskillararik eta*
 
-*Idxelien* en antzeko beste kasu bat. Fonetikaren aldakuntzaz bariante bat sortu da.
+**Idxelien**-en antzeko beste kasu bat. Fonetikaren aldakuntzaz bariante bat sortu da.
 
 ## IDXETXUEN ##
 
@@ -79,7 +79,7 @@ Itotzeko zorian. Presaka ibili.
 - *idxetxuen dator, zer pasa dxatzo ba?*
 - *idxetxuen eiñ txuz eskillara guztidxek*
 
-*Idxen* bezala, jasan dituen aldaketak izan dira arrazoi, forma hau sortzeko.
+**Idxen** bezala, jasan dituen aldaketak izan dira arrazoi, forma hau sortzeko.
 
 ## IGELENIEN ##
 
@@ -110,7 +110,7 @@ Igurtzia.
 - *eistazuz iguzi batzuk lepoko miñegaz eziñ dxot auenta ta*
 - *igutidxek eitxen eitxen argaldu eitxen zara*
 
-*iguzi* aditza izen bihurturik erabiltzen da. Aditz forman ere erabili arren, askoz ere gutxiago gertatzen da.
+**iguzi** aditza izen bihurturik erabiltzen da. Aditz forman ere erabili arren, askoz ere gutxiago gertatzen da.
 
 ## IKESKI / DXE / IKESKIÑE ##
 
@@ -122,7 +122,7 @@ Ekandu. Ohiturak. Bi formak erabilizen dira.
 - *ikeskiñek ez tiez aztuten*
 - *an dau nire semie, neska-mutill txarran tartien, ikeskidxek ikasten*
 
-Azken esaldi honetan bi eratara erabili da *ikasi* aditza. Hitz honen osagaiak /ikas/ + /ki/ atzizkia izan dira.
+Azken esaldi honetan bi eratara erabili da **ikasi** aditza. Hitz honen osagaiak **ikas** + **-ki** atzizkia izan dira.
 
 ## IKOMELAUE ##
 
@@ -159,7 +159,7 @@ Hil itxura.
 - *au illbixikuen kolorie kentziko tunbeta para bi nai eguzkitan*
 - *zer diño berorrek illbixikuek ba, pentsaten dau grakue dala bera*
 
-*il* *bizikoa*, beraz hitz konposatua da.
+**il bizikoa**, beraz hitz konposatua da.
 
 ## ILLE ##
 
@@ -241,7 +241,7 @@ Gizon oso lizuna, neska gaztetzoak gustatzen zaakiona.
 - *imelapurrek ibill dziez atzoko berbenan*
 - *imelopurren antzeko bategaz etor da Benidorretik*
 
-/ume/> /ime/ + /lapurra/ → imelapurra → imelapurre
+**ume** → **ime** + **lapurra** → **imelapurra** → **imelapurre**.
 
 ## IMEMOKUE ##
 
@@ -320,7 +320,7 @@ Zentzu honetan askoz ere gutxiago erabiltzen da.
 
 - *amen ingiruen eztau mutillik*
 
-Hitz hau *inguru* hitzaren bariante bat da, eta /i/ bokalaren asimilazioa gertatu da.
+Hitz hau **inguru** hitzaren bariante bat da, eta **i** bokalaren asimilazioa gertatu da.
 
 ## INKE ##
 
@@ -332,7 +332,7 @@ Sartu.
 - *isillik ezpazauz kutxillue inkeko tsut tripen*
 - *untze bat inke dxast buruen*
 
-Gaztelerako *hincar* aditzak *inkatu* eman behar zuen, baina ez da geratu horrela, bide erdian geratu da.
+Gaztelerako **hincar** aditzak **inkatu** eman behar zuen, baina ez da geratu horrela, bide erdian geratu da.
 
 ## INKIRRIDXO ##
 
@@ -351,17 +351,18 @@ Ahalegintsua.
 - *inkirridxozue ezpada eztako zeregiñik*
 - *inkirridxozue ezanda be, beti ezta oten arrainek atrapateko erarik*
 
-Hitz hauen oinarria bilatzeko hipotesi baten sartu behar da. Hau da, *inquirir* aditza hartu. Hala ere ez dago argi zein izan zitekeen hitz honen eboluzioa.
+Hitz hauen oinarria bilatzeko hipotesi baten sartu behar da. Hau da, **inquirir** aditza hartu. Hala ere ez dago argi zein izan zitekeen hitz honen eboluzioa.
 
-/inquiridor/ /inquiridoso/ → inkiridoso → inkirridoso → inkirrodxoso/ Gero, hemendik *inkirridxo* geratuko zen.
+**inquiridor** → **inquiridoso** → **inkiridoso** → **inkirridoso** → **inkirrodxoso**.
+
+Gero, hemendik **inkirridxo** geratuko zen.
 
 ## INKISISINTIE ##
 
-Nahastero/a.
+Gauzak nahasten dituen pertsona.
 
 - *eztau inkisisintiaurik, egidxek eta guzunek nastien esaten abille da*
 - *isillik on zaitxez inkisisintiori, enidxe nasta zu te*
-- *ni inkisisintie? Zeu andidxena!*
 
 ## INKISISIÑUE ##
 
@@ -379,6 +380,8 @@ Haserretuta.
 - *ori be bada tristie ba, aizte bat bakarrik okiñ da beragaz inkomodata egotie*
 - *atziñe inkomoda diez, imiek txikidxek ezan dizenetik dauz asarratute*
 
+Gaztelerazko **incomodar** hitzetik dator, baina ez du esanahi berbera.
+
 ## INPIDIDXUE ##
 
 Inperioa. Diru asko.
@@ -389,14 +392,14 @@ Inperioa. Diru asko.
 
 ## INTERIORA ##
 
-Kamiseta.
+Kamiseta edo alkandoraren azpitik jartzen den barruko kamiseta zuria.
 
 - *interiora kendu bustitxe dakozu te*
 - *merke on diez gaur interiorak plazan*
 - *kolorezko interiorak ez dxastez gustaten*
 - *negureko interior lodidxek erosi bi dotez*
 
-Gaztelera *ropa interior* etik hartu da eta *elastiko* hitzarekin batera erabiltzen da. Hala ere, gaur egun, *kamiseta* hitza gainditzen doa.
+Gaztelerazko **ropa interior** etik hartu da eta **elastiko** hitzarekin batera erabiltzen da.
 
 ## INTRANKILL ##
 
@@ -409,10 +412,10 @@ Urduri. Artega.
 
 Azken esaldi honetan bi forma agertzen dira:
 
-1. Izenaren funtzioa betetzen duen *intrankillidadie*.
-2. Adberbio funtzioa betetzen duen *trankill* antonimoa.
+1. Izenaren funtzioa betetzen duen **intrankillidadie**.
+2. Adberbio funtzioa betetzen duen **trankill** antonimoa.
 
-*Lasai* eta *urduri* hitzen ordez, gaztelerako hitz hauek erabiltzen dira normalki.
+**Lasai** eta **urduri** hitzen ordez, gaztelerako hitz hauek erabiltzen dira normalki.
 
 ## INTZENTZUE ##
 
@@ -447,7 +450,7 @@ Oso merke.
 
 ## IRU TXIKIKO FUETIE ##
 
-*Fueta / fuetie* hitza erabilita egindako esaldiak. Kasu honetan hitz horri *iru txiki* antzinako txakurtxikia, hau da, bost zentimo hitz multzoa gehitzen zaio, esaldiari enfasi gehiago emateko.
+**Fueta / fuetie** hitza erabilita egindako esaldiak. Kasu honetan hitz horri **iru txiki** antzinako txakurtxikia, hau da, bost zentimo hitz multzoa gehitzen zaio, esaldiari enfasi gehiago emateko.
 
 - *iru txikiko fuetie baiño ariñau dabill*
 - *auna ezpazatoz, iru txikiko fuetie emongo dotsut*
@@ -507,7 +510,7 @@ Beti atzean dabilena.
 - *enator zugaz, itsuatzekue naiela diñozu te*
 - *itsuatzekue lez ibilltxen dxatzo amari, atzien atzien*
 
-Gaztelerako *lazarillo* edo horren antzeko zerbait definitzeko erabili izan dela dirudi. Baina *lazarillo* *itsuaurrekoa* izango da eta ez alderantzizkoa.
+Gaztelerako **lazarillo** edo horren antzeko zerbait definitzeko erabili izan dela dirudi. Baina **lazarillo**, **itsuaurrekoa** izango da eta ez alderantzizkoa.
 
 ## ITSUATZIEN ##
 
@@ -525,7 +528,7 @@ Marrazo familiako arraina. Begiak txikiak -marra bi- izanik, konparazioan erabil
 - *eztozuz topaten? Itsukidxek paiño gitxiau ikusten zu alabatxu*
 - *an ibill dxe, itsukidxen moduen gauzek topaten, da ezin topa*
 
-Hitz hau, hiztegietan datorren definizioa azaltzeko, kostako herrietatik edo euretariko batetik sortu dela esan dezakegu. Edo alderantziz gerta zitekeen *itsuki* izena arrain horri jartzea, begi txikiak dauzkalako.
+Hitz hau, hiztegietan datorren definizioa azaltzeko, kostako herrietatik edo euretariko batetik sortu dela esan dezakegu. Edo alderantziz gerta zitekeen **itsuki** izena arrain horri jartzea, begi txikiak dauzkalako.
 
 ## ITSUMENDEDUN ##
 
@@ -535,14 +538,14 @@ Presaka eta presaka ibiltzea edo egitea gauza guztiak, edo ondo pentsatu gabe.
 - *itsumendidxen zabiltzezelako pasaten dxatzuz olako gauzek*
 - *itsumendikue zara alabatxi, ez zu ikusten aurrekue be*
 
-Hitz honen konposizioan *itsua* eta *mendia* hitzak agertzen dira. Baliteke, zentzua, itsua mendian ibiltzen den moduan ibiltzea izango dela. Baina *itsumendua* ere izan daiteke. Azkuek beste zentzu batez jaso du hitz hau.
+Hitz honen konposizioan **itsua** eta **mendia** hitzak agertzen dira. Baliteke, zentzua, itsua mendian ibiltzen den moduan ibiltzea izango dela. Baina **itsumendua** ere izan daiteke. Azkuek beste zentzu batez jaso du hitz hau.
 
 ## ITXI BERTON ##
 
-Sinisten ez den zerbait entzutert denean.
+Sinisten ez den zerbait entzuten denean.
 
 - *egualdi ona eingo dauela plaidxerako esan dau? Itxi berton! Eztau eingo ta*
-- *loteridzek urtengo doskule esan dau adibiñadoriek. Ori esan dau? ltxi berton!*
+- *loteridzek urtengo doskule esan dau adibiñadoriek. Ori esan dau? Itxi berton!*
 
 ## ITXIDXE ##
 
@@ -568,7 +571,7 @@ Elegante. Ederra. Berebizikoa. Neurtezina.
 - *ikusi duzen terrenuek itxosopetekuek tiez txo*
 - *atzo dxan dun afaidxe itxosopetekue ezan da, kabiar da guzti*
 
-Hitz honek, neurria, kualitatea eta kantitatea adierazi eta kalifikatzen ditu.
+Hitz honek, neurria, kualitatea eta kantitatea adierazi, eta kalifikatzen ditu.
 
 ## ITXOSOTIE ##
 
@@ -579,7 +582,7 @@ Arrainontziak itsasoratzea.
 - *gaurtik aurrera itxosote askorik eztauie eingo*
 - *itxosote ona eiñ dxauie, bost milloien arraiñe erun dauie ta*
 
-Hitz hau *itsasoratzea* hitzetik dator. Substantibo izatea gordetzen du.
+Hitz hau **itsasoratzea** hitzetik dator. Substantibo izatea gordetzen du.
 
 Azkuek hitz honekin haitzetako belar bat deskribatzen du. Besterik ez dator.
 
@@ -611,7 +614,7 @@ Itogina. Konparazioan, gauzak berehala egitea edo esatea gustatzen zaiona.
 - *itxugiñe dator kamarara, euri asko eiñ dxauelez*
 - *ara ta oña dabill itxugiñe lez lotu barik*
 
-Hiztegietan *gotera* zentzuaz baino ez da jaso.
+Hiztegietan **gotera** zentzuaz baino ez da jaso.
 
 ## ITXURE BAKO MONUE ##
 
@@ -630,9 +633,9 @@ Jaso.
 - *diruek ixe! Ezta makala zelako diruek ixe txuzen*
 - *orrek diro danak ixeten badoitxuz, aberastu eingo da*
 
-Gaztelerako *izar* aditza du oinarri hitz honek.
+Gaztelerako **izar** aditza du oinarri hitz honek.
 
-/izar → iza → ixe/
+**izar** → **iza** → **ixe**.
 
 ## IXENTA ##
 
@@ -643,7 +646,7 @@ Aipatu. Izenda izango da, baina zentzua beste bat izaten da.
 - *eztau zetan ixenta, ixenta barik pe, badakigu zeu zarana ta*
 - *ni ez ixenta ezetarako be, eztot kure ezur eiñ dxe*
 
-Hitz hau *izendatu* ren laburpen bat da, txistukaria palatalizaturik.
+Hitz hau **izendatu** ren laburpen bat da, txistukaria palatalizaturik.
 
 ## IXENTAXIÑO / UE ##
 
@@ -654,7 +657,7 @@ Urtebetetzea urteurrena edo horrelako zerbait ospatzen deneko oparitxoa edo gomu
 - *aren ixentaxiñuek eskasak ezaten diez*
 - *amuman ixentaziñue dakozu amen*
 
-Ikusten denez ez du *ixenta* ren antz handirik, zentzua beste bide batelik baitoa. Gainera, hartu duen atzizkia ere beste bat da, >pen< hartu beharrean >zino< hartu du: /izenda + zino → izendazino → izentazino → ixentaziño/
+Ikusten denez ez du **ixenta** ren antz handirik, zentzua beste bide batelik baitoa. Gainera, hartu duen atzizkia ere beste bat da, **-pen** hartu beharrean **-zino** hartu du: **izenda** + **zino** → **izendazino** → **izentazino** → **ixentaziño**.
 
 ## IXERTZA LAMATAN ##
 
@@ -698,7 +701,7 @@ Urruneko senideak edo ahaideak. Ia beti zentzu peioratiboan esaten da.
 
 Izterra.
 
-Bermeon ez da espezifikatzen zein alderdi den iztarra, eta berdin da goia, erdia zein behea, hau da, zangoa, oina edo izterra bera. Zentzu berean erabilizen den beste hitz bat, geroago agertuko den *kadera*.
+Bermeon ez da espezifikatzen zein alderdi den iztarra, eta berdin da goia, erdia zein behea, hau da, zangoa, oina edo izterra bera. Zentzu berean erabilizen den beste hitz bat, geroago agertuko den **kadera**.
 
 - *izterreko miñe dakot*
 - *izterra apurtu dau* (zangoa)
@@ -722,7 +725,7 @@ Apeta. Guraria.
 - *alabatxi, zapatak erosteko izurrie dakozu ela?*
 - *izurridxe edo ez izurridxe, nik zapatak erosko tez*
 
-Beraz, *izurri* hitzak, beste zentzu bat hartu du.
+Beraz, **izurri** hitzak, beste zentzu bat hartu du.
 
 ## IÑETAZIDXE ##
 
@@ -764,7 +767,7 @@ Ergela. Tontoa. Harroa.
 - *iñuzentiaue da, danak tauzela berari begire pentsaten dau*
 - *baie ze tontue da ba, iñuzente utse da*
 
-Gaztelerako *inocente* hitza, zentzua aldatuta erabiltzen da.
+Gaztelerako **inocente** hitza, zentzua aldatuta erabiltzen da.
 
 ## IÑUZENTEKEIDXEK ##
 
