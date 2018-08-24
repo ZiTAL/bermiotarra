@@ -8,7 +8,7 @@ Artaburuak jorratzera edo pikutara bidali.
 - *zu dxuen Rita serrapolleriñe, nik eztakot zetan dxuen da*
 - *nok bota zaitxuz zu Rita serrapolleriñe ba?*
 
-Bermeon *Rita serrapollerie* esaten zioten andra bat bizi zen. Benetan zeukan Rita izena eta egiatan saltzen zituen serrapollerak -gaztelerako *cierres*-. Adinekoa zen hil zenean, laurogei bat urte bai; eta nahiko bizartsua. Gaztelerazko *vete donde Rita la pollera* esaldia Bermeotik kanpo esaten bada ere, hemengo esaldi honek hau du jatorria: Latino Amerikan *pollera* gona da, hortik *cierra pollera*. Guk hori hartu dugula? Agian.
+Bermeon **Rita serrapollerie** esaten zioten andra bat bizi zen. Benetan zeukan Rita izena eta egiatan saltzen zituen serrapollerak -gaztelerako **cierres**-. Adinekoa zen hil zenean, laurogei bat urte bai; eta nahiko bizartsua. Gaztelerazko **vete donde Rita la pollera** esaldia Bermeotik kanpo esaten bada ere, hemengo esaldi honek hau du jatorria: Latino Amerikan **pollera** gona da, hortik **cierra pollera**. Guk hori hartu dugula? Agian.
 
 ## RUSIAKO TXARRIDXE ##
 

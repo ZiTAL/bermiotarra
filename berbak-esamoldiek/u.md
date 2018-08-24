@@ -17,7 +17,9 @@ Oiak.
 - *agine atara doten lekuen dakot udxe infestata*
 - *udxek ondo okitxeko bikarbonatogaz garbitie da ona*
 
-Azkuek eta L.M.M. k *oi* jaso dute eta badirudi kasuistika dela honen erabilera. P.M.k Laburdin jaso du *oiak* pluralean. Bermeon, beste bariante bat ere erabiltzen da alternantzian, *oidxek* Sarri gertatzen den bezala /oi/ → /u/ egin da.
+Azkuek eta L.M.M. k **oi** jaso dute eta badirudi kasuistika dela honen erabilera. P.M.k Laburdin jaso du **oiak** pluralean. Bermeon, beste bariante bat ere erabiltzen da alternantzian, **oidxek**.
+
+Sarri gertatzen den bezala **oi** → **u** egin da.
 
 ## UDXOLA / K ##
 
@@ -227,7 +229,7 @@ Gazte soltea.
 - *utena danari zazpi giltzegaz sarratu atie*
 - *oraingo imiek danak tiez urtenak*
 
-Azkuek *atrevido*, *osado* definitzen du. Gainera, Bermeon gazteak bakarrik dira *urtenak*.
+Azkuek **atrevido**, **osado** definitzen du. Gainera, Bermeon gazteak bakarrik dira **urtenak**.
 
 ## URTU ##
 
@@ -268,7 +270,7 @@ Alua.
 - *zer daku dxateko ba? Zeure usue*
 - *usue errefreskaten guez plaidxera*
 
-Txoriaren izenak beste esanahi bat hartu du, Kintanak *eufemismo utilizado entre muchachos para indicar la vulva* dio. Beraz ez da zehatza, Bermeon edonork erabilizen baitu.
+Txoriaren izenak beste esanahi bat hartu du, Kintanak **eufemismo utilizado entre muchachos para indicar la vulva** dio. Beraz ez da zehatza, Bermeon edonork erabilizen baitu.
 
 ## USO BERO ##
 
@@ -302,11 +304,11 @@ Buila. Zalaparta.
 - *dxaidxetan usubillo asko oten da, lorik pe ezin zu eiñ*
 - *on dan usubilluegaz, balkoiko atiek ela bentanak pe sarratute ein biar lo*
 
-Hitz hau konposatua da eta badirudi, bigarren elementua *pilloa* dela. Hau hipotesi bat da.
+Hitz hau konposatua da eta badirudi, bigarren elementua **pilloa** dela. Hau hipotesi bat da.
 
-/uso/ + pilloa/ → usobilloa → usubillue/
+**uso** + **pilloa** → **usobilloa** → **usubillue**.
 
-*Usobillo* bariantea Mundakako Otxoluaren zita bat aipatuz jasotzen du eta honen esanahia antzekoa dugu.
+**Usobillo** bariantea Mundakako Otxoluaren zita bat aipatuz jasotzen du eta honen esanahia antzekoa dugu.
 
 ## UTS ALA BET ##
 
@@ -317,7 +319,7 @@ Bai ala ez, igarri ala ez, aurkitu ala ez.
 
 ## UXUXUE LEZ ##
 
-Presaka ibili, arin hara eta hona. *Uxuxue* itsasoko tsoria da. Hara eta hona ibiltzen da arrain txikiak harrapatzen. Konparazioan pertsonei aplikatzen zaie.
+Presaka ibili, arin hara eta hona. **Uxuxue** itsasoko tsoria da. Hara eta hona ibiltzen da arrain txikiak harrapatzen. Konparazioan pertsonei aplikatzen zaie.
 
 - *uxuxue lez zabiltzez alabatxu, ariñ ara da ariñ ona*
 - *bestelako uxuxue nau, ime txikidxe lez, noraezien*
@@ -340,7 +342,7 @@ Ugazabandrea. Baita ofizio bat irakasten duen maistra edo andrea ere.
 - *sarietako uzandrie nor dozue ba? Uzandra gaztie*
 - *uzandra gaztiek ezaten diez onenak*
 
-Azkuek ez du jaso eta D.A.R.k *señora, ama de casa* zentzuaz jaso du.
+Azkuek ez du jaso eta D.A.R.k **señora, ama de casa** zentzuaz jaso du.
 
 ## UZKIDXE LAKUE ##
 

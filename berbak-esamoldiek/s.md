@@ -9,7 +9,7 @@ Bultza egin.
 - *ba saka tsuneri plastazo bat emon biar*
 - *saka eiñdxe, danak sartzien diez*
 
-Ia beti erabiltzen da partizipiorik gabe. Hala ere, noizbehinka >ten< partizipioa hartzen du.
+Ia beti erabiltzen da partizipiorik gabe. Hala ere, noizbehinka **ten** partizipioa hartzen du.
 
 Hitz honen esanahia honetara bakarrik mugatzen da, ez du beste zentzurik.
 
@@ -58,7 +58,7 @@ Sakosta.
 - *sakuste baten makurtute on da denpora guztidxen, euridxe lotu arte*
 - *or sakusten dakozuzen gauzek atara kanpora*
 
-Azkuek, *sakosta* eta *zakoste* hitzak jaso ditu, baina Bermeon, hitz honen esanahia askoz ere zabalagoa da.
+Azkuek, **sakosta** eta **zakoste** hitzak jaso ditu, baina Bermeon, hitz honen esanahia askoz ere zabalagoa da.
 
 ## SALIDE / IE ##
 
@@ -122,9 +122,9 @@ Saltsa guztietan sartzen den pertsona.
 - *zure lagune baiño saltseruaurik eztau erri guztidxen*
 - *beran ama be saltserie da ta zer gu zu bera ezatie ba*
 
-Hitz honek >ro< gaztelerako atzizkia hanu du. 
+Hitz honek **-ro** gaztelerako atzizkia hanu du. 
 
-/saltsa/ + /ro/ → saltsero/
+**saltsa** + **ro** → **saltsero**.
 
 ## SAMAKAKA ##
 
@@ -165,7 +165,7 @@ Ukabilkada. Kolpea. Ostia.
 - *emoten tsuten sanblazintxiegaz konta be ezu eingo*
 - *sanblazintxie emon barik enai geraruko*
 
-Nola sustraitu den hitz hau ez dago susmorik ere. Hitzaren konposizioan hiru elementu sartu dira: /San/ /Blas/ + /zinta/ >sanblazinta → sanblazintxe
+Nola sustraitu den hitz hau ez dago susmorik ere. Hitzaren konposizioan hiru elementu sartu dira: **San Blas** + **zinta** → **sanblazinta** → **sanblazintxe**.
 
 ## SANDXE / IE ##
 
@@ -176,7 +176,7 @@ Txanda.
 - *zure sandxie aillegaten danien abixe*
 - *noiz da zure sandxie ba?Aurren gixonan atzetik*
 
-Azkuek *sanja* jaso du, eta Ondarrun eta Lekeition jartzen du hitz hau, baina Bermeon ere oso erabilia da, besterik ez baita ezagutzen hori adierazteko. Lhandek frantseseko *change* bezala jaso du.
+Azkuek **sanja** jaso du, eta Ondarrun eta Lekeition jartzen du hitz hau, baina Bermeon ere oso erabilia da, besterik ez baita ezagutzen hori adierazteko. Lhandek frantseseko **change** bezala jaso du.
 
 ## SANTO / UEK ##
 
@@ -220,7 +220,7 @@ Saregile.
 - *saregiñek moillen dauz sariek konponduten*
 - *saregiñ gaztiek abillidade andidxe dakoie, baie zarrak irebazi eitxen tsoie*
 
-Benetan harritzekoa da, hiztegietan ez agertzea hitz hau. Eneko Barrutiak bakarrik sartu du bere *Bermeo eta Mundakako arrantzaleen Hiztegia* liburuan.
+Benetan harritzekoa da, hiztegietan ez agertzea hitz hau. Eneko Barrutiak bakarrik sartu du bere **Bermeo eta Mundakako arrantzaleen Hiztegia** liburuan.
 
 ## SARNAZTO ##
 
@@ -231,9 +231,11 @@ Iraina da. Mesprezuzkoa. Ez da erabiltzen zentzu konkretuan.
 - *mueble sarnaztuek takoz etzien, baie bera beitu zelan duen dxantzitze*
 - *zera! beran erropa sarnaztuekaz dxun bi dotela?*
 
-Askotan bezala, hemen ere >to< atzizkia hartu da, izen batetatik adjektibo bat ateratzeko.
+Askotan bezala, hemen ere **-to** atzizkia hartu da, izen batetatik adjektibo bat ateratzeko.
 
-/sama/ + /to/ → samato/ Baina eufoniagatik /z/ tartekatu da eta /sarnazto/ eman du.
+**sama** + **to** → **samato**.
+
+Baina eufoniagatik **z** tartekatu da eta **sarnazto** eman du.
 
 ## SARTENA ##
 
@@ -254,9 +256,9 @@ Kolpea. Ostia. Ukabilkada.
 - *sartenazo ederra emon tso ba, aurre guztidxe zatitxu tso kotxiri txe*
 - *erlojuri be, emon tson sartenazuegaz kuerdie apurtu dxatzo*
 
-Kasu honetan >zo< atzizkia erabili da.
+Kasu honetan **-zo** atzizkia erabili da.
 
-/sartena/ + /zo/ → sartenazo/
+**sartena** + **zo** → **sartenazo**.
 
 ## SARTUN URTEN BAT ##
 
@@ -303,13 +305,13 @@ Zaborreria izango da. Baina soroko orbel siku eta abar ere bai.
 - *sakeleidxek erreten on da ta ertzaiñe etor dxatzo aldarrike*
 - *zer batzien da berton saskeleidxe ba, neuk pe laster emongo tzatie su, datorrela ertzaiñe ostike*
 
-Aurreko >saskel< + >eria< atzizkia → sakeleria/
+Aurreko **saskel** + **-eria** atzizkia → **sakeleria**.
 
-Gero fonetikako aldaketak jasan ondoren: /saskeleidxe/ eman du.
+Gero fonetikako aldaketak jasan ondoren: **saskeleidxe** eman du.
 
 ## SASKI BASKIDXE ##
 
-Nahiko zikina. Ez dauka *saski-naski* hitzarekin zerikusirik.
+Nahiko zikina. Ez dauka **saski-naski** hitzarekin zerikusirik.
 
 - *saski baski utse da bera gixona, eztaix zer ein beragaz*
 - *saski baskitxue be bazara ta, zaran moduen artu biar zara*
@@ -363,7 +365,7 @@ Senaia.
 - *zuek enpanadak zarielakon, an senaidxe asko dau alabatxi*
 - *Ondartzapen antzeko senaidxek tauz andik*
 
-Gaur egun gaztelerako *cala* ari da sartzen. Kintanak *senadi* jaso du.
+Gaur egun gaztelerako **cala** ari da sartzen. Kintanak **senadi** jaso du.
 
 ## SERBEZIDXO / UE ##
 
@@ -374,17 +376,19 @@ Soldadutza.
 - *serbezidxue eiñ dxe gero ezkonduko dala esan dau*
 - *serbezidxue, ein be elekide ein biar*
 
-/servicio → serbezio → serbezidxo/, bokalen asimilazioaz.
+**servicio** → **serbezio** → **serbezidxo**; bokalen asimilazioaz.
 
 ## SERRAPOLLERA ##
 
-Jantzietan lotzeko erabiltzen diren *cierre* gaztelerakoa hartuta egin dugu hitz hau. Aurretik hasitako bide bati jarratuz, eta lokuzioetan ere azaltzen den moduan, Latino Amerikan erabiltzen den *pollera (falda)* Hitza hartu da zuzenean, /cierra pollera → zerrapollera → serrapollera/
+Jantzietan lotzeko erabiltzen diren **cierre** gaztelerakoa hartuta egin dugu hitz hau. Aurretik hasitako bide bati jarratuz, eta lokuzioetan ere azaltzen den moduan, Latino Amerikan erabiltzen den **pollera (falda)** hitza hartu da zuzenean:
+
+**cierra pollera** → **zerrapollera** → **serrapollera**.
 
 - *albuen imiñi bi tsazuz serrapollerak*
 - *serrapollerak erosi bi dotez erropientzako*
 - *botoiek imiñi, serrapollera guztidxek kendute*
 
-Gaur egun, gazteleraz, *automáticos* deitzen dira.
+Gaur egun, gazteleraz, **automáticos** deitzen dira.
 
 ## SETENTZIDXE ##
 
@@ -394,7 +398,9 @@ Agirika gogor baten esaten da.
 - *setentzidxe atako tsut ezpazara esanekue*
 - *aren setentzidxe kantata dau, geu tiñogune ezpadau eitxen*
 
-Gaztelerako *sentencia* erabili da oraingoan, /sentencia → setenzia → sctentzia → setentzidxe/.
+Gaztelerako **sentencia** erabili da oraingoan:
+
+**sentencia** → **setenzia** → **setentzia** → **setentzidxe**.
 
 ## SEÑORA ANDIDXE ##
 
@@ -413,9 +419,9 @@ Isiltasuna.
 
 Maileguak gureganatzen oso jaioak garenez, hemen daukagu adibide berezi bat
 
-/silencio → silentzio → silentzioa → silentzidxue/
+**silencio** → **silentzio** → **silentzioa** → **silentzidxue**.
 
-Ohikoa den bezala, /iu/ bokal bitartean /j/ epentetikoa sartuta >silentzidxue< eman du.
+Ohikoa den bezala, **iu** bokal bitartean **j** epentetikoa sartuta **silentzidxue** eman du.
 
 ## SINGANORIA ##
 
@@ -425,8 +431,8 @@ Ganora gabekoa.
 - *benetan singanoria, berbetan be eztaki txe*
 - *ez zaitxez ezan singanoria, artuixu moldie*
 
-Argi dago erderakada bat dela, baina herri honetan asko erabiltzen dena, urte askotan gainera.  
-*sin ganora* honek adierazten digu, gaztelaniaz jabetu orduko, edo, behintzat, orain esaten den moduan, gaztelania *ure lez* jakin orduko, halako berbak asmatzen ikasita geundela.
+Argi dago erderakada bat dela, baina herri honetan asko erabiltzen dena, urte askotan gainera.
+**Sin ganora** honek adierazten digu, gaztelaniaz jabetu orduko, edo, behintzat, orain esaten den moduan, gazteleratik ekarritako **ure lez** jakin aurretik, halako berbak asmatzen ikasita geundela.
 
 ## SIRISIRIDXE ##
 
@@ -440,7 +446,7 @@ Larumin, edo gibeleko gaixotasuna.
 
 ## SIRUNTXILLIE ##
 
-Sugandila. Hitz, hau eta geroxeago ikusiko dugun *sorantxillie* auzoetan aurkitutako formak dira. Beste modu batzuk ere aurkitu ditut, esaterako *sumintxillie*, baina gutxiago erabiltzen direla dirudi. Herrian *lagartue* edo *lagartija* esaten da.
+Sugandila. Hitz, hau eta geroxeago ikusiko dugun **sorantxillie** auzoetan aurkitutako formak dira. Beste modu batzuk ere aurkitu ditut, esaterako **sumintxillie**, baina gutxiago erabiltzen direla dirudi. Herrian **sugandillie*, **lagartue** edo **lagartijie** esaten da, auzoetan ordea **muskerra**.
 
 - *soluen siruntxille pillo bat oten da*
 - *siruntxilleri eguzkidxe gustaten dxatzoie*
@@ -505,16 +511,16 @@ Zuhaitz oskola.
 
 ## SOSTRIE ##
 
-Sareztatu dela dio hiztegiak gaztelerako *zurcir*. Gaur egun ez da egingo horrelakorik, baina orain urte batzuk, asko, egin beharra zegoen eta berba hau erabiltzen zen. Geroago errepasa esaten zen. Gaur ez dakit. Nik neuk eta nire ingurukoek, erabiltzen dugu.
+Sareztatu dela dio hiztegiak, gaztelerako **zurcir**. Gaur egun ez da egingo horrelakorik, baina orain urte batzuk, asko, egin beharra zegoen eta berba hau erabiltzen zen. Geroago errepasa esaten zen. Gaur ez dakit. Nik neuk eta nire ingurukoek, erabiltzen dugu.
 
 - *kaltzetiñek sostrie bidotez*
-- *erropie sostrie sotrieta ekar dau Colombia-tik etor dan ime koitxadiek*
+- *erropie sostrie sostrieta ekar dau Colombia-tik etor dan ime koitxadiek*
 
 Berba hau jadanik galduta egongo da, baina berba oso polita denez sartzea erabaki dut.
 
 ## SU / E ##
 
-Arrain askok ezpi edo hezur pozoitsuak edukitzen dituzte, Horiei *sua* deitzen diegu.
+Arrain askok ezpi edo hezur pozoitsuak edukitzen dituzte, Horiei **sua** deitzen diegu.
 
 - *gonbizen sue sartun dxast, ta dolore bat takot*
 - *eskue anditxute dakozu, da ori sue atara ein bizu*
@@ -532,7 +538,7 @@ Haserre. Koleratsu.
 - *ez etorri sublebata, zeuk esan zu ori berbie ta*
 - *sublebaziñue kendu be ein barik takot ondiño gero*
 
-Gaztelerako *sublevar* hartu da zuzen zuzenean, eta zentzua ere, figuratuan, berbera da.  
+Gaztelerako **sublevar** hartu da zuzen zuzenean, eta zentzua ere, figuratuan, berbera da.
 Ikusten denez, gaztelera bezala, aditza, adberbioa eta izenaren forman agertzen da.
 
 ## SUBOI / E ##
@@ -552,8 +558,9 @@ Jenio txarra. Arrabia.
 - *subrebidxe kendu be ez dxauzo eitxen areri*
 - *subrebidxekaz etor dxast alabatxi lotsak emoten*
 
-Gaztelerako *soberbia* ederto egokitu da Bermeoko hizkeran.  
-/soberbia → sobrebia → subrebidxe/ /ia/ → /idxe/.
+Gaztelerako **soberbia** ederto egokitu da Bermeoko hizkeran.
+
+**soberbia** → **sobrebia** → **subrebidxe**; **ia** → **idxe**.
 
 Kontsonante dardarkariaren metatesia jasan ondoren, bokalen ixtea gertatu da.
 
@@ -565,13 +572,13 @@ Koleratsua.
 - *subrebiosie bazara zeuretzako gordeko zu subrebidxek*
 - *bidxek tiez bata baiño bestie subresiosuaue*
 
-Hitz honi gazteterako >so< atzizkia lotu zaio, adjektiboa sortzeko.
+Hitz honi gazteterako **so** atzizkia lotu zaio, adjektiboa sortzeko.
 
-/soberbia/ + /so/ → soberbioso → subrebioso/
+**soberbia** + **so** → **soberbioso** → **subrebioso**.
 
 ## SUE ATARA ##
 
-Beste kasu askotan legez, *atara* hitzari beste bat gehitu zaio errieta.
+Beste kasu askotan legez, **atara** hitzari beste bat gehitu zaio errieta.
 
 - *sue atara doskue gure imiek, ziñera eztoguzelakon eruen*
 - *sue, baie benetako sue ezan da nire andriek atara dostena, da zeitxik? Berandu aillega naielako afaire*
@@ -585,7 +592,7 @@ Zorte ona. Baina kasu honetan, pertsona, animalia edo gauza bat izan daiteke zor
 - *geure katue be suertosie da, ainbeste bidar dxeusi de teillatotik ta ondiño bixirik tau*
 - *neure aiztie be suertosie da, kotzeko azidente bape eztau okiñ*
 
-Gaztelerako *suerte* hitzari >so< atzizkia erantsi zaio /suerte/ + /so/ → suertoso/
+Gaztelerako **suerte** hitzari **-so** atzizkia erantsi zaio **suerte** + **so** → **suertoso**.
 
 ## SUESTA ##
 
@@ -595,8 +602,9 @@ Itsasoko ur-jantzietan ezin faltatu buruko kapela.
 - *suestagaz gixon danak tiez bardinek*
 - *bapor guztidxen eziñ ezan dot topa nire suestako zintxie*
 
-Gaztelerako *sueste* hitza hartu da zuzenean.  
-/sueste → suesta/.
+Gaztelerako **sueste** hitza hartu da zuzenean:
+
+**sueste** → **suesta**.
 
 Askotan bezala, erdiko azken bokalea ireki egin da.
 
@@ -609,9 +617,9 @@ Koleratsu. Haserre bizian.
 - *enai sulfureko ba, ein dxosten biarragaz...*
 - *sulfureta para da beran aiztie be, da bidxen artien ill eztauenien*
 
-Gaztelerako *sulfurar* aditzak, zentzu figuratuan *irritar* *encolerizar* ematen du; beraz, zentzua ere berbera da.
+Gaztelerako **sulfurar** aditzak, zentzu figuratuan **irritar**, **encolerizar** ematen du; beraz, zentzua ere berbera da.
 
-/sulfurar → sulfure/
+**sulfurar** → **sulfure**.
 
 ## SUMIÑE ##
 
@@ -632,7 +640,7 @@ Zerbait aurkitzeko afan bandia izatea. Gauzak topatzen ibiltzen dena.
 - *bai, geure etzera datorrenien be, surbizkidxe lez, armaidxo guztidxek erreskitxeten ibiltxen da*
 - *zeuek ikasi tsazue surbizkidxe ezaten*
 
-Azkuek. Txorierrin jaso du hitz hau, baina zentrua *goloso* da. Beraz, esanahi aldetik, nolabait ezberdina da.
+Azkuek. Txorierrin jaso du hitz hau, baina zentrua **goloso** da. Beraz, esanahi aldetik, nolabait ezberdina da.
 
 Badirudi, sudur bi edo sudur bikia daukan pertsona dela.
 
@@ -660,9 +668,9 @@ Sudurzuloak.
 - *bestie, surtzilluetatik odoletan dxun da ba*
 - *ez ibilli surtzilluetan atzamarrik, bixidxena ekarko zu te*
 
-Hitz konposatu honen bigarren elementua *zulo* da, Baina ikusi dugu aurrerago, hitz horren eboluzioa zein izan den:
+Hitz konposatu honen bigarren elementua **zulo** da, Baina ikusi dugu aurrerago, hitz horren eboluzioa zein izan den:
 
-/surzuloa → sunziloa → surtzillue/
+**surzuloa** → **sunziloa** → **surtzillue**.
 
 Azkuek Lekeitioko hitza bezala azaltzen du, baina Bermeon ez da ezagutzen besterik.
 
@@ -674,9 +682,9 @@ Sudur handia, luzea daukana.
 - *surtxue da, baie total majue da*
 - *eztakixu a neskie, surtxu esaten tsoiena?*
 
-Kasu honetan >txu< atzizki txikigarria erabili da, hitz antonimo bat sortzeko.
+Kasu honetan **-txu** atzizki txikigarria erabili da, hitz antonimo bat sortzeko.
 
-*de nariz pequeña* izan beharko litzateke, baina ez du hori eman, aurkakoa baizik.
+**de nariz pequeña** izan beharko litzateke, baina ez du hori eman, aurkakoa baizik.
 
 ## SURTZILLUEK ZABALDUTE ##
 

@@ -19,7 +19,7 @@ Askatu.
 - *ekau neuri zure mandako izarien puntie ta zafa bestie*
 - *au katie zafa, miñ eitxen dost eta*
 
-Gaztelerako *zafar* = *desatar* hitzetik zuzenean hartuta dago.
+Gaztelerako **zafar** = **desatar** hitzetik zuzenean hartuta dago.
 
 ## ZAFRAN ##
 
@@ -30,7 +30,7 @@ Ugaritasunean.
 - *zafrie aurrek takoie, eurek kure dauien beste dirogaz*
 - *zelako zafrie dakot ba, perzebak dxaten kantsa be enai eingo*
 
-Hitza, formaz, gaztelerako *zafra* da, baina ez esanahia. Erdaraz dituen esanahiak, bat ere ez da egokia Bermeon erabiltzen den zentzua emateko.
+Hitza, formaz, gaztelerako **zafra** da, baina ez esanahia. Erdaraz dituen esanahiak, bat ere ez da egokia Bermeon erabiltzen den zentzua emateko.
 
 ## ZAGAN ##
 
@@ -41,11 +41,11 @@ Atoian eraman. Konparazioan pertsonak eraman atoian.
 - *zuk e nozu eruten zagan, neuk korriten dot eta*
 - *zagan artunde erun dau imie*
 
-Gaztelerako *zaga* *llevar detrás* hartu da, baina esanahi zabalagoa dauka.
+Gaztelerako **zaga**, **llevar detrás** hartu da, baina esanahi zabalagoa dauka.
 
 ## ZAGIE ##
 
-Zaga. Kasu honetan, norbaitek *zaga* bera eramaten duenean.
+Zaga. Kasu honetan, norbaitek **zaga** bera eramaten duenean.
 
 - *amen nuen ni beronegaz zagiegaz*
 - *bestelako zagie daruzu, botaidxona kaka saltzien!*
@@ -53,7 +53,7 @@ Zaga. Kasu honetan, norbaitek *zaga* bera eramaten duenean.
 
 ## ZAIDXE ATARA ##
 
-Zahia atera. Gaztelerako *caspa* Era guztietara astindu.
+Zahia atera. Gaztelerako **caspa**. Era guztietara astindu.
 
 - *motibo barik zelako zaidxe atara dost ba*
 - *etor danien berari etsolakon abixe zaidxe ata tso*
@@ -95,7 +95,7 @@ Belaunpe edo zangope.
 - *zankapien urten dost tunbuto batek*
 - *zankapie igiri tsoie ikusteko zer dakon belaunien*
 
-Azkuek *zankabe* bariantea jaso du.
+Azkuek **zankabe** bariantea jaso du.
 
 ## ZANTARKILLO ##
 
@@ -125,9 +125,9 @@ Jendaila. Zaborreria. Gauza zantarrak.
 - *beti diñozu zantarreidxetan topa zu le*
 - *nik eztot topaten eguno be ezer zantarreidxetan*
 
-Arraro zamarra izan arren >ria< eta ez >keria< atzizkia erabiltzea, hemen, horrela gertatu da:
+Arraro zamarra izan arren **-ria** eta ez **-keria** atzizkia erabiltzea, hemen, horrela gertatu da:
 
-/zantar + /ria/ → zantarreria/
+**zantar** + **ria** → **zantarreria**.
 
 ## ZANTARRILLO ##
 
@@ -171,7 +171,7 @@ Lepoa.
 - *agarra zaputzetik txiplazo bi emoteko*
 - *agarraten batsut zaputzetik, zeure amak pe ez zaitxuz ezetuko*
 
-Hiztegietan beste zentzu batez agertzen da, baina Azkuek, *parte superior del tronco desde donde arrancan las ramas* jartzen du. Beraz, hori izango litzateke definizioa, baina pertsonei aplikatuta.
+Hiztegietan beste zentzu batez agertzen da, baina Azkuek, **parte superior del tronco desde donde arrancan las ramas** jartzen du. Beraz, hori izango litzateke definizioa, baina pertsonei aplikatuta.
 
 ## ZAPUZKADA ##
 
@@ -181,7 +181,7 @@ Bultzada.
 - *zapuzkada andi bategaz bota dau andik*
 - *emoten bastazu zapuzkada geidxau, enai esango zure lagune*
 
-Aurreko hitza bera dugu, egokia ez bada ere, >kada< atzizkia erantsita.
+Aurreko hitza bera dugu, egokia ez bada ere, **-kada** atzizkia erantsita.
 
 Izenaren funtzioa betetzen du.
 
@@ -193,7 +193,7 @@ Bultzadaka.
 - *zapuzkadaka ibil gariez ziñien sartzieko*
 - *lameran be jente asko dauenien zapuzkadaka ibil bi de dxantzan eitxeko*
 
-Kasu honetan, >ka< moduzko adberbioa egiteko atzizkia sartu da.
+Kasu honetan, **ka** moduzko adberbioa egiteko atzizkia sartu da.
 
 ## ZARKILLE ##
 
@@ -204,7 +204,7 @@ Nagusien gauzak egin edo esaten duen umea, mutila zein neska.
 - *zarkillien antza etso kentzien iñok pe*
 - *dana daki berak; berak zarkilliek esan tsu ori?*
 
-Konposizioan, >killa< atzizki txikigarria lotu zaio *zar* izenari.
+Konposizioan, **-killa** atzizki txikigarria lotu zaio **zar** izenari.
 
 ## ZARRAZO / IE ##
 
@@ -214,7 +214,7 @@ Lanbro.
 - *ikusten zan dan, aulako zarrazoi andi bet datorrela*
 - *onek zarrazoiek eztau itxiko ezer eitxen be*
 
-Gaztelerako *cerrazon* = *oscuridad grande ocasionada por nubes negras* hitza da honen oinarria, baina esanahia ez da bera.
+Gaztelerako **cerrazon** = **oscuridad grande ocasionada por nubes negras** hitza da honen oinarria, baina esanahia ez da bera.
 
 ## ZARTAZO / UE ##
 
@@ -225,9 +225,9 @@ Kolpea.
 - *zartazo bat emon, neure partez*
 - *ill dxau zartazoka mutille*
 
-Kasu honetan ez du >ada< atzizkia hartu, >zo< atzizkia baizik. Askotan gertatzen da fenomeno hau Bermeon, hau da, gaztelerako atzizki bat hartzea.
+Kasu honetan ez du **-ada** atzizkia hartu, **-zo** atzizkia baizik. Askotan gertatzen da fenomeno hau Bermeon, hau da, gaztelerako atzizki bat hartzea.
 
-/zart/ + /zo/ → zartazo/. Hala ere, esan beharra dago, *zartada* hitza ere erabiltzen dela eta biak ia ia parekaturik daukatela erabilera.
+**zart** + **zo** → **zartazo**. Hala ere, esan beharra dago, **zartada** hitza ere erabiltzen dela eta biak ia ia parekaturik daukatela erabilera.
 
 ## ZATI BITXU ##
 
@@ -268,7 +268,7 @@ Pertsona mugikorra, geldi egoten ez dena. Horren ondorioz esamesa guztien jabe e
 - *ori andrie zazpikidxe da alabatxu, danagaz enteraten da*
 - *zazpikidxen antzeko imie, zelako sanblazitxie erungo zu ba*
 
-Hitz honen esanahia zabalagoa da, ez da hitz horren zentzu konkretura mugatzen. Kintanak *impaciente* definitzen du.
+Hitz honen esanahia zabalagoa da, ez da hitz horren zentzu konkretura mugatzen. Kintanak **impaciente** definitzen du.
 
 ## ZAZPISUETE ##
 
@@ -278,7 +278,7 @@ Saltsa guztietako perrexila deituko genukeena.
 - *zazpisuetatxue da berau mutille, baie tire*
 - *non dau ameko etzeko zazpisuetie ba?*
 
-Azkuek, Mundakan jasotako definizioan *gorrón* jartzen du.
+Azkuek, Mundakan jasotako definizioan **gorrón** jartzen du.
 
 ## ZEMAKURE ##
 
@@ -292,7 +292,7 @@ Ugari. Nahi den guztia. Zenbat gura.
 
 Fonetikazko aldaketei ezker, honelako zenbait hitz sortzen da.
 
-/zenbat gura/ → zemakure.
+**zenbat gura** → **zemakure**.
 
 ## ZEMAT KURE ##
 
@@ -311,7 +311,7 @@ Zerbait.
 
 Aurrekoan bezala, laburpenek beste hitz bat sortu dute.
 
-/zerbait → zepaitxe/
+**zerbait** → **zepaitxe**.
 
 ## ZER DAN EDO ZER EZTAN ##
 
@@ -363,7 +363,7 @@ Konturatu gabe zerbait egiten aritzea. Zerbait egitearren.
 - *amen zauzen arte, zereñekidxen jersie eingo dostazu*
 - *aiuntamientuen be alan oten diez, zereñekidxen biarrien*
 
-/zereginean/ → zerekinean → zerenekian> zereñekidxen/
+**zereginean** → **zerekinean** → **zerenekian** → **zereñekidxen**.
 
 ## ZERIKUSIDXEN ##
 
@@ -420,9 +420,9 @@ Adimena.
 - *neu bixi naien artien artun zientzidxe gero*
 - *aspaldidxon zientzidxe be galdute nabill*
 
-Gaztelerako *ciencia* hitz farfailtsua erabili da beste izen hori sortzeko.
+Gaztelerako **ciencia** hitz farfailtsua erabili da beste izen hori sortzeko.
 
-/ciencia → zientzia → zientzidxe/
+**ciencia** → **zientzia** → **zientzidxe**.
 
 ## ZINGELEKUE ##
 
@@ -440,7 +440,7 @@ Zartada Kolpea. Bronka.
 - *emoten tsuten zintxiegaz beie be dxo eingo zu*
 - *neu pe zintxie atara bikot neuk kure dotena eitxeko*
 
-Gaztelerako *cinta* hartu eta jasan dituen fonetikazko aldaketari esker, hitz berri bat sortu da.
+Gaztelerako **cinta** hartu eta jasan dituen fonetikazko aldaketari esker, hitz berri bat sortu da.
 
 ## ZIRIZIRIDXE ##
 
@@ -477,7 +477,7 @@ Pertsona dorpea. Trauskil.
 - *zokille lez dxan, zokille lez ibilli, da zokille lez ilko da*
 - *aldiano zokille dozu, da berak pentsaten dau zeuzer dale*
 
-Zokila lur-zati handi eta gogorra da. Horregaitik, askotan, *zokil* hitzari *aldeano* hitza gehitzen zaio.
+Zokila lur-zati handi eta gogorra da. Horregaitik, askotan, **zokil** hitzari **aldeano** hitza gehitzen zaio.
 
 ## ZOLTZIÑE ##
 
@@ -487,7 +487,7 @@ Zoldu egitea. Itzemin.
 - *orrek zaldarrak zoltziñera ekartie bi dau*
 - *zoltziñek miñ andidxe emoten dau, baie ariñau osatuko dxatzu*
 
-/zoltze → zoltzia → zoltzina → zoltziñe/
+**zoltze** → **zoltzia** → **zoltzina** → **zoltziñe**.
 
 ## ZOR DA ARTURENAK ##
 
@@ -514,7 +514,7 @@ Aberats berriak.
 
 ## ZORRIZTO ##
 
-Gaur egun ez dago zorririk, edo, behintzat oso gutxi ikusten da. Baina garai bateko miseria hori kontutan izanda, gaurko *aberatsei* aplikatzen zaie, hau da, garai baten pobreak izan, eta orain ere pobreak izanda dirutsuak moduan agertzen direnei.
+Gaur egun ez dago zorririk, edo, behintzat oso gutxi ikusten da. Baina garai bateko miseria hori kontutan izanda, gaurko **aberatsei** aplikatzen zaie, hau da, garai baten pobreak izan, eta orain ere pobreak izanda dirutsuak moduan agertzen direnei.
 
 - *bestelako zorriztue da berori, da okiñ ez dxateko be*
 - *zulako zorriztuekaz eztot kure tratorik*
@@ -546,7 +546,7 @@ Umeen zakiltxoa.
 - *ama nik eztot kure bañerara sartun zozoliñue ikusten dxast eta*
 - *ba zozoliñue ez ikusteko fraka ta guzti sartun bañerara*
 
-*Zozo* hitza diminutiboan jarrita erabilizen da.
+**Zozo** hitza diminutiboan jarrita erabilizen da.
 
 ## ZUEZGORA ##
 
@@ -558,25 +558,25 @@ Zuriz gora, Hau izango litzateke hitza. Konparazioan erabiltzen da, esaterako be
 
 ## ZUK TAKOZU ARUE ##
 
-Gaztelerako *torta* izango litzateke.
+Zelakoa... Gaztelerako **torta** izango litzateke.
 
 - *nok esan dotsu zuri ni enaiela etorriko, arek? Zuk dakozu arue, zelan enai etorriko ba?*
 
 ## ZUK TAKOZU ATZA ##
 
-Zelakoa... Gaztelerako *torta* izango litzateke.
+Zelakoa... Gaztelerako **torta** izango litzateke.
 
 - *amar metro tela biarko dozule kortiñie eitzeko? Zuk takozu atza, baitxe hogei metro be*
 
 ## ZUK TAKOZU BREKEKE ##
 
-Sinistu ere ez. Gaztelerako *torta* izango litzateke.
+Sinistu ere ez. Gaztelerako **torta** izango litzateke.
 
 - *enebada! Zuk takozu brekeke, Gabonak ganien da ondiño olentzeroko erropak eitxeko*
 
 ## ZUK TAKOZU MUNDUE ##
 
-Gaztelerako *torta* izango litzateke.
+Gaztelerako **torta** izango litzateke.
 
 - *zuk takozu mundue! Santainfanzian bizi zara, zeure libruek eta zeure diskuetatik urten be eztozu eitxen*
 
