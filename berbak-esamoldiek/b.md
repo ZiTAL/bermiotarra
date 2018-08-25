@@ -1195,7 +1195,7 @@ Bizartsua.
 - *mutil bizardo bat topa du bidien da, ikaratu ein garie*
 - *bizarduen antza dakozu orregaz bizarragaz*
 
-**bizar** + **do** atzizkia → **bizardo**.
+**bizar** + **-do** atzizkia → **bizardo**.
 
 ## BIZIDXENA ##
 

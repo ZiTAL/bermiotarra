@@ -649,7 +649,7 @@ Iskanbilak. Haserrekuntzak.
 
 ## DXIGOTILLEK ##
 
-Aurrekoa bera dugu, baina txikitasunaren atzizkia hartuta.
+Iskanbilak. Haserrekuntzak. Baina txikitasunaren atzizkia hartuta.
 
 - *egun santo guztidxetan dauz amen etzien dxigotillek*
 - *areitxik edo orreitxik ez da falta dxigotillerik*

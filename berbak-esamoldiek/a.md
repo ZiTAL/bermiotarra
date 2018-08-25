@@ -91,7 +91,7 @@ Hitz hau oso zaharra da, emakumezko abokaturik ez zegoenekoa, hain zuzen. Baina 
 - *niri ez eiñ abogadesie lez berba*
 
 **abogada** + **sa** → **abogadesa**
-**sa** atzizkia gaur egun erabiltzen ez dan arren, Bermeon oraindik erabiltzen da.
+**-sa** atzizkia gaur egun erabiltzen ez dan arren, Bermeon oraindik erabiltzen da.
 
 Adjektibo moduan eta askotan substantibo legez.
 
@@ -458,7 +458,7 @@ Azkuek interjekzio moduan sartzen du bere hiztegian. Baina D.A.R.k, Ortuzar aipa
 
 Aitaginarrebagai.
 
-Oso normala da, geroago ere ikusiko den bezala, **ki** atzizkia erabiliz honelako formak egitea.
+Oso normala da, geroago ere ikusiko den bezala, **-ki** atzizkia erabiliz honelako formak egitea.
 
 - *zeure aitxeñarrabakidxegaz ikusi dot*
 - *beran aitxeriarrabakidxe ezango dana etorri da*
@@ -1189,7 +1189,7 @@ Oso urrun. Aurrean badago beste honen antzeko bat, baina hau leunagoa da.
 
 ## AMAÑARRABAKIDXE ##
 
-Amaginarrebagai. Aitaginarreba egin den bezala egiten da; /kidxe/ atzizkia hartuz.
+Amaginarrebagai. Aitaginarreba egin den bezala egiten da; **-kidxe** atzizkia hartuz.
 
 - *amañarrabakidzek erosi tso etzie*
 - *aren amañarrabakidxe neure lagune da*
@@ -1467,7 +1467,7 @@ Askotan **andillo-mandillo** esaten da.
 - *andillo mandillo, zeueneko amari!*
 - *berak andillo mandilluek dxo dau nire alabie*
 
-Hemen **llo** atzizkia gehitu zaio **handi** hitzari.
+Hemen **-llo** atzizkia gehitu zaio **handi** hitzari.
 
 ## ANDIOMO ##
 
@@ -1513,7 +1513,7 @@ Gaztelerazko **andoba** hitza maiz erabiltzen da.
 
 Emaztegaia.
 
-Aurretik esan dugu nola egiten den **lei** atzizkia erabiliz.
+Aurretik esan dugu nola egiten den **-lei** atzizkia erabiliz.
 
 - *Josen andrakidxe da ori*
 - *andrakidxe Bilbon ezetu dau*
@@ -2152,7 +2152,7 @@ Arrakasta. Merkatuan erosle asko egonez gero, jeneroa arin saltzen denean.
 - *portuen itsosupeteko arrapatie egon da eta arraiñek eztau eiñ bost minutu be, eskuetatik pe kendu*
 - *beraniantiek etor diez da eurekaitxik on da arrapatie*
 
-Hitz hau, moduzko forman agertzen da D.A.R.n, **arrapataka**. Gainera, ez du zentzu bera **precipitadamente** jartzen baitu. Hitzaren konposizioa **arrapa** hitza + **ta** atzizkiak osatzen dute. Beraz, definizioa, harrapatzeko eskeintza izango da.
+Hitz hau, moduzko forman agertzen da D.A.R.n, **arrapataka**. Gainera, ez du zentzu bera **precipitadamente** jartzen baitu. Hitzaren konposizioa **arrapa** hitza + **-ta** atzizkiak osatzen dute. Beraz, definizioa, harrapatzeko eskeintza izango da.
 
 ## ARRASA ##
 
@@ -2196,7 +2196,7 @@ Behintzat zentzu hori dauka erabileran.
 - *bestelako arrastie dako mutill orrek, danak beran atzien*
 - *arrastie okin badau be, aur dau ezkondu barik*
 
-**arrakasta** hitzaren laburpena, **ka** atzizkia galduz gero egin da. Hala ere, azken hau, zaharrenen artean ere ez da ezagutzen, bestea bai, ordea.
+**arrakasta** hitzaren laburpena, **-ka** atzizkia galduz gero egin da. Hala ere, azken hau, zaharrenen artean ere ez da ezagutzen, bestea bai, ordea.
 
 ## ARRAÑTXE ##
 
@@ -2739,7 +2739,7 @@ Atrebentzia.
 
 Askotan egiten den bezala, erdarazko hitz batez eta euskal atzizki baiez baliatuz, hitz berria sortu da.
 
-Konposizioan, **atrevi(miento)** + **kuntza** atzizkia. **atrever** + **kuntza** → **atrebekuntza** → **atrebikuntze**.
+Konposizioan, **atrevi(miento)** + **-kuntza** atzizkia. **atrever** + **kuntza** → **atrebekuntza** → **atrebikuntze**.
 
 ## ATROZA ##
 
