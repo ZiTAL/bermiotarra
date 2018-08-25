@@ -60,7 +60,7 @@ Parke.
 
 Gaur egun **Lamera** izen propio bat da. Bermeoko Lamera nagusiari deitzen zaiona, baina besteak ere **lamerak** dira. Badago **lamera txiki** deritzona ere.
 
-Hitz hau gaztelerako **alameda** tik sartu da.
+Hitz hau gaztelerazko **alameda** tik sartu da.
 
 **alameda** → **lameda** → **lamera**.
 
@@ -148,7 +148,7 @@ Bota. Jaurti.
 - *arpeire lantza tsazu ardaue? Laster lantzako tsu berak pe zeuzer*
 - *alako baten, okin txuzen sagar guztidxek lantza tsoz*
 
-Gaztelerako **lanzar** aditzetik zuzenean hartuta dago.
+Gaztelerazko **lanzar** aditzetik zuzenean hartuta dago.
 
 **lanzar** → **lantza**.
 
@@ -578,7 +578,7 @@ Behar bezain besterako eman.
 - *aitxen partilliek luzidu bez, auri da pasaten dana*
 - *gauze gitxi erositxe be asko luziten dau*
 
-Gaztelerako **lucir** aditzetik hartua da eta aditz funtzioa betetzen du, zentzua berdina ez bada ere.
+Gaztelerazko **lucir** aditzetik hartua da eta aditz funtzioa betetzen du, zentzua berdina ez bada ere.
 
 **lucir** → **luzir** + **du** → **luzidu**.
 
@@ -598,5 +598,5 @@ Aurrekoa, baina oraingoan izen funtzioan agertzen da.
 - *orrek zapatak luzimento andikuek tiez*
 - *luzimentoko belarrikuek erosi arren, eztotez imitxen*
 
-**lucir** → **luzir** + **-miento** (gaztelerako atzizkia) → **luzimento** eman du.
+**lucir** → **luzir** + **-miento** (gaztelerazko atzizkia) → **luzimento** eman du.
 

@@ -34,7 +34,7 @@ Apur batengatik.
 
 ## IDXEK ETA ##
 
-Aditz guztiekin erabilia da. Gaztelerako **ya que...** adierazten du.
+Aditz guztiekin erabilia da. Gaztelerazko **ya que...** adierazten du.
 
 - *idxek eta etor zaran, au biarra ein gu*
 - *eztot pentza etortie, baie idxek eta amen nauen, ziñera dxungo gariez*
@@ -42,7 +42,7 @@ Aditz guztiekin erabilia da. Gaztelerako **ya que...** adierazten du.
 - *idxek eta eztakidxen, etzagu esango ezebe*
 - *idxek eta apurtute dauen, bota eingu sastarratara*
 
-Gaztelerako **ya que** horri **eta** gehitu zaio forma hori lortuz.
+Gaztelerazko **ya que** horri **eta** gehitu zaio forma hori lortuz.
 
 **ya que** → **iake** → **ijake**
 
@@ -332,7 +332,7 @@ Sartu.
 - *isillik ezpazauz kutxillue inkeko tsut tripen*
 - *untze bat inke dxast buruen*
 
-Gaztelerako **hincar** aditzak **inkatu** eman behar zuen, baina ez da geratu horrela, bide erdian geratu da.
+Gaztelerazko **hincar** aditzak **inkatu** eman behar zuen, baina ez da geratu horrela, bide erdian geratu da.
 
 ## INKIRRIDXO ##
 
@@ -415,7 +415,7 @@ Azken esaldi honetan bi forma agertzen dira:
 1. Izenaren funtzioa betetzen duen **intrankillidadie**.
 2. Adberbio funtzioa betetzen duen **trankill** antonimoa.
 
-**Lasai** eta **urduri** hitzen ordez, gaztelerako hitz hauek erabiltzen dira normalki.
+**Lasai** eta **urduri** hitzen ordez, gaztelerazko hitz hauek erabiltzen dira normalki.
 
 ## INTZENTZUE ##
 
@@ -510,7 +510,7 @@ Beti atzean dabilena.
 - *enator zugaz, itsuatzekue naiela diñozu te*
 - *itsuatzekue lez ibilltxen dxatzo amari, atzien atzien*
 
-Gaztelerako **lazarillo** edo horren antzeko zerbait definitzeko erabili izan dela dirudi. Baina **lazarillo**, **itsuaurrekoa** izango da eta ez alderantzizkoa.
+Gaztelerazko **lazarillo** edo horren antzeko zerbait definitzeko erabili izan dela dirudi. Baina **lazarillo**, **itsuaurrekoa** izango da eta ez alderantzizkoa.
 
 ## ITSUATZIEN ##
 
@@ -633,7 +633,7 @@ Jaso.
 - *diruek ixe! Ezta makala zelako diruek ixe txuzen*
 - *orrek diro danak ixeten badoitxuz, aberastu eingo da*
 
-Gaztelerako **izar** aditza du oinarri hitz honek.
+Gaztelerazko **izar** aditza du oinarri hitz honek.
 
 **izar** → **iza** → **ixe**.
 
@@ -767,7 +767,7 @@ Ergela. Tontoa. Harroa.
 - *iñuzentiaue da, danak tauzela berari begire pentsaten dau*
 - *baie ze tontue da ba, iñuzente utse da*
 
-Gaztelerako **inocente** hitza, zentzua aldatuta erabiltzen da.
+Gaztelerazko **inocente** hitza, zentzua aldatuta erabiltzen da.
 
 ## IÑUZENTEKEIDXEK ##
 

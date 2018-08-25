@@ -19,7 +19,7 @@ Askatu.
 - *ekau neuri zure mandako izarien puntie ta zafa bestie*
 - *au katie zafa, miñ eitxen dost eta*
 
-Gaztelerako **zafar** = **desatar** hitzetik zuzenean hartuta dago.
+Gaztelerazko **zafar** = **desatar** hitzetik zuzenean hartuta dago.
 
 ## ZAFRAN ##
 
@@ -30,7 +30,7 @@ Ugaritasunean.
 - *zafrie aurrek takoie, eurek kure dauien beste dirogaz*
 - *zelako zafrie dakot ba, perzebak dxaten kantsa be enai eingo*
 
-Hitza, formaz, gaztelerako **zafra** da, baina ez esanahia. Erdaraz dituen esanahiak, bat ere ez da egokia Bermeon erabiltzen den zentzua emateko.
+Hitza, formaz, gaztelerazko **zafra** da, baina ez esanahia. Erdaraz dituen esanahiak, bat ere ez da egokia Bermeon erabiltzen den zentzua emateko.
 
 ## ZAGAN ##
 
@@ -41,7 +41,7 @@ Atoian eraman. Konparazioan pertsonak eraman atoian.
 - *zuk e nozu eruten zagan, neuk korriten dot eta*
 - *zagan artunde erun dau imie*
 
-Gaztelerako **zaga**, **llevar detrás** hartu da, baina esanahi zabalagoa dauka.
+Gaztelerazko **zaga**, **llevar detrás** hartu da, baina esanahi zabalagoa dauka.
 
 ## ZAGIE ##
 
@@ -53,7 +53,7 @@ Zaga. Kasu honetan, norbaitek **zaga** bera eramaten duenean.
 
 ## ZAIDXE ATARA ##
 
-Zahia atera. Gaztelerako **caspa**. Era guztietara astindu.
+Zahia atera. Gaztelerazko **caspa**. Era guztietara astindu.
 
 - *motibo barik zelako zaidxe atara dost ba*
 - *etor danien berari etsolakon abixe zaidxe ata tso*
@@ -214,7 +214,7 @@ Lanbro.
 - *ikusten zan dan, aulako zarrazoi andi bet datorrela*
 - *onek zarrazoiek eztau itxiko ezer eitxen be*
 
-Gaztelerako **cerrazon** = **oscuridad grande ocasionada por nubes negras** hitza da honen oinarria, baina esanahia ez da bera.
+Gaztelerazko **cerrazon** = **oscuridad grande ocasionada por nubes negras** hitza da honen oinarria, baina esanahia ez da bera.
 
 ## ZARTAZO / UE ##
 
@@ -225,7 +225,7 @@ Kolpea.
 - *zartazo bat emon, neure partez*
 - *ill dxau zartazoka mutille*
 
-Kasu honetan ez du **-ada** atzizkia hartu, **-zo** atzizkia baizik. Askotan gertatzen da fenomeno hau Bermeon, hau da, gaztelerako atzizki bat hartzea.
+Kasu honetan ez du **-ada** atzizkia hartu, **-zo** atzizkia baizik. Askotan gertatzen da fenomeno hau Bermeon, hau da, gaztelerazko atzizki bat hartzea.
 
 **zart** + **zo** → **zartazo**. Hala ere, esan beharra dago, **zartada** hitza ere erabiltzen dela eta biak ia ia parekaturik daukatela erabilera.
 
@@ -420,7 +420,7 @@ Adimena.
 - *neu bixi naien artien artun zientzidxe gero*
 - *aspaldidxon zientzidxe be galdute nabill*
 
-Gaztelerako **ciencia** hitz farfailtsua erabili da beste izen hori sortzeko.
+Gaztelerazko **ciencia** hitz farfailtsua erabili da beste izen hori sortzeko.
 
 **ciencia** → **zientzia** → **zientzidxe**.
 
@@ -440,7 +440,7 @@ Zartada Kolpea. Bronka.
 - *emoten tsuten zintxiegaz beie be dxo eingo zu*
 - *neu pe zintxie atara bikot neuk kure dotena eitxeko*
 
-Gaztelerako **cinta** hartu eta jasan dituen fonetikazko aldaketari esker, hitz berri bat sortu da.
+Gaztelerazko **cinta** hartu eta jasan dituen fonetikazko aldaketari esker, hitz berri bat sortu da.
 
 ## ZIRIZIRIDXE ##
 
@@ -558,25 +558,25 @@ Zuriz gora, Hau izango litzateke hitza. Konparazioan erabiltzen da, esaterako be
 
 ## ZUK TAKOZU ARUE ##
 
-Zelakoa... Gaztelerako **torta** izango litzateke.
+Zelakoa... Gaztelerazko **torta** izango litzateke.
 
 - *nok esan dotsu zuri ni enaiela etorriko, arek? Zuk dakozu arue, zelan enai etorriko ba?*
 
 ## ZUK TAKOZU ATZA ##
 
-Zelakoa... Gaztelerako **torta** izango litzateke.
+Zelakoa... Gaztelerazko **torta** izango litzateke.
 
 - *amar metro tela biarko dozule kortiñie eitzeko? Zuk takozu atza, baitxe hogei metro be*
 
 ## ZUK TAKOZU BREKEKE ##
 
-Sinistu ere ez. Gaztelerako **torta** izango litzateke.
+Sinistu ere ez. Gaztelerazko **torta** izango litzateke.
 
 - *enebada! Zuk takozu brekeke, Gabonak ganien da ondiño olentzeroko erropak eitxeko*
 
 ## ZUK TAKOZU MUNDUE ##
 
-Gaztelerako **torta** izango litzateke.
+Gaztelerazko **torta** izango litzateke.
 
 - *zuk takozu mundue! Santainfanzian bizi zara, zeure libruek eta zeure diskuetatik urten be eztozu eitxen*
 

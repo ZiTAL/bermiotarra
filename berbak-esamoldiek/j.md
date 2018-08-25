@@ -79,7 +79,7 @@ Hezurretako artikulazioa.
 - *ba nik azidentie okin dxotenien, izter bidxetako juegue okin dxot lotute*
 - *medikuek esan dost, atzamarran juegue ez galtzieko pelotie ibilltxeko eskuetan*
 
-Gaztelerako **juego** (de dos cosas articuladas) hitzetik literalki hartua.
+Gaztelerazko **juego** (de dos cosas articuladas) hitzetik literalki hartua.
 
 ## JUGOI / E ##
 

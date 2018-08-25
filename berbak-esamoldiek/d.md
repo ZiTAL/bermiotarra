@@ -131,7 +131,7 @@ Zentzu guzti hauetan, baina, gainera, gogorrak direnean erabiltzen da.
 - *arek atara dosten degollue erropie etsatelako erosi...*
 - *ez atara niri degollorik nik eztakot kulperik eta*
 
-Bermeoko hizkeran hitzak sortzeko edo egokitzeko jokaera argi ikus daiteke etsenplu hauetan. Gaztelerako **degüello** hitza erabilli da:
+Bermeoko hizkeran hitzak sortzeko edo egokitzeko jokaera argi ikus daiteke etsenplu hauetan. Gaztelerazko **degüello** hitza erabilli da:
 
 **degüello** → **degollu** diptongoa monoptongatuz.
 
@@ -155,7 +155,7 @@ Nabarmen utzi. Salatu. Lotsarazi.
 - *zeuk deklara zu masuste guztidxe*
 - *iñok eztau deklara amen ezer, asike ixillik on*
 
-Gaztelerako **declarar** aditza gauzak agirian jartzeko erabiltzen da.
+Gaztelerazko **declarar** aditza gauzak agirian jartzeko erabiltzen da.
 
 **declarar** → **deklara**.
 
@@ -211,7 +211,7 @@ Zuzen.
 - *eztakozu galtzeirik derrot dxun ezkero*
 - *iñon lotu barik dxun garizen, derrot bertararte*
 
-Hitz hau gaztelerako **derrota** = **rumbo de las embarcaciones** hitzetik hartua da. Azken bokala galdu ondoren **derrot** geratu da eta zentzua aldatu egin da pixka bat, **con rumbo** izan beharrean **derecho**, **sin parar** egin da.
+Hitz hau gaztelerazko **derrota** = **rumbo de las embarcaciones** hitzetik hartua da. Azken bokala galdu ondoren **derrot** geratu da eta zentzua aldatu egin da pixka bat, **con rumbo** izan beharrean **derecho**, **sin parar** egin da.
 
 ## DESABANDONA ##
 
@@ -223,7 +223,7 @@ Arraro samarra den arren, hitz honek esanahi hori dauka Bermeon. Oso erabilia da
 - *etzie desabandonaten badau deretxo guztidxek galtzien txuz*
 - *eskapa eiñ dxau Madrillera, gixona ta alabie desabandonata*
 
-Ikusten denez, **abandonar** gaztelerako aditza eta euskaraz ere erabiltzen den **des-** aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
+Ikusten denez, **abandonar** gaztelerazko aditza eta euskaraz ere erabiltzen den **des-** aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
 
 ## DESAPARTA ##
 
@@ -326,7 +326,7 @@ Ez da arduragabekeria, adia galtzea baizik.
 - *deskideta beste bide batetik dxun gariez*
 - *ez deskide, ze gauzek ondo ezpadiez ikasten gero aztu eitxen diez*
 
-Gaztelerako **descuidar** aditzetik hartuta dago baina zentzua ez berdina.
+Gaztelerazko **descuidar** aditzetik hartuta dago baina zentzua ez berdina.
 
 **descuidar** → **deskide**. Hau **deskidatu** izan beharko litzateke, baina ez du eman.
 
@@ -523,7 +523,7 @@ Arropa garbiketa.
 - *eskeitxe dakozun dxabonadurie, ariñ ein zu*
 - *dxabonadurek ez palelddotez okiñ Bilbora dxungo leidnai*
 
-Hitz hau, fonetikazko aldakuntzen bidez ezberdintzen da gaztelerakotik. Normalki erabiltzen den hitz bat da eta aspalditik gainera.
+Hitz hau, fonetikazko aldakuntzen bidez ezberdintzen da gaztelerazkotik. Normalki erabiltzen den hitz bat da eta aspalditik gainera.
 
 ## DXABOTURE ##
 
@@ -673,7 +673,7 @@ Jaka luzea. Zentzu peioratiboan erabiltzen da.
 - *beran dxipetoie garbiten on nai ontxerarte*
 - *dxipetoieri botoiek kanbidxe bi tsatez*
 
-Hitz honekin batera **jipoi** ere erabiltzen da; eta gaztelerako **chaquetón** hitzaren azken silaba **ton** eta **jipoi** hitzaz konposatuta dagoela dirudi.
+Hitz honekin batera **jipoi** ere erabiltzen da; eta gaztelerazko **chaquetón** hitzaren azken silaba **ton** eta **jipoi** hitzaz konposatuta dagoela dirudi.
 
 **jipoi** + **ton** → **jipoiton** → **dxipeton** → **dxipetoi**.
 

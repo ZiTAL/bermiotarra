@@ -17,7 +17,7 @@ Lagun arteko deigarri bat.
 - *amen dator nire lagune. Txo paisano, nora zuez ba?*
 - *orreri paisanueri esan laster natorrela*
 
-Gaztelerako **paisano** zuzen zuzenean sartu da.
+Gaztelerazko **paisano** zuzen zuzenean sartu da.
 
 ## PALPAL ##
 
@@ -38,7 +38,7 @@ Kuleroak.
 - *txixek urten dost pantalonatara*
 - *pantalonai puntillie imin bi tzatie*
 
-Gaztelerako **pantalón** nola sartu den esanahi horretaz ez da erraza jakitea. Hala ere analogiaz egin dela argi dago.
+Gaztelerazko **pantalón** nola sartu den esanahi horretaz ez da erraza jakitea. Hala ere analogiaz egin dela argi dago.
 
 ## PAPARDUEN ARPIDXE ##
 
@@ -129,7 +129,7 @@ Jarri (pertsona).
 - *aur para ezkero obeto ikusten zaitxut*
 - *kalien eskiñien para ta, bertan on da, neu dxun artien*
 
-Gaztelerako **parar** = **detener** aditza hartu da zentzu honetaz erabiltzeko. Baina aurretik ikusi dugu beste berba bat, gaztelerako zentzu konkretu honetan agertzen dena: **apara** hitza hain zuzen.
+Gaztelerazko **parar** = **detener** aditza hartu da zentzu honetaz erabiltzeko. Baina aurretik ikusi dugu beste berba bat, gaztelerazko zentzu konkretu honetan agertzen dena: **apara** hitza hain zuzen.
 
 ## PARAUE ##
 
@@ -202,7 +202,7 @@ Pasadizua. Gertatutakoa.
 - *tristie bada pasaizue ez konta*
 - *keba! barre eitxeko pasaizue da ta*
 
-Azkuek ez du jaso eta berriz, ere, T. Etxebarriaren **Léxico de Arrate** aipatzen du D.A.R.k Bermeoko hitz bat azaltzeko. Gaztelerako **pasaje** = **trozo de un libro** tik sartuko zen seguru aski.
+Azkuek ez du jaso eta berriz, ere, T. Etxebarriaren **Léxico de Arrate** aipatzen du D.A.R.k Bermeoko hitz bat azaltzeko. Gaztelerazko **pasaje** = **trozo de un libro** tik sartuko zen seguru aski.
 
 ## PASIDE ##
 
@@ -213,7 +213,7 @@ Paseo. Buelta.
 - *egunien, egunien pasidie eiñ ezkero argaldu eitxen da*
 - *pasidek eta pasidek emoten duz guk Benidorren gauzenien*
 
-Gaztelerako **paseo** hitza eta **-ada** atzizkia elkartu dira. **paseo** + **ada** → **paseado** → **pasiada** → **pasida** → **paside**. Esan beharra dago **pasiadie** ere esaten dela.
+Gaztelerazko **paseo** hitza eta **-ada** atzizkia elkartu dira. **paseo** + **ada** → **paseado** → **pasiada** → **pasida** → **paside**. Esan beharra dago **pasiadie** ere esaten dela.
 
 ## PASIÑUE ##
 
@@ -224,7 +224,7 @@ Hainbeste... bait...
 - *kantien pasiñuegaz samak pe garramatate okiñ dxu*
 - *diruen pasiñuegaz enfadata dauz biejak eitxen*
 
-Gaztelerako **pasión** erabili da eta hitza pertsonei badagokie ere, euskaraz gauzei aplikatzen zaie.
+Gaztelerazko **pasión** erabili da eta hitza pertsonei badagokie ere, euskaraz gauzei aplikatzen zaie.
 
 ## PASMA ##
 
@@ -253,7 +253,7 @@ Kutsatu.
 - *eztule eiñ dxast pega, granuek be pega eiñ dxastez, baie suertie ez dxast pegaten ba*
 - *dana pegaten dxatzo berari, nik eztaitx zer eitzen dauen*
 
-Gaztelerako **pegar** = **contagiar** hitzetik zuzenean hartua.
+Gaztelerazko **pegar** = **contagiar** hitzetik zuzenean hartua.
 
 ## PEKUE ##
 
@@ -283,7 +283,7 @@ Borroka. Elkar joka.
 - *edozeitxik armaten dauie pellikadak*
 - *pellikada gogorra ezan bi zan dau, goixaldien on dana goiko plazan*
 
-Gaztelerako **pelea** hitza hartu da hitz honen oinanitzat:
+Gaztelerazko **pelea** hitza hartu da hitz honen oinanitzat:
 
 **pelea** + **-ada** atzizkia → **peleada**.
 
@@ -313,7 +313,7 @@ Txano. Neketsu.
 - *ekarri eistazu eskillarie penas nau te*
 - *penas penas eitxen dizen gauzek aprezidxo geidxau dakoie*
 
-Gaztelerako **a duras penas**-etik, azken hitza hartu da.
+Gaztelerazko **a duras penas**-etik, azken hitza hartu da.
 
 ## PENAS PENASKA ##
 
@@ -339,7 +339,7 @@ Ergela.
 - *zure nobidxue da, pendejo utse, zetako esan bi dau nireitxik ezer?*
 - *beti ezan da pendejue, andrak paiño txarraue dako miñe*
 
-Gaztelerako **pendejo** = **hombre pusilánime** da formaz, baina esanahia ezberdina da eta gainera, emakumezkoetan ere erabilia.
+Gaztelerazko **pendejo** = **hombre pusilánime** da formaz, baina esanahia ezberdina da eta gainera, emakumezkoetan ere erabilia.
 
 ## PENTZURE ##
 
@@ -457,7 +457,7 @@ Pintore.
 - *pintoreruen kontuek idxen dost, zerora*
 - *ez esan pintoreruei, neuk eingo tzut eta*
 
-Seguru aski gaztelerako **pinturero** hitza hartu da nahiz eta honen esanahia guztiz ezberdina izan.
+Seguru aski gaztelerazko **pinturero** hitza hartu da nahiz eta honen esanahia guztiz ezberdina izan.
 
 ## PIPETOI ##
 
@@ -467,7 +467,7 @@ Pipa. Dupa.
 - *pipetoi andi bet, dxeusi dxatzo ganera, da anbulantzidxen erun dauie*
 - *egun santo guztidxen on gariez pipetoiek garbiten*
 
-Gaztelerako **pipa** hitzari **-toi** atzizkia erantzi zaio handitasuna adierazteko.
+Gaztelerazko **pipa** hitzari **-toi** atzizkia erantzi zaio handitasuna adierazteko.
 
 **pipa** + **toi** → **pipatoi** → **pipetoi**.
 
@@ -532,7 +532,7 @@ Mezprezuz, burlaz edo irain txiki baten moduan erabiltzen da. Gizon edo emakumea
 - *eurek pitxonak geu nora guzen begire on dxatzuz*
 - *aurreri pitxoniri esan eitxeko*
 
-Gaztelerako **pichón** erabiltzen da adjektibo bat sortzeko.
+Gaztelerazko **pichón** erabiltzen da adjektibo bat sortzeko.
 
 ## PITXUKEI / DXEK ##
 
@@ -607,7 +607,7 @@ Hitz honen konpozaketa **plast** onomatopeiazkoa eta **-zo** atzizkiak osatzen d
 
 ## PLATUXA ##
 
-Oso zapala den arraina da gaztelerako **platija** deritzona, baina konparazioan, edozer gauza zapal definitzeko erabilia.
+Oso zapala den arraina da gaztelerazko **platija** deritzona, baina konparazioan, edozer gauza zapal definitzeko erabilia.
 
 - *platutxe da berau ogidxe*
 - *platuxie lako surre dako berak mutillek*
@@ -634,14 +634,14 @@ Ez dakigu nondik sar zitekeen hitz hau, gaztelaniatik dirudi baina ez da ziurra.
 
 ## PLEITXE ##
 
-Pleita. Gaztelerako **flete** hitzetik sartua, negozioei buruz edo hauek egiteko aukerari buruzko edozer izan daiteke.
+Pleita. Gaztelerazko **flete** hitzetik sartua, negozioei buruz edo hauek egiteko aukerari buruzko edozer izan daiteke.
 
 - *eztako oraiñ artien okiñ dxauen pleitxerik*
 - *bai, galdu dau okiñ dxauen pleitxe*
 - *zelako pleitxe okikun ba, arek aurrera segidu bazauen*
 - *erdu ametik, amen eztau pleitxerik eta*
 
-Bermeon sarri entzun izan da gaztelerako esaldi hau:
+Bermeon sarri entzun izan da gaztelerazko esaldi hau:
 
 - *vamos niñas que aquí no hay flete*.
 
@@ -677,7 +677,7 @@ Lelo moduen erabiltzen da, eta egoera ezberdinetan. Kritika moduan.
 
 Polizia.
 
-Adinekoen artean bakarrik entzuten da, baina merezi du gehiago erabiltzea, gaztelerako **policía** asko sartuta baitago.
+Adinekoen artean bakarrik entzuten da, baina merezi du gehiago erabiltzea, gaztelerazko **policía** asko sartuta baitago.
 
 - *alako baten, poliziko guztidxek aldabatera, dxoten asi dizen*
 - *polizikuen zartadak bakitxez nik zer dizen*
@@ -833,7 +833,7 @@ Energia. Indarra.
 - *potestaderik pe eztot okiñ kontestateko*
 - *zuk ez takozu potestaderik ori eitzeko, ezta zure ardurie*
 
-Gaztelerako **potestad** = **poder** hitza hartu da, baina zentzu zabalagoan erabilita.
+Gaztelerazko **potestad** = **poder** hitza hartu da, baina zentzu zabalagoan erabilita.
 
 ## POTORRUE ##
 
@@ -957,7 +957,7 @@ Ahul. Indarge.
 - *poztixuen dau baie laster imingot ondo ori kuadrue*
 - *poztixuen imiñi, lekue topa arte*
 
-Gaztelerako **postizo** dirudi, baina formaz berdina izan arren esanahi ezberdina da.
+Gaztelerazko **postizo** dirudi, baina formaz berdina izan arren esanahi ezberdina da.
 
 ## PRESTUE ##
 
@@ -991,7 +991,7 @@ Aukera. Proposamena.
 - *proponziño txarrak okin txuzelez, Ateletin geratu da*
 - *proportziño ona dauenien gauze guztidxek itxi bi diez*
 
-Ez du zerikusirik gaztelerako **proporción** hitzarekin.
+Ez du zerikusirik gaztelerazko **proporción** hitzarekin.
 
 ## PULPERO ##
 
@@ -1011,7 +1011,7 @@ Zeiharresana. Zirikada. Puntada.
 - *bota dau arek auntxe be puntadie*
 - *puntadak botaten abille da*
 
-Seguru aski **punta** = **puya** gaztelerako hitza izango da hitz honen forma eta esanahiaren oinarria.
+Seguru aski **punta** = **puya** gaztelerazko hitza izango da hitz honen forma eta esanahiaren oinarria.
 
 ## PUNTXETA ##
 
@@ -1041,7 +1041,7 @@ Itxaroten.
 - *ein biarran puruz, errementata akaba dauie*
 - *ardauen puruz bixi de a, baie lasterko da*
 
-Gaztelerako **de puro...** horren zentzua eta hitza ere bera hartu du. Edutezko genitiboarekin erabiltzen da.
+Gaztelerazko **de puro...** horren zentzua eta hitza ere bera hartu du. Edutezko genitiboarekin erabiltzen da.
 
 ## PUSTILLE ##
 

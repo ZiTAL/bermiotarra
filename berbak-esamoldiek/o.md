@@ -113,7 +113,7 @@ Oilartuta.
 - *bestelako ollargita due or, mundue dxan biarreko*
 - *ezin dxatzo esan ezebe, zeuzer esaten batsazu laster urtengo dau oillargitak*
 
-Gauza kuriosoa gertatzen da hitz honekin, **oilar** maskulinoa izanik, gaztelerako **gallito**-ren azken silaba biak hartuz gero, femeninoa egiteko **a** sartu zaio. Hala ere, gizonezkoei eta emakumezkoei aplikatzen zaie.
+Gauza kuriosoa gertatzen da hitz honekin, **oilar** maskulinoa izanik, gaztelerazko **gallito**-ren azken silaba biak hartuz gero, femeninoa egiteko **a** sartu zaio. Hala ere, gizonezkoei eta emakumezkoei aplikatzen zaie.
 
 ## OILLARRAN BEGIDXE ##
 
@@ -167,7 +167,7 @@ Iskanbila.
 - *zelako okasiñue arma dauie ba, amak eta aitxek pe sartun eiñ dxiez*
 - *nik eztot gu zan sartun, baie azkanien okasinue libreteko sartun ein bi zan nai*
 
-Ez du zerikusirik gaztelerako **ocasión** bitzarekin. Aurreko hitza bemendik sortu da.
+Ez du zerikusirik gaztelerazko **ocasión** bitzarekin. Aurreko hitza bemendik sortu da.
 
 ## OKASIÑUEN MAMARRUE ##
 
@@ -491,7 +491,7 @@ Haserretzen denean berba hau esaten da.
 - *niri eztost emongo ospasik nik eztot kure asarratu te*
 - *ospas, ospas da ospas, iru bidar ospas, zer guzu geidxau*
 
-Beharbada gaztelerako **largo** adierazteko erabiltzen den **ospa** esanahia izango da oinarria, baina ez da segurua.
+Beharbada gaztelerazko **largo** adierazteko erabiltzen den **ospa** esanahia izango da oinarria, baina ez da segurua.
 
 ## OSTENTADA/ IE ##
 
@@ -607,7 +607,7 @@ Ezpainetako ekzema.
 - *bakixu otzikarak nasta eitxen dizena?*
 - *uretan sartukeran otza sentidu dot eta laster urtengo dau otzikariek*
 
-Ez da hitzaren zentzu konkretuan erabiltzen. Hala ere, badirudi gaztelerako **frio**-tik hartu dela zentzua: **tengo un frio en los labios**.
+Ez da hitzaren zentzu konkretuan erabiltzen. Hala ere, badirudi gaztelerazko **frio**-tik hartu dela zentzua: **tengo un frio en los labios**.
 
 ## OTZUE ##
 
@@ -618,7 +618,7 @@ Gizon oso galanta.
 - *otzue bada, baie enplasto utse be bai*
 - *Laiden otzue lako mutillek oten diez*
 
-Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, **otzo** gaztelerako **oso** da. Beharbada gaztelerako esaldia kontutan hartuta egingo zen.
+Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, **otzo** gaztelerazko **oso** da. Beharbada gaztelerazko esaldia kontutan hartuta egingo zen.
 
 ## OZALIE ##
 

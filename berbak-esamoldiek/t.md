@@ -8,7 +8,7 @@
 - *gixon tabardilliek imin nau beran gauzek eitxen*
 - *txo! Tabardillie aix ela? Ori eitxen dok olan?*
 
-Hitz honek gaztelerako **tabardillo** = **fiebre que altera el sistema nervioso** esanahia dauka.
+Hitz honek gaztelerazko **tabardillo** = **fiebre que altera el sistema nervioso** esanahia dauka.
 
 2. Gauza gogorra.
 
@@ -252,7 +252,7 @@ Patxada.
 - *tenplantzie okin bi de, ostantzien infartue emoten dau*
 - *ori dona tenplantzie, altzako zara, zauzen lekotik!*
 
-Ez du gaztelerako **templanza** hitzaren esanahia, nahiz eta formaz berdina izan.
+Ez du gaztelerazko **templanza** hitzaren esanahia, nahiz eta formaz berdina izan.
 
 **templanza** → **tenplanza** → **tenplantza**.
 
@@ -323,7 +323,7 @@ Itsasoan gauez ibiltzen den haize freskoa. Baina konparazioan biharamona, ostea 
 - *atzo gaueko terrela pasa barik takozu*
 - *plaidxera dxun da terrela pasaten*
 
-Gaztelerako **viento terral** hitza erabiltzen da honetarako.
+Gaztelerazko **viento terral** hitza erabiltzen da honetarako.
 
 ## TERRESTE ##
 
@@ -334,7 +334,7 @@ Lehorrean lan egiten duena. Ez dakit kostaldeko beste berrietan erabiltzen den h
 - *eztau guzan alabie terrestiegaz ezkondutie*
 - *partidue terrestiek eta mariñeruen artien ezango da*
 
-Gaztelerako **terrestre** = **referentes la tierra** izan da erabilitako hitza.
+Gaztelerazko **terrestre** = **referentes la tierra** izan da erabilitako hitza.
 
 ## TERRIÑE ##
 
@@ -355,7 +355,7 @@ Tartera. Baina zentzu zabalagoan, hau da era guztietako kazolak, basazkoak izan 
 - *tertera andi baten imin guz muxillek*
 - *aur terterautxuen imiñi okelie*
 
-Gaztelerako **tartera** hitzak esanahi mugatua badu ere, Bermeoko erabileran askoz ere zabalagoa dauka.
+Gaztelerazko **tartera** hitzak esanahi mugatua badu ere, Bermeoko erabileran askoz ere zabalagoa dauka.
 
 ## TERTZA ##
 
@@ -393,7 +393,7 @@ Tertza bilbatzearen horren konparazioz, zera ematen du: Nahastu. Intrigatu. Azpi
 
 ## TERTZINAK ##
 
-Emakumearen hilekoak. Oraingoan gaztelerako **tercianas** antzinako berba da. Gainera peioratiboan erabiltzen da.
+Emakumearen hilekoak. Oraingoan gaztelerazko **tercianas** antzinako berba da. Gainera peioratiboan erabiltzen da.
 
 - *dardakadan zauz alabatxu, tertzinakaz zauz ela?*
 - *ezta etorri plaidxera. Tertzinakaz ongo da!*
@@ -424,7 +424,7 @@ Tiradera.
 - *tiadorak eztakozen armaidxorik eztot kure*
 - *nik eztot kure tiadorik ba*
 
-Gaztelerako **tirador** = **asidero para cerrar y abrir** hitza, kaxa adierazteko zabaldu da.
+Gaztelerazko **tirador** = **asidero para cerrar y abrir** hitza, kaxa adierazteko zabaldu da.
 
 ## TIESKUE ##
 
@@ -434,7 +434,7 @@ Kioskoa.
 - *ainbeste buelta emon tsagu tieskuri arroskuen*
 - *goiko plazako tieskoko bonbille guztidzek apurtu dauie*
 
-Gaztelerako **quiosco** edo **kiospio** hitza da horren etimologia.
+Gaztelerazko **quiosco** edo **kiospio** hitza da horren etimologia.
 
 ## TINDI ##
 
@@ -518,7 +518,7 @@ Tirria. Ezinikusia.
 - *tirridxe okitxie ezta ona ba*
 - *edozeineri dakotso tirridxe orrek*
 
-Gaztelerako **tirria** da, eta zentzua ere berbera. Azkuek hiru definizio ematen ditu hitz horrentzat eta hirugarrena da zentzu honetaz jaso duena, Goi-Nafarreraz.
+Gaztelerazko **tirria** da, eta zentzua ere berbera. Azkuek hiru definizio ematen ditu hitz horrentzat eta hirugarrena da zentzu honetaz jaso duena, Goi-Nafarreraz.
 
 ## TOFEZ ##
 
@@ -706,7 +706,7 @@ Barrutik krisketaz atea itxi.
 - *tranka zu ondo atie?*
 - *nik ondo trankaten dotez bentanak eta balkoie be*
 
-Gaztelerako **atrancar** edo **tranear** aditza erabiltzen da kasu honetan, eta funtzioa ere aditzarena dauka.
+Gaztelerazko **atrancar** edo **tranear** aditza erabiltzen da kasu honetan, eta funtzioa ere aditzarena dauka.
 
 ## TRANKIE ##
 
@@ -726,7 +726,7 @@ Pausu luzea, handia.
 - *tranko txikidxek eitxen bazuz, ez zara allegako eguno be*
 - *San Juanek iru trankotan eiñ dxau Bermiotik Gaztelugatxerako bidie*
 
-Gaztelerako **tranco**-tik sartu da zuzenean. Azkuek baxe-nafarreraz eta Erronkariko Uztarrozen jaso du zentzu honetaz.
+Gaztelerazko **tranco**-tik sartu da zuzenean. Azkuek baxe-nafarreraz eta Erronkariko Uztarrozen jaso du zentzu honetaz.
 
 ## TRAPO OLATUE ##
 
@@ -833,7 +833,7 @@ Estutu.
 - *ondo trinketen bazuz ez tiez apurtuko*
 - *ezpastazu emoten dirue, trinke eingo zaitxut*
 
-Gaztelerako **trincar** aditza pixka bat aldatuz edo behintzat zentzu zabalagoan erabiltzen da. Funtzioa ere aditzarena betetzen du.
+Gaztelerazko **trincar** aditza pixka bat aldatuz edo behintzat zentzu zabalagoan erabiltzen da. Funtzioa ere aditzarena betetzen du.
 
 ## TRINKETA ##
 
@@ -984,7 +984,7 @@ Euri-zaparrada.
 - *ezta gitxiaureko, inundaziñuek berez datoz truxuekaz*
 - *ez aitxetu truxurik, ondiño aztu barik dakotez udekuek eta*
 
-Gaztelerako **chuzos** hitzetik sartutakoa dela dirudi.
+Gaztelerazko **chuzos** hitzetik sartutakoa dela dirudi.
 
 ## TUNBE ##
 
@@ -1417,7 +1417,7 @@ Ukabilkada. Kolpea.
 - *emon txikotazo bat, merezidu dau te*
 - *txikotazoka zatitxu eiñ dxau, betik altzateko potestade barik itxi dau*
 
-Hitz hau ere zuzenean hartu da gaztelerako **chicotazo** hitzetik.
+Hitz hau ere zuzenean hartu da gaztelerazko **chicotazo** hitzetik.
 
 ## TXIKOTETIK ##
 
@@ -1550,11 +1550,11 @@ Zoratuta egon.
 - *beran arrebiek esan dau txingeta dauela beran nebie*
 - *txingeta ongo da, baie badaki zer eitzen dauen*
 
-Hitz honen etimologia Latino Amerikan erabiltzen den gaztelerako **chingar** = **embringarse, beber mucho** izango da. Baina hor infinitibo forma horretan bakarrik agertzen da, eta Bermeon infinitiboan oso gutxi erabiltzen, hau da, **txinge** oso eskasa da erabileran. Gainera zentzun ere oso ezberdina da, semantikoki paralelismo bat agertzen bada ere.
+Hitz honen etimologia Latino Amerikan erabiltzen den gaztelerazko **chingar** = **embringarse, beber mucho** izango da. Baina hor infinitibo forma horretan bakarrik agertzen da, eta Bermeon infinitiboan oso gutxi erabiltzen, hau da, **txinge** oso eskasa da erabileran. Gainera zentzun ere oso ezberdina da, semantikoki paralelismo bat agertzen bada ere.
 
 ## TXINGO / UE ##
 
-Cuban esaten den gaztelerako **chingo** = **diminuto** hitza da formaz eta esanahiaz, Azkuek ere Gernikan jaso du hitz hau, baina esanahia **copo de nieve pequeño y seco** da.
+Cuban esaten den gaztelerazko **chingo** = **diminuto** hitza da formaz eta esanahiaz, Azkuek ere Gernikan jaso du hitz hau, baina esanahia **copo de nieve pequeño y seco** da.
 
 Guk, konparazioan, kaka mokordo oso txikiak eta sikuak adierazteko erabiltzen da, hau da umeenak.
 
@@ -1944,7 +1944,7 @@ Pinpirina. Harroa. Gehienetan mutila izaten da, baina noiz edo noiz neskari ere 
 - *bakixu nor dan txulibriñe, zeure aiztien koñatie*
 - *orrek danak tiez txulibriñ txulibriñek*
 
-Gaztelerako **chulo / a** hartu da oinarritzat; eta gero, **-in** atzizkia jarriz, **chulín** gertatu ondoren, hau indartzeko, **-bri-** tartizkia erantsi zaio.
+Gaztelerazko **chulo / a** hartu da oinarritzat; eta gero, **-in** atzizkia jarriz, **chulín** gertatu ondoren, hau indartzeko, **-bri-** tartizkia erantsi zaio.
 
 ## TXUNTXURRE ##
 
@@ -1970,7 +1970,7 @@ Parasito. Aprobetxategi.
 - *enebada! agie dxango dotso, olako txupandozkidxe badan*
 - *bera mutill txupandozkidxe, beragaz enbriegaz enpiketa*
 
-Gaztelerako **chupar** aditza erabili da hitz hau sortzeko, **chupando** gerundioa hartu eta **-ki** atzizkia erantsi zaio:
+Gaztelerazko **chupar** aditza erabili da hitz hau sortzeko, **chupando** gerundioa hartu eta **-ki** atzizkia erantsi zaio:
 
 **chupando** + **ki** → **txupandoki**.
 

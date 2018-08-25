@@ -173,7 +173,7 @@ Ausardia.
 
 ## BALTZAMO ##
 
-Oso beltzarana. Baina horrenbesteko beltzarana ez denari, gaztelerako *moreno* esaten zaio: *morenue*
+Oso beltzarana. Baina horrenbesteko beltzarana ez denari, gaztelerazko **moreno** esaten zaio: **morenue**.
 
 - *ezu ezetuten orren gixona alako baltzamo bat?*
 - *bera enbrie baltzamo-baltzamo bat da*
@@ -441,11 +441,11 @@ Begia beiztu kolpe baten ondorioz.
 - *emoten tzuten ostidxegaz, begidxe be aforrata itxiko tsut*
 - *begidxe aforra baiño ariñau ekarri diruek ona*
 
-Badirudi, antzinako txalupetako belak aforratzetik datorrela hitza, hau da, belak aforra edo batu. Baina zentzua ez da berdina. Horregatik beste hipotesi bat gaztelerako **forrar** aditza izan daitekeela esan behar da. Beltzez estali.
+Badirudi, antzinako txalupetako belak aforratzetik datorrela hitza, hau da, belak aforra edo batu. Baina zentzua ez da berdina. Horregatik beste hipotesi bat gaztelerazko **forrar** aditza izan daitekeela esan behar da. Beltzez estali.
 
 ## BEGIDXE BE OSTU ##
 
-Geroago ikusiko dugu honen pareko beste esaldi bat, baina hor >beterrie< izango da lapurtzekoa.
+Geroago ikusiko dugu honen pareko beste esaldi bat, baina hor **beterrie** izango da lapurtzekoa.
 
 - *orrek denderiek begidxe be ostu eingo lekidau*
 - *begi bat bakarrik? Begi bidxek pe laster ostuko txuz orrek*
@@ -780,7 +780,7 @@ Zaporea.
 - *ur asko bota ezkero bertutie kentzien dxatzoie iñdxabai*
 - *bertute ona okitxeko estarlux bota bi zazu okeliri*
 
-Seguru aski, gaztelerako **virtud** hitza hartu da hitz hori egiteko. **Virtud** gauza ona bezala, gero jatekoari edo jakiei aplikatuz.
+Seguru aski, gaztelerazko **virtud** hitza hartu da hitz hori egiteko. **Virtud** gauza ona bezala, gero jatekoari edo jakiei aplikatuz.
 
 ## BERTUTE BARIK ##
 
@@ -1067,7 +1067,7 @@ Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k, Bermeoko hitza bezala azald
 
 ## BIGARREN ESKOKUE ##
 
-Lexikoan *eskoganekue* hitza agertzen da zentzu berberaz gaztelerako itzulpen literala da oraingoa.
+Lexikoan *eskoganekue* hitza agertzen da zentzu berberaz gaztelerazko itzulpen literala da oraingoa.
 
 - *erosi dauen kotxie bigarren eskokue da*
 - *eztot gure bigarren eskokorik ezer*
@@ -1099,7 +1099,7 @@ Hori ba!
 
 Arrazoia emateko batzuetan, baieztapena beste batzuetan, enfatikoa ere bada: *biiinke*
 
-Gaztelerako **bien que...** lokuzio hori hartuz egin da.
+Gaztelerazko **bien que...** lokuzio hori hartuz egin da.
 
 - *eztozue pentzaten ori dala onena? Binke*
 - *au aulan ein bidu ezta andrak? Binke*
@@ -1390,7 +1390,7 @@ Denbora laburrean.
 - *etzie erosi gure danien ezta pentza biar bi bidar, breberuen ein bide*
 - *gauzek breberuen ein bizaten diez gero damutu barik*
 
-Hitz hau, gaztelerako **breve** tik hartuta dago, baina oso zaharra da.
+Hitz hau, gaztelerazko **breve** tik hartuta dago, baina oso zaharra da.
 
 **breve** → **brebe** + **ro** + **an** → **breberoan**.
 
@@ -1432,7 +1432,7 @@ Gazteen artean batez ere, eta gehienetan nesken artean. Nahiko galduta dago.
 - *eskolatik urten da brilladie emon gu*
 - *ama, urtengot kalera? Brillada bat baiño ez e?*
 
-Hitz. honek gaztelerako **brillo** hitzarekin zerikusi handia du: **un ir y venir corto, que dure tanto como un relampago** Hori da hitzaren esanahia.
+Hitz. honek gaztelerazko **brillo** hitzarekin zerikusi handia du: **un ir y venir corto, que dure tanto como un relampago** Hori da hitzaren esanahia.
 
 **brillo** + **ada** → **brilloada** → **brillada**. **oa** → **a**.
 
@@ -1466,7 +1466,7 @@ Paseo. Bueltatxoa.
 - *bueltadie ein bi du gaue eiñ orduko*
 - *ez etorri berandu gero; bueltada bat emon da etzera*
 
-Kasu honetan ere, gaztelerako **vuelta** ri **-ada** atzizkia jarri eta euskaratu egin da hitza. **biribueltadie** hitzaren bariante bat da.
+Kasu honetan ere, gaztelerazko **vuelta**-ri **-ada** atzizkia jarri eta euskaratu egin da hitza. **biribueltadie** hitzaren bariante bat da.
 
 ## BUENO! ##
 

@@ -122,7 +122,7 @@ Saltsa guztietan sartzen den pertsona.
 - *zure lagune baiño saltseruaurik eztau erri guztidxen*
 - *beran ama be saltserie da ta zer gu zu bera ezatie ba*
 
-Hitz honek **-ro** gaztelerako atzizkia hanu du. 
+Hitz honek **-ro** gaztelerazko atzizkia hanu du. 
 
 **saltsa** + **ro** → **saltsero**.
 
@@ -365,7 +365,7 @@ Senaia.
 - *zuek enpanadak zarielakon, an senaidxe asko dau alabatxi*
 - *Ondartzapen antzeko senaidxek tauz andik*
 
-Gaur egun gaztelerako **cala** ari da sartzen. Kintanak **senadi** jaso du.
+Gaur egun gaztelerazko **cala** ari da sartzen. Kintanak **senadi** jaso du.
 
 ## SERBEZIDXO / UE ##
 
@@ -380,7 +380,7 @@ Soldadutza.
 
 ## SERRAPOLLERA ##
 
-Jantzietan lotzeko erabiltzen diren **cierre** gaztelerakoa hartuta egin dugu hitz hau. Aurretik hasitako bide bati jarratuz, eta lokuzioetan ere azaltzen den moduan, Latino Amerikan erabiltzen den **pollera (falda)** hitza hartu da zuzenean:
+Jantzietan lotzeko erabiltzen diren **cierre** gaztelerazkoa hartuta egin dugu hitz hau. Aurretik hasitako bide bati jarratuz, eta lokuzioetan ere azaltzen den moduan, Latino Amerikan erabiltzen den **pollera (falda)** hitza hartu da zuzenean:
 
 **cierra pollera** → **zerrapollera** → **serrapollera**.
 
@@ -398,7 +398,7 @@ Agirika gogor baten esaten da.
 - *setentzidxe atako tsut ezpazara esanekue*
 - *aren setentzidxe kantata dau, geu tiñogune ezpadau eitxen*
 
-Gaztelerako **sentencia** erabili da oraingoan:
+Gaztelerazko **sentencia** erabili da oraingoan:
 
 **sentencia** → **setenzia** → **setentzia** → **setentzidxe**.
 
@@ -511,7 +511,7 @@ Zuhaitz oskola.
 
 ## SOSTRIE ##
 
-Sareztatu dela dio hiztegiak, gaztelerako **zurcir**. Gaur egun ez da egingo horrelakorik, baina orain urte batzuk, asko, egin beharra zegoen eta berba hau erabiltzen zen. Geroago errepasa esaten zen. Gaur ez dakit. Nik neuk eta nire ingurukoek, erabiltzen dugu.
+Sareztatu dela dio hiztegiak, gaztelerazko **zurcir**. Gaur egun ez da egingo horrelakorik, baina orain urte batzuk, asko, egin beharra zegoen eta berba hau erabiltzen zen. Geroago errepasa esaten zen. Gaur ez dakit. Nik neuk eta nire ingurukoek, erabiltzen dugu.
 
 - *kaltzetiñek sostrie bidotez*
 - *erropie sostrie sostrieta ekar dau Colombia-tik etor dan ime koitxadiek*
@@ -538,7 +538,7 @@ Haserre. Koleratsu.
 - *ez etorri sublebata, zeuk esan zu ori berbie ta*
 - *sublebaziñue kendu be ein barik takot ondiño gero*
 
-Gaztelerako **sublevar** hartu da zuzen zuzenean, eta zentzua ere, figuratuan, berbera da.
+Gaztelerazko **sublevar** hartu da zuzen zuzenean, eta zentzua ere, figuratuan, berbera da.
 Ikusten denez, gaztelera bezala, aditza, adberbioa eta izenaren forman agertzen da.
 
 ## SUBOI / E ##
@@ -558,7 +558,7 @@ Jenio txarra. Arrabia.
 - *subrebidxe kendu be ez dxauzo eitxen areri*
 - *subrebidxekaz etor dxast alabatxi lotsak emoten*
 
-Gaztelerako **soberbia** ederto egokitu da Bermeoko hizkeran.
+Gaztelerazko **soberbia** ederto egokitu da Bermeoko hizkeran.
 
 **soberbia** → **sobrebia** → **subrebidxe**; **ia** → **idxe**.
 
@@ -592,7 +592,7 @@ Zorte ona. Baina kasu honetan, pertsona, animalia edo gauza bat izan daiteke zor
 - *geure katue be suertosie da, ainbeste bidar dxeusi de teillatotik ta ondiño bixirik tau*
 - *neure aiztie be suertosie da, kotzeko azidente bape eztau okiñ*
 
-Gaztelerako **suerte** hitzari **-so** atzizkia erantsi zaio **suerte** + **so** → **suertoso**.
+Gaztelerazko **suerte** hitzari **-so** atzizkia erantsi zaio **suerte** + **so** → **suertoso**.
 
 ## SUESTA ##
 
@@ -602,7 +602,7 @@ Itsasoko ur-jantzietan ezin faltatu buruko kapela.
 - *suestagaz gixon danak tiez bardinek*
 - *bapor guztidxen eziñ ezan dot topa nire suestako zintxie*
 
-Gaztelerako **sueste** hitza hartu da zuzenean:
+Gaztelerazko **sueste** hitza hartu da zuzenean:
 
 **sueste** → **suesta**.
 
@@ -617,7 +617,7 @@ Koleratsu. Haserre bizian.
 - *enai sulfureko ba, ein dxosten biarragaz...*
 - *sulfureta para da beran aiztie be, da bidxen artien ill eztauenien*
 
-Gaztelerako **sulfurar** aditzak, zentzu figuratuan **irritar**, **encolerizar** ematen du; beraz, zentzua ere berbera da.
+Gaztelerazko **sulfurar** aditzak, zentzu figuratuan **irritar**, **encolerizar** ematen du; beraz, zentzua ere berbera da.
 
 **sulfurar** → **sulfure**.
 

@@ -8,7 +8,7 @@ Kasurik ere ez.
 - *zeu pe ez eiñ a komo la bara bez, berak eintzun moduen*
 - *danak on gariez arraiñe saltzien, da iñok a komo la bara bez*
 
-Gaztelerako **a como la vara** esalditik literalki hartuta dago.
+Gaztelerazko **a como la vara** esalditik literalki hartuta dago.
 
 ## A ZELAKO...! ##
 
@@ -78,7 +78,7 @@ Baina, adjektibo moduan, edozein pertsona edo gauzari aplikatzen zaio: Itsasontz
 - *esnedunen astue abille da ostikadak emoten*
 - *onek artazidxek abillek tiez ebaitxen*
 
-Gaztelerako **hábil** hitza erabiltzen da.
+Gaztelerazko **hábil** hitza erabiltzen da.
 
 ## ABOGADESIE ##
 
@@ -143,7 +143,7 @@ Edo, gerundioa danean, beste era honetara:
 
 Ziur aski, hitz hau erdaratik sartu da, baina hitzaren etimologia nekez ikus daiteke. Bi hipotesi erabil daitezke hitz honen jatorria adierazteko:
 
-Bat gaztelerako **aburrir** hitzetik datorrena, eta bestea, gaztelaniako **aborrecer** hitzetik datorrena.
+Bat gaztelerazko **aburrir** hitzetik datorrena, eta bestea, gaztelaniako **aborrecer** hitzetik datorrena.
 
 1. **aburrir** + **du** → **aburridu** → **abrurridu**, **r** bat desarroilatu du asimilazioz. Gero, disimilatzeko **s** sartu da eta honela: **abrurridu** → **abrusidu**.
 
@@ -646,7 +646,7 @@ Gaztelaniazko **acometer** dirudi; beharbada hori izan daiteke hitzaren etimolog
 - *zortziretan akordako zaitxut*
 - *goixetik akorda nai baie gero luek artun nau ostabe*
 
-2. Gogoratu. Gaztelerako **acordar**-etik dator.
+2. Gogoratu. Gaztelerazko **acordar**-etik dator.
 
 - *azterketie dakotela akorda nai, eta eztot ikasi!*
 
@@ -673,7 +673,7 @@ Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k. Honek Etxeita aipatzen du; 
 - *diru ederrak ala itxuz arek*
 - *nik ez dot ala txiki be pez*
 
-Gaztelerako **halar** aditza erabili da horretarako. Azkuek bere hiztegian **recoger** dakar beste azalpenik egin gabe.
+Gaztelerazko **halar** aditza erabili da horretarako. Azkuek bere hiztegian **recoger** dakar beste azalpenik egin gabe.
 
 2. Kritikatu.
 
@@ -934,7 +934,7 @@ Abilezia gabekoa, edo trebetasun gutxikoa izan daitekeen pertsona edo gauzak. Ar
 
 Gazteen artean galtzen doa.
 
-Gaztelerako **aliado** hitzak guztiz esanahi ezberdina du.
+Gaztelerazko **aliado** hitzak guztiz esanahi ezberdina du.
 
 ## ALIJANDRO ##
 
@@ -1089,7 +1089,7 @@ Hau, **langosta!** esatea legez da. Edo beste hau:
 
 - *amandrongillek eta aitxedrongillek*
 
-Hitzaren jatorria gaztelerako **albondiguilla** izango da; orduan, erabiltzen den **amondongillek** bariantetik sortutakoa izango dugu **amandrongillek**.
+Hitzaren jatorria gaztelerazko **albondiguilla** izango da; orduan, erabiltzen den **amondongillek** bariantetik sortutakoa izango dugu **amandrongillek**.
 
 **albondiguilla** → **almondongilla** → **amondongille** → **amandrongilla**.
 
@@ -1099,7 +1099,7 @@ Kintanak jartzen du bere hiztegian, azalpenik egin gabe; eta P.M.k **amandongila
 
 ## AMAPERRIE ##
 
-Gaztelerako **hijo de perra** lokuzioa oinarri badu ere, zentzua ez da bera. **amatxarridxe** edo **amatxitxie** zentzu bera dauka, eta esaldiak ere zentzu horretan joango dira.
+Gaztelerazko **hijo de perra** lokuzioa oinarri badu ere, zentzua ez da bera. **amatxarridxe** edo **amatxitxie** zentzu bera dauka, eta esaldiak ere zentzu horretan joango dira.
 
 - *amaperrie! Berandu etortiarren dendie zarratute!*
 - *amaperrie! Ebai dot eskue!*
@@ -1208,7 +1208,7 @@ Amore eman. Borroka batetan **rendirse** izan daiteke, baina edozertan amore ema
 
 Azkuek Bermeoko hitza bezala azaltzen du, baina **rendirse** delakoan.
 
-Hitzaren jatorria gaztelerako **amainar** izan daiteke. Zentzua, ostera, **recoger velas** izan daiteke.
+Hitzaren jatorria gaztelerazko **amainar** izan daiteke. Zentzua, ostera, **recoger velas** izan daiteke.
 
 **amainar** → **amaina** → **amaiñe** / **amañe**.
 
@@ -1338,7 +1338,7 @@ Era askotara erabiltzen da esaldi hau.
 
 Goseaz erdi hilik dagoen gizona. Ez da erabiltzen gizonentzat baino, baina salbuespenik egon daiteke.
 
-Argi dago gaztelerako *hambre* dela, **ki** atzikia erantsita.
+Argi dago gaztelerazko *hambre* dela, **-ki** atzikia erantsita.
 
 - *anbrikidxen arpeidxe dako*
 - *anbrikis guztidzek takoie suertie*
@@ -1583,7 +1583,7 @@ Oker edo zeharretara dagoen zerbait. Aurrekoaren aldaki bat dela dirudien arren,
 - *ori kuadrue ankindo dau*
 - *Pisa-ko torrie ankindo egon da beti*
 
-**do** hori, baliteke gazteleratik hartuta egotea, askotan analogiaz egiten baitira esaldiak. Seguru aski gaztelerako **inclinado** izango da etimologia.
+**do** hori, baliteke gazteleratik hartuta egotea, askotan analogiaz egiten baitira esaldiak. Seguru aski gaztelerazko **inclinado** izango da etimologia.
 
 **inclinado** → **anklinado** → **ankinado** → **ankinido**
 
@@ -1778,7 +1778,7 @@ Zama. Baina ez da fisikoa, erantzukizun bat izatea baizik.
 - *honegaz legiegaz arbaldada andidxek datortzoz armadoriri*
 - *eskerrak antxobien kosterie ona ezan dana arbaldadie kentziko lepotik*
 
-Hitz honen etimologia gaztelerako **albarda** da. Zaldi zamalariek erabiltzen dutena hain zuzen, **r** / **l** ren metatesia jasan ondoren, horrela geratu da.
+Hitz honen etimologia gaztelerazko **albarda** da. Zaldi zamalariek erabiltzen dutena hain zuzen, **r** / **l** ren metatesia jasan ondoren, horrela geratu da.
 
 ## ARBIDXEK ##
 
@@ -1840,13 +1840,13 @@ Etxeko zorua eta eskailerak garbitu. Lehen harea erabiltzen zen horiek garbitzek
 
 ## ARENADURIE ##
 
-**arena** bera da, baina oraingoan gaztelerako forma hartuta.
+**arena** bera da, baina oraingoan gaztelerazko forma hartuta.
 
 - *gaur neure sandxie da arenadurie eitxeko*
 - *arenadurie ein barik itxi dau Bilbora dxutitxik*
 - *arenadurien arenaduriegaz eskuek pe gastata dakotez*
 
-Hemendik sortu da goiko hitza, gaztelerako **arenadura**-tik, hain zuzen.
+Hemendik sortu da goiko hitza, gaztelerazko **arenadura**-tik, hain zuzen.
 
 ## ARGALERIE ##
 
@@ -1939,7 +1939,7 @@ Azkuek **apurado**, **extenuado** jartzen du. Kintanak, ordea, **arbin** **estre
 
 ## ARMOSUE ##
 
-Gosaria. Gaztelerako **almuerzo** tik sortua. Beraz, euskaraz ez du zentzu berdina.
+Gosaria. Gaztelerazko **almuerzo** tik sortua. Beraz, euskaraz ez du zentzu berdina.
 
 - *armosue berandu dxan ezkero, eguerdidxe dxateko gogorik ez*
 - *armosuten kafie baiño eztau artzien*
@@ -2110,7 +2110,7 @@ Zekena. Dena nabi duena, dena beretzat gordetzen duena.
 - *bera arrakerue, aiztie arrakerue, da imiek pe arrakeruek*
 
 Azkuek beste zentzu batez jaso du **jugador, tramposo, mañoso**.
-Baina Bermeon gaztelerako **raquero** ren definizioa nolabait betetzen du hitz horrek: **ladrón, pirata de puertos y costas** Beraz, gaztelerako esanahi horri jarraitzen dio.
+Baina Bermeon gaztelerazko **raquero** ren definizioa nolabait betetzen du hitz horrek: **ladrón, pirata de puertos y costas** Beraz, gaztelerazko esanahi horri jarraitzen dio.
 
 **raquero** → **rakero** → **arrakerol**.
 
@@ -2131,7 +2131,7 @@ Abiatu, abiadura hartu, eta beste zentzu batetan, adorea.
 - *arrankadatik eztako orrek kotxiek*
 - *atrankadie artun alabatxu, ostantzien berton ongo diez biar guztidxek*
 
-Argi dago gaztelerako **arrancar** aditza erabili dela oinarri bezala.
+Argi dago gaztelerazko **arrancar** aditza erabili dela oinarri bezala.
 
 **arranque** → **arranke** + **ada** → **arrancada**.
 
@@ -2518,11 +2518,11 @@ Lelo antzekoa da.  **zer egingo diogu ba!** esan nahi du. Dena barkatu behar del
 
 - *asma dot esaten ez tatorrela Bilbora, bidxar dxungo dala*
 
-Ez dauka Azkuek, edo D.A.R.k ematen dioten zentzua. Gaztelerako **idear** ematen diote.
+Ez dauka Azkuek, edo D.A.R.k ematen dioten zentzua. Gaztelerazko **idear** ematen diote.
 
 ## ASTAKADA ##
 
-Ezpata sartzea bezala. Gaztelerako *estocada* hitzetik hartua da.
+Ezpata sartzea bezala. Gaztelerazko **estocada** hitzetik hartua da.
 
 - *zelako astakadie emon dost ba*
 - *astakadie lez sartu tzat begitxik atzamarra*
@@ -2679,7 +2679,7 @@ Egokituta. Bertakotuta.
 
 Atezatu.
 
-Itsasoan erabilitako hitza den arren, gaur egun normalki erabiltzen da, gaztelerako **tesar** aditzetik sartutako hitz hau.
+Itsasoan erabilitako hitza den arren, gaur egun normalki erabiltzen da, gaztelerazko **tesar** aditzetik sartutako hitz hau.
 
 - *atezuen dakoz frakak, laster apurtuko txuz*
 - *buruko uliek pe ateza eingo tzutez txarridxori*
@@ -2706,7 +2706,7 @@ Burutik eginda edo erdi eginda. Pertsona baten jarrera normala ez denean. Baina,
 - *ori eingostak ba, atrapaten asitxe au ela?*
 - *karretemen astue atrapata dau*
 
-Gazteleratik hartua, guztiz sustraiturik dago. Hala ere, ikusten da zentzua ez dela gaztelerakoa.
+Gazteleratik hartua, guztiz sustraiturik dago. Hala ere, ikusten da zentzua ez dela gaztelerazkoa.
 
 ## ATRAPAUE / DA / IE ##
 

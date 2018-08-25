@@ -216,7 +216,7 @@ Arlanpa. Moilan batelak igotzeko egindakoa.
 - *eztakixu portuko elanbrie non dauen?*
 - *elanbrara baja bi dot izterrak garbiten*
 
-Gaztelerako **rambla** hitzetik hartuta dago, baina zentzua ez du hitz horri dagokiona, **rampa** hitzari baizik.
+Gaztelerazko **rambla** hitzetik hartuta dago, baina zentzua ez du hitz horri dagokiona, **rampa** hitzari baizik.
 
 **rambla** → **erranbla** → **elanbra**. **i** eta **rr** kontsonanteen metatesiaren bidez aldatu da hitza.
 
@@ -240,7 +240,7 @@ Bikaina. Oso gozoa. Ederto dagoena.
 - *egualdidxe dau elegantie*
 - *pelikule elegantiek emoten txuz telebisiñuek*
 
-Hitz hau aspalditik erabiltzen den gaztelerako hitza dugu. Adineko zein gazteen arteko erabileran ez dago ezberdintasunik, normalki erabiltzen da.
+Hitz hau aspalditik erabiltzen den gaztelerazko hitza dugu. Adineko zein gazteen arteko erabileran ez dago ezberdintasunik, normalki erabiltzen da.
 
 ## ELEJIDXE ##
 
@@ -251,7 +251,7 @@ Aukeran.
 - *elejidxe on da lez, elejiten emon dost*
 - *ezta on elejirik, da dauena artun de etorri bi zan nai*
 
-Argi dago gaztelerako **a elegir** hartuta dagoena. **elegir** → **elegia** → **eleji**.
+Argi dago gaztelerazko **a elegir** hartuta dagoena. **elegir** → **elegia** → **eleji**.
 
 ## ELIXEKUEK ARTZIKO / EMOTEKO MODUEN ##
 
@@ -285,7 +285,7 @@ Arrain lantegietan erabiltzen den hitza da. Antxoa, zein atun trontzoiak latetan
 - *bertan on gara, antxoba lez enbajata, prentsata*
 - *an bota dostez kajan barruen enbajata tomate guztidxek*
 
-Gaztelerako **empacar** = **enfardar**, **empaquetar** hitzetik harruta dago. **empacar** → **enpaka** → **enbaja**. Joera normala ez izan arren **p** → **b** egitea, gehienetan alderantziz gertatzen baita, Bermeon behintzat, kasu batzuetan ematen da.
+Gaztelerazko **empacar** = **enfardar**, **empaquetar** hitzetik harruta dago. **empacar** → **enpaka** → **enbaja**. Joera normala ez izan arren **p** → **b** egitea, gehienetan alderantziz gertatzen baita, Bermeon behintzat, kasu batzuetan ematen da.
 
 ## ENBAJADA ##
 
@@ -299,7 +299,7 @@ Gaztelerako **empacar** = **enfardar**, **empaquetar** hitzetik harruta dago. **
 - *neure aiztiek ekar dau ori enbajadie*
 - *ez etorri niri enbajadakaz*
 
-Badirudi gaztelerako **embajada** = **mensaje** bera dela hitz horren jatorria.
+Badirudi gaztelerazko **embajada** = **mensaje** bera dela hitz horren jatorria.
 
 ## ENBARKA ##
 
@@ -327,7 +327,7 @@ Liluratu. Turditu. Tontatu.
 - *ez enbolike iñor, enau orretarako ta*
 - *onek imiek enbolike enbolike eitxen zaitxuz*
 
-Hitz honek, gaztelerako **embobar** eta bobalicona hitzak hartu ditu oinarritzat.
+Hitz honek, gaztelerazko **embobar** eta bobalicona hitzak hartu ditu oinarritzat.
 
 **emboba** + **licar** → **enbobalika** → **enboalika** → **enbolika** → **enbolike**.
 
@@ -342,7 +342,7 @@ Ez dauka gaztelaniazko zentzua bera. Euskaraz, toki batzuetan adineko emakumeari
 - *enbrak bakarrik on diez Lameran, mutillek frontoien on diez*
 - *mutillek mutilletara da enbrak enbratara para bi diez*
 
-Gaztelerako **hembra** da hitza, baita zentzua ere, baina esan bezala, mugatu egiten da.
+Gaztelerazko **hembra** da hitza, baita zentzua ere, baina esan bezala, mugatu egiten da.
 
 ## ENDEKATU ##
 
@@ -362,7 +362,7 @@ Sikatu. Gutxi garatu, baina adberbio funtzioan.
 - *endekatuiko gixona da ori, asi be ezta eitxen da*
 - *endekatute geratu da, etsazu ikusten tximorrak?*
 
-Badirudi hitz hau, gaztelerako **endemia** hitzetik sortu dela. Hala ere, ez nagoenez seguru, hitz honen eboluzioa zein izan zitekeen, hipotesi modura azaltzen dut hurrengoa.
+Badirudi hitz hau, gaztelerazko **endemia** hitzetik sortu dela. Hala ere, ez nagoenez seguru, hitz honen eboluzioa zein izan zitekeen, hipotesi modura azaltzen dut hurrengoa.
 
 **endemia** + **tu**  → **endemikatu** → **endeikatu** → **endekatu**.
 
@@ -406,7 +406,7 @@ Beteta. Gogaitu.
 - *onek imiek enfada-enfada eitxen nau*
 - *enfadaten bazaitxuz kalera bota*
 
-Ez du gaztelerako **enfadar** zentzua.
+Ez du gaztelerazko **enfadar** zentzua.
 
 ## ENFADO / DUE ##
 
@@ -418,7 +418,7 @@ Nazka. Arrabia.
 - *nik berari esan tsat arpeire, enfadue emoten dostela*
 - *iñon begire egotiek enfadue emoten dau*
 
-Gaztelerako **enfadar** aditzak eta **enfado** izenak ez dute Bermeon erabiltzen den zentzua.
+Gaztelerazko **enfadar** aditzak eta **enfado** izenak ez dute Bermeon erabiltzen den zentzua.
 
 ## ENGAÑOTI / DXE ##
 
@@ -428,7 +428,7 @@ Engainatzen duena.
 - *zu zara engañoti bet*
 - *engatiotidxekaz eztot kure ibilli*
 
-Gaztelerako **engaño** erabili da adjetibo hau egiteko. **engaño** + **-ti** atzizkia gehituz → **engañoti**.
+Gaztelerazko **engaño** erabili da adjetibo hau egiteko. **engaño** + **-ti** atzizkia gehituz → **engañoti**.
 
 ## ENKALLE ##
 
@@ -466,7 +466,7 @@ Itsasontzientzat erabiltzen den hitza, hizkera arruntera pasatu da.
 - *zelako enpanadie dako ba, ondiño pasa barik tako atzokue*
 - *ekar dauen enpanadigaz iñor be eztau ezetu*
 
-Gaztelerako *enpanada* edo **torta** bi hitz horien zentzua hartu du literalki, baina zentzu figuratuan erabiliz.
+Gaztelerazko **enpanada** edo **torta** bi hitz horien zentzua hartu du literalki, baina zentzu figuratuan erabiliz.
 
 ## ENPATXA ##
 
@@ -517,7 +517,7 @@ Influentzia. Boterea.
 - *enpeñuen enpeñugaz atara dau karrerie, ostantzien ondiño be unibersidadien ongo zan*
 - *enpeñorik ezpakozu, biar barik gosiek ill*
 
-Gaztelerako **empeño** + **protector o padrino** hitzetik hartua da, eta esanahia berbera dauka.
+Gaztelerazko **empeño** + **protector o padrino** hitzetik hartua da, eta esanahia berbera dauka.
 
 ## ENPIKE ##
 
@@ -526,7 +526,7 @@ Erantsi, itsatsi. Pertsona edo gauzak.
 - *makalluek okiñ dxauen jelatitiigaz atzamarrak pe enpike eitxen diez*
 - *onek papelak kalien enpike bi diez jentiek ikusteko*
 
-Gaztelerako **empegar** aditza ez litzateke hain egokia, baina **pegamento** hitza harturik zuzena izan daiteke.
+Gaztelerazko **empegar** aditza ez litzateke hain egokia, baina **pegamento** hitza harturik zuzena izan daiteke.
 
 ## ENPIKETA ##
 
@@ -551,7 +551,7 @@ Itsatsita.
 - *iñori ez bota enplastorik eztot biar da*
 - *enplastue biar bazu amen dakozu*
 
-Gaztelerako **emplasto** hitza erabili izan da. Enplastoak ipintzen edo ipintzea agintzen duena **enplasterie** da.
+Gaztelerazko **emplasto** hitza erabili izan da. Enplastoak ipintzen edo ipintzea agintzen duena **enplasterie** da.
 
 - *Añorgako enplasteriñe dxun nai, garidxuek takotez da*
 
@@ -687,7 +687,7 @@ Dirdira.
 - *orrek eraztunek botaten dauen erluzidadiek begidxetan be miñ eitxen dau*
 - *eguzkidxek erluzidade andidxe dako*
 
-Gaztelerako **relucir** aditza aldatuz gero egin da hitz hau.
+Gaztelerazko **relucir** aditza aldatuz gero egin da hitz hau.
 
 **relucir** + **dad** → **relucidad**.
 
@@ -740,7 +740,7 @@ Kezka. Haserrea.
 - *ondiño ernegue kendu barik takot*
 - *arpeidxen igarten eixatzu ernegue*
 
-Azkuek ez du jaso bere hiztegian eta D.A.R.k, lehenengoa jaso du, baina zentzu ezberdinez. Honek gaztelerako zentzuaz azaltzen du. Kintanak ere **ernega** eta **ernegu** jaso ditu, baina zentzua gaztelerakoa bera da.
+Azkuek ez du jaso bere hiztegian eta D.A.R.k, lehenengoa jaso du, baina zentzu ezberdinez. Honek gaztelerazko zentzuaz azaltzen du. Kintanak ere **ernega** eta **ernegu** jaso ditu, baina zentzua gaztelerazkoa bera da.
 
 **renegar** erdarazko aditza hartu da.  
 
@@ -846,7 +846,7 @@ Gaztelerazko zentzua bera dauka: **mensaje** = **provisión diaria**.
 
 ## ERREKALISTIE ##
 
-Ez dakit gaur mezulari edo mandatari bati gaztelerako *recadista* esaten bazaio. Bermeon oraindik erabiltzen da azken hau, baina geure erara, hemen ikusten dugun moduan.
+Ez dakit gaur mezulari edo mandatari bati gaztelerazko **recadista** esaten bazaio. Bermeon oraindik erabiltzen da azken hau, baina geure erara, hemen ikusten dugun moduan.
 
 - *ezin dxot Bilbora dxuen da errekalistiri esango tsat ekarteko paketie*
 - *errekalistiek eingo tsuz igualatoidxoko papelak*
@@ -876,7 +876,7 @@ Lehertu.
 - *bertan egunien akabatitxik, errementa ein garizen*
 - *ez errementa iñor e? Amen ezkauz tentelak eta*
 
-Gaztelerako **reventar** aditzetik sortua da.
+Gaztelerazko **reventar** aditzetik sortua da.
   
 **reventar** → **errebentar** → **errementar** → **errementa**.
 
@@ -952,7 +952,7 @@ Miaketa.
 - *erreskitxuetan egunek emon dauie*
 - *nik esan tsatie, nik eztotela biar erreskistxorik, gure etzie garbi dauela*
 
-Gaztelerako **registrar** aditzetik sartua, Bermeon normalak diren fonefikazko arauak ematen dira:
+Gaztelerazko **registrar** aditzetik sartua, Bermeon normalak diren fonefikazko arauak ematen dira:
 
 **registrar** → **erregistrar** → **errekistrar**.
 
@@ -976,7 +976,7 @@ Figurazioan, hainbat pertsonak zerbait erosteko edo beste zeozertarako mahai gai
 - *amar lagunen artien erosi dauie, da bakotxak ogei mille bana ogorloko erridxe dauie*
 - *dirorik erridxe barik zelan okingo dau partie ba?*
 
-Gaztelerako **arriar** dela argi dago.
+Gaztelerazko **arriar** dela argi dago.
 
 ## ERRIDXE NASTA ##
 
@@ -1023,7 +1023,7 @@ Arrimatu. Bateren baten babesa bilatu.
 - *errime-errimeta dxun dxatzuz, nobidxu lez*
 - *ondo gure bazu ibilli diruduneiñe errime bi zara*
 
-Azkuek, D.A.R., P.M. eta Kintanak **diestro** zentzuaz azaltzen dute forma hau, Bermeon, ostera, gaztelerako zentzua bera hartzen du bete-betean.
+Azkuek, D.A.R., P.M. eta Kintanak **diestro** zentzuaz azaltzen dute forma hau, Bermeon, ostera, gaztelerazko zentzua bera hartzen du bete-betean.
 
 ## ERROZOIE ORDIDXERI ##
 
@@ -1069,7 +1069,7 @@ Gogorrak esan, berba lodiak.
 - *eskandalue arma tsula diñozu, neuri be bai*
 - *ez arma ainen eskandalorik neiku garie geu be ori eitxeko ta*
 
-Gaztelerako *escandalo* hitza hartu da, baina lehen definizioan ez du zentzu berdina.
+Gaztelerazko **escandalo** hitza hartu da, baina lehen definizioan ez du zentzu berdina.
 
 ## ESKANDALO GORRIDXE ##
 
@@ -1106,7 +1106,7 @@ Usatutako gauzak erostea.
 - *eztot kure ezebe eskoganekorik*
 - *joyeridxen erosi dauela esan dau, baie guzurre da, eskoganien erosi dau te*
 
-Gaztelerako **de segunda mano** ere literalki erabiltzen da:
+Gaztelerazko **de segunda mano** ere literalki erabiltzen da:
 
 - *bigarren eskokue da erosi dauen pielezko abrigue*
 
@@ -1146,7 +1146,7 @@ Orrazia. Era guztietakoak, baila itsasoan erabiltzen dena ere. Gaur egun adintsu
 - *eskripidor azul bet okitxen zan doten*
 - *eskripidoragaz ule guztidxek pe atara ein tsoz*
 
-Gaztelerako **escarpidor** hitza hartu da, hitz honen oinarritzat.
+Gaztelerazko **escarpidor** hitza hartu da, hitz honen oinarritzat.
 
 **escarpidor** → **eskrapidor** → **eskripidor**. Hau, metatesia gertatu ondoren, **i** bokalaren asimilazioaz egin da.
 
@@ -1249,7 +1249,7 @@ Altuera. Neurria.
 - *estaidxue ezta bardiñe, baie edadie bai*
 - *aren estaidxora aillegateko asko dxan hi zu*
 
-Gaztelerako **estatura** hartuta egin dela dirudi.
+Gaztelerazko **estatura** hartuta egin dela dirudi.
 
 ## ESTIEK PE BIDXORTUTE ##
 
@@ -1275,7 +1275,7 @@ Normala ez den edozein gauza.
 - *estrebillosko erropak erosi ei txuz berbenara dxuteko*
 - *ez esan baie berak estrebillosko kollarra dala pentsaten dau*
 
-Gaztelerako **estrebillo** erabili da bitxitasuna adierazteko. Gazteen artean, oso gutxi erabiltzen da eta zaharren artean ere galtzen ari da.
+Gaztelerazko **estrebillo** erabili da bitxitasuna adierazteko. Gazteen artean, oso gutxi erabiltzen da eta zaharren artean ere galtzen ari da.
 
 ## ESTRINKE ##
 
@@ -1287,7 +1287,7 @@ Estutu. Itsatsi.
 - *ori erropie ez dxantzi, estrinketa dakozu te*
 - *an dxun dxatzu a, gonie estrinketa popie be markata*
 
-Seguru asko gaztelerako **trincar** aditza izango da hitz honen jatorria, **desabandona** hitzean eta **eztropeza** hitzean egin den bezala, **ez** partikula aurretik jarrita:
+Seguru asko gaztelerazko **trincar** aditza izango da hitz honen jatorria, **desabandona** hitzean eta **eztropeza** hitzean egin den bezala, **ez** partikula aurretik jarrita:
 
 **ez** + **trinear** → **eztrinkar** → **eztrinke** → **estrinke**.
 
@@ -1309,7 +1309,7 @@ Sarea itsasoratzea arrainak harrapatzeko. Baina gero, herrira pasatu da, eta zen
 - *an, eiñ dxau arek etxadie, laster atrapako dau enbraren bat*
 - *lelangoko etxadiegaz diruek etzera, dxokue aulan da*
 
-Gaztelerako **echar** aditzetik hartua.
+Gaztelerazko **echar** aditzetik hartua.
   
 **echada** (acción de echar) → etxada.
 

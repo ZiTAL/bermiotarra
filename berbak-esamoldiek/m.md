@@ -18,7 +18,7 @@ Dotore.
 - *zer ba? Beti dxantzi bi de majarik kalera urteteko ela?*
 - *majarik dxantzi arren ni beti nai betikue*
 
-Gaztelerako **majo** = **ataviado**, **lujoso** hitzetik hartuta dagoela dirudi, zentzuari begiratuta behintzat. Gero femeninora pasatu da. Kasu honetan, substantiboa, adberbio bezala erabili izan da. Femeninoan erabiltzen da beti, nahiz eta gizonezkoei ere aplikatu.
+Gaztelerazko **majo** = **ataviado**, **lujoso** hitzetik hartuta dagoela dirudi, zentzuari begiratuta behintzat. Gero femeninora pasatu da. Kasu honetan, substantiboa, adberbio bezala erabili izan da. Femeninoan erabiltzen da beti, nahiz eta gizonezkoei ere aplikatu.
 
 ## MAJAZALE / IE ##
 
@@ -95,7 +95,7 @@ Hitz hau oso zaharra da. Nik neure amumari entzunda daukat. Nire amamak, gaur, e
 
 Pertsonen aurrean txarto geratu.
 
-Gaztelerako **malquisto** bera dugu. Baina oso erabilia denez, horregatik sartu da.
+Gaztelerazko **malquisto** bera dugu. Baina oso erabilia denez, horregatik sartu da.
 
 - *ara, ni enue ezer esaten, eztot kure malkiste iñogaz da*
 - *iñori mesede bat eitxitxik, norbera lotu malkisteta*
@@ -273,7 +273,7 @@ Maneiatu.
 - *erropie dxesten maneja bez, da gixonari esan tsat imitzeko*
 - *au erlojue eruen, da ezpazara manejaten atzera ekarri*
 
-Argi dago gaztelerako **manejar** aditzetik sartuta dagoela.
+Argi dago gaztelerazko **manejar** aditzetik sartuta dagoela.
 
 **manejar** → **maneja**.
 
@@ -300,7 +300,7 @@ Ganora. Trebetasuna.
 - *eske, manga eitzen da personie orrek biarrak eitxen*
 - *ganera mangata nauenien eztot eitxen lorik pe*
 
-Nondik sartu den hitz hau ez dago argi. Baliteke, gaztelerako **mangonada**, **golpe que se da con el brazo y manga** hitzetik deribatzea. Hau hipotesi bat, besterik ez da.
+Nondik sartu den hitz hau ez dago argi. Baliteke, gaztelerazko **mangonada**, **golpe que se da con el brazo y manga** hitzetik deribatzea. Hau hipotesi bat, besterik ez da.
 
 **mangonada** → **mangada** → **manga**.
 
@@ -539,7 +539,7 @@ Itsasoko terminoa da. Karnata moduan itsasora botatzen den nahastea da. Konparaz
 - *masamorrie gero ta lodidxau due, or sartzien bagara eztu urteten bidxar be*
 - *zemat eta masamorra geidxau obeto*
 
-Gaztelerako **mazamorra** = **mezcla de cosas dispares** hitza bera da.
+Gaztelerazko **mazamorra** = **mezcla de cosas dispares** hitza bera da.
 
 ## MASAMORRIE ARMA ##
 
@@ -576,7 +576,7 @@ Lotsagabekoa. Aurpegi-handi.
 - *maskara ederra da a, iñok ezebe esan barik etor da dxaten*
 - *maskarie naiela diñostazu, da zeu zer zara ba?*
 
-Gaztelerako **máscara** hitzetik hartu da, eta esanahia ere bertatik hartu da. Aurpegian maskara bat izan balitz bezala jokatzea.
+Gaztelerazko **máscara** hitzetik hartu da, eta esanahia ere bertatik hartu da. Aurpegian maskara bat izan balitz bezala jokatzea.
 
 ## MASKARIEN ARPIDXE ##
 
@@ -593,7 +593,7 @@ Lotsagabekoa.
 - *ez, ori da masketu baiño andidxaue ezatie*
 - *a da masketu, ta beran lagune beste masketu bet*
 
-Hitz hau gaztelerako **más que tú** da, hau da, **el no va más**. Ezer baino gehiago eta handiagoa.
+Hitz hau gaztelerazko **más que tú** da, hau da, **el no va más**. Ezer baino gehiago eta handiagoa.
 
 **más que tú** → **masketu**.
 
@@ -605,7 +605,7 @@ Agure zahar-zaharra. Baina askotan gazteagoei ere aplikatzen zaie.
 - *maspasie da baie ondiño be majazalie da gero*
 - *maspasie baiño maspasiaue da, ta ez pentsa etzien lotzien danik*
 
-Gaztelerako **uva pasa** literalki oinarritzat hastu eta adjektibo hori sortu da.
+Gaztelerazko **uva pasa** literalki oinarritzat hastu eta adjektibo hori sortu da.
 
 Azkuek ez du jaso, baina bai D.A.R.k eta Ortuzarren zita bat aipatzen du Bermeoko hitza dela esanez.
 
@@ -653,7 +653,7 @@ Endredoa.
 - *bai, bai, matazak armaten eztau bera baiño obiaurik*
 - *nik eztot arma matazarik, zeuk esan zu lelau ori*
 
-Hitz hau beste zentzu batez agertzen da hiztegietan; eta gaztelerako **madeja** hitzaren zentzua aldatu egin dela esan genezake.
+Hitz hau beste zentzu batez agertzen da hiztegietan; eta gaztelerazko **madeja** hitzaren zentzua aldatu egin dela esan genezake.
 
 ## MATAZATAN SARTUN ##
 
@@ -670,7 +670,7 @@ Mailua.
 - *matraillugaz dxo bi zu ori untzie*
 - *eztot ein lorik pe, matrailluen zaratakaz*
 
-Gaztelerako **martillo**-tik hartu da zuzen zuzenean.
+Gaztelerazko **martillo**-tik hartu da zuzen zuzenean.
 
 **martillo** → **matraillo**.
 
@@ -703,7 +703,7 @@ Oso handia.
 - *bai neu etor nai, andra matxue errekaduek eitxen*
 - *eztakola dirorik? Bestelako etze matxue erosi dau*
 
-Ez dakigu gaztelerako **macho** hitzetik sartu den, baina ez dauka horren zentzurik.
+Ez dakigu gaztelerazko **macho** hitzetik sartu den, baina ez dauka horren zentzurik.
 
 ## MAUTE-MAUTE ##
 

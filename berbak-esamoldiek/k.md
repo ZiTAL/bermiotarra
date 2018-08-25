@@ -435,7 +435,7 @@ Burmuina, burua (figuratiboan).
 - *buruko kankamuetararte nau eurokaz gauzekaz*
 - *kankamuek galdute dabill aspaldidxon*
 
-Hitz hau, ontzietan txikotak amarratzeko kabilen gaztelerako **encamo** izenetik dator. Gero, zentzu figuratuan beste esanahi hori hartu du.
+Hitz hau, ontzietan txikotak amarratzeko kabilen gaztelerazko **encamo** izenetik dator. Gero, zentzu figuratuan beste esanahi hori hartu du.
 
 ## KANKANKAN ##
 
@@ -532,7 +532,7 @@ Lainotua.
 - *gau kapaue dauelez eztiez ikusiko estrellek*
 - *goi kapaue on da be, eguzkidxek dxo eitxen dau gero*
 
-Gaztelerako **encapotado** hitzetik sortua da.
+Gaztelerazko **encapotado** hitzetik sortua da.
 
 **encapotado** → **kapotado** → **kapotaue** → **kapaue**.
 
@@ -544,7 +544,7 @@ Emakume antzua.
 - *ezta ezkondu, dxakiñ dxauelako kaponie dala*
 - *ba zure nebien koñatuegaz ezkondu dana be kaponie da*
 
-Gaztelerako **capón** = **pollo castrado** hitzetik dator; baina hitz hori emakumezkoentzat desegokia denez **a** bat sartu zaio femeninoa egiteko.
+Gaztelerazko **capón** = **pollo castrado** hitzetik dator; baina hitz hori emakumezkoentzat desegokia denez **a** bat sartu zaio femeninoa egiteko.
 
 ## KARINKARA ##
 
@@ -586,7 +586,7 @@ Solasgaia.
 - *egun guztidxetan okitxen dau beran nobidxuen karrerie*
 - *guk eztu ataraten politikien karrerarik ez asarraruteko*
 
-Ez dago argi nondik sar zitekeen gaztelerako hitz hori eta gainera zentzu horrekin.
+Ez dago argi nondik sar zitekeen gaztelerazko hitz hori eta gainera zentzu horrekin.
 
 ## KARRIDXUE ##
 
@@ -595,7 +595,7 @@ Igarotzea.
 - *karridxue, karridxue ezan da arena, patata zakuek etzera eruten*
 - *arraiñ guztidxen karridxue ordubetien ein dxu*
 
-Gaztelerako **acarreo**.
+Gaztelerazko **acarreo**.
 
 ## KARRIE ##
 
@@ -949,7 +949,7 @@ Aurrekoaren esanahia badu ere, hau gehiago esaten da herrian. Eta gainera, egura
 - *klarotasune dakar, altza eingo dau egualdidxe*
 - *amen ezta ikusten klarotasunik, seguru euridxe eingo dauena*
 
-Gaztelerako **claro** hitzari **-tasun** atzizkia jarrita egiten dugu.
+Gaztelerazko **claro** hitzari **-tasun** atzizkia jarrita egiten dugu.
 
 ## KOBLA ##
 
@@ -976,7 +976,7 @@ Batu. Itsasoko terminoa da, tresna edo apareiuak batzea esan nabi du. Baina herr
 - *koidxiduten asi ostantzien trena galduko du*
 - *aixiek gauze guztidxek dandarrez erun biarreko dauela ikusi dunien koidxiten asi garizen*
 
-Gaztelerako **coger** da. Baina Mañu eta Bakio bitartean dauden baserriren baten **koixu** entzun dut.
+Gaztelerazko **coger** da. Baina Mañu eta Bakio bitartean dauden baserriren baten **koixu** entzun dut.
 
 ## KOIPEZTO ##
 
@@ -1062,7 +1062,7 @@ Etxeko portalea.
 - *kolarra garbitxuteko interiñie ekar bizan dot*
 - *giltzek galdu dotez da oiñ eztakot kolarrera nondik sartu*
 
-Badirudi gaztelerako **corral** hitzetik sartu dela. **corral** → **korrala** → **kolarra** metatesiaren bidez.
+Badirudi gaztelerazko **corral** hitzetik sartu dela. **corral** → **korrala** → **kolarra** metatesiaren bidez.
 Azkuek Mundaka eta Bermeorako jaso du hitz hau.
 
 ## KOLKOKO OPILLE ##
@@ -1081,7 +1081,7 @@ Arrabia. Kolera. Azentuatu egin behar dugu hitz borren zentzua argi uzteko.
 - *eztotsu emoten kólorie, berandu berandu datortzunien zeu berari begire on da?*
 - *eztost emoten kólorerik, baie bai ernegue*
 
-Gaztelerako **cólera** zuzen zuzenean sartu da. **cólera** → **kolera** → **kolerie** → **kólorie** bokalaren asimilazioz.
+Gaztelerazko **cólera** zuzen zuzenean sartu da. **cólera** → **kolera** → **kolerie** → **kólorie** bokalaren asimilazioz.
 
 ## KOMADA ##
 
@@ -1091,7 +1091,7 @@ Antzinako armairu bat.
 - *badakidxela euskerie diño, baie komadan barruen sartute okitxeko baiño eztotso balidxo*
 - *ori komadie andidxeidxe da onako da beste leko baten imin bide*
 
-Gaztelerako **comoda** -azentu barik- da. **comoda** → **komoda** → **komada** bi **o** horietako baten disimilazioz.
+Gaztelerazko **comoda** -azentu barik- da. **comoda** → **komoda** → **komada** bi **o** horietako baten disimilazioz.
 
 ## KOMENIMENTUE ##
 
@@ -1100,7 +1100,7 @@ Egokia dena. Komeni dena. Egiteko dagoena.
 - *geure komenimentue eiñdxe, autobusera dxun gariez*
 - *dxan eguerditxue, ein zeure komenimentotxue da gero lo*
 
-Gaztelerako **convenir**, euskaraz **komeni** hitzari **-mendu** atzizkia gehitu zaio, ez da egokia, baina horrela gertatu da.
+Gaztelerazko **convenir**, euskaraz **komeni** hitzari **-mendu** atzizkia gehitu zaio, ez da egokia, baina horrela gertatu da.
 
 ## KOMOSINO ##
 
@@ -1110,7 +1110,7 @@ Hala delakoan.
 - *txo, pellikadak eiñdxe komosino zabiltzez berorregaz*
 - *ez ein kasurik pe, badator, geuk pe komosino eingo tsagu berba*
 
-Ikusten denez, gaztelerako **como si no...** lokuzioa, berba bihurtu da.
+Ikusten denez, gaztelerazko **como si no...** lokuzioa, berba bihurtu da.
 
 ## KONDUTIE ##
 
@@ -1120,7 +1120,7 @@ Fama. Erreputazioa.
 - *eztot gure entzun be, zelan kentzien dauen orrek kondutie*
 - *orrek enbriek kondutie bienganien dako*
 
-Gaztelerako **conducta** = **manera de proceder** hitza hartu arren, zentzua aldatu egin da.
+Gaztelerazko **conducta** = **manera de proceder** hitza hartu arren, zentzua aldatu egin da.
 
 ## KONDUTIE KRIELIEN ##
 
@@ -1232,7 +1232,7 @@ Etorri, forma inperatiboan, baina tonua ez da aginduzkoa.
 - *enebada! Amen zeuzer pasako da, kordu ametik!*
 - *kordu, kordu, eztot gure or datorren pitxonie ikustie ta*
 
-Hitz honen jatorria gaztelerako **correr** bada ere, euskarazko **korridu** horren laburpena da.
+Hitz honen jatorria gaztelerazko **correr** bada ere, euskarazko **korridu** horren laburpena da.
 
 ## KOROSKERA ##
 
@@ -1248,7 +1248,7 @@ Itsasontzi baten aurrearen itxura. Baina, askotan, herriko hizkeran, pertsona ba
 
 Bermeon **korosta** itsasontziaren aurrea izan arren, beste leku batzuetan, hau da, beste herri batzuetako arrantzaleen artean, atzeari dagokio.
 
-Gaztelerako **codaste** dela dirudi hitz honen jatorria: **codaste, madero vertical sobre el extremo de la quilla que sostiene el timón**.
+Gaztelerazko **codaste** dela dirudi hitz honen jatorria: **codaste, madero vertical sobre el extremo de la quilla que sostiene el timón**.
 
 **co daste** → **kodaste** → **korosta**.
 
@@ -1266,7 +1266,7 @@ Aire korrontea. Ez dauka gaztelerazko posta zentzua.
 - *zelako korrespondentzidxe dau! Itxizuz atiek!*
 - *korrespondentzidxegaz etzeko plantak pe galdu eitxen diez*
 
-Nondik sar zitekeen berba hau zentzu honetaz, ez da erraza jakitea. Hala ere, gaztelerako **corriente** izango zuela oinarri ez da baztertzekoa. Baina formaz ere, bi hitzak oso urrun daude elkarrengandik.
+Nondik sar zitekeen berba hau zentzu honetaz, ez da erraza jakitea. Hala ere, gaztelerazko **corriente** izango zuela oinarri ez da baztertzekoa. Baina formaz ere, bi hitzak oso urrun daude elkarrengandik.
 
 ## KORRI / DXE ##
 
@@ -1322,7 +1322,7 @@ Lotsa. Heziketa.
 - *krientzien arrasarik pe eztakoie oingo imiek*
 - *zuk pe bakozu krientzie ba, tapaixuz ingiruok*
 
-Gaztelerako **crianza** hitzetik datorrela ezin ukatu, gero esanahi ezberdinez erabiltzen bada ere.
+Gaztelerazko **crianza** hitzetik datorrela ezin ukatu, gero esanahi ezberdinez erabiltzen bada ere.
 
 **crianza** → **kriantza** → **krientza**.
 
@@ -1366,7 +1366,7 @@ Ingurua.
 - *bedarrik pez da arbolarik pe eztauen kunturrunie da, atxak baiño eztauz*
 - *kunturrune politxe da, baie neuri ez dxast orrenbeste gustaten*
 
-Gaztelerako **contorno** hitzak beste bat hartu du euskaraz emateko.
+Gaztelerazko **contorno** hitzak beste bat hartu du euskaraz emateko.
 
 **kontomo** → **kontomo** + **une** → **kontornoune** → **kunturrune**.
 

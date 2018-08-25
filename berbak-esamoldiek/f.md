@@ -20,7 +20,7 @@ Arrantzale giroan erabilitako hitzak, gero, esparru zabalagoa hartu du.
 - *auntxek pe falta eiñ dxau onek fitxiek*
 - *potxera falta-faltaka on da, ta eziñ ezan da apaidxue bota*
 
-Gaztelerako **faltar** aditza erabiltzen da, baina zentzua **fallar** izango litzateke.
+Gaztelerazko **faltar** aditza erabiltzen da, baina zentzua **fallar** izango litzateke.
 
 ## FALTADORIE ##
 
@@ -58,7 +58,7 @@ Pertsona gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esaten dituena.
 - *beran fandanguen arpidxegaz beituten tsu da ortik eztau urteten, berana ta berana*
 - *isillik on zaitxez fandanguori!*
 
-Nola sartu den hitz hau ez dago batere argi. Gaztelerako **fandango** hitzak **baile antiguo español** eta **desorden**, **tumulto** zentzua baititu.
+Nola sartu den hitz hau ez dago batere argi. Gaztelerazko **fandango** hitzak **baile antiguo español** eta **desorden**, **tumulto** zentzua baititu.
 
 ## FANDERO ##
 
@@ -69,7 +69,7 @@ Pertsona fidagaitza, gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esa
 - *berak fandero andidxek esan tsuz orrek berbak? Ezin dxo arpeidxen?*
 - *ni naiela fanderue? Da zeu zer zara ba, fandango andidxori?*
 
-Aurreko hitzaren zentzu berbera ematen zaionez askotan, jatorria ere bera izan daitekeela pentsatzekoa da. Gaztelerako **fandanguero** hitza honela geratuko litzateke hurrengo eboluzioa gertatuz:
+Aurreko hitzaren zentzu berbera ematen zaionez askotan, jatorria ere bera izan daitekeela pentsatzekoa da. Gaztelerazko **fandanguero** hitza honela geratuko litzateke hurrengo eboluzioa gertatuz:
 
 **fandanguero** → **fandangero** → **fandanero** → **fandaero** → **fandero**.
 
@@ -174,7 +174,7 @@ Azalean egotea.
 - *eiñ dxauen beste eurigaz kaderak flotan zapatan barruen*
 - *arek esniek euli pillo bat okiñ dxau bitsen ganien flotan*
 
-Gaztelerako **flotando** gerundioa hartu da esanahi hori erabiltzeko; literalki hartu ere.
+Gaztelerazko **flotando** gerundioa hartu da esanahi hori erabiltzeko; literalki hartu ere.
 
 **flotando** → **flotan**; azken silaba galdu besterik ez du egin.
 

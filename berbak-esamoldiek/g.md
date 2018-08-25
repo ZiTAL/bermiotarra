@@ -60,7 +60,7 @@ Alferraundi.
 - *beran amak eztau gure entzun semie galufue dakona*
 - *ezpadau gure entzun be, aren semie galufue da*
 
-Gaztelerako **golfo** hitzetik sartua dela dirudi.
+Gaztelerazko **golfo** hitzetik sartua dela dirudi.
 
 ## GANBELIE ##
 
@@ -106,7 +106,7 @@ Alperra. Lanari ixo egiten diona.
 - *gangilloie lez dabill ara ta ona ezer ein barik*
 - *iñok eztau gure gangilloirik etzien*
 
-Azkuek bere hiztegian Mundakako hitza bezala jaso duen **gangil** hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerako **-on** atzizkia, **-oi** bihurtzen da.  Beraz, honela geratuko litzateke **gangil** + **oi** → **gangilloi**.
+Azkuek bere hiztegian Mundakako hitza bezala jaso duen **gangil** hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerazko **-on** atzizkia, **-oi** bihurtzen da.  Beraz, honela geratuko litzateke **gangil** + **oi** → **gangilloi**.
 
 ## GANGUS ##
 
@@ -153,7 +153,7 @@ Samako gorroa.
 - *saman okiñ dxoten gargaidxuegaz berbarik pe eziñ eiñ*
 - *gargaidxukaz samie zarratute dakot*
 
-Gaztelerako **gargajo** bera da, baina fonetikaz ezberdintzen da.
+Gaztelerazko **gargajo** bera da, baina fonetikaz ezberdintzen da.
 
 **gargajo** → **gargaijo**; **i** bat desarroilatuz gero.
 
@@ -369,7 +369,7 @@ Kasu honetan ez da erabiltzen hitzaren zentzu zehatzean, zaindu edo jagon zentzu
 - *txarto goberna ezkero barritz, egun bi bakarrik*
 - *eztakidxe gauzek gobernaten be, esko txarridxek takoie ta*
 
-Gaztelerako **gobernar** hitz hori erabiltzen da honelako esaldiak egiteko.
+Gaztelerazko **gobernar** hitz hori erabiltzen da honelako esaldiak egiteko.
 
 ## GOBERNUEN KONTRAKUE ##
 
