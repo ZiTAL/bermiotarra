@@ -1,4 +1,4 @@
-Hau sarrerie Begoña Bilbao Albonigak idatzi zauen *Bermeoko berba eta esamolde kresaltsuak* (2002) liburorako.
+Hau sarrerie Begoña Bilbao Albonigak idatzi zauen **Bermeoko berba eta esamolde kresaltsuak** (2002) liburorako.
 
 # Begoña Bilbao Alboniga #
 
@@ -27,7 +27,7 @@ Hiru urte geroago, Berineoko Udalak emandako bekari esker, Bermeoko Euskara: Adi
 
 # LANAREN ZERGATIA #
 
-Askotan galdetu didate, lan hauen berri izan duten askok, zerk eraman edo bultzatu ninduen lan hauek egitera. Erantzuna ez da bat ere sinplea, faktore asko izan direlako lanean jarri nindutenak. Baina, euretariko bat, garrantzitsuena beharbada, hain berezia eta aberatsa den mintzairatik berbak galtzen doazela ikustea konturatzea izan zen. Eta anekdota bat kontatu barik ezin pasatu: Bermeoko berbak batzen, Frankoren demanduan hasi ginen lagun talde bat. Bakoitzak batzen zituenak taldeko bati ematen genizkion gordetzeko. Asko ziren bildutakoak, taldekide horren amak, momentu batetik bestera *sekretak* bisita egitera joango zitzaizkienaren susmoa hartu zuenean, beldurraz sutara bota zituenean. Gero, neu bakarrik hasi nintzen lan horretan, baina guztien laguntzaz.
+Askotan galdetu didate, lan hauen berri izan duten askok, zerk eraman edo bultzatu ninduen lan hauek egitera. Erantzuna ez da bat ere sinplea, faktore asko izan direlako lanean jarri nindutenak. Baina, euretariko bat, garrantzitsuena beharbada, hain berezia eta aberatsa den mintzairatik berbak galtzen doazela ikustea konturatzea izan zen. Eta anekdota bat kontatu barik ezin pasatu: Bermeoko berbak batzen, Frankoren demanduan hasi ginen lagun talde bat. Bakoitzak batzen zituenak taldeko bati ematen genizkion gordetzeko. Asko ziren bildutakoak, taldekide horren amak, momentu batetik bestera **sekretak** bisita egitera joango zitzaizkienaren susmoa hartu zuenean, beldurraz sutara bota zituenean. Gero, neu bakarrik hasi nintzen lan horretan, baina guztien laguntzaz.
 
 Hemen agertzen diren berba asko galduta edo galtzeko zorian daude. Hizkuntza batek beherantz egiten duenean, laster galtzen dira berbak, esamoldeak, eta abar; baina badago beste faktore bat galtze honen arrazoia dena: berba landuak erabiltzearen alde egiten dugula, geure geureak direnak baztertuta.
 
@@ -39,7 +39,7 @@ Esamolde bakoitzak bere filosofia dauka. Esaldietan, Bermeoko giro, egoera, bizi
 
 # LANARI BURUZKO AZALPENAK #
 
-Hasiera baten, itsas giroko berbak izan ziren: arrain eta txorien izenak, arrantzako tresneria, itsasontzietako eta arrantzako egoera eta lanak, eta abar oso luze bat definitzeko berbak. Baina, esan bezala, urte asko pasatu denez, tartean Anton Perezen *Bermeoko Herri Hizkera* eta Eneko Barrutiaren *Bermeoko eta Mundakako Arrantzaleen Hiztegia* argitaratu direnez, beste bide bat hartu nuen. Beraz, arrantzale giroak daukan eragina Bermeoko eguneroko hizkeran kontutan harturik, eta itsaso, arrain, arrainontzi eta arrantzari buruzko elementuak, deskribapenak, metaforak eta konparaketak egiteko erabiltzen direla ikusita, guzti hori adieraziko diguten berbak eta esamoldeak bakarrik uztea erabaki dut. Hala ere bateren batzuk geratu dira barruan.
+Hasiera baten, itsas giroko berbak izan ziren: arrain eta txorien izenak, arrantzako tresneria, itsasontzietako eta arrantzako egoera eta lanak, eta abar oso luze bat definitzeko berbak. Baina, esan bezala, urte asko pasatu denez, tartean Anton Perezen **Bermeoko Herri Hizkera** eta Eneko Barrutiaren **Bermeoko eta Mundakako Arrantzaleen Hiztegia** argitaratu direnez, beste bide bat hartu nuen. Beraz, arrantzale giroak daukan eragina Bermeoko eguneroko hizkeran kontutan harturik, eta itsaso, arrain, arrainontzi eta arrantzari buruzko elementuak, deskribapenak, metaforak eta konparaketak egiteko erabiltzen direla ikusita, guzti hori adieraziko diguten berbak eta esamoldeak bakarrik uztea erabaki dut. Hala ere bateren batzuk geratu dira barruan.
 
 Bermeoko euskara oso bizia da, baina gogorra ere bai, askotan erasorako eginda dagoela pentsatzen dut. Kostaldeko euskara horrelakoa dela esan ohi da, baina badago diferentziarik. Bizkaian, Ondarru eta Bermeokoa dira gogorrenak, tonu biziagoan mintzatzen gara, Elantxobekoa ere bai apur bat, baina Lekeitiokoa oso mantsoa da.
 
@@ -57,10 +57,10 @@ Gainera, liburu honek beste zerbaitetarako ere balioko duenaren itxaropena dauka
 
 # OHARRAK #
 
-- Ortografia errespetatu den arren, -h-rik ez da sartu.
-- Maileguzko berbetan, /j/ beloko frikari gorra, bere horretan utziko dugu.
-- Bustidurarako joera horregatik, askotan, /z/ → /x/ egingo dugu.
-- Batzuetan adizkien forma ezberdinak agertzen dira: >emon</>omon< edo >etor</>otor<. Horrek esan nahi du biak erabiltzen direla, testuinguruaren arabera.
+- Ortografia errespetatu den arren, **h**-rik ez da sartu.
+- Maileguzko berbetan, **j** beloko frikari gorra, bere horretan utziko dugu.
+- Bustidurarako joera horregatik, askotan, **z** → **x** egingo dugu.
+- Batzuetan adizkien forma ezberdinak agertzen dira: **emon** / **omon** edo **etor** / **otor**. Horrek esan nahi du biak erabiltzen direla, testuinguruaren arabera.
 - Berba batzuk, hiztegietan zer nolako definizioz agertzen diren azaltzen dira. Ez badago azalpenik hiztegietan agertzen ez delako edo gaur egun zentzu konkretu bakarra ematen zaiolako izan da. 
 - Ahalik eta argien jartzen saiatu arren, ezinezkoa gertatzen da gehienetan, laburpenak asko direlako, hizkuntza askotan gertatzen den bezalaxe. Aditza eta Fonetika liburuan, Bermeoko euskaran sarrien ematen diren aldakuntzak azaltzen dira. Baina horiek idatzita ikustean, oso zail egiten zaigu ulertzea. Esaterako -eta batzuk bakarrik aipatzearren- honela egiten ditugu honako hauek:
 
@@ -69,11 +69,12 @@ Gainera, liburu honek beste zerbaitetarako ere balioko duenaren itxaropena dauka
 * begiratu → beitu
 * dogu → du
 * egingo → eingo/ingu
-* ezer ere ez → ezebez 
-* Askotan agertzen da /ts/ → /tz/ eginda, hori baita gure joera. Biak agertzearen arrazoi berezirik ez dago.
+* ezer ere ez → ezebez
 
-/j/ eta /dx/ grafiak:
+* Askotan agertzen da **ts** → **tz** eginda, hori baita gure joera. Biak agertzearen arrazoi berezirik ez dago.
 
-* Aparteko azalpena beltar du /dx/ grafia honek. Lan osoan ikus daitekeenez, grafia horrek ordezkatzen ditu /j/ [dž] sabai-aurreko afrikatu ozena, eta /j/ [ž] sabai-aurreko frikari ozena. Ez genuke idatzi behar horrela, ez delako Bermeoko hizkeran erabilitako soinua. Oraindino ez dakigu nola konpondu soinu hori irudikatzen duen grafiaren arazoa. Baina ez daukagu beste biderik. Nik aspalditik erabiltzen dut /dx/ hori, nahiz eta gustukoa ez izan, zeren, badakit, ez dela egokiena, Ixlsabai-aurreko frikaria izan arren ahoskabea da, eta guk egiten duguna ozena da. Baina zerbait behar eta hori hartu dut. Grafia hori, edo besteren barerabiliko ez bagenu, bustidurak nagusi diren Bermeoko euskara idatzian /j/ baino ez genuke ikusiko, eta orduan bai gertatuko litzaigukeela zailagoa ulertzea. Bermeoko euskara idatzian honelakoak ikusi ditugu: /jj/, /ds/. /j/ eta besteren bat ere bai, goian aipatutako soinuak ordezkatzeko, baina horiek askoz ere desegokiagoak direla uste dut.
+**j** eta **dx** grafiak:
 
-Dena den, /dx/ grafia horren alde, duela urte asko agertu zen Azkue. Ortuzarrek ere, 1925ean argitaratu zuen bere *Oroigarriak* liburuan ere grafia hori erabiltzen du. 
+* Aparteko azalpena behar du **dx** grafia honek. Lan osoan ikus daitekeenez, grafia horrek ordezkatzen ditu **j** [**dž**] sabai-aurreko afrikatu ozena, eta **j** [**ž**] sabai-aurreko frikari ozena. Ez genuke idatzi behar horrela, ez delako Bermeoko hizkeran erabilitako soinua. Oraindino ez dakigu nola konpondu soinu hori irudikatzen duen grafiaren arazoa. Baina ez daukagu beste biderik. Nik aspalditik erabiltzen dut **dx** hori, nahiz eta gustukoa ez izan, zeren, badakit, ez dela egokiena, Ixlsabai-aurreko frikaria izan arren ahoskabea da, eta guk egiten duguna ozena da. Baina zerbait behar eta hori hartu dut. Grafia hori, edo besteren barerabiliko ez bagenu, bustidurak nagusi diren Bermeoko euskara idatzian **j** baino ez genuke ikusiko, eta orduan bai gertatuko litzaigukeela zailagoa ulertzea. Bermeoko euskara idatzian honelakoak ikusi ditugu: **jj**, **ds**. **j** eta besteren bat ere bai, goian aipatutako soinuak ordezkatzeko, baina horiek askoz ere desegokiagoak direla uste dut.
+
+Dena den, **dx** grafia horren alde, duela urte asko agertu zen Azkue. Ortuzarrek ere, 1925ean argitaratu zuen bere **Oroigarriak** liburuan ere grafia hori erabiltzen du. 

@@ -13,7 +13,6 @@ Estandar bat imintzeko asmoz:
 1. Berbien esanahidxe.
 2. Adibidiek esaldidxetan.
 3. Informaziño gehidxau berbiri buruz
-4. Atzizkidxek >< bitxartien.
 
 Esker berezidxek:
 
