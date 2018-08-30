@@ -620,6 +620,13 @@ Gizon oso galanta.
 
 Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, **otzo** gaztelerazko **oso** da. Beharbada gaztelerazko esaldia kontutan hartuta egingo zen.
 
+## OTZO BABASTUE ##
+
+Gizon lodia.
+
+- *ezkondu danerik otzo babastuelez imindxe*
+- *zu nora zuez korrikara, otzo babastuelez bazauzen! Pauso bi emon, eta guarda abajo!*
+
 ## OZALIE ##
 
 Txarriaren janaria.
