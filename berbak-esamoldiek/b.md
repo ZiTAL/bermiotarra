@@ -831,14 +831,6 @@ Poliziak, Guardia zibilak. Aurkakoak.
 - *beste morroiek ikusi duz Bilbotik etor garizenien kontrolak imitsen*
 - *orrek beste morroiek zelako txikotazuek emon doskuie ba*
 
-## BESTELA ##
-
-Zelan, ze ondo, askotan sarkasmo ikutu batekin.
-
-- *bestela zauz berton, Aritzatxun eguzkidxe hartzien*
-
-Bermeon **bestela** esateko **ostantzien** erabiltzen da.
-
 ## BESTELA NAU / ZAUZ / DAU...! ##
 
 Denbora luzean itxaroten egotea. Hala ere **bestea** eta **bestelakue** lokuzioak askotan agertzen dira era guztietako esaldietan.
