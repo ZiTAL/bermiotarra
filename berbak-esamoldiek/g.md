@@ -563,11 +563,16 @@ Azkuek bere hiztegiko gehigarrian azaltzen du, baina berak *graznido* zentzuaz d
 
 ## GRAKU ##
 
-Besteak baino indartsuagoa dela eman nahi duen gizonezkoa. **Tarzan** dela pentsatzen duena.
+1. Besteak baino indartsuagoa dela eman nahi duen gizonezkoa. **Tarzan** dela pentsatzen duena.
 
 - *zer da bera morroie ba, graku da la?*
 - *grakun antzeko bat agertu dxaskun dxantzan gauzela*
 - *txo, graku, saltaik auna orrenbestekue bazara*
+
+2. Asko jaten duena.
+
+- *txo, astuen boluek pe jan! Graku zara la?*
+- *txo, zemat jaten zu ba? zer zara graku?*
 
 ## GRIKO ##
 
