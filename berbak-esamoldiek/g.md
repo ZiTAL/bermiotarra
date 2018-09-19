@@ -600,14 +600,6 @@ Zerbait zalantzan jartzen denean esaten da.
 . *Enrique Iglesias datorreIa Bermiora? Gu irurok bost*
 - *dana merketuko dala? Gu irurok bost*
 
-## GUARDA ABAJO ##
-
-Erori.
-
-- *baporetik guarda abajo jun de, eta itso ein dxe*
-- *berenganie laban eta guarda abajo jun nai*
-- *berenganie apurtu, eta an junde guarda abajo*
-
 ## GUARDA GUARDAKA ##
 
 Hitz hau arrantzale giroan erabiltzen den hitz bat da, eta denborale handia dagoenean ontzia asko mugitzeari deitzen zaio.
