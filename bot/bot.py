@@ -11,6 +11,7 @@ from hashlib import md5
 import tempfile
 from PIL import Image, ImageFont, ImageDraw
 from TwitterAPI import TwitterAPI
+from mastodon import Mastodon
 
 # fitxero danak hartun #
 
@@ -116,6 +117,22 @@ for i in files:
 
 	img.save(i, "PNG")
 
+
+#mastodon
+
+mastodon = Mastodon(
+    access_token = 'pytooter_usercred.secret',
+    api_base_url = 'https://mastodon.social'
+)
+
+images = []
+for i in files:
+	a = mastodon.media_post(i);
+	images = [a.id]
+	os.remove(i)
+
+b = mastodon.status_post("Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttp://zital-pi.no-ip.org/bermiotarra/", None, images)
+
 # twitter
 
 credentials_file = sys.path[0]+"/twitter.credentials"
@@ -123,17 +140,6 @@ with open(credentials_file, 'r') as f:
 	credentials = json.load(f)
 
 api = TwitterAPI(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'], credentials['ACCESS_TOKEN_KEY'], credentials['ACCESS_TOKEN_SECRET'])
-images = []
-for i in files:
-	file = open(i, 'rb')
-	data = file.read()
-	r = api.request('media/upload', None, {'media': data})
-	if r.status_code == 200:
-		media_id = r.json()['media_id']
-		images.append(str(media_id))
-	os.remove(i)
-
-images = ",".join(images)
-r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttp://zital-pi.no-ip.org/bermiotarra/", 'media_ids': images})
+r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\n"+b.url})
 
 sys.exit()
