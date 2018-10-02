@@ -121,7 +121,7 @@ for i in files:
 #mastodon
 
 mastodon = Mastodon(
-    access_token = 'pytooter_usercred.secret',
+    access_token = sys.path[0]+"/pytooter_usercred.secret",
     api_base_url = 'https://mastodon.social'
 )
 
