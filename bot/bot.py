@@ -59,13 +59,6 @@ for file in files:
 r = random.randint(0, len(resources))
 element = resources[r]
 
-# toka dan berbie cache-n sartu #
-
-words_cached.append(element['id'])
-
-with open(words_cache_file, 'w') as outfile:
-    json.dump(words_cached, outfile)
-
 # markdown sortu
 
 # fuentien tamañue
@@ -142,5 +135,12 @@ with open(credentials_file, 'r') as f:
 
 api = TwitterAPI(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'], credentials['ACCESS_TOKEN_KEY'], credentials['ACCESS_TOKEN_SECRET'])
 r = api.request('statuses/update', {'status': txt+m.url})
+
+# toka dan berbie cache-n sartu #
+
+words_cached.append(element['id'])
+
+with open(words_cache_file, 'w') as outfile:
+    json.dump(words_cached, outfile)
 
 sys.exit()
