@@ -115,7 +115,7 @@ txt = "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+
 #mastodon
 
 mastodon = Mastodon(
-    access_token = sys.path[0]+"/mastodon.credentials"
+    access_token = sys.path[0]+"/mastodon.credentials",
     api_base_url = 'https://mastodon.social'
 )
 
