@@ -117,11 +117,12 @@ for i in files:
 
 	img.save(i, "PNG")
 
+txt = "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\n"
 
 #mastodon
 
 mastodon = Mastodon(
-    access_token = sys.path[0]+"/pytooter_usercred.secret",
+    access_token = sys.path[0]+"/mastodon.credentials"
     api_base_url = 'https://mastodon.social'
 )
 
@@ -131,7 +132,7 @@ for i in files:
 	images = [a.id]
 	os.remove(i)
 
-b = mastodon.status_post("Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttp://zital-pi.no-ip.org/bermiotarra/", None, images)
+m = mastodon.status_post(txt+"http://zital-pi.no-ip.org/bermiotarra/", None, images)
 
 # twitter
 
@@ -140,6 +141,6 @@ with open(credentials_file, 'r') as f:
 	credentials = json.load(f)
 
 api = TwitterAPI(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'], credentials['ACCESS_TOKEN_KEY'], credentials['ACCESS_TOKEN_SECRET'])
-r = api.request('statuses/update', {'status': "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\n"+b.url})
+r = api.request('statuses/update', {'status': txt+m.url})
 
 sys.exit()
