@@ -2,7 +2,7 @@
 
 ## IA MARKIE! ##
 
-Harridurazkoa da. Edozein egoeratan erabiltzen da.
+Holako markarik! Harridurazkoa da. Edozein egoeratan erabiltzen da.
 
 - *zelako ez dauela irebazi ezer, ia markie! Ori eztau siñestuten berak pe*
 - *bide guztidxek zarratute. Ia markie! Oiñ zelan dxungo nai Bilbora*
