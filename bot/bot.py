@@ -37,6 +37,12 @@ b = None
 for file in files:
 	with open(file, 'r') as f:
 		for line in f:
+			# letrie bada, hurrengo lerrora pasa
+			letter = re.search("^#\s([^#]+)\s#", line)
+			if letter != None:
+				continue
+
+			# berbie edo esamoldie topa
 			resource = re.search("^##\s([^#]+)\s##", line)
 			if resource != None:
 				tmp = resource.group(1).encode('utf-8')
@@ -105,7 +111,7 @@ for i in files:
 
 	d = ImageDraw.Draw(img)
 
-	d.text((472, 730), "#zitalbot", font = font, fill=(0, 0, 0, 255))
+	d.text((375, 730), "#bermiotarra  #zitalbot", font = font, fill=(0, 0, 0, 255))
 	d.text((300, 750), "http://zital-pi.no-ip.org/bermiotarra/", font = font, fill=(0, 0, 0, 255))
 
 	img.save(i, "PNG")
