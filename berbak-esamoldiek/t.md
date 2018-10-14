@@ -1692,7 +1692,7 @@ Alaia. Mugikorra. Ederto.
 
 ## TXISTADA ##
 
-Arreta erakartzeko egiten dugun zarata hori: txist, txist.
+Arreta erakartzeko egiten dugun zarata hori: txist-txist.
 
 - *kaletik dxun nai da txistadiek atentzinue deitxu dost, nor ete dan, da burue buelta dotenien bera ezan da*
 - *ziñera bazuez ein txistada bat*
@@ -1708,7 +1708,7 @@ Kasu honetan izenaren funtzioa betazen du.
 
 ## TXISTADAKA ##
 
-Goiko hitza adberbio funtzioan agertzen da.
+Arreta erakartzeko egiten dugun zarata hori: txist-txist. Adberbio funtzioan agertzen da.
 
 - *txistadaka okiñ dxot Lameran on naien denpora guztidxen*
 - *eztozu obeto txistadaka ibilli barik bertara dxuen da berba eiñ?*
