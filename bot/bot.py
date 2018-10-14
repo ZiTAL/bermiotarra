@@ -65,6 +65,13 @@ for file in files:
 r = random.randint(0, len(resources))
 element = resources[r]
 
+"""
+# gudoten bat hartun
+for i in resources:
+	if(i['id']=='fc96f73c0c8d6807716c6e837d6be712'):
+		element = i
+"""
+
 # markdown sortu
 
 # fuentien tamañue
