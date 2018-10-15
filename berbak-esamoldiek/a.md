@@ -3035,11 +3035,25 @@ Aberats berriak.
 
 ## AUSI ##
 
-Zaunka.
+1. Zaunka egin.
 
 - *beziñuen txakurre egun santo guztidxen dabil ausike*
 - *baserri batera nuen bakotzien txakurrek ausi eitsen dostie*
 - *Mikelen andrien txakurre beti dau ausike*
+
+2. Hautsi, apurtu.
+
+- *mozkorran pasiñuegaz, basue berenganera jeusi dast, eta ausi eindxe*
+- *Jontxuk patiñetan dabilela, jeusi, eta eskumuturre ausi dau!*
+- *Ibanek futbitoka txilenie eiñ, eta lepue ausi dau!*
+
+## AUSIDXE ##
+
+Zaunka.
+
+- *txakurrek eiñ dosten ausidxegaz ikaratu ein nai*
+- *osaban txakurren ausidxegaz kaka frakatan!*
+- *txakurren ausidxe ezta ezer, otsuenagaz bai ikaratu!*
 
 ## AUSPO ##
 
