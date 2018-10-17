@@ -1395,10 +1395,12 @@ Abiaduran.
 
 Abiadura bizian.
 
-Lehen egin den bezala aurrekoan beste hitz bat gehitu zaio, beharbada indar gehiago emateko.
-
 - *andanakorridxen etor nai da dxeusi ein nai*
 - *andanakorridxen ibilltxiek bidxotza kantzaten dau*
+
+Andanadan Bermeoko hitza hartu da, eta korrika gehitu zaio enfasi handiagoa emateko.
+
+**andanadan** + **korrika** → **andanakorridxen** 
 
 ## ANDANAKORRIJE ##
 
@@ -3035,7 +3037,7 @@ Aberats berriak.
 
 ## AUSI ##
 
-1. Zaunka egin.
+1. Zaunka egin. Aditz legez erabiltzen da.
 
 - *beziñuen txakurre egun santo guztidxen dabil ausike*
 - *baserri batera nuen bakotzien txakurrek ausi eitsen dostie*
