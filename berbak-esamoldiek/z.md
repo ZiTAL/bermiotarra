@@ -309,8 +309,6 @@ Zerbait.
 - *asarratu eiñ dxe, bestiek zepaitxe esan tso ta*
 - *zepaitxe erosi biar dauela ta, dendara dxun da*
 
-Aurrekoan bezala, laburpenek beste hitz bat sortu dute.
-
 **zerbait** → **zepaitxe**.
 
 ## ZER DAN EDO ZER EZTAN ##
