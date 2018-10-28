@@ -99,7 +99,7 @@ Adjektibo funtzioa betetzen du.
 
 ## GANGILLOI ##
 
-Alperra. Lanari ixo egiten diona.
+Alferra. Lanari ihes egiten diona.
 
 - *gangilloie bada ikastie dako zer dan biar eitxie*
 - *garridxe okertutie ez dxatzo gustaten gangilloie dalakon*

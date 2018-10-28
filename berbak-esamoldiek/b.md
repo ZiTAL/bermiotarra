@@ -936,7 +936,7 @@ Kolpatu. Jo.
 
 ## BIARRARI IXO ##
 
-Oso alperra.
+Oso alferra.
 
 - *arek biarrari ixo eitxen tzo, ezta kapaz bienganetik papel bat altzateko be*
 - *ixo ein biar biarrari, garridxe gogor dako ta*
