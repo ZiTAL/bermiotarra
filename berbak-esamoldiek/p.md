@@ -21,7 +21,7 @@ Gaztelerazko **paisano** zuzen zuzenean sartu da.
 
 ## PALPAL ##
 
-Abiadura ixikian. Trankil. Arrantzale terminoa da, baina herrian asko erabiltzen da.
+Abiadura txikian. Trankil. Arrantzale terminoa da, baina herrian asko erabiltzen da.
 
 - *amen guez palpal, pries barik aurrera*
 - *motorra palpalien imiñdxe trankil trankil, muxikie entzuten*
