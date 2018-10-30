@@ -476,7 +476,7 @@ Itsas kabra baino ilunagoa eta haragi gogorragoa dauka. Askorentzat onena.
 - *goinbizen sue sartun dxast da zoldu eiñ dxast atzamarra*
 - *gonbiz txikitxu batzuk erosi dotez prijite dxateko*
 
-## GORA GORAKA ##
+## GORA-GORAKA ##
 
 Aldarrika hasi.
 
