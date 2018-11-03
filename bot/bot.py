@@ -65,10 +65,10 @@ for file in files:
 r = random.randint(0, len(resources))
 element = resources[r]
 
-"""
 # gudoten bat hartun
+"""
 for i in resources:
-	if(i['id']=='fc96f73c0c8d6807716c6e837d6be712'):
+	if(i['id']=='2797b748eb9425e3975f1d724c7e1ff2'):
 		element = i
 """
 
@@ -135,7 +135,7 @@ mastodon = Mastodon(
 images = []
 for i in files:
 	a = mastodon.media_post(i);
-	images = [a.id]
+	images.append([a.id])
 	os.remove(i)
 
 m = mastodon.status_post(txt+"http://zital-pi.no-ip.org/bermiotarra/", None, images)
