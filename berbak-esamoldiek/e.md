@@ -102,6 +102,14 @@ Konturatu.
 - *badakizule nor dan diñozu, oraiñ ein dotsu egunek argi?*
 - *auntxek egin dotso orreri egunek argi*
 
+## EGUNO ##
+
+Sekula. Inoiz ez.
+
+- *San Mamesera enai juen eguno!*
+- *nota txarrakaz bazatozen etxera eguno etsut eingo erregalorik*
+- *Aqualandiara enai juen eguno, baie gustako lekidast!*
+
 ## EGUNO LAKORIK! ##
 
 Sinestezina denean. Holakorik!
