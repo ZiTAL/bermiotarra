@@ -632,7 +632,7 @@ Lotsak eman.
 
 - *erara bakozu ekarri neuri be ogidxek*
 
-Azkuek bere Morfologia liburuan *eratara* jaso duela dio D.A.R.k, eta **a derechas** definizioaz jartzen du. Bermeon ere erabiltzen da forma hori.
+Azkuek bere Morfologia liburuan **eratara** jaso duela dio D.A.R.k, eta **a derechas** definizioaz jartzen du. Bermeon ere erabiltzen da forma hori.
 
 ## ERATSITZE ##
 
