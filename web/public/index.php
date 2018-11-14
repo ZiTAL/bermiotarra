@@ -1,4 +1,5 @@
 <?php
+include(__DIR__."/../private/constants.php");
 include(__DIR__."/../private/common.php");
 
 $dirs = array
@@ -32,7 +33,7 @@ foreach($files as $file)
 	);
 }
 
-$title = 'Bermiotarra';
-$link_home = '';
+$title = TITLE;
+$link_home = RELATIVE_ROOT;
 $q = '';
 include(__DIR__."/../private/templates/index.tpl");

@@ -1,5 +1,6 @@
 <?php
-include('common.php');
+require_once('constants.php');
+require_once('common.php');
 include('anchor.php');
 
 $dir_output = realpath(__DIR__."/../public/");
@@ -47,3 +48,6 @@ foreach($files as $file)
 	$file_output = "{$dir}/{$letter}.html";
 	file_put_contents($file_output, $html);
 }
+
+// pdf-a sortu
+include('pdf.php');

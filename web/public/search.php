@@ -3,7 +3,7 @@
 if(isset($_POST['q']))
     header("location: /search/{$_POST['q']}/");
 */
-
+include(__DIR__."/../private/constants.php");
 include(__DIR__."/../private/common.php");
 
 $dirs = array
@@ -13,7 +13,7 @@ $dirs = array
 
 $q = getSearch();
 
-$title = 'Bermiotarra: Bilatzailie';
+$title = SEARCH_CAPTION;
 
 if($q!=='')
 {
@@ -107,7 +107,7 @@ if(isset($result))
     }
 }
 
-$link_home = 'index.php';
+$link_home = RELATIVE_ROOT;
 include(__DIR__."/../private/templates/search.tpl");
 
 function getSearch()
