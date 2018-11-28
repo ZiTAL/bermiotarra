@@ -2345,7 +2345,7 @@ Harroputza.
 - *zu zara arruen andiko mandie*
 - *arruen andiko mandie banai be neuretzat*
 
-## ARTA ZIDXERI EMOTEN ##
+## ARTAZIDXERI EMOTEN ##
 
 Berriketan.
 
