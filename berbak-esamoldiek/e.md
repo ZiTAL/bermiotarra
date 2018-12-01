@@ -1097,6 +1097,13 @@ Eskumuturra indargetua, ahul edo mingor dagoenean.
 - *amen eskuen esko arraiñe dakot, da trapo gorridxe imin bidot*
 - *esko arraiñentzat ona dala trapo gorridxe imitxie esaten dauie*
 
+## ESKO BETE EULI ##
+
+Baliorik ez duela adierazteko erabiltzen da.
+
+- *Horregaz kañoberiegaz arrantzen? Hori eta esko bete euli bardin!*
+- *Ha saldu? Zetako! Haregaz irebazko dan dirue eta esko bete euli bardin!*
+
 ## ESKOERARA ##
 
 Erraz edukitzea gauzak. Eskura.
