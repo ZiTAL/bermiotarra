@@ -3180,7 +3180,7 @@ Galtzen ari den hitza da. Jadanik, berrogei urtetik gorakoetan baino ez da entzu
 
 **aza** + **orri** + **azi** → **azorrazi**.
 
-Baina, Koldo Izagirreren **Lokuzioak** liburuan, **hasi orraziak** **gertakizunak** defunzioaz dator. Hitzaren jatorria ori izan daiteke, baina zentzua bestelakoa da.
+Baina, Koldo Izagirreren **Lokuzioak** liburuan, **hasi orraziak** **gertakizunak** definizioaz dator. Hitzaren jatorria hori izan daiteke, baina zentzua bestelakoa da.
 
 ## AZOTA ##
 
