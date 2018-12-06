@@ -373,6 +373,14 @@ Zigortu nahia adierazten du.
 - *ezpazauz esan tzuten ordureko, lepue dxango tzut*
 - *lepue dxango tzola esan tzo ezta? Ba, ez fidxetie dako askorik*
 
+## LIBRE ##
+
+Erditu. Umea izan.
+
+- antziñe andrak kofradire juten zien libreten.
+- urek bota dauz, eta arrapaladan erun dauie ospitxalera libreteko.
+- egun gitxi falda datsoz libreteko, laster familidxen beste bat gehidxau izengo gariez!
+
 ## LIGORRA ##
 
 Lehor. Siku. Pertsonen izaerari ere aplikatua. 
