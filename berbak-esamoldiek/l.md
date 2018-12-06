@@ -379,7 +379,7 @@ Erditu. Umea izan.
 
 - antziñe andrak kofradire juten zien libreten.
 - urek bota dauz, eta arrapaladan erun dauie ospitxalera libreteko.
-- egun gitxi falda datsoz libreteko, laster familidxen beste bat gehidxau izengo gariez!
+- emagiñek diño, egun gitxi falda datsoz libreteko, laster familidxen beste bat gehidxau izengo gariez!
 
 ## LIGORRA ##
 
