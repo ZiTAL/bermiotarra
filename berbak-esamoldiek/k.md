@@ -883,6 +883,14 @@ Asko, kantitate handia.
 - *onek boltsiek kintxel bat pixeten dost*
 - *onek zapatak kintxel bana dakoie bakotxak*
 
+## KIÑE ##
+
+Azkura izaten denean hazkatzea.
+
+- *kiñeten nabil, baie bizarreko azgurie ez dast pasaten*
+- *bizarra kiñeten... Magu pentsakor!*
+- *belarridxe kiñeten hasten naienien ezin gelditxu ibiltzen nai!*
+
 ## KIRIKILLO ##
 
 Ile kizkurra.
