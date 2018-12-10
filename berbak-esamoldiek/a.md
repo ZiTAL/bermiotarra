@@ -766,7 +766,7 @@ Behintzat zentzu hori dauka Bermeon. Baina, sarritan, alamena, gogorra ere izate
 
 ## ALAN DALA TA ##
 
-Denu sinistu edo dena, den moduan hartzea.
+Dena sinistu edo dena, den moduan hartzea.
 
 - *aulan bixi dxatzu ori, alan dala ta, ernega barik*
 - *esaten tzoiena siñestuten dau, alan dala ta*
