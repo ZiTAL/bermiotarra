@@ -42,16 +42,35 @@ function anchor($input, $title)
 	$body = preg_replace("/(^\s*<body>\s*|\s*<\/body>\s*$)/", '', $body);
 
 	$title = "Bermiotarra: {$title}";
-
-	$header = file_get_contents(__DIR__."/templates/header.tpl");
-	$footer = file_get_contents(__DIR__."/templates/footer.tpl");
-
+/*
+	$header = eval("?>".file_get_contents(__DIR__."/templates/header.tpl")."<?php");
+    $footer = eval("?>".file_get_contents(__DIR__."/templates/footer.tpl")."<?php");
+*/
+    $header = include_var(__DIR__."/templates/header.tpl", array
+    (
+        'title' => $title,
+        'link_home' => '../'
+    ));
+    $footer = include_var(__DIR__."/templates/footer.tpl", array
+    (
+        
+    ));
+/*
 	$regex = "/".preg_quote('<?=$title;?>')."/";
 	$header = preg_replace($regex, $title, $header);
 	$regex = "/".preg_quote('<?=$link_home;?>')."/";
 	$header = preg_replace($regex, '../', $header);
-
+*/
 	$html = $header.$body.$footer;
 
 	return $html;
+}
+
+function include_var($file, $vars = NULL)
+{
+    if($vars!==NULL)
+        extract($vars);
+    ob_start();
+    include($file);
+    return ob_get_clean();
 }
