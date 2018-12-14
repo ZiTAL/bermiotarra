@@ -11,8 +11,8 @@ function anchor($input, $title)
 
 	$xpath = new DOMXPath($dom);
 
-	// add anchor to all h2
-	$hs = $xpath->query('//h2');
+	// add anchor to all h3
+	$hs = $xpath->query('//h3');
 
 	foreach($hs as $h)
 	{
