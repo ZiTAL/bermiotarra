@@ -49,12 +49,12 @@ if($q!=='')
 
         $xpath = new DOMXPath($dom);
 
-		// h1-ak ezabatu
-		$h1s = $xpath->query('//h1');
-		if($h1s->length>0)
+		// h2-ak ezabatu
+		$hs = $xpath->query('//h2');
+		if($hs->length>0)
 		{
-			foreach($h1s as $h1)
-				$h1->parentNode->removeChild($h1);
+			foreach($hs as $h)
+				$h->parentNode->removeChild($h);
 		}
 
         $content = $xpath->query("//div[@id=\"content\"]");
@@ -68,7 +68,7 @@ if($q!=='')
             {
                 $parent_node = getParentNode($sn);
 
-                $h = getPrevNode($parent_node, 'h2');
+                $h = getPrevNode($parent_node, 'h3');
                 $a = $xpath->query('a', $h);
                 $a = $a->item(0);
                 $a->setAttribute('href', $m.$a->getAttribute('href'));
@@ -77,7 +77,7 @@ if($q!=='')
 
                 if(!in_array($a_name, $names))
                 {
-                    $h_original = $xpath_original->query("//h2[@id=\"".$h->getAttribute('id')."\"]");
+                    $h_original = $xpath_original->query("//h3[@id=\"".$h->getAttribute('id')."\"]");
                     $h_original = $h_original->item(0);
 
                     $next_nodes = getNextNodes($h_original);
@@ -192,7 +192,7 @@ function getNextNodes($node)
         else
             break;
     }
-    while($next->nodeName!=='h2' && $next->nodeName!=='h1');
+    while($next->nodeName!=='h3' && $next->nodeName!=='h2');
 
     $result  = array_slice($result, 1, -1);
     return $result;
