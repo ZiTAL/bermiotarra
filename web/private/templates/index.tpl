@@ -11,5 +11,6 @@
 	<?php endforeach; ?>
 	</ul>
 	</li>
+</ul>	
 <?php endforeach; ?>
 <?php include('footer.tpl'); ?>
