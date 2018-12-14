@@ -1,6 +1,6 @@
-# P #
+## P ##
 
-## PAIDADIE ##
+### PAIDADIE ###
 
 Eskertzea. Ordainketa.
 
@@ -8,7 +8,7 @@ Eskertzea. Ordainketa.
 - *ainbeste une biarrien on da gero, au de paidadie!*
 - *aurregaz paidadiegaz urteten zu zuk, mille mesede eiñdxe gero*
 
-## PAISAN / O ##
+### PAISAN / O ###
 
 Lagun arteko deigarri bat.
 
@@ -19,7 +19,7 @@ Lagun arteko deigarri bat.
 
 Gaztelerazko **paisano** zuzen zuzenean sartu da.
 
-## PALPAL ##
+### PALPAL ###
 
 Abiadura txikian. Trankil. Arrantzale terminoa da, baina herrian asko erabiltzen da.
 
@@ -28,7 +28,7 @@ Abiadura txikian. Trankil. Arrantzale terminoa da, baina herrian asko erabiltzen
 - *eztauelez priesik palpal dxungo gariez*
 - *palpalien gabilizez, ara ta ona, taberna batetik bestera*
 
-## PANTALONAK ##
+### PANTALONAK ###
 
 Kuleroak.
 
@@ -40,7 +40,7 @@ Kuleroak.
 
 Gaztelerazko **pantalón** nola sartu den esanahi horretaz ez da erraza jakitea. Hala ere analogiaz egin dela argi dago.
 
-## PAPARDUEN ARPIDXE ##
+### PAPARDUEN ARPIDXE ###
 
 Kokolo aurpegia. 
 
@@ -48,7 +48,7 @@ Kokolo aurpegia.
 - *deiñ dxauen destrozue! Gero paparduen arpeidxegaz beitu, ia parkatuten batsoie*
 - *ez beitu niri zeure paparduen arpeidxegaz, ezetuten zaitxut eta*
 
-## PAPAU / E ##
+### PAPAU / E ###
 
 Kokolo. Tonto.
 
@@ -59,28 +59,28 @@ Kokolo. Tonto.
 
 Azkuek Mundakarako jartzen du bere hiztegian.
 
-## PAPEL BAKO MORROIE ##
+### PAPEL BAKO MORROIE ###
 
 Argia ez den gizona.
 
 - *papel bako morroiegaz dxun notak Bilbora da bidxok galdu bertan*
 - *nogaz batzien zara zeu be ba, papel bako morroiegaz*
 
-## PAPELADIE ##
+### PAPELADIE ###
 
 Komedia. Itxura ematan.
 
 - *ikusten zuz aren negarrak? Papeladie eitxen dau*
 - *papeladarik politxena bienganera dxeusi danien eiñ dxosku*
 
-## PAPELAN GARBITXASUNEK ##
+### PAPELAN GARBITXASUNEK ###
 
 Administrazioko era guztietako paperen tramitazioa bideratzea. Batez ere, herentzia eta horrelakoei dagozkienak.
 
 - *erentzidxe kobrateko, lelau papelan garbitxasunek ein biar diez*
 - *zerbezidxotik libreteko papelan garbitxasunek ein biar diez*
 
-## PAPO / UE ##
+### PAPO / UE ###
 
 Masaila.
 
@@ -91,21 +91,21 @@ Masaila.
 
 Bermeon masaila definitzeko erabiltzen den hitz bakarra dugu.
 
-## PAPOLODI ##
+### PAPOLODI ###
 
 Masail mamitsuak daukana.
 
 - *zu, papolodi, ia orrek papuek noix kentzien zun*
 - *papoloditxue da bera, baie beran aiztie mikue lakue*
 
-## PAPUEK BIDXORTU ##
+### PAPUEK BIDXORTU ###
 
 Amak seme-alabei botatzen dien mehatxua.
 
 - *alabatxi, onek diez orduek eskolara dxuteko? Papuek pe bidxortu eingo tsutez*
 - *txo, ona ezpazatoz neu dxungo nai bertora, da papuek pe bidxortu eingo tsutez*
 
-## PAPUEK DXAN ##
+### PAPUEK DXAN ###
 
 Hau ere goikoaren parekoa dugu, baina gogorragoa izan daiteke. Jo. Agirika egin. Mehatxua.
 
@@ -113,14 +113,14 @@ Hau ere goikoaren parekoa dugu, baina gogorragoa izan daiteke. Jo. Agirika egin.
 - *amak esan dau, papuek be dxan eingo tsuzela diro danak gastaten bazuz*
 - *zetako dxango dostazuz papuek ba, nik eztot eiñ ezer da?*
 
-## PAPUSIA ##
+### PAPUSIA ###
 
 Aurrekoaren sinonimo bat da.
 
 - *ikusten zu zelako papusiatxue dakun?*
 - *benetan papusia, papuek erremenanteko moduen dakoz da*
 
-## PARA ##
+### PARA ###
 
 Jarri (pertsona).
 
@@ -131,7 +131,7 @@ Jarri (pertsona).
 
 Gaztelerazko **parar** = **detener** aditza hartu da zentzu honetaz erabiltzeko. Baina aurretik ikusi dugu beste berba bat, gaztelerazko zentzu konkretu honetan agertzen dena: **apara** hitza hain zuzen.
 
-## PARAUE ##
+### PARAUE ###
 
 Energia gabeko pertsona. Mugitzen ez dena.
 
@@ -139,7 +139,7 @@ Energia gabeko pertsona. Mugitzen ez dena.
 - *ez esan ni paraue naienik enai txe*
 - *paraue zara baie txetxotxu*
 
-## PARISTE ##
+### PARISTE ###
 
 Tontakeriak egitea. Keinu nabarmenak.
 
@@ -150,7 +150,7 @@ Tontakeriak egitea. Keinu nabarmenak.
 
 Hitz honen beste bariante bat **paristadak** da baina gutxiago erabiltzen da.
 
-## PARISTOSO / A ##
+### PARISTOSO / A ###
 
 Tontakeriak egiten dituena. Keinu nabarmenak egiten dituena.
 
@@ -159,14 +159,14 @@ Tontakeriak egiten dituena. Keinu nabarmenak egiten dituena.
 - *paristosie ezan balekide aixie artzien botako lekidot*
 - *zer da paristosue ba, andra guztidxen aurrien igual*
 
-## PARLAMENTA ##
+### PARLAMENTA ###
 
 Oso txarra.
 
 - *egualdidxe parlamenta, euri, aixe eta truboiek maridxe*
 - *parlamentien gabiltzazak, arraiñik pez, da dirorik pez*
 
-## PARTILLE/ IE ##
+### PARTILLE/ IE ###
 
 Arrantzaleen arteko diru banaketa edo irabaziak.
 
@@ -177,14 +177,14 @@ Arrantzaleen arteko diru banaketa edo irabaziak.
 - *goixetik dxun da partilletzera, partillie okiñ dxau te*
 - *partilletzera dxuen bai, baie partillerik ez*
 
-## PASADAN ##
+### PASADAN ###
 
 Pasatzean. Igarotzean.
 
 - *pasadan ikusi dot da gero geidxau bapez*
 - *aulan beituten dotzu pasadan, imelapurre lez*
 
-## PASADIE EMON ##
+### PASADIE EMON ###
 
 Bota. Kaka saltzera bota. Amaitu.
 
@@ -192,7 +192,7 @@ Bota. Kaka saltzera bota. Amaitu.
 - *zelako pasadie emon tso, mututute itxi dau*
 - *etzeko biarrai pasadie emon bitsat lelau*
 
-## PASAIZO ##
+### PASAIZO ###
 
 Pasadizua. Gertatutakoa.
 
@@ -204,7 +204,7 @@ Pasadizua. Gertatutakoa.
 
 Azkuek ez du jaso eta berriz, ere, T. Etxebarriaren **Léxico de Arrate** aipatzen du D.A.R.k Bermeoko hitz bat azaltzeko. Gaztelerazko **pasaje** = **trozo de un libro** tik sartuko zen seguru aski.
 
-## PASIDE ##
+### PASIDE ###
 
 Paseo. Buelta.
 
@@ -215,7 +215,7 @@ Paseo. Buelta.
 
 Gaztelerazko **paseo** hitza eta **-ada** atzizkia elkartu dira. **paseo** + **ada** → **paseado** → **pasiada** → **pasida** → **paside**. Esan beharra dago **pasiadie** ere esaten dela.
 
-## PASIÑUE ##
+### PASIÑUE ###
 
 Hainbeste... bait...
 
@@ -226,7 +226,7 @@ Hainbeste... bait...
 
 Gaztelerazko **pasión** erabili da eta hitza pertsonei badagokie ere, euskaraz gauzei aplikatzen zaie.
 
-## PASMA ##
+### PASMA ###
 
 Janariak usteldu.
 
@@ -237,14 +237,14 @@ Janariak usteldu.
 
 Hiztegietan **gangrena** esanahia dauka.
 
-## PATENTIE ##
+### PATENTIE ###
 
 Itsasontziari azpian ematen zaion pintura belarra ez egiteko, berezia uraren barrurako.
 
 - *Bapora karruen daku, patentie emoten guez*
 - *Kosterie akabata bapora pintxeteko ordue. Ekar zu patentie?*
 
-## PEGA ##
+### PEGA ###
 
 Kutsatu.
 
@@ -255,7 +255,7 @@ Kutsatu.
 
 Gaztelerazko **pegar** = **contagiar** hitzetik zuzenean hartua.
 
-## PEKUE ##
+### PEKUE ###
 
 Susmoa. Errezeloa. 
 
@@ -263,7 +263,7 @@ Susmoa. Errezeloa.
 - *pekue, pekue neuk be bai, baie ezin dxela ezan bera pentsa dot*
 - *pekue okitxie pekatue da alabatxu, ze gero bera ezpada?*
 
-## PELENKAK ##
+### PELENKAK ###
 
 Berna argalak.
 
@@ -274,7 +274,7 @@ Berna argalak.
 
 Pelenkak, aspalditik, karnatarako erabiltzen diren txibia zati meheak dira. Analogiaz berna argalak deskribatzeko erabili da.
 
-## PELLIKADA ##
+### PELLIKADA ###
 
 Borroka. Elkar joka.
 
@@ -289,7 +289,7 @@ Gaztelerazko **pelea** hitza hartu da hitz honen oinanitzat:
 
 **ada** → **kada** → **pelekada** → **pelikada** → **pellikada**.
 
-## PELLIKAN ##
+### PELLIKAN ###
 
 Borrokan.
 
@@ -304,7 +304,7 @@ Aurrekoa bezala atzizki batez aldatu da, baina oraingoan moduzko adherbioa egite
 
 Eta normala den bezala, azkenean **n** sudurkaria jarri zaio.
 
-## PENAS ##
+### PENAS ###
 
 Txano. Neketsu.
 
@@ -315,14 +315,14 @@ Txano. Neketsu.
 
 Gaztelerazko **a duras penas**-etik, azken hitza hartu da.
 
-## PENAS PENASKA ##
+### PENAS PENASKA ###
 
 Oso txarto. Neketsu.
 
 - *penas penaska ein txuz eskillarak, eziñ idxen ibilli da*
 - *penas penaska aillega nai illien akabure, diro barik...*
 
-## PENASIDADE / IE ##
+### PENASIDADE / IE ###
 
 Estutasunak.
 
@@ -330,7 +330,7 @@ Estutasunak.
 - *penasidadiek aztu eirxen diez dirue dauenien*
 - *baie benetako penasidadiek dirorik eztauenien etorten diez*
 
-## PENDEJO / A ##
+### PENDEJO / A ###
 
 Ergela.
 
@@ -341,7 +341,7 @@ Ergela.
 
 Gaztelerazko **pendejo** = **hombre pusilánime** da formaz, baina esanahia ezberdina da eta gainera, emakumezkoetan ere erabilia.
 
-## PENTZURE ##
+### PENTZURE ###
 
 Konfiantza izan. Eusten.
 
@@ -350,14 +350,14 @@ Konfiantza izan. Eusten.
 - *aurren ormien pentzure itxi zakue dxeusi barik*
 - *ai, zure pentzure itxi imie? Ezta pentsa be!*
 
-## PEPE EIÑ DXE ##
+### PEPE EIÑ DXE ###
 
 Inolako arazo barik bizi.
 
 - *nire alabak pepe eiñ dxe bizi diez, ez gurelez*
 - *gaur egunien askok eztakoie pepe eiñ dxe bizitxeko motiborik ba*
 
-## PEPIÑO ##
+### PEPIÑO ###
 
 Pailazoa. Baina zentzu peioratiboan txotxongiloa.
 
@@ -367,14 +367,14 @@ Pailazoa. Baina zentzu peioratiboan txotxongiloa.
 - *aur on dan pepiñue lako mutil batek emon dost arrikadie*
 - *zirkoko pepiñuek pe eztauie orrenbeste pariste eitxen*
 
-## PEPIÑUE / LEZ / LAKUE ##
+### PEPIÑUE / LEZ / LAKUE ###
 
 Pailazoa. Peioratiboan gehienetan, argala eta itxura gabeko pertsona denean, baina nabarmen jantzitakoa ere bai.
 
 - *pepiñue lako morroiegaz dabill, gauzeztanagaz*
 - *pepiñue lez dxantzitxe ikusi dot bera mutille*
 
-## PERKILLO / UE ##
+### PERKILLO / UE ###
 
 Kopeta-ilea.
 
@@ -387,7 +387,7 @@ Kopeta-ilea.
 
 Horren parean **ferkillo** ere erabiltzen da, baina gaur egun, gehiago entzuten da erdarazko **flekillue**.
 
-## PEROZTUTE ##
+### PEROZTUTE ###
 
 Zenetik irten, umeak batez ere.
 
@@ -395,27 +395,27 @@ Zenetik irten, umeak batez ere.
 - *danak pe, onek ime txarridxok peroztute dauz*
 - *ba peroztute badauz, etzien itxiko duz plaidxera barik*
 
-## PERRETXIKU LAKUE ##
+### PERRETXIKU LAKUE ###
 
 Oso garbia.
 
 - *garbidxe be garbidxe da a gero, perretxiku lakue*
 
-## PERRETXIKU LEZ ##
+### PERRETXIKU LEZ ###
 
 Oso garbi.
 
 - *etzie itxi dost perretxikue lez*
 - *erropak pe perretxikue lez, garbitxute ta plantxeta*
 
-## PETXUEK ##
+### PETXUEK ###
 
 Zama, karga ekonomikoak.
 
 - *gaurko petxuek andidxek tiez, da eztau iñor arpeidxe emongo dotsonik*
 - *gaztiek pe petxu andidxek takoie, milloietako etzie paga biarra*
 
-## PIE ##
+### PIE ###
 
 Neurria. Hitz hau, hitz egiterakoan, azentuan nabarmentzen da.
 
@@ -423,7 +423,7 @@ Neurria. Hitz hau, hitz egiterakoan, azentuan nabarmentzen da.
 - *ogei pie eztakoz Santa Mariako torriek pe*
 - *azpiko gonie erun dau pie bi luziau*
 
-## PIKOTERO / A ##
+### PIKOTERO / A ###
 
 Mihiluze.
 
@@ -432,7 +432,7 @@ Mihiluze.
 - *baie zelako pikoterie zara ba, lapiko txikidxaue dakozu*
 - *ez konta sekretorik, pikoterue da ta*
 
-## PINGUE ##
+### PINGUE ###
 
 Oso txikia. Gainera peioratiboan erabiltzen da.
 
@@ -442,14 +442,14 @@ Oso txikia. Gainera peioratiboan erabiltzen da.
 - *onek sagar pinguek artun de etor zara?*
 - *ganera pingo pinguek emon dotzuz*
 
-## PINPIRIN PANPARAN ##
+### PINPIRIN PANPARAN ###
 
 Finolatzen ibiltzea. Guk, **pinpirin** hitzari **panparan** gehitzen diogu eufoniagatik edo.
 
 - *an dabiltzu a pinpirin-pariparan kalerik kale*
 - *pinpirin-panparan dabillela esan dostie, baie zetako, badako nobidxue ta*
 
-## PINTORERUE ##
+### PINTORERUE ###
 
 Pintore.
 
@@ -459,7 +459,7 @@ Pintore.
 
 Seguru aski gaztelerazko **pinturero** hitza hartu da nahiz eta honen esanahia guztiz ezberdina izan.
 
-## PIPETOI ##
+### PIPETOI ###
 
 Pipa. Dupa.
 
@@ -471,7 +471,7 @@ Gaztelerazko **pipa** hitzari **-toi** atzizkia erantzi zaio handitasuna adieraz
 
 **pipa** + **toi** → **pipatoi** → **pipetoi**.
 
-## PIPIRRIÑUE ##
+### PIPIRRIÑUE ###
 
 Oso txikiak.
 
@@ -479,7 +479,7 @@ Oso txikiak.
 - *kanike pipirriñuegaz ibilltzen da olgetan*
 - *ime pipirriñuek dxungo diez txarangatan*
 
-## PIPITXE / IE ##
+### PIPITXE / IE ###
 
 Kuxkuxero.
 
@@ -488,7 +488,7 @@ Kuxkuxero.
 - *aregaz konfidxantza gitxi, pipitxie da ta*
 - *arek pipitxe zantarrak, zer dabillen gauzek kontaten*
 
-## PIRRI / DXE ##
+### PIRRI / DXE ###
 
 Oso txikiak. Umeei bakarrik aplikatua.
 
@@ -498,7 +498,7 @@ Oso txikiak. Umeei bakarrik aplikatua.
 
 Ez du D.A.E.k jaso duen hitzaren zentzua, honek **puntilloso**, **cascarrabias** zentzuaz jaso baitu. Eta guk ere jaso dugu zentzu horretaz, baina beste berba bat erantzita: **kakapirridxe** hain zuzen.
 
-## PIRRISTADA / IE ##
+### PIRRISTADA / IE ###
 
 Kantitate txikia. Baina beti likidoa edo kaka arina.
 
@@ -506,7 +506,7 @@ Kantitate txikia. Baina beti likidoa edo kaka arina.
 - *kaka pirristada bat urten dost pantalonatara*
 - *olluen kakak pe pirristadaka urteten dau*
 
-## PITXARROSA ##
+### PITXARROSA ###
 
 Marrazo familiako arraina. Baina konparazioan, pertsonei aplikatzen zaie, batez ere koloreagatik, eta beti emakumezkoei.
 
@@ -516,14 +516,14 @@ Marrazo familiako arraina. Baina konparazioan, pertsonei aplikatzen zaie, batez 
 
 **pintarroja** → **pitxarrosa**.
 
-## PITXIKE PITXIKE ##
+### PITXIKE PITXIKE ###
 
 Zatika-zatika. Apurka-apurka.
 
 - *pitxike pitxike, ekar doskun tartie akaba ein dxu*
 - *pitxike pitxike zabiltz, artuisu zati andi bet eta dxun zaitxez telebisiñue ikusten*
 
-## PITXOI / NA / IE ##
+### PITXOI / NA / IE ###
 
 Mezprezuz, burlaz edo irain txiki baten moduan erabiltzen da. Gizon edo emakumea izan daiteke.
 
@@ -534,14 +534,14 @@ Mezprezuz, burlaz edo irain txiki baten moduan erabiltzen da. Gizon edo emakumea
 
 Gaztelerazko **pichón** erabiltzen da adjektibo bat sortzeko.
 
-## PITXUKEI / DXEK ##
+### PITXUKEI / DXEK ###
 
 Txikikeriak, balio gutxiko gauzak.
 
 - *zer erosten dxun zara ba? Ezebez, pitxukei batzuk*
 - *auntxe be todo a zienera dxun zara pitxukeidxek erosten*
 
-## PIZKAZURRE ##
+### PIZKAZURRE ###
 
 Fruta-hezurra da. Baina pertsona edo gauza oso txikiak definitzeko erabiltzen da.
 
@@ -551,7 +551,7 @@ Fruta-hezurra da. Baina pertsona edo gauza oso txikiak definitzeko erabiltzen da
 
 Fruituen hezurra, **pizkazurra** erabili da txikitasuna adierazteko.
 
-## PIZTOJA ##
+### PIZTOJA ###
 
 Irainezko berba da.
 
@@ -559,7 +559,7 @@ Irainezko berba da.
 - *piztoja utse zaralez, ez zaitxut guse ezetako be*
 - *piztojo, esan bia beste baten ia, emoten tzutenagaz...*
 
-## PLAMIKIE ##
+### PLAMIKIE ###
 
 Panpina.
 
@@ -569,7 +569,7 @@ Panpina.
 
 Gaur egun **muñekue / ie** gehiago ezaten da, adinekoetan bakarrik entzuten delarik **plamika**.
 
-## PLANDU ##
+### PLANDU ###
 
 Lisatu. Leundu.
 
@@ -577,7 +577,7 @@ Lisatu. Leundu.
 - *aretzan on dizen mendidxek pe plandu eiñ dxauie*
 - *akordaten zara zelan ibilltzen ezan garizen taluek planduten?*
 
-## PLANTA ##
+### PLANTA ###
 
 Jarri.
 
@@ -586,7 +586,7 @@ Jarri.
 - *da esan tsozen berbakaz jenidxotan planta da*
 - *ezpada plantaten, planta bi dauen lekuen, eztako lekorik*
 
-## PLASTANGA ##
+### PLASTANGA ###
 
 Aurpegi biribila eta betea duena.
 
@@ -594,7 +594,7 @@ Aurpegi biribila eta betea duena.
 - *igertagidxe lako plastangue da, lodidxe ez esan arren*
 - *plastanga plastanga dau, da eztauela dxaten ezer diño*
 
-## PLASTAZO ##
+### PLASTAZO ###
 
 Aurpegiko gogorra. Zartada.
 
@@ -605,7 +605,7 @@ Aurpegiko gogorra. Zartada.
 
 Hitz honen konpozaketa **plast** onomatopeiazkoa eta **-zo** atzizkiak osatzen dute.
 
-## PLATUXA ##
+### PLATUXA ###
 
 Oso zapala den arraina da gaztelerazko **platija** deritzona, baina konparazioan, edozer gauza zapal definitzeko erabilia.
 
@@ -613,7 +613,7 @@ Oso zapala den arraina da gaztelerazko **platija** deritzona, baina konparazioan
 - *platuxie lako surre dako berak mutillek*
 - *emon dostezen zapatak, zapal zapalak, platuxek ezan diez*
 
-## PLAUST EIÑDXE ##
+### PLAUST EIÑDXE ###
 
 Bertan bebera utzita.
 
@@ -621,7 +621,7 @@ Bertan bebera utzita.
 - *ez itxi gauzek plaust eindxe, gero neuretzat biarra da ta*
 - *plaust eiñdxe itxi dau nobidxie*
 
-## PLEGAZIÑUE ##
+### PLEGAZIÑUE ###
 
 Igurtzidura. Alkoholaz gorputza igurtzi.
 
@@ -632,7 +632,7 @@ Igurtzidura. Alkoholaz gorputza igurtzi.
 
 Ez dakigu nondik sar zitekeen hitz hau, gaztelaniatik dirudi baina ez da ziurra.
 
-## PLEITXE ##
+### PLEITXE ###
 
 Pleita. Gaztelerazko **flete** hitzetik sartua, negozioei buruz edo hauek egiteko aukerari buruzko edozer izan daiteke.
 
@@ -647,7 +647,7 @@ Bermeon sarri entzun izan da gaztelerazko esaldi hau:
 
 Palankako nesken ahoan jarrita. Seguraski hortik sartu da, nahiz eta itsasoari dagokion hitza izan.
 
-## PLISTADA / IE ##
+### PLISTADA / IE ###
 
 Aurpegikoa, baina ez hain gogorra.
 
@@ -657,7 +657,7 @@ Aurpegikoa, baina ez hain gogorra.
 
 Hitz hau **plist** onomatopeiazkoa eta **-ada** atzizkiak konposatzen dute. **Plastazo** hitzaren bariante bat da eta erabilera berdintsua daukate. Badago azken beste bariante bat, nahiko erabilia den **plistazue**. Hau ere goikoen parean jarri behar da.
 
-## POLITXO ##
+### POLITXO ###
 
 Polito. Baina tonua beti izaten da mezprezu, arbuiatzeko edo gaitzezteko.
 
@@ -666,14 +666,14 @@ Polito. Baina tonua beti izaten da mezprezu, arbuiatzeko edo gaitzezteko.
 - *politxo dau gauzie! Bestelakue!*
 - *zeuk neure boltzatik artun dirue ezta? Politxo e?*
 
-## POLITXO EMOTEN TSU! ##
+### POLITXO EMOTEN TSU! ###
 
 Lelo moduen erabiltzen da, eta egoera ezberdinetan. Kritika moduan.
 
 - *plaidxera zuez ela? Politxo emoten tzu neu barik dxutie*
 - *politxo emoten dotso areri, imiek bertan itxitxe ara ta ona ibilltxie*
 
-## POLIZIKO / UE ##
+### POLIZIKO / UE ###
 
 Polizia.
 
@@ -684,7 +684,7 @@ Adinekoen artean bakarrik entzuten da, baina merezi du gehiago erabiltzea, gazte
 - *txarto aparkata okiñ dxauelakon kotxie polizikuek multie imiñ dxost Bilbon*
 - *polizikuek tiñon lekuek dxun bi zu*
 
-## POLIZTU ##
+### POLIZTU ###
 
 Politu.
 
@@ -697,7 +697,7 @@ Hitz hau, **tu** partizipioa hartuz gero, aditz bihurtu da.
 
 **polit** + **tu** → **politu** → **poliztu**. Kasu honetan **z** bat desarroilatu da. Eta ez ote da askoz ere politagoa azken hau?
 
-## POLONTIEN ##
+### POLONTIEN ###
 
 Ur gehiegi edukitzea jatekoak.
 
@@ -706,14 +706,14 @@ Ur gehiegi edukitzea jatekoak.
 - *polontien imin zuz lau okela zatidxek*
 - *lapikue polont eiñdxe dau*
 
-## POPA ARIÑE ##
+### POPA ARIÑE ###
 
 Pertsona arina, mugikorra.
 
 - *zelako popa ariñe da ba, ezta momentu baten be geldi oten*
 - *popa ariñe dalako pasa dxatzo pasa dxatzona, diruek galdu, belaune apurtu da nobidxuek eskapa*
 
-## POPA KAKA ##
+### POPA KAKA ###
 
 Irain txiki bat.
 
@@ -721,7 +721,7 @@ Irain txiki bat.
 - *zer diño berak popa kakak ba, eztako zeri, da aur due markesie baiño arruau*
 - *orregaz popa kakagaz eztot gure tratorik*
 
-## POPA / IE ##
+### POPA / IE ###
 
 Itsasontziaren popa. Analogiaz ipurdia adierazteko erabilia.
 
@@ -732,7 +732,7 @@ Itsasontziaren popa. Analogiaz ipurdia adierazteko erabilia.
 
 Askotan gertatzen den bezala itsas giroko hitza erabili da, nahiz eta, kasu honetan, erdarazko hitz bat izan. Auzoetan ez da erabiltzen termino hau, baina herrian **eperdi** baino gehiago erabiltzen da.
 
-## POPADAN / IEN ##
+### POPADAN / IEN ###
 
 Abiadan. Itsasontzia ere horrela joaten da haize handia dagoenean, honi popa emanda.
 
@@ -741,14 +741,14 @@ Abiadan. Itsasontzia ere horrela joaten da haize handia dagoenean, honi popa ema
 - *ziñie ikusitxe popadan etorko zara gero*
 - *txikiteue eiñ dxe gero, popadan andriñe, ez asarratuteko*
 
-## POPAGANIE ##
+### POPAGANIE ###
 
 Itsasontziaren atzeko aldea.
 
 - *Tire popaganera han trankilau zuez eta*
 - *Nebera di dakuz barruen, bata korostan eta bestie popaganien*
 
-## POPAIXE / IE ##
+### POPAIXE / IE ###
 
 Atzetik joten duenean haizeak.
 
@@ -758,7 +758,7 @@ Atzetik joten duenean haizeak.
 - *enebada, popaixie dala esan tzat da asarraty eiñ dxast*
 - *eguno be eztauelez etzien aurreitxik esan tzat popaixie dala*
 
-## POPAZGORA ##
+### POPAZGORA ###
 
 Ipurdiz gora.
 
@@ -768,7 +768,7 @@ Ipurdiz gora.
 - *popazgora tunbeta on dalako erre dxatso popie*
 - *popazgora on diez? Frakarroi barik?*
 
-## POPERTZA ##
+### POPERTZA ###
 
 1. Derrigorrez.
 
@@ -788,21 +788,21 @@ Ipurdiz gora.
 
 Koldo Izagirrek bere **Lokuzioetan** **popuertzakoa** jartzen du eta lehenengoko esanahia bakarrik jasotzen du.
 
-## POPIE BE ERRE ##
+### POPIE BE ERRE ###
 
 Gauza bat lortzeko edozer egin.
 
 - *aren neskien atzien popie be erre eiñ dxau*
 - *berak guzan dauen kotxie erosi arte popie be erre*
 
-## POPIE ERREIDXEZ ##
+### POPIE ERREIDXEZ ###
 
 Azkar, arin joan gauza baten atzean.
 
 - *popie erreidxez dxun diez Bilbora, Gurejuen ikusten*
 - *Gernikeko dxakixetan popie erreidxez dxun da berari gustaten dxatzon mutille ikusten*
 
-## PORRATIBUE ##
+### PORRATIBUE ###
 
 Dagokion kantitatea. (dirua)
 
@@ -816,7 +816,7 @@ Hipotesi bat erabiliz, latinezko **portio-oniz** = **parte, porción** edo **pro
 
 Beraz, dardarkarien metatesia gertatu ondoren, leherkati hoskabea erori eta leherkari hostuna eta **a** bokalea garatu dira.
 
-## PORTADIE / UE ##
+### PORTADIE / UE ###
 
 Ondo portatzen dena.
 
@@ -824,7 +824,7 @@ Ondo portatzen dena.
 - *gure Daniel total da portadue, afaitxue dxaten be erun eitxen nau*
 - *total da andra portadie, atentziñue deitxutekue*
 
-## POTESTADE / LE ##
+### POTESTADE / LE ###
 
 Energia. Indarra.
 
@@ -835,14 +835,14 @@ Energia. Indarra.
 
 Gaztelerazko **potestad** = **poder** hitza hartu da, baina zentzu zabalagoan erabilita.
 
-## POTORRUE ##
+### POTORRUE ###
 
 Uherroi (txoria). Baina konparazioan **r** ordez **g** ahoskatzen duten pertsonak definitzeko erabillzen da. Gainera esan ere honela egiten da: **potogue**.
 
 - *zure lagune potorrue da, bueno, potogue*
 - *itxixu ba koitxaduri ba, naiku desgrazi dako potorrue ezan da ta*
 
-## POTOZORRI / OXE ##
+### POTOZORRI / OXE ###
 
 Oso txikia. Dezpektiboki erabilia.
 
@@ -853,7 +853,7 @@ Oso txikia. Dezpektiboki erabilia.
 
 Hitz honen konposizioa **potro** eta **zorri** hitzek osatzen dute.
 
-## POTOZORRIKEIDXEK ##
+### POTOZORRIKEIDXEK ###
 
 Txikikeriak. Inuzentekeriak.
 
@@ -861,7 +861,7 @@ Txikikeriak. Inuzentekeriak.
 - *nireñe ez etorri potozorrikeidxekaz*
 - *potozorrikeri asko dakozu, itxistazu bakien*
 
-## POTROKILLO ##
+### POTROKILLO ###
 
 **apurrek** bezala legatzaren tripoilak dira.
 
@@ -871,7 +871,7 @@ Txikikeriak. Inuzentekeriak.
 
 Hitz hau **potro** eta **-killo** atzizkiaz osatzen da: **potro** + **killo** → **potrokillo**.
 
-## POTROSO / UE ##
+### POTROSO / UE ###
 
 Zorte handiko pertsona.
 
@@ -882,7 +882,7 @@ Zorte handiko pertsona.
 
 Ikuzten denez, emakumea ere izan daiteke **potrosa** nahiz eta potrorik ez eduki.
 
-## POTRUEK ##
+### POTRUEK ###
 
 Barrabilak. Gaur egun nahiko zabal erabiltzen den berba da. Baina ez garai baten. Azkuek jaso du bere hiztegian eta Ondarrun eta Lekeition kokatzen du hitza. Baina Bermeon asko esaten den frogarik asko dago. Lhandek ere jaso du lapurtera euskalkian. Badirudi kostako herrietan erabiltzen dela.
 
@@ -890,7 +890,7 @@ Barrabilak. Gaur egun nahiko zabal erabiltzen den berba da. Baina ez garai baten
 - *ezpadau arraiñik zeure potruek imin guz saltsan*
 - *potruek asiko zuz, asi, auri!*
 
-## POTXERA ##
+### POTXERA ###
 
 Kordel fina.
 
@@ -901,7 +901,7 @@ Kordel fina.
 
 Azkuek jaso du bere hiztegian, Ondarroa, Lekeitio eta Bermeoko hitza dela esanez.
 
-## POTXOLA / IE ##
+### POTXOLA / IE ###
 
 Alua.
 
@@ -909,7 +909,7 @@ Alua.
 - *potxolako asgurekaz enai kapaz*
 - *ur freskuegaz garbitxuixu potxolie, da ikusko zu zelan kenduko dxatzun*
 
-## POTXOLIÑIE ##
+### POTXOLIÑIE ###
 
 Alua, baina diminutiboan.
 
@@ -918,7 +918,7 @@ Alua, baina diminutiboan.
 - *andra batzuk potxoliñie estimadu dakotzuie*
 - *potxoliñie estimadu okitxekue ezta ba*
 
-## POTXORROSKILLE ##
+### POTXORROSKILLE ###
 
 Ezgauza. Sibaritaren jatekoak.
 
@@ -926,7 +926,7 @@ Ezgauza. Sibaritaren jatekoak.
 - *ama, zer dau dxateko? Zera! Potxorroskillek!*
 - *ba nik potxorroskillek gu dotez dxan*
 
-## POZARREN ##
+### POZARREN ###
 
 Pozik. Alai.
 
@@ -937,7 +937,7 @@ Pozik. Alai.
 
 Azkuek ez du jaso, baina bai D.A.R.k Añibarroren zita bat aipatuz. Bermeon ez da erabili beste hitzik hori adierazteko oraintsu arte. Gazteen artean **pozik** ere entzuten da.
 
-## POZTIXOZKO / UE ##
+### POZTIXOZKO / UE ###
 
 Indargeak. Oinarri gabekoa Bizitasun gabekoa.
 
@@ -948,7 +948,7 @@ Indargeak. Oinarri gabekoa Bizitasun gabekoa.
 
 Kasu honetan adjektibo funtzioa dauka.
 
-## POZTIXUEN ##
+### POZTIXUEN ###
 
 Ahul. Indarge.
 
@@ -959,7 +959,7 @@ Ahul. Indarge.
 
 Gaztelerazko **postizo** dirudi, baina formaz berdina izan arren esanahi ezberdina da.
 
-## PRESTUE ##
+### PRESTUE ###
 
 Presio-lapikoa.
 
@@ -970,7 +970,7 @@ Presio-lapikoa.
 
 Lapiko hauek irten zirenean, euretariko baten izena **presto** izan zen eta ordutik hona, lapiko guztiak dira **prestue**.
 
-## PRIJIDUKIDXEK ##
+### PRIJIDUKIDXEK ###
 
 Frijituki.
 
@@ -980,7 +980,7 @@ Frijituki.
 
 Batzuetan gertatzen den moduan **f** → **p** egin da. Gero aldaketa fonetiken eraginez, beste itxura bat hartu du hitzak.
 
-## PROPORTZIÑUE ##
+### PROPORTZIÑUE ###
 
 Aukera. Proposamena.
 
@@ -993,7 +993,7 @@ Aukera. Proposamena.
 
 Ez du zerikusirik gaztelerazko **proporción** hitzarekin.
 
-## PULPERO ##
+### PULPERO ###
 
 Despektiboki erabilia. Leku guztietan egon nahi duen pertsona. Mugikorra. Urduria.
 
@@ -1002,7 +1002,7 @@ Despektiboki erabilia. Leku guztietan egon nahi duen pertsona. Mugikorra. Urduri
 - *ongo zara geldik pulpero txarridxori*
 - *orreri pulperuri esan, ez dxuteko uretara*
 
-## PUNTADA ##
+### PUNTADA ###
 
 Zeiharresana. Zirikada. Puntada.
 
@@ -1013,7 +1013,7 @@ Zeiharresana. Zirikada. Puntada.
 
 Seguru aski **punta** = **puya** gaztelerazko hitza izango da hitz honen forma eta esanahiaren oinarria.
 
-## PUNTXETA ##
+### PUNTXETA ###
 
 Puntzeta. Konparazioan erabilia.
 
@@ -1024,7 +1024,7 @@ Puntzeta. Konparazioan erabilia.
 
 Azkuek, **punzón**, **bayoneta** eta **estoque** zentzuaz jaso du.
 
-## PURGATOIDXOKO ARIMIE LEZ ##
+### PURGATOIDXOKO ARIMIE LEZ ###
 
 Itxaroten.
 
@@ -1032,7 +1032,7 @@ Itxaroten.
 - *orren nobidxuek orduek emoten txuz nobidxiri begire, an oten da purgatoidxoko arimie lez*
 - *ezgariez ongo purgatoidxoko arimek lez, da eiñ alegiñe ariñ etorteko*
 
-## PURUZ ##
+### PURUZ ###
 
 ...ren indarrez.
 
@@ -1043,7 +1043,7 @@ Itxaroten.
 
 Gaztelerazko **de puro...** horren zentzua eta hitza ere bera hartu du. Edutezko genitiboarekin erabiltzen da.
 
-## PUSTILLE ##
+### PUSTILLE ###
 
 Burbuila. Puspulo.
 
@@ -1057,7 +1057,7 @@ Burbuila. Puspulo.
 
 Hitz honen jatorria **puztu** = **inflar, hinchar** izango da eta **pustila** Azkuek jaso duen bezala. Honek jasotakoa bigarren definizioari dagokio.
 
-## PUTEMIÑE ##
+### PUTEMIÑE ###
 
 Putaren mihia. Gozoa. Engainagarria.
 
@@ -1066,7 +1066,7 @@ Putaren mihia. Gozoa. Engainagarria.
 - *beran putemiñe dakotzu arek armarik onena*
 - *gordeixu putemiñe beste batentzat*
 
-## PUTETZIE ##
+### PUTETZIE ###
 
 Desordenua.
 
@@ -1074,7 +1074,7 @@ Desordenua.
 - *putetzie amen maidxe ganien dakotena, papelakaz beteta*
 - *zelako putetzie arma dauie aiuntamientuen ba, iñor aklara bez*
 
-## PUTXANTXA ##
+### PUTXANTXA ###
 
 Salmentarako leku txiki bat. Txiringitoa.
 
@@ -1082,7 +1082,7 @@ Salmentarako leku txiki bat. Txiringitoa.
 - *Benidorreko plaidxe baten imiñ dxau putxantxa bat*
 - *putxantxatxu bat imitxeko beste diro okingo dau*
 
-## PUTXIE LEZ ##
+### PUTXIE LEZ ###
 
 Bigun (janaria).
 
@@ -1091,7 +1091,7 @@ Bigun (janaria).
 - *gisadue total gozo, putxie les*
 - *okelie be bai, ondo, putxie lez*
 
-## PUXIKERO / UE ##
+### PUXIKERO / UE ###
 
 Buruhandiak. Buruhandiek puxika eramaten dutenez, **puxikero** deitzen zaie.
 
@@ -1100,7 +1100,7 @@ Buruhandiak. Buruhandiek puxika eramaten dutenez, **puxikero** deitzen zaie.
 - *puxikero bateri ostu tzat puxikie beragaz enbrak dxoteko*
 - *zer diño ba, beran puxikeruen boz da guzti*
 
-## PUZKADAKA ##
+### PUZKADAKA ###
 
 Puzka. Haserre.
 

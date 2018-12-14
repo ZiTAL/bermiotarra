@@ -1,4 +1,4 @@
-# zital #
+## zital ##
 
 Proiekto hau Begoña Bilbao Albonigak idatzi zauen **Bermeoko berba eta esamolde kresaltsuak** (2002) liburuen oinarritute dau, eta berak ondo diñolez:
 

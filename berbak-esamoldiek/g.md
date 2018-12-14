@@ -1,6 +1,6 @@
-# G #
+## G ##
 
-## GABILLOIE ##
+### GABILLOIE ###
 
 Gabirai. Beti izaten da zentzu lizun edo harrapari moduan gizonezkoei aplikaturik.
 
@@ -9,7 +9,7 @@ Gabirai. Beti izaten da zentzu lizun edo harrapari moduan gizonezkoei aplikaturi
 - *orrek gabilloiek dxakostak suertie, diro barik on, da oiñ aberastute*
 - *gabilloie ederra ori, iñon lepotik bixi dana*
 
-## GABONTZA ##
+### GABONTZA ###
 
 Ahohandi. Ozenki berba egiten duena.
 
@@ -22,7 +22,7 @@ Argi dago gau-hontzaren boz lodia edo gogorra hartu dela eredutzat konparazioa e
 
 Azkuek beste zentzu batez jaso du **persona huraña** definitzen du, eta Mundakan jartzen du.
 
-## GAIÑE / KUE ##
+### GAIÑE / KUE ###
 
 Haina. Hainakoa.
 
@@ -36,7 +36,7 @@ Ez dauka D.A.R.k jaso duen zentzua.
 **haina** → **gaina** → **gaiña** → **gaiñe**.
 **hainakoa** → **gaiñekue**.
 
-## GALAPA / N ##
+### GALAPA / N ###
 
 Zamalkan. Abiadura handia, baina oinez.
 
@@ -44,7 +44,7 @@ Zamalkan. Abiadura handia, baina oinez.
 - *bai, galapa andidxe darue, izter luziek pe badakoz da*
 - *arek bidxek tuez galapan, iñok ez atrapateko*
 
-## GALTZEIDXE ##
+### GALTZEIDXE ###
 
 Galera. Galketak.
 
@@ -52,7 +52,7 @@ Galera. Galketak.
 - *galtzeidxek danok okiñ dxu, da amen eztau besterik auentatie baiño*
 - *galtzeidxe ezta ezan ain andidxe, errekuperako dauie*
 
-## GALUFUE ##
+### GALUFUE ###
 
 Alferraundi.
 
@@ -62,7 +62,7 @@ Alferraundi.
 
 Gaztelerazko **golfo** hitzetik sartua dela dirudi.
 
-## GANBELIE ##
+### GANBELIE ###
 
 Tartera handia.
 
@@ -71,7 +71,7 @@ Tartera handia.
 - *zeuk bai pentsa. Esaixu Marko Pollori beran ganbelie ikusteko*
 - *ai arek, laster ganbelan konkursue eingo dau*
 
-## GANGARKEIDXEK ##
+### GANGARKEIDXEK ###
 
 Nabarmenkeriak.
 
@@ -86,7 +86,7 @@ Izenaren funtzioa betetzen du.
 
 Bi hitz hauek ez dute, Azkuek edo D.A.R.k eman dieten zentzua, Hauek, **fatuidad** , **engreimiento** zentzuaz azaltzen dute, baina Bermeon, zorakeriak egiten dituen bat izango da.
 
-## GANGARRA ##
+### GANGARRA ###
 
 Aldarrika berba eta barre egiten duen emakumea. Ez da harroputza hiztegian datorren zentzuan.
 
@@ -97,7 +97,7 @@ Aldarrika berba eta barre egiten duen emakumea. Ez da harroputza hiztegian dator
 
 Adjektibo funtzioa betetzen du.
 
-## GANGILLOI ##
+### GANGILLOI ###
 
 Alferra. Lanari ihes egiten diona.
 
@@ -108,7 +108,7 @@ Alferra. Lanari ihes egiten diona.
 
 Azkuek bere hiztegian Mundakako hitza bezala jaso duen **gangil** hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerazko **-on** atzizkia, **-oi** bihurtzen da.  Beraz, honela geratuko litzateke **gangil** + **oi** → **gangilloi**.
 
-## GANGUS ##
+### GANGUS ###
 
 Sekula lanerako gogorik ez duena.
 
@@ -116,7 +116,7 @@ Sekula lanerako gogorik ez duena.
 - *ganguse! Artun biarrerako maniue*
 - *esan tzazu bateri. Orrek gangusek kasu eingo tsula pentsaten zula? Erretute zauz*
 
-## GANOKA ##
+### GANOKA ###
 
 Alperra. Lanerako gogo gutxi daukan pertsona.
 
@@ -129,7 +129,7 @@ Azkuek eskualde honetako herrietan esaten den hitza bezala jaso du, baina zentzu
 
 Azkuek ere hiztegian Mundaka eta Bermeorako jaso du esanahi honekin.
 
-## GARDIE BAIÑO LUZIAU ##
+### GARDIE BAIÑO LUZIAU ###
 
 Garda marrazoen familiako arrain luze bat da. Konparazioan erabiltzen da, pertsona bat luze dagoela esateko.
 
@@ -137,7 +137,7 @@ Garda marrazoen familiako arrain luze bat da. Konparazioan erabiltzen da, pertso
 - *aur dau gixon bat gardie baiño luziau bienganien; mozkorra dako antza*
 - *aitxe dakot oien ganien gardie baiño luziau konorte barik eta eztaitx zer dakon*
 
-## GARDOSTU ##
+### GARDOSTU ###
 
 Erdizka egin.
 
@@ -145,7 +145,7 @@ Erdizka egin.
 - *biarrak pe gardostute dauz, asike, kalera!*
 - *bidxar domekie dalez, gaur itxiko dot dxatekue gardostute*
 
-## GARGAIDXO ##
+### GARGAIDXO ###
 
 Samako gorroa.
 
@@ -157,7 +157,7 @@ Gaztelerazko **gargajo** bera da, baina fonetikaz ezberdintzen da.
 
 **gargajo** → **gargaijo**; **i** bat desarroilatuz gero.
 
-## GARRA ##
+### GARRA ###
 
 Olatu handiak daudenean itsasoak ateratzen duen laino kresaltsua. Baina konparazioan, beste kasu batzuetan bezala, bronka botatzea ere izango da.
 
@@ -166,7 +166,7 @@ Olatu handiak daudenean itsasoak ateratzen duen laino kresaltsua. Baina konparaz
 - *itxosoko garra artzien dauien piperrak eta tomatiek gozuauek tiez*
 - *garragaz datorren kresala mosuetan be pega eitxen da*
 
-## GARRA ATARA ##
+### GARRA ATARA ###
 
 Beste askolan bezala lokuzio hau bronka eder bat botatzea izango da. Garra zeri deitzen diogun, lexikoan agertzen da.
 
@@ -174,7 +174,7 @@ Beste askolan bezala lokuzio hau bronka eder bat botatzea izango da. Garra zeri 
 - *arek garra atara dost etzatelako esan Bilbora nuenik*
 - *eztau biar askozik garra atarateko edozeitxik paraten da gora-goraka ta*
 
-## GARRANTZIDXO ##
+### GARRANTZIDXO ###
 
 Pasatuta dagoena. Galduta. Zentzu figuratuan modatik pasatuta.
 
@@ -187,7 +187,7 @@ Azkuek jaso du bere hiztegian baina zentzu mugatuagoan, berak Gernikarako esaten
 
 **garrantzia** → **garrantzidxo**.
 
-## GARUE ##
+### GARUE ###
 
 Garoa. Hotza eta hezetasunaren eraginez gauzak bustita agertzen direnean, batez ere goizetan, bedartzak, kotxeak eta abar.
 
@@ -197,7 +197,7 @@ Garoa. Hotza eta hezetasunaren eraginez gauzak bustita agertzen direnean, batez 
 
 Gazteleraz **rocío**.
 
-## GAUE ##
+### GAUE ###
 
 Energia gabeko pensona.
 
@@ -206,7 +206,7 @@ Energia gabeko pensona.
 - *gaue bada be, neuretzat iñor baiño obiaue*
 - *beragaz gauegaz pasa bi zan dot gau guztidxe, da idxe luek artun*
 
-## GAUERIK GAUERDI ##
+### GAUERIK GAUERDI ###
 
 Parrandan ibiltzea.
 
@@ -214,7 +214,7 @@ Parrandan ibiltzea.
 - *gauerik gauerdi ibilli txe, biar eitxeko orduen, orduen dardart biarrari*
 - *Benidorren be gauerik gauerdi ibilltxen dxatzu ori; aztu dxatzo gixona*
 
-## GAUEZ EIÑIKUE ##
+### GAUEZ EIÑIKUE ###
 
 Oso itsusia den pertsona.
 
@@ -222,7 +222,7 @@ Oso itsusia den pertsona.
 - *baie ze feotxue da ba, gauez eiñikue da koitxadue*
 - *bera gauez eiñikue, beti neure atzien, da neuk gure be ez beragaz egotie*
 
-## GAUEZ IBILLI DA EGUNEZ AGIRI ##
+### GAUEZ IBILLI DA EGUNEZ AGIRI ###
 
 Parranda osteko ajea.
 
@@ -230,7 +230,7 @@ Parranda osteko ajea.
 - *gauez ibilli da egunez agiri, ori da gaztien sakramentue*
 - *gauez ibilltxen danari, egunez igarten dxatzo*
 
-## GAUR POR GAUR ##
+### GAUR POR GAUR ###
 
 Gaur egun.
 
@@ -241,7 +241,7 @@ Gaur egun.
 
 Gazteleratik literalki itzulia.
 
-## GAUZE BAT ##
+### GAUZE BAT ###
 
 Deigarrizko lokuzioa.
 
@@ -251,7 +251,7 @@ Deigarrizko lokuzioa.
 
 Azken esaldi honetan, lokuzio hori diminutiboan jarri da.
 
-## GAUZEZTANA ##
+### GAUZEZTANA ###
 
 Eskasa. Garatu gabekoa. Balio gutxikoa.
 
@@ -262,7 +262,7 @@ Eskasa. Garatu gabekoa. Balio gutxikoa.
 
 Azkuek ez du jaso bere hiztegian, baina bai D.A.E.k, **inútil**, **inservible** zentzuaz.
 
-## GAUZIE GAUZIE LEZ ##
+### GAUZIE GAUZIE LEZ ###
 
 Ugaritasuna.
 
@@ -270,7 +270,7 @@ Ugaritasuna.
 - *maidxie be konpleto oten da, gauzie gauzie lez, turroiek txanpana, sanguitxek...*
 - *gauzie gauzie lez daku guk eizien*
 
-## GAZTIE EZAN BAKO ZARRA ##
+### GAZTIE EZAN BAKO ZARRA ###
 
 Gazte zaharra.
 
@@ -278,7 +278,7 @@ Gazte zaharra.
 - *gaztie ezan bako zarra zara alabatxu*
 - *zeitxik eztot erun biar bikinidxe ba? Ez, zeure lez, gaztie ezan bako zarra lez*
 
-## GEIDXAUKO BARIK ##
+### GEIDXAUKO BARIK ###
 
 Hitza ahoan dela utzi.
 
@@ -286,7 +286,7 @@ Hitza ahoan dela utzi.
 - *ezu itxiko olan geidxauko barik ezta? Por lo menos esplikaziño bat biar dot*
 - *da geidxauko barik, tximistie lez dxun da beran etzera*
 
-## GEIXU BATEN ##
+### GEIXU BATEN ###
 
 Laster baten. Kaixo esateko terminoan.
 
@@ -294,7 +294,7 @@ Laster baten. Kaixo esateko terminoan.
 - *geixu baten etorteko esan dotzat, aitxen otornue dauela ta*
 - *geixu baten einguz biarrak*
 
-## GERI GERIDXEN ##
+### GERI GERIDXEN ###
 
 Isil-isilean.
 
@@ -303,7 +303,7 @@ Isil-isilean.
 - *berez asma dotez noix etor dizen, geri geridxen etor diez baie*
 - *urrungotan iñok asma be enau eingo, geri geridxen sartungo nai*
 
-## GIBARROI ##
+### GIBARROI ###
 
 Atun eta zimarroien gibela.
 
@@ -316,7 +316,7 @@ Azken esaldian konparazioan sartu da hitz hori.
 
 **gibel** + **marroi** → **gibelmarroi** → **gibamarroi** → **gibarroi**.
 
-## GILLEZ GORA ##
+### GILLEZ GORA ###
 
 Gilaz gora. Itsasontziak egoten diren moduan. Konparazioan etzanda edo erdi etzanda. Ezer egin barik. 
 
@@ -324,7 +324,7 @@ Gilaz gora. Itsasontziak egoten diren moduan. Konparazioan etzanda edo erdi etza
 - *aur zauz zeu be gillez gora sofa ganien telebisiñue ikusten*
 - *beste batzutan Aritxatxun oten garie danok gillez gora eguzkidxe artzien*
 
-## GILTZEK ##
+### GILTZEK ###
 
 Lokiak. Gaztelerazko **sien**.
 
@@ -332,7 +332,7 @@ Lokiak. Gaztelerazko **sien**.
 - *golpie giltzetan emon tsolez, siku itxi dau bertan*
 - *giltzetan artzien dan golpie txar-txarra da*
 
-## GINDULEK ##
+### GINDULEK ###
 
 Barrabilak.
 
@@ -342,14 +342,14 @@ Barrabilak.
 
 Hitz hau nahiko berria da, eta ia gazteen artean baino ez da entzuten.
 
-## GITXITXU BAIE SARRITXU ##
+### GITXITXU BAIE SARRITXU ###
 
 Lelo baten antzekoa da *gitxitxu* berbari erantzuteko.
 
 - *gitxitxu dxan biar da tipue konserbateko. Bai, gitxitxu baie sarritxu*
 - *gitxitxu baie sarritxu dxan biar dala diño medikuek*
 
-## GLORIDXEN ##
+### GLORIDXEN ###
 
 Gozotan.
 
@@ -359,7 +359,7 @@ Gozotan.
 
 Gaztelerazko **en la gloria**-tik dator.
 
-## GOBERNA ##
+### GOBERNA ###
 
 Kasu honetan ez da erabiltzen hitzaren zentzu zehatzean, zaindu edo jagon zentzuaz baizik. Pertsonak eta gauzak izan daitezke.
 
@@ -371,7 +371,7 @@ Kasu honetan ez da erabiltzen hitzaren zentzu zehatzean, zaindu edo jagon zentzu
 
 Gaztelerazko **gobernar** hitz hori erabiltzen da honelako esaldiak egiteko.
 
-## GOBERNUEN KONTRAKUE ##
+### GOBERNUEN KONTRAKUE ###
 
 Begiak okertuta.
 
@@ -379,7 +379,7 @@ Begiak okertuta.
 - *anbulatoidxoko zeladoriek lotsabako batzuk tiez baie lotsabakuena begidxek gobemuen kontra dakozena da*
 - *bestelakue dau or, beran gobemuen kontrako begidxekaz*
 
-## GOGORTADA ##
+### GOGORTADA ###
 
 Gogor agirika egin.
 
@@ -388,7 +388,7 @@ Gogor agirika egin.
 - *gogortadiek zuri belarri batetik sartun da bestetik urteten tsu*
 - *ezpaztazu gogortadarik eitxen gauze bat esango tzut*
 
-## GOGUE ARRAIÑ ##
+### GOGUE ARRAIÑ ###
 
 Gogoa dagoen momentua, gogoa badago ez dago momentu txarrik.
 
@@ -396,7 +396,7 @@ Gogoa dagoen momentua, gogoa badago ez dago momentu txarrik.
 - *gure Anuska goixeko ordu bidxetan on da indxabak dxaten; ezta sasoie baie, gogue arraiñ*
 - *goixien goixien altzaten da Sollubera dxuteko. Kapazidadie dako, dakon edadien be. Gogue arraiñ alabatxi*
 
-## GOIDXE DXOTEKUE ##
+### GOIDXE DXOTEKUE ###
 
 Oso garaia.
 
@@ -404,7 +404,7 @@ Oso garaia.
 - *oingo mutilIek eta neskak goidxe dxotekuek tiez, eztaitx zek eitxen dauen ori*
 - *zumosol asko edaten dauielako ezango da goidxe dxotekuek ezatie*
 
-## GOIDXEK BEIEN ##
+### GOIDXEK BEIEN ###
 
 Emakumea hilekoekin.
 
@@ -412,7 +412,7 @@ Emakumea hilekoekin.
 - *ama, izekok esan dau eztatorrela, goidxek takozela beien da*
 - *goidxek beien bakoz ondo dauela esan ze olan, eztako preokupaziñorik*
 
-## GOIDXEK ETA BEIEK DXO ##
+### GOIDXEK ETA BEIEK DXO ###
 
 Iskanbila sortarazi.
 
@@ -420,7 +420,7 @@ Iskanbila sortarazi.
 - *ez asi goidxek eta beiek dxoten ostantzien neu be asi eingo nai*
 - *ikusi zu zelan asi den goidxek eta beiek dxoten?*
 
-## GOITXARRAK ##
+### GOITXARRAK ###
 
 Arrantzale giputzak. Mutrikutik goranzkoak.
 
@@ -430,14 +430,14 @@ Arrantzale giputzak. Mutrikutik goranzkoak.
 
 Ikusten denez, banaketa honek erdian uzten ditu bizkaitar arrantzaleak. Ez da ezagutzen hauen definiziorik.
 
-## GOITXIK SARTUN DA BETIK URTEN ##
+### GOITXIK SARTUN DA BETIK URTEN ###
 
 Erabat bustita.
 
 - *zelako meladie artun du ba. euridxe asi, da gu guardasol barik, zeuk pentsa: goitxik sartun de betik urten*
 - *atzo gauien be bardin pasa dxaskun etzera guzela goitxik sartun de betik urten*
 
-## GONBITXE ##
+### GONBITXE ###
 
 Oka egin.
 
@@ -447,7 +447,7 @@ Oka egin.
 
 Aditzaren funtzioa betetzen du.
 
-## GONBITXOKA ##
+### GONBITXOKA ###
 
 Oka egiten.
 
@@ -457,7 +457,7 @@ Oka egiten.
 
 Adberbio funtzioan agertzen da.
 
-## GONBITXUEK ##
+### GONBITXUEK ###
 
 Gorakadak.
 
@@ -468,7 +468,7 @@ Gorakadak.
 
 Izena bezala erabiltzen da.
 
-## GONBIZE ##
+### GONBIZE ###
 
 Itsas kabra baino ilunagoa eta haragi gogorragoa dauka. Askorentzat onena.
 
@@ -476,7 +476,7 @@ Itsas kabra baino ilunagoa eta haragi gogorragoa dauka. Askorentzat onena.
 - *goinbizen sue sartun dxast da zoldu eiñ dxast atzamarra*
 - *gonbiz txikitxu batzuk erosi dotez prijite dxateko*
 
-## GORA-GORAKA ##
+### GORA-GORAKA ###
 
 Aldarrika hasi.
 
@@ -484,7 +484,7 @@ Aldarrika hasi.
 - *ez asi gora-goraka eztakozu errozoirik eta*
 - *gora-goraka asi baiño lelau, entzun berbie personiri*
 
-## GORAZKO / UE ##
+### GORAZKO / UE ###
 
 Korrokada.
 
@@ -494,14 +494,14 @@ Korrokada.
 
 Azkuek hitz honi **nauseas** zentzua ematen dio eta P.M.k antzeko zerbait azaltzen du.
 
-## GORGOILLE ##
+### GORGOILLE ###
 
 Samako hezurra.
 
 - *gorgoilerarte nau beteta*
 - *gorgoille ebaiko dostela eztost esan ba*
 
-## GORMANTA ##
+### GORMANTA ###
 
 Tripontzia.
 
@@ -509,7 +509,7 @@ Tripontzia.
 - *gormantak badauz amen etzien*
 - *ez ezan gormanta da dxan biden moduen*
 
-## GORPUTZE EBAITXE ##
+### GORPUTZE EBAITXE ###
 
 Gorputza ahulduta. Hebainduta.
 
@@ -517,7 +517,7 @@ Gorputza ahulduta. Hebainduta.
 - *ainbeste biar ein fabriken, da gero, etzekue be eiñ biar, gorputze ebaitxe akabaten dot*
 - *esango tzazu gorputze ebaitxe bako, eztidxe artzieko ona dala ta*
 
-## GORPUTZEN KONKABIDEN ##
+### GORPUTZEN KONKABIDEN ###
 
 Gogoaren kontra edo gogo barik egitea gauzak. Ibili edo egon ere gogo barik.
 
@@ -525,14 +525,14 @@ Gogoaren kontra edo gogo barik egitea gauzak. Ibili edo egon ere gogo barik.
 - *orrek gixonak gorputzen konkabiden eitxen txuz gauzek*
 - *kaka be gorputzen konkabiden eitxen dau orrek, ernega be ein barik*
 
-## GORRINGUE LAKO GIXONA ##
+### GORRINGUE LAKO GIXONA ###
 
 Gizon gaztea gaixorik dagoenean, edo hiltzen denean esaten da.
 
 - *gorringue lako gixona ezan da, baie oin beitu zelan dauen*
 - *ze gazte il dxe zuen albokue, gorringue lako gixona, ondiño imie*
 
-## GOSEKILLE ##
+### GOSEKILLE ###
 
 Goseaz hiltzen dagoena. Gosetia. Arestian aberastutakoa.
 
@@ -541,7 +541,7 @@ Goseaz hiltzen dagoena. Gosetia. Arestian aberastutakoa.
 - *gosekillen arpidxe okiñ arren, eztau dxan barik*
 - *zer diño berak gosekillek ba, aztu dxatzo areri, geuri meridxandak ostuten ezan doskune*
 
-## GOZODXALE ##
+### GOZODXALE ###
 
 Gozozalea.
 
@@ -549,7 +549,7 @@ Gozozalea.
 - *ba ni enai bape gozodxalie*
 - *gozodxalie ezan balekinai, atiek pe artun bez*
 
-## GRAKADA ##
+### GRAKADA ###
 
 Hezurren bihurdura. Lunbagoko bihurdura.
 
@@ -561,7 +561,7 @@ Hitz hau onomatopeiazkoa da.
 
 Azkuek bere hiztegiko gehigarrian azaltzen du, baina berak *graznido* zentzuaz definitzen du.
 
-## GRAKU ##
+### GRAKU ###
 
 1. Besteak baino indartsuagoa dela eman nahi duen gizonezkoa. **Tarzan** dela pentsatzen duena.
 
@@ -574,7 +574,7 @@ Azkuek bere hiztegiko gehigarrian azaltzen du, baina berak *graznido* zentzuaz d
 - *txo, astuen boluek pe jan! Graku zara la?*
 - *txo, zemat jaten zu ba? zer zara graku?*
 
-## GRIKO ##
+### GRIKO ###
 
 Lapurtu.
 
@@ -582,7 +582,7 @@ Lapurtu.
 - *abille dok ori griko eitxen*
 - *zeuk pe non okin dxozak ba, dxakin ezkero griko eitxen obiaurik eztauena*
 
-## GROKADA ##
+### GROKADA ###
 
 Korrokada.
 
@@ -593,14 +593,14 @@ Korrokada.
 
 *korrokada* hitzaren bariante bat izango da.
 
-## GU IRUROK BOST ##
+### GU IRUROK BOST ###
 
 Zerbait zalantzan jartzen denean esaten da.
 
 . *Enrique Iglesias datorreIa Bermiora? Gu irurok bost*
 - *dana merketuko dala? Gu irurok bost*
 
-## GUARDA GUARDAKA ##
+### GUARDA GUARDAKA ###
 
 Hitz hau arrantzale giroan erabiltzen den hitz bat da, eta denborale handia dagoenean ontzia asko mugitzeari deitzen zaio.
 
@@ -608,7 +608,7 @@ Hitz hau arrantzale giroan erabiltzen den hitz bat da, eta denborale handia dago
 - *kaletik pe guarda guardaka dxun da, iñok eztaki marieta dxun badan*
 - *guarda guardaka dxuteko, seguru mozkorra okiñ dxauena*
 
-## GUARDA! ##
+### GUARDA! ###
 
 Kendu!
 
@@ -618,7 +618,7 @@ Kendu!
 
 Arrantzale giroan erabilitako hitz honek, gaur egun erabilera zabalagoa dauka.
 
-## GUARDABAJO ##
+### GUARDABAJO ###
 
 Behera etorri. Jausi.
 
@@ -629,7 +629,7 @@ Behera etorri. Jausi.
 
 Hitz hau ere portuko giroan erabiltzen zen, baina, gaur egun, denek erabiltzen dute normalki.
 
-## GUK TAKUZ EGUNEK ##
+### GUK TAKUZ EGUNEK ###
 
 A zelako egunak, geratzen zaizkigunak!
 
@@ -641,7 +641,7 @@ Askotan, lokuzio hau beste batez lagunduta agenzen zaigu:
 
 - *Bermioko Andramaidxek bidxar, guk takuz egunek gauek nora eztiela*
 
-## GULERI ##
+### GULERI ###
 
 Jaki bereziak. Finak. Gozoak.
 
@@ -652,7 +652,7 @@ Jaki bereziak. Finak. Gozoak.
 
 Gaztelerazko **gula** hitzari **-eri** atzizkia jarri zaio beste kasu askotan bezala.
 
-## GUREZANA ##
+### GUREZANA ###
 
 Maitasuna.
 
@@ -661,7 +661,7 @@ Maitasuna.
 - *atzoko pelikuleko neskiek eztotso okiñ gurezanik, bestigaz on da enamorata ta*
 - *gurezan bako ezkontziek beti urteten dau txarto*
 
-## GUSTA BE EZ ##
+### GUSTA BE EZ ###
 
 Atsegina ez den gauza bat eskaintzea.
 
@@ -669,7 +669,7 @@ Atsegina ez den gauza bat eskaintzea.
 - *esango tzaten berbiegaz, gusta be ez dxatzo eingo*
 - *gusta be ez eitxeko kartie eskribidu dotsat, baie ondiño eztost kontesta*
 
-## GUZIK ##
+### GUZIK ###
 
 Gura ez. Edozein aditzekin.
 
@@ -683,14 +683,14 @@ Hitz honen konposizioa beste bat behar luke izan, zeren osagaiak **gura** eta **
 
 Horren zergatia ez dago argi. Beste kasu askotan bezala, ilun geratzen da.
 
-## GUZU GEIXUERI ##
+### GUZU GEIXUERI ###
 
 Eskaini barik eman egin behar dela esan nahi du esaldi honek. Gura badu galdetu orduko, eman.
 
 - *guzu txokolatie? Guzu geixuri, niri emon*
 - *guzu geixuri esaten dxatzo, baie bestien pregunte barik emon*
 
-## GUZUR TXARRIDXE ##
+### GUZUR TXARRIDXE ###
 
 Gezur lodia.
 
@@ -698,7 +698,7 @@ Gezur lodia.
 - *arek tiño guzur txarridxe, neuk ikusi dot Bilbora dxuten da ez negatie dakola*
 - *guzur txarridxe diñozu, guzurtidxori*
 
-## GUZURRE TA ADURRE ##
+### GUZURRE TA ADURRE ###
 
 Gezur ugari.
 
@@ -706,7 +706,7 @@ Gezur ugari.
 - *berez igarten dxatzu guzurre ta adurre dabilzune*
 - *alan engaiñeten dau arek etzeko danak, guzurregaz ta adurregaz*
 
-## GUZURREK ETA BI AMABI ##
+### GUZURREK ETA BI AMABI ###
 
 Gezur asko esatea.
 
@@ -714,7 +714,7 @@ Gezur asko esatea.
 - *arek esaten txuzenak guzurrek danak, guzurrek eta bi amabi*
 - *txo, guzurrek eta bi amabi, eztotsut siñestuten ezebe*
 
-## GUZURREN ANDIKO MANDIE ##
+### GUZURREN ANDIKO MANDIE ###
 
 Lokuzio honetako **andiko mandie** hitz multzoa lau edo bost esalditan agertzen da. Beti ere, kontrako zentzuaz, hau da, gezurren kontrako jarrera adierazi beharko luke. baina ez da gertatzen horrela, gezurra hitzaren baieztapena azpimarratzeko egiten da.
 
@@ -722,14 +722,14 @@ Lokuzio honetako **andiko mandie** hitz multzoa lau edo bost esalditan agertzen 
 - *imerik txikidxenak ezaten diez guzurren andiko mandie*
 - *guzurren andiko mandie dan personigaz trato gitxi*
 
-## GUZURREN MAMARRUE ##
+### GUZURREN MAMARRUE ###
 
 Lokuzio hau eta hurrengo biak parekoak dira, esanahi berdintsua daukate. Pertsona gezurtiari dagokio.
 
 - *guzurren mamarruri, itxi berbetan, baie ez siñestu ezer*
 - *guzurren mamarruek guzurrek egidxek dizen moduen esaten txuz*
 
-## GUZURRERI DXEUSTEN ITXI BEZ ##
+### GUZURRERI DXEUSTEN ITXI BEZ ###
 
 Zeharo gezurtia.
 

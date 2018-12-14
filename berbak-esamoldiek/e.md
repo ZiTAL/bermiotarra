@@ -1,6 +1,6 @@
-# E #
+## E ##
 
-## EDAN BAKO MOZKORRA ##
+### EDAN BAKO MOZKORRA ###
 
 Mozkorra lez ibili, baina edan barik.
 
@@ -8,20 +8,20 @@ Mozkorra lez ibili, baina edan barik.
 - *edan bako mozkorra txarraue dala esaten dauie, ez zara akordaten ezegaz be*
 - *edan bako mozkorra lez nuen kaletik, mandaz mandazka*
 
-## EDEGI ##
+### EDEGI ###
 
 Ireki.
 
 - *bidxar jai egune dala ta, okindegidxe beranduau edegiku*
 
-## EDERRAK EMON PALO BARIK ##
+### EDERRAK EMON PALO BARIK ###
 
 Agirika egin. Lotsak eman.
 
 - *eztau dxo, baie ederrak emon dotsoz palo barik*
 - *ene alabie! Ederrak emon dostazuz palo barik, ori dona esalie be*
 
-## EFETUE ##
+### EFETUE ###
 
 Efektua edo kaltea.
 
@@ -31,7 +31,7 @@ Efektua edo kaltea.
 
 Erdarazko zentzu berbera dauka: *resultado de una acción* beti izaten da ekintza gogor bat.
 
-## EGABANATU ##
+### EGABANATU ###
 
 Desagertu. Barreiatu.
 
@@ -39,7 +39,7 @@ Desagertu. Barreiatu.
 - *zeuk pe ez itxi biar, bakixu egabanatuten dizena ta*
 - *arin egabanatu diez, eztiez minitu bi pasa ta*
 
-## EGARRIDXE ##
+### EGARRIDXE ###
 
 Gehigarria, baina likidoa.
 
@@ -56,14 +56,14 @@ Bokal itxidura gertatuz gero, **j** epentetikoa sartu da, oso normala bait da Be
 
 **geigarridxe** → **eigarridxe** → **egarridxe**.
 
-## EGI BERDADERUE ##
+### EGI BERDADERUE ###
 
 Egia benetakoa. Azpimarratzeko esaten da.
 
 - *nik ez diñot guzurrik, egi berdaderue baiño*
 - *egi berdaderue dala diño, baie guzur txarridxe diño*
 
-## EGUALDIDXE HAVANA CUBA ##
+### EGUALDIDXE HAVANA CUBA ###
 
 Eguraldi ona.
 
@@ -71,7 +71,7 @@ Eguraldi ona.
 - *aurton Madalenatan egualdidxe havana cuba!*
 - *Canariasen egunero egualdidxe havana cuba*
 
-## EGUERDIDXE ##
+### EGUERDIDXE ###
 
 Bazkaria.
 
@@ -84,7 +84,7 @@ Bazkaria.
 
 Azkuek ez du jaso zentzu honetan, bai, ordea D.A.R.k Bermeoko hitza dela esanez.
 
-## EGUERDIKORA ##
+### EGUERDIKORA ###
 
 Bazkaldu ostean. Arratsaldean.
 
@@ -95,14 +95,14 @@ Bazkaldu ostean. Arratsaldean.
 
 Oso arraroa egiten zait hitz bau, baina hor dago. **nora** erabiltzen da **noiz** erabili beharrean. **eguerdi** + **ko** + **ra** → **eguerdikora**.
 
-## EGUNEK ARGI ##
+### EGUNEK ARGI ###
 
 Konturatu.
 
 - *badakizule nor dan diñozu, oraiñ ein dotsu egunek argi?*
 - *auntxek egin dotso orreri egunek argi*
 
-## EGUNO ##
+### EGUNO ###
 
 Sekula. Inoiz ez.
 
@@ -110,28 +110,28 @@ Sekula. Inoiz ez.
 - *nota txarrakaz bazatozen etxera eguno etsut eingo erregalorik*
 - *Aqualandiara enai juen eguno, baie gustako lekidast!*
 
-## EGUNO LAKORIK! ##
+### EGUNO LAKORIK! ###
 
 Sinestezina denean. Holakorik!
 
 - *eguno lakorik e! Sekule be eztot ikusi!*
 - *eguno lakorik! Guzurre diñotela ta ez dost ein kasurik*
 
-## EGURREN BILLE IBILLI ##
+### EGURREN BILLE IBILLI ###
 
 Norbera ibili zigorraren bila.
 
 - *alabatxu, zeu zabiltzez zeure egurren bille*
 - *neu nabillela neure egurren bille, zeuk emon dostazulako emotekue*
 
-## EIDXO ##
+### EIDXO ###
 
 Nekatu. Literalki, eho.
 
 - *eidxo eidxo eiñdxe etor gariez kaletik*
 - *olan bazabiltzez eidxo eingo zara*
 
-## EIDXOTA ##
+### EIDXOTA ###
 
 Nekatuta. Ehota.
 
@@ -140,7 +140,7 @@ Nekatuta. Ehota.
 
 Adberbio funtzioan ere erabiltzen dela ikusten dugu.
 
-## EIDXUEK ##
+### EIDXUEK ###
 
 Aurrekoa, baina pluralean.
 
@@ -153,28 +153,28 @@ Kasu honetan aditza substantibatuz egiten da. Gainera beti erabiltzen da plurale
 
 Ikusten denez, deklinatu ere normal egiten da. Azkuek bere hiztegian Mundakakoa bezala azaltzen du. Baina zentzu aldetik ere ez da berdina, zeren berak, **hacer ezfuerzos excesivos** itzultzen du eta Bermeon **muchas moliendas** izango litzateke literalki itzuli ezkero, beraz, ugaritasuna ematen du. Honela, kantitatezko adberbio baten funtzioa betetzen du.
 
-## EIN BIARRA GOGORRAUE ##
+### EIN BIARRA GOGORRAUE ###
 
 Derrigorrez egin beharra.
 
 - *eztot guzan ein, baie ein biarra gogorraue*
 - *etor biarra gogorraue ezan da, da etorri ein biar*
 
-## EITXEN EITXEN ##
+### EITXEN EITXEN ###
 
 Ekinean-ekinean. Egiten-egiten.
 
 - *eitzen eitxen okin bi de lapikue, su gitxigaz*
 - *eitxen eitxen, ikasi eitxen da*
 
-## EIÑ ARIN ##
+### EIÑ ARIN ###
 
 Ondo egin barik, gehienetan jatekoa.
 
 - *dxatekue eiñ arin ein bide ondo egoteko*
 - *okelie be eiñ arin badau gozuau*
 
-## EIÑEKIDXEN / DXON ##
+### EIÑEKIDXEN / DXON ###
 
 Ekinean. Konturatu barik zerbait egitea. Ekinean-ekinean.
 
@@ -189,7 +189,7 @@ Hitz honen etimologia **ekinean** hitza da.
 
 Kontsonanteen metatesia egin da. Aurrerago ere, ikusi dugun bezala, nahiz eta palatalizatu, Bermeoko hizkerak ez du galtzen aurreko **i**. Horregatik, kasu honetan, sudurkari borren aurrean **i** bat desarroilatu du.
 
-## EKAU ##
+### EKAU ###
 
 Emaidazu.
 
@@ -205,7 +205,7 @@ Nahiz eta **ekarri** aditzetik hartuta egon, zentzua **eman** da.
 
 Azkuek, bere hiztegian Mundaka, Ipazter eta Bermeorako jartzen du.
 
-## EKILIKUA ##
+### EKILIKUA ###
 
 Horixe berori. Ondo. Horrela da.
 
@@ -215,7 +215,7 @@ Horixe berori. Ondo. Horrela da.
 
 Hitz honen etimologia  italierazko **eccoli qua** izan daiteke, **eccoli** hitza **ecco**-tik datorrelako, eta berori latinezko **ecce, eccum**, **hona hemen** esanahia duelarik.
 
-## ELANBRA ##
+### ELANBRA ###
 
 Arlanpa. Moilan batelak igotzeko egindakoa.
 
@@ -228,7 +228,7 @@ Gaztelerazko **rambla** hitzetik hartuta dago, baina zentzua ez du hitz horri da
 
 **rambla** → **erranbla** → **elanbra**. **i** eta **rr** kontsonanteen metatesiaren bidez aldatu da hitza.
 
-## ELASTIKO / UE ##
+### ELASTIKO / UE ###
 
 Kamiseta.
 
@@ -238,7 +238,7 @@ Kamiseta.
 
 Jantzi hori deskribatzeko beste hitz bat, **interiora** da. Kintanak **barrengo-elastikoa** deitzen dio. Gaur egun, soineko horren materiala ez da izaten hain malgua, baina antzina bai, eta hitz hau aspaldikoa denez, horrela geratu da gaurko barne jantzi horretan.
 
-## ELEGANTE / IE ##
+### ELEGANTE / IE ###
 
 Bikaina. Oso gozoa. Ederto dagoena.
 
@@ -250,7 +250,7 @@ Bikaina. Oso gozoa. Ederto dagoena.
 
 Hitz hau aspalditik erabiltzen den gaztelerazko hitza dugu. Adineko zein gazteen arteko erabileran ez dago ezberdintasunik, normalki erabiltzen da.
 
-## ELEJIDXE ##
+### ELEJIDXE ###
 
 Aukeran.
 
@@ -261,28 +261,28 @@ Aukeran.
 
 Argi dago gaztelerazko **a elegir** hartuta dagoena. **elegir** → **elegia** → **eleji**.
 
-## ELIXEKUEK ARTZIKO / EMOTEKO MODUEN ##
+### ELIXEKUEK ARTZIKO / EMOTEKO MODUEN ###
 
 Erabat nekatuta.
 
 - *San Juanera dxun nai da orain nau elixekuek artzieko moduen*
 - *zure alabie ikusi dot Lamerako bankuen tunbeta, kantzata, elixekuek emoteko moduen*
 
-## ELIXEN DEITXU BAKO DXOSTUNE ##
+### ELIXEN DEITXU BAKO DXOSTUNE ###
 
 Titulu edo esperientzia gabeko jostuna.
 
 - *nok ein dotsun erropie, elixen deitxu bako dxostune da*
 - *elixen deitxu bako dxostune da baie eztau besterik*
 
-## EMOISTEK AMORE! ##
+### EMOISTEK AMORE! ###
 
 Bai zera! Esandakoa sinesten ez denean.
 
 - *Erreala Uefara dxungo dala? Txo, emoistek amore*
 - *emoistek amore lagun, ori eztau sirñistuten zeure amak pe*
 
-## ENBAJA ##
+### ENBAJA ###
 
 Kontserbatzeko arraina latetan sartzea.
 
@@ -295,7 +295,7 @@ Arrain lantegietan erabiltzen den hitza da. Antxoa, zein atun trontzoiak latetan
 
 Gaztelerazko **empacar** = **enfardar**, **empaquetar** hitzetik harruta dago. **empacar** → **enpaka** → **enbaja**. Joera normala ez izan arren **p** → **b** egitea, gehienetan alderantziz gertatzen baita, Bermeon behintzat, kasu batzuetan ematen da.
 
-## ENBAJADA ##
+### ENBAJADA ###
 
 1. Arazoa. Buruhaustea.
 
@@ -309,14 +309,14 @@ Gaztelerazko **empacar** = **enfardar**, **empaquetar** hitzetik harruta dago. *
 
 Badirudi gaztelerazko **embajada** = **mensaje** bera dela hitz horren jatorria.
 
-## ENBARKA ##
+### ENBARKA ###
 
 Harrapatu. Itsasoan erabilitako hitz hau, edozer harrapatzen denean erabiltzen da.
 
 - *an, enbarka dau arek boltsie, da iñok etso esango ezer*
 - *enbarka ta enbarka diruek, kantsa be ezta eitxen*
 
-## ENBLEMA ##
+### ENBLEMA ###
 
 Arazoa. Buruhaustea.
 
@@ -326,7 +326,7 @@ Arazoa. Buruhaustea.
 
 Ez da gaztelaniako **emblema** edo ezaugarriaren zentzuaz erabiltzen, nahiz eta hitz hori izan formaz.
 
-## ENBOLIKE ##
+### ENBOLIKE ###
 
 Liluratu. Turditu. Tontatu.
 
@@ -339,7 +339,7 @@ Hitz honek, gaztelerazko **embobar** eta bobalicona hitzak hartu ditu oinarritza
 
 **emboba** + **licar** → **enbobalika** → **enboalika** → **enbolika** → **enbolike**.
 
-## ENBRA / IE ##
+### ENBRA / IE ###
 
 Emakumea, baina gaztea.
 
@@ -352,7 +352,7 @@ Ez dauka gaztelaniazko zentzua bera. Euskaraz, toki batzuetan adineko emakumeari
 
 Gaztelerazko **hembra** da hitza, baita zentzua ere, baina esan bezala, mugatu egiten da.
 
-## ENDEKATU ##
+### ENDEKATU ###
 
 Sikatu. Gutxi garatu.
 
@@ -361,7 +361,7 @@ Aditz funtzioan:
 - *balkoien okin dxoten lorie endekatu eiñ dxe*
 - *amuma be aspaldidxon endekatu eiñ dxe*
 
-## ENDEKATUTE ##
+### ENDEKATUTE ###
 
 Sikatu. Gutxi garatu, baina adberbio funtzioan.
 
@@ -374,7 +374,7 @@ Badirudi hitz hau, gaztelerazko **endemia** hitzetik sortu dela. Hala ere, ez na
 
 **endemia** + **tu**  → **endemikatu** → **endeikatu** → **endekatu**.
 
-## ENE ALABIE! ##
+### ENE ALABIE! ###
 
 Esklamatiboa. Lelo antzekoa.
 
@@ -387,7 +387,7 @@ Esklamatiboa. Lelo antzekoa.
 
 - *ene alabie, eztaJa etorko pentzaten zu?*
 
-## ENEBADA TA ENIE! ##
+### ENEBADA TA ENIE! ###
 
 Zoritxar bat, disgustu bat edo antzeko zerbait gertatzen denean erabiltzen den esaldia dugu.
 
@@ -395,7 +395,7 @@ Zoritxar bat, disgustu bat edo antzeko zerbait gertatzen denean erabiltzen den e
 - *desetxue duela itxosuen dinoie, ai enebada ta enie!*
 - *enebada ta enie! Zer da pasaten dana amen erridxen, gaztiek galdute dauz da*
 
-## ENEFRAKAS ##
+### ENEFRAKAS ###
 
 Zentzu karinosoan erabiltzen da. Txarto janzten den gizona edo umea, fraka zabalak edo antzeko soinekoak.
 
@@ -404,7 +404,7 @@ Zentzu karinosoan erabiltzen da. Txarto janzten den gizona edo umea, fraka zabal
 - *auna erdu enefrakas, orrek frakak ondo imitxen*
 - *enefrakas utse zara txetxo, ezin obeto dxantzi!*
 
-## ENFADA ##
+### ENFADA ###
 
 Beteta. Gogaitu.
 
@@ -416,7 +416,7 @@ Beteta. Gogaitu.
 
 Ez du gaztelerazko **enfadar** zentzua.
 
-## ENFADO / DUE ##
+### ENFADO / DUE ###
 
 Nazka. Arrabia.
 
@@ -428,7 +428,7 @@ Nazka. Arrabia.
 
 Gaztelerazko **enfadar** aditzak eta **enfado** izenak ez dute Bermeon erabiltzen den zentzua.
 
-## ENGAÑOTI / DXE ##
+### ENGAÑOTI / DXE ###
 
 Engainatzen duena.
 
@@ -438,7 +438,7 @@ Engainatzen duena.
 
 Gaztelerazko **engaño** erabili da adjetibo hau egiteko. **engaño** + **-ti** atzizkia gehituz → **engañoti**.
 
-## ENKALLE ##
+### ENKALLE ###
 
 Ainguratu. Aditz funtzioan.
 
@@ -446,7 +446,7 @@ Ainguratu. Aditz funtzioan.
 - *saldu iziñik okiñ dxauena laguneri enkalle tso*
 - *txakurre enkalleko tsut eziñ dxot dxabon da*
 
-## ENKALLETA ##
+### ENKALLETA ###
 
 Ainguratuta.
 
@@ -459,7 +459,7 @@ Adberbio funtzioan.
 
 Itsasontzientzat erabiltzen den hitza, hizkera arruntera pasatu da.
 
-## ENPANADA ##
+### ENPANADA ###
 
 1. Pertsona edo gauza ezatsegina. Aspergarria.
 
@@ -476,7 +476,7 @@ Itsasontzientzat erabiltzen den hitza, hizkera arruntera pasatu da.
 
 Gaztelerazko **enpanada** edo **torta** bi hitz horien zentzua hartu du literalki, baina zentzu figuratuan erabiliz.
 
-## ENPATXA ##
+### ENPATXA ###
 
 Nahastu. Endredatu.
 
@@ -490,7 +490,7 @@ Aditz funtzioa betetzen du.
 
 Azkuek ez du jaso forma bau, bai, ostera, hurrengoa. Baita D.A.R. k eta Kintanak ere, baina beste zentzu batez jaso dute, hau da, **impedir**, **obstaculizar** definizioa ematen dute.
 
-## ENPATXATA ##
+### ENPATXATA ###
 
 Nahastuta. Endredoan sartuta.
 
@@ -500,7 +500,7 @@ Adberbio funtzioan dago.
 - *buruko ulietararte dau enpatxata*
 - *enpatxata on barik pe, neiku burukumiñ emoten dau orrek*
 
-## ENPATXO / UE ##
+### ENPATXO / UE ###
 
 Endredo.
 
@@ -515,7 +515,7 @@ Azkuek beste zentzu batez jaso du bere hiztegian, eta D.A.R.k, eta Kintanak ere,
 
 Izenaren funtzioa betetzen du.
 
-## ENPEÑO / UE ##
+### ENPEÑO / UE ###
 
 Influentzia. Boterea.
 
@@ -527,7 +527,7 @@ Influentzia. Boterea.
 
 Gaztelerazko **empeño** + **protector o padrino** hitzetik hartua da, eta esanahia berbera dauka.
 
-## ENPIKE ##
+### ENPIKE ###
 
 Erantsi, itsatsi. Pertsona edo gauzak.
 
@@ -536,7 +536,7 @@ Erantsi, itsatsi. Pertsona edo gauzak.
 
 Gaztelerazko **empegar** aditza ez litzateke hain egokia, baina **pegamento** hitza harturik zuzena izan daiteke.
 
-## ENPIKETA ##
+### ENPIKETA ###
 
 Itsatsita.
 
@@ -545,7 +545,7 @@ Itsatsita.
 - *ori mutille ta ori enbrie enpiketa dauz egun guztidxen*
 - *lagun andidxe tozuz orrek, goixerik gauera dauz enpiketa*
 
-## ENPLASTO / UE ##
+### ENPLASTO / UE ###
 
 1. Oztopo. Destorbo. Konparazioan ere bai.
 
@@ -563,7 +563,7 @@ Gaztelerazko **emplasto** hitza erabili izan da. Enplastoak ipintzen edo ipintze
 
 - *Añorgako enplasteriñe dxun nai, garidxuek takotez da*
 
-## ENTABLAZIÑUE ##
+### ENTABLAZIÑUE ###
 
 Taulamendua. Oholeria.
 
@@ -571,14 +571,14 @@ Taulamendua. Oholeria.
 - *entablaziño zarra kendu ta barridxe imitxie inpididxue kostaten da*
 - *entablaziñue barik eztozu gure baldosie imiñi?*
 
-## ENTREPITXIE ##
+### ENTREPITXIE ###
 
 Tartekatzen dena. Edozertan sartzen dena.
 
 - *bestelako entrepitxie zauz or, iñon gauzetan sartzien*
 - *beran entrepitxie dozu, dana dxakin bi dau*
 
-## ENTZADO / UE ##
+### ENTZADO / UE ###
 
 Itsasoan ibiltzen diren jantziak. Gaur egun plastiko edo nylonezkoak dira, baina olana sendoari linaza olioa emandakoak izaten ziren. Hala ere izena ez dute aldatu.
 
@@ -591,21 +591,21 @@ Esan bezala, gaztelerazko *encerado* hitzetik datorkigu.
 
 /encerado → entzerado → entzeado → entzado → entzadu/
 
-## ENTZUN BERBIE ##
+### ENTZUN BERBIE ###
 
 Entzun esango dizudana. Gehienetan serio hitz egiteko.
 
 - *entzun berbie, ori ezta olan, guzurre esan dotsu*
 - *isillik on, da entzun berbie, dxun zeure etzera da ikusi an badauen*
 
-## ENTZUN DE GOR ##
+### ENTZUN DE GOR ###
 
 Gorrarena egin.
 
 - *esan etorteko etzera, da entzun de gor*
 - *entzun de gor eitxen dauie beti, ezer entzun eztauielakuen*
 
-## EPERDIKARIE ##
+### EPERDIKARIE ###
 
 Asko mugitzen den txori bat da. Konparazioan urduri ibiltzen den pertsona da, mugikorra dena.
 
@@ -613,7 +613,7 @@ Asko mugitzen den txori bat da. Konparazioan urduri ibiltzen den pertsona da, mu
 - *ara ta ona dabill, eperdikarie ibilltxen da olan*
 - *on zaitxez geldik, eperdikarie lez zabiltzez da*
 
-## EPERDIKUEK ##
+### EPERDIKUEK ###
 
 Lotsak eman.
 
@@ -621,7 +621,7 @@ Lotsak eman.
 - *obeto eingo dau arek, eperdikuek emon barik ixillik otie*
 - *ze ein tsazu ba eperdikuek emoten otorteko?*
 
-## ERARA / TARA ##
+### ERARA / TARA ###
 
 1. Artez egon.
 
@@ -634,13 +634,13 @@ Lotsak eman.
 
 Azkuek bere Morfologia liburuan **eratara** jaso duela dio D.A.R.k, eta **a derechas** definizioaz jartzen du. Bermeon ere erabiltzen da forma hori.
 
-## ERATSITZE ##
+### ERATSITZE ###
 
 Zauriengatik azala altxatuta duzunean.
 
 - *eridiek eratsitze itxi dost eskue, ta dolore mandue dakot*
 
-## ERATZI ##
+### ERATZI ###
 
 Jetzi.
 
@@ -648,7 +648,7 @@ Jetzi.
 
 Gazteleraz **ordeñar**.
 
-## ERDI ZIMARROIE ##
+### ERDI ZIMARROIE ###
 
 Maltzurra. Trikimailuak ondo ezagutzen dituena.
 
@@ -656,7 +656,7 @@ Maltzurra. Trikimailuak ondo ezagutzen dituena.
 - *bateri diñotzazu! Eztakixu ori erdi zimarroie dana eta dana dakidxena?*
 - *asko dakidxien gixonak tiez orrek, erdi zimarroiek*
 
-## ERDIKIÑIEN ##
+### ERDIKIÑIEN ###
 
 Erdizka. Erdizka egin.
 
@@ -667,7 +667,7 @@ Erdizka. Erdizka egin.
 
 Hitz honen jatorria **erdi eginean** da. D.A.R.k jaso duena antzekoa da, baina ez da deklinatzen eta ez du zentzu bera. Kintanak ere, hark azaltzen duen forma jaso du.
 
-## ERLAU / E ##
+### ERLAU / E ###
 
 1. Zama. Erantzukizuna.
 
@@ -686,7 +686,7 @@ Hitz honen jatorria **erdi eginean** da. D.A.R.k jaso duena antzekoa da, baina e
 - *erlaue dau botaten, bidxar goixien otz eingo dau*
 - *bota dauen erlauegaz solo guztidxek pe zuritxute on diez*
 
-## ERLUZIDADIE ##
+### ERLUZIDADIE ###
 
 Dirdira.
 
@@ -705,7 +705,7 @@ Desegokia da, baina hor dago.
 
 Ez da egon **e** protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
 
-## ERMERIE ##
+### ERMERIE ###
 
 Gauza baten era.
 
@@ -714,7 +714,7 @@ Gauza baten era.
 - *jersien era guztidxe mudeta dau*
 - *era partetik ebai telie, baie gero aldrebesetara dxosi*
 
-## ERNEGA ##
+### ERNEGA ###
 
 1. Aspertu. Haserretu. Izorratu.
 
@@ -729,7 +729,7 @@ Gauza baten era.
 - *imie eztakola ondo ta ernegaten on da*
 - *eskolan txarto dabillela da ernega be eztau eitxen*
 
-## ERNEGADU ##
+### ERNEGADU ###
 
 Aspergarria. Kezkatuta. Haserretuta.
 
@@ -740,7 +740,7 @@ Aspergarria. Kezkatuta. Haserretuta.
 
 Aurreko aditzak adberbioaren funtzioa betetzen du lehen esaldian eta adjektiboaren funtzioa beste hiruretan.
 
-## ERNEGUE ##
+### ERNEGUE ###
 
 Kezka. Haserrea.
 
@@ -756,7 +756,7 @@ Azkuek ez du jaso bere hiztegian eta D.A.R.k, lehenengoa jaso du, baina zentzu e
 
 Lehenengo kontsonantea eta bokalea tokiz aldatuz gero, eta azken dardarkaria erorita, euskarazko forma eman zaio, eta izenaren funtzioa betetzen du.
 
-## ERRAMA / IE ##
+### ERRAMA / IE ###
 
 Abar. Edozein motatako abarrak.
 
@@ -767,7 +767,7 @@ Abar. Edozein motatako abarrak.
 
 Erdarako **rama** hitzari **e** proteiko bat erantsi zaio.
 
-## ERREBATI(G)UE ##
+### ERREBATI(G)UE ###
 
 Estropada.
 
@@ -786,7 +786,7 @@ Gazteterako **regateo** hitzetik sortu dena argi dago.
 Gero artikulua gehituz: **erretatioa** → **errebatiue**.  
 Batzuetan **g** desarroilatzen du: **errebatigue**.
 
-## ERREBOLBIDU ##
+### ERREBOLBIDU ###
 
 Azpikoz ezarri.
 
@@ -794,7 +794,7 @@ Azpikoz ezarri.
 - *tripek errebolbite dakotez, esan dostezen berbakaz*
 - *ez eixu errebolbidu geidxau txokolatie, txarrau de ta*
 
-## ERREBORNO ##
+### ERREBORNO ###
 
 Zurrunbilo. (Itsasokoa)
 
@@ -808,7 +808,7 @@ Honen sorrera, remolino hitzari zor zaio.
 
 **remolino** → **arremolino** → **errebolino** → **erreborino** (asimilazioz) → **erreborno**; **i** galduz gero.
 
-## ERREBUELTADA ##
+### ERREBUELTADA ###
 
 Kurba.
 
@@ -820,7 +820,7 @@ Kurba.
 
 Gaztelaniako **revuelta** (segunda vuelta) hitza hartu da beste esanahi hori jartzeko **revuelta** + **-ada** → **errebueltada**.
 
-## ERREDONDAMENTIEN ##
+### ERREDONDAMENTIEN ###
 
 Kategorikoki. Ia beti izaten da erantzuna ezezkoa.
 
@@ -828,7 +828,7 @@ Kategorikoki. Ia beti izaten da erantzuna ezezkoa.
 - *Bilbora dxun bi dule esan tsatenien, berak erredondamentien ezetz*
 - *ene alabie! Personiri entzun orduko, erredondamentien emoten zu ezetza*
 
-## ERREKADUE ##
+### ERREKADUE ###
 
 1. Errekadua. Mandatua.
 
@@ -852,7 +852,7 @@ Kategorikoki. Ia beti izaten da erantzuna ezezkoa.
 
 Gaztelerazko zentzua bera dauka: **mensaje** = **provisión diaria**.
 
-## ERREKALISTIE ##
+### ERREKALISTIE ###
 
 Ez dakit gaur mezulari edo mandatari bati gaztelerazko **recadista** esaten bazaio. Bermeon oraindik erabiltzen da azken hau, baina geure erara, hemen ikusten dugun moduan.
 
@@ -860,7 +860,7 @@ Ez dakit gaur mezulari edo mandatari bati gaztelerazko **recadista** esaten baza
 - *errekalistiek eingo tsuz igualatoidxoko papelak*
 - *errekalistiri paga ein bi tsat, da nire laguneri ez, bide batez dxun ezkero...*
 
-## ERREMATIEN ##
+### ERREMATIEN ###
 
 Enkante baten azken fasea.
 
@@ -873,7 +873,7 @@ Arrantzale giroko hitza da. Itsasontzi bat enkanterako bidean jartzea da. Baina 
 
 **remate** → **erremate** → **errematea** → **errematie**.
 
-## ERREMENTA ##
+### ERREMENTA ###
 
 Lehertu.
 
@@ -890,7 +890,7 @@ Gaztelerazko **reventar** aditzetik sortua da.
 
 Kintanaren hiztegian baino ez dator hitz hau, eta bertan beste zentzu batez agertzen da: **desternillarse** zentzua ematen dio.
 
-## ERREMORKA ##
+### ERREMORKA ###
 
 Atoian eraman. Ontzia zein autoa.
 
@@ -898,7 +898,7 @@ Atoian eraman. Ontzia zein autoa.
 - *erremorkan guzan dau eruen, baie itxosue ezta on orretarako da bertan itxi dau*
 - *erremorka paga ein bi de, orreitxik aberidxe konponduteko alegiñek eiñ dxauie*
 
-## ERRENDIDU ##
+### ERRENDIDU ###
 
 Ahuldu. Nekatu.
 
@@ -911,7 +911,7 @@ Erdarazko **rendidos de cansancios** berbera dugu, **rendir** + **du** partizipi
 
 Kintanak **producir** zentzuaz jaso du hitz hau.
 
-## ERRENKIDXE ##
+### ERRENKIDXE ###
 
 Errain-gaia.
 
@@ -919,7 +919,7 @@ Arinago aipatu dugu **-ki** atzizkia erabiliz nola egiten diren honelako hitzak:
 
 - *errenkidxegaz dxun da Bilbora*
 
-## ERRENKOLADA ##
+### ERRENKOLADA ###
 
 Hilera.
 
@@ -931,14 +931,14 @@ Hilera.
 
 **errenkola** + **ada** → **errenkolada**.
 
-## ERRESKADIE ##
+### ERRESKADIE ###
 
 **Errenkolada** hitzaren sinonimoa, hau da, hilera.
 
 - *ikastolan jolasordue eta gero erreskadie eitzen zan dun gelara idxeteko*
 - *ziñera juteko erreskadie badauen ni enuen*
 
-## ERRESKITXE ##
+### ERRESKITXE ###
 
 Arakatu. Miatu.
 
@@ -952,7 +952,7 @@ Hiru esaldi hauetan, aditzaren funtzioa betetzen du hitz horrek.
 
 Azken esaldi honetan adberbio baten funtzioa betetzen du.
 
-## ERRESKITXUE ##
+### ERRESKITXUE ###
 
 Miaketa.
 
@@ -966,7 +966,7 @@ Gaztelerazko **registrar** aditzetik sartua, Bermeon normalak diren fonefikazko 
 
 Azken honek beste bariante bat eman du, gaur ere noizbehinka entzuten den **errekistre**; baina ez da hain erabilia. Eta badirudi, hortik irten duela gaur erabilitako forma: **errekistre** → **erreskitxe**.
 
-## ERRETOLIKIE ##
+### ERRETOLIKIE ###
 
 Berba uholdea. Leku askotan galduta dagoen berba hau, tinko mantentzen da Bermeon, zentzu honetan behintzat.
 
@@ -974,7 +974,7 @@ Berba uholdea. Leku askotan galduta dagoen berba hau, tinko mantentzen da Bermeo
 - *zelako erretolikie arma dost ba, dxuten be eztost itxi*
 - *beran erretolikiegaz, buruko kankamuek atrapa dostez*
 
-## ERRIDXE ##
+### ERRIDXE ###
 
 Figurazioan, hainbat pertsonak zerbait erosteko edo beste zeozertarako mahai gainean jartzea dirua.
 
@@ -986,14 +986,14 @@ Figurazioan, hainbat pertsonak zerbait erosteko edo beste zeozertarako mahai gai
 
 Gaztelerazko **arriar** dela argi dago.
 
-## ERRIDXE NASTA ##
+### ERRIDXE NASTA ###
 
 Nahastea sortu, egiak eta egia ez direnak esanez.
 
 - *auntxe be erridxe nastaten zauz, esaixu artez gauzek*
 - *an dau a, erridxe nastaten, da jentie sinestute*
 
-## ERRIE ##
+### ERRIE ###
 
 Jaitsi, Baja.
 
@@ -1003,7 +1003,7 @@ Itsas giroan erabiltzen den hitz hau, gizonen ahoan emakume bat erditzen denean 
 - *noizko errieko dau zure andriek ba*
 - *errie dauela imie esan dauie*
 
-## ERRIE MANDA ##
+### ERRIE MANDA ###
 
 Bertan behera utzi. Amore eman.
 
@@ -1011,7 +1011,7 @@ Bertan behera utzi. Amore eman.
 - *emon doskun arrapaldidxe patrulleriek, geure trakero guztidxek errie manda eiñ, da eskapa eiñ dxun andik*
 - *andik enpatxotik eziñ ezan da lez urten, errie manda eiñ dxot*
 
-## ERRIEBERA ##
+### ERRIEBERA ###
 
 Kantitate handiak. Ugari.
 
@@ -1020,7 +1020,7 @@ Kantitate handiak. Ugari.
 - *guzurre esaten dau, erriebera*
 - *soluen dakoie tomatiek, erriebera*
 
-## ERRIME ##
+### ERRIME ###
 
 Arrimatu. Bateren baten babesa bilatu.
 
@@ -1033,21 +1033,21 @@ Arrimatu. Bateren baten babesa bilatu.
 
 Azkuek, D.A.R., P.M. eta Kintanak **diestro** zentzuaz azaltzen dute forma hau, Bermeon, ostera, gaztelerazko zentzua bera hartzen du bete-betean.
 
-## ERROZOIE ORDIDXERI ##
+### ERROZOIE ORDIDXERI ###
 
 Oker egonda ere, arrazoia eman.
 
 - *errozoie ordidxeri emoten dxatzo, da ni enau ordirik*
 - *errozoie dakola esan dotso, baie berak errozoie ordidxeri emoten dxatzola esan dotso*
 
-## ESANAK ETA EGIÑIEN ##
+### ESANAK ETA EGIÑIEN ###
 
 Berriketan.
 
 - *esanak eta egiñien ikusi zaitxut goixien errenkidxen amagaz*
 - *arratsalde santo guztidxen on diez arek Portaleko bankuen esanak eta egiñien*
 
-## ESANTXARREKO / UE ##
+### ESANTXARREKO / UE ###
 
 Obeditzen ez duena.
 
@@ -1056,14 +1056,14 @@ Obeditzen ez duena.
 - *esantxarrekue ezatearren pasa dxatzo pasa dxatzona*
 - *esantxarrekue bazara ez zaitxut erungo Bilbora*
 
-## ESATEKUEK ESAN ##
+### ESATEKUEK ESAN ###
 
 Gogorrak esan, berba lodiak.
 
 - *arek lotsabakuek, esatekuek esan dostez berba batetik bestera*
 - *entzun dozu telebisiñue, Zapaterok Aznarreri esatekuek esan dotsoz, errozoiegaz*
 
-## ESKANDALO / UE ##
+### ESKANDALO / UE ###
 
 1. Asko. Kantitate handia.
 
@@ -1079,7 +1079,7 @@ Gogorrak esan, berba lodiak.
 
 Gaztelerazko **escandalo** hitza hartu da, baina lehen definizioan ez du zentzu berdina.
 
-## ESKANDALO GORRIDXE ##
+### ESKANDALO GORRIDXE ###
 
 Iskanbila. Haserrekuntza.
 
@@ -1087,7 +1087,7 @@ Iskanbila. Haserrekuntza.
 - *neure lagunen koñatuek eta be, eskandalo gorridxek okiñ dxauie*
 - *arek eskandalo gorridxe arma dau tallerrien be ordu geidxau sartzieko biarrien*
 
-## ESKO ARRAIÑE ##
+### ESKO ARRAIÑE ###
 
 Eskumuturra indargetua, ahul edo mingor dagoenean.
 
@@ -1097,14 +1097,14 @@ Eskumuturra indargetua, ahul edo mingor dagoenean.
 - *amen eskuen esko arraiñe dakot, da trapo gorridxe imin bidot*
 - *esko arraiñentzat ona dala trapo gorridxe imitxie esaten dauie*
 
-## ESKO BETE EULI ##
+### ESKO BETE EULI ###
 
 Baliorik ez duela adierazteko erabiltzen da.
 
 - *Horregaz kañoberiegaz arrantzen? Hori eta esko bete euli bardin!*
 - *Ha saldu? Zetako! Haregaz irebazko dan dirue eta esko bete euli bardin!*
 
-## ESKOERARA ##
+### ESKOERARA ###
 
 Erraz edukitzea gauzak. Eskura.
 
@@ -1112,7 +1112,7 @@ Erraz edukitzea gauzak. Eskura.
 - *eskoerara okiii dxe be ezin tzutez ekarri zapatak proba in bidiez da*
 - *ez da esaten erreza eskoerara okitxie gauzek amen etzien*
 
-## ESKOGANIEN ##
+### ESKOGANIEN ###
 
 Usatutako gauzak erostea.
 
@@ -1127,7 +1127,7 @@ Gaztelerazko **de segunda mano** ere literalki erabiltzen da:
 
 Azkuek Mundaka eta Otxandiorako jartzen du, baina Bermeon ere asko erabiltzen da.
 
-## ESKONEKUE ##
+### ESKONEKUE ###
 
 Esku onekoa. Baina zentzua bestelakoa da. Bermeon, bai dendari eta beste mota batetako saltzaileen artean, sineskera bat dago: eguneko salmentak **esku ona** daukan pertsona batek hastea; horrela egun horretan izango dituen salmentak oso onak izango dira.
 
@@ -1135,7 +1135,7 @@ Esku onekoa. Baina zentzua bestelakoa da. Bermeon, bai dendari eta beste mota ba
 - *zure ama eskonekue da; beti gu dot bera etortie dendie igiritxen dotenien*
 - *ia eskonetik asten banozu arraiñ guztidxek saltzieko*
 
-## ESKOPOLOTA ##
+### ESKOPOLOTA ###
 
 Armairua.
 
@@ -1144,7 +1144,7 @@ Armairua.
 - *amak esan dau eskopoloteko giltzek emoteko*
 - *eskopoloteko kajoie dxeusi dxast kadera ganera*
 
-## ESKOTXARREKUE ##
+### ESKOTXARREKUE ###
 
 Esku txarrekoa. Aurretik **esku onekoa** jarri dugu, baina hau erabat alderantzizkoa da, dendariek edo saltzaileek bereizten dute **esku txarreko** pertsona **esku onekoa** bereizten duten bezala.
 
@@ -1152,7 +1152,7 @@ Esku txarrekoa. Aurretik **esku onekoa** jarri dugu, baina hau erabat alderantzi
 - *eskotxarreko bat etorten badxatzu egun guztidxen ez zu salduko ezebe*
 - *aurrek estreñe nau. Enebada! Eskotxarrekue da ori*
 
-## ESKRIPIDORA ##
+### ESKRIPIDORA ###
 
 Orrazia. Era guztietakoak, baila itsasoan erabiltzen dena ere. Gaur egun adintsuek bakarrik esaten dute garai baten oso zabala izan zen berba hori.
 
@@ -1165,7 +1165,7 @@ Gaztelerazko **escarpidor** hitza hartu da, hitz honen oinarritzat.
 
 **escarpidor** → **eskrapidor** → **eskripidor**. Hau, metatesia gertatu ondoren, **i** bokalaren asimilazioaz egin da.
 
-## ESKU IKARIE ##
+### ESKU IKARIE ###
 
 Eskua dardarka. Baina zentzuak zekenkeria ere adierazten du.
 
@@ -1173,7 +1173,7 @@ Eskua dardarka. Baina zentzuak zekenkeria ere adierazten du.
 - *ene alabie! Esko ikarie dakozule, bota guzik zauz pixora*
 - *bota blasta-blasta, esko ikarie okin barik*
 
-## ESKUE ARTUN ##
+### ESKUE ARTUN ###
 
 Arduratu.
 
@@ -1181,7 +1181,7 @@ Arduratu.
 - *eskue artzien ezpada galdute gauz danok*
 - *amak eztotso ein kasurik da izekok artun tso eskue*
 
-## ESKUE DXEUSI ##
+### ESKUE DXEUSI ###
 
 Zekenkeria.
 
@@ -1189,13 +1189,13 @@ Zekenkeria.
 - *ene alabie! Eskue dxeusi barik dakozu ikarie la?*
 - *bota bota ez dxatzu eskorik dxeusiko ta*
 
-## ESKUBERIE ##
+### ESKUBERIE ###
 
 Belarra mozteko erratza.
 
 - *ekau eskuberie honek bedarrak ebai ein biduz eta!*
 
-## ESKUGAZ KENDUIKO MODUEN ##
+### ESKUGAZ KENDUIKO MODUEN ###
 
 Sendagai batek efektua berehala egiten duenean.
 
@@ -1203,7 +1203,7 @@ Sendagai batek efektua berehala egiten duenean.
 - *eridek okiñ txuz idxe pasmata, da imiñi saukuen botikie da eskugaz kenduiko moduen kendu dxatzoz*
 - *arpidxe okiñ dxau garauez beteta, da manzanillien uregaz eskugaz kenduiko moduen dxun dxatzoz*
 
-## ESKURE ARTZIKO (MODUKUE) ##
+### ESKURE ARTZIKO (MODUKUE) ###
 
 Balio gabekoa. Kontua ez hartzekoa. Negatiboa da beti. 
 
@@ -1211,7 +1211,7 @@ Balio gabekoa. Kontua ez hartzekoa. Negatiboa da beti.
 - *plazara dxun nai zapata batzuk erosten, baie eztot topa eskure artziko modukorik*
 - *zuretzat danak tiez eskure ez artziko modukuek*
 
-## ESKUREKO ##
+### ESKUREKO ###
 
 Eskuetara heltzeko prest. Ukabilka bastear.
 
@@ -1219,7 +1219,7 @@ Eskuetara heltzeko prest. Ukabilka bastear.
 - *sarri oten diez arek eskureko*
 - *ez tiez konponduten, beti dauz asarratute, beti eskureko listo*
 
-## ESNE EPELA ##
+### ESNE EPELA ###
 
 Sekula kezkatzen ez dena. Energia gabekon.
 
@@ -1228,7 +1228,7 @@ Sekula kezkatzen ez dena. Energia gabekon.
 - *noren kotxien zuz ba ? Neure nebigaz. Enebada! Beragaz esne epelagaz*
 - *esne epela da, baie segurue*
 
-## ESNE EPELETAKO SOPIE ##
+### ESNE EPELETAKO SOPIE ###
 
 Energia gabeko pertsona.
 
@@ -1236,7 +1236,7 @@ Energia gabeko pertsona.
 - *ze eingo zu ba, esne epeletako sopie dozu te*
 - *auntxe be an dakozu a esne epeletako sopie lez*
 
-## ESPIBOTA ##
+### ESPIBOTA ###
 
 Txapazko itsasontzietan erabiltzen den abiadura handiko ontzia, arrainei sarea bota eta gero objetua bila joateko itsasontzira bueltan eramateko.
 
@@ -1245,7 +1245,7 @@ Txapazko itsasontzietan erabiltzen den abiadura handiko ontzia, arrainei sarea b
 
 Ingeleseko **speedboat** hitza hartu da, hitz honen oinarritzat.
 
-## ESPORTAK ##
+### ESPORTAK ###
 
 Belaunerainoko galtzerdi lodiak.
 
@@ -1256,7 +1256,7 @@ Belaunerainoko galtzerdi lodiak.
 
 Erdarazko **esport** hartu da, baina izen bezala, eta ez adjektibo moduan.
 
-## ESTAIDXUE ##
+### ESTAIDXUE ###
 
 Altuera. Neurria.
 
@@ -1266,7 +1266,7 @@ Altuera. Neurria.
 
 Gaztelerazko **estatura** hartuta egin dela dirudi.
 
-## ESTIEK PE BIDXORTUTE ##
+### ESTIEK PE BIDXORTUTE ###
 
 Goseak hiltzen.
 
@@ -1274,7 +1274,7 @@ Goseak hiltzen.
 - *dxungo gariez nonora zeuzer dxaten, estiek pe bidxortute dakotez gosien gosiegaz*
 - *zuk beti dakozuz estiek bidxortute, eztaitx nok beteko zaitxuzen*
 
-## ESTITXU BAKO ARBOLIE ##
+### ESTITXU BAKO ARBOLIE ###
 
 Txertatu gabeko arbola. Konparazioan gora eta gora doazen pertsonak.
 
@@ -1282,7 +1282,7 @@ Txertatu gabeko arbola. Konparazioan gora eta gora doazen pertsonak.
 - *balonzestoko mutillek pe, eztitxu bako arbolak ezaten diez*
 - *zelan dau zure teillapeko neskatue! Atara kontue eztitzu bako arbolie dala*
 
-## ESTREBILLOSKUE ##
+### ESTREBILLOSKUE ###
 
 Normala ez den edozein gauza.
 
@@ -1292,7 +1292,7 @@ Normala ez den edozein gauza.
 
 Gaztelerazko **estrebillo** erabili da bitxitasuna adierazteko. Gazteen artean, oso gutxi erabiltzen da eta zaharren artean ere galtzen ari da.
 
-## ESTRINKE ##
+### ESTRINKE ###
 
 Estutu. Itsatsi.
 
@@ -1306,14 +1306,14 @@ Seguru asko gaztelerazko **trincar** aditza izango da hitz honen jatorria, **des
 
 **ez** + **trinear** → **eztrinkar** → **eztrinke** → **estrinke**.
 
-## ETXA BALTZIE ##
+### ETXA BALTZIE ###
 
 Gezurra edo zalantzan jartzen den zerbait sinisten ez denean erabiltzen da esaldi hau. Itsasoan balsa botatzea. Auskalo!
 
 - *nok esan dau ori, Adelak? Etxa baltzie! Ori eztau siñestuten berak pe*
 - *etxa baltzie! A ezta dxungo Benidorrera*
 
-## ETXADA ##
+### ETXADA ###
 
 Sarea itsasoratzea arrainak harrapatzeko. Baina gero, herrira pasatu da, eta zentzua ere berdina izango da.
 
@@ -1328,7 +1328,7 @@ Gaztelerazko **echar** aditzetik hartua.
   
 **echada** (acción de echar) → etxada.
 
-## ETXALAK ##
+### ETXALAK ###
 
 Euri-zaparrada.
 
@@ -1343,7 +1343,7 @@ Hitz hau konposatua da:
 
 Bokal berdinak izan arren, ez da egon disimilaziorik eta erdiko bokal bi erori egin dira.
 
-## ETXAMON ##
+### ETXAMON ###
 
 Jaramonik ez egin.
 
@@ -1362,7 +1362,7 @@ Badago **etxaramon** forma ere, Azkuek jaso duena, Kintanak ere jaso du bere hiz
 
 Azkuek ez du jaso, baina bai D.A.R.k, Mundaka eta Bermeorako, hain zuzen.
 
-## ETXEPLASTO ##
+### ETXEPLASTO ###
 
 Akzidente. Zerbait apurtu edo egin.
 
@@ -1371,14 +1371,14 @@ Akzidente. Zerbait apurtu edo egin.
 - *etxeplastue eiñdxe dauelez, oraiñ itxi dauen moduen*
 - *gero ta gero be, etxeplastue ein zu motorragaz*
 
-## ETZEALDATZA ##
+### ETZEALDATZA ###
 
 Etxebizitza bat aldatzen denean, hango altzariak edo tretxuen mudantza.
 
 - *total istu ibilli nai etze aldatza eitxeko ezan danien*
 - *etze aldatza eitxeko dakozunien geuri abixe lagunduten dxuteko*
 
-## ETZEBETE ##
+### ETZEBETE ###
 
 1. Zerbait apurtu. Zerbaitek txarto irten.
 
@@ -1391,7 +1391,7 @@ Etxebizitza bat aldatzen denean, hango altzariak edo tretxuen mudantza.
 
 - *etzebete bibera erosi duz parrilladarako*
 
-## ETZEGUNE ##
+### ETZEGUNE ###
 
 Itsasoratu barik, derrigorrez edo nahi izanda. Espresio hau, hizkera arruntera pasatu da.
 
@@ -1402,7 +1402,7 @@ Itsasoratu barik, derrigorrez edo nahi izanda. Espresio hau, hizkera arruntera p
 
 D.A.R.k bakarrik jaso du, eta Bermeoko hitza bezala azaltzen du.
 
-## ETZI ##
+### ETZI ###
 
 Hartu! Eutsi!
 
@@ -1415,7 +1415,7 @@ Hartu! Eutsi!
 
 **eu** diptongoa **e**-n monoptongatu da.
 
-## ETZIKARAMU ##
+### ETZIKARAMU ###
 
 Etzidamu, hau da, gaurtik hirugarren eguna.
 
@@ -1423,7 +1423,7 @@ Etzidamu, hau da, gaurtik hirugarren eguna.
 - *etzikaramu datorrela esan dau*
 - *etzikaramuk ekarko dau beste egun bet*
 
-## EUN MILLE BIDAR ##
+### EUN MILLE BIDAR ###
 
 Askotan.
 
@@ -1431,14 +1431,14 @@ Askotan.
 - *ez esan etsutenik esan, eun mille bidar esan tsut etzie saltzien dotela*
 - *eun mille bidar esanda bez. antzidxerako be eztauie eitxen*
 
-## EURILANBRO ##
+### EURILANBRO ###
 
 Sirimiri.
 
 - *lanbrue dxeusten on da ta busti-busti ein gariez*
 - *eurilanbrue dxeusten asten danien ez da para be eitxen*
 
-## EURISIRIDXE ##
+### EURISIRIDXE ###
 
 Sirimiri.
 
@@ -1448,28 +1448,28 @@ Sirimiri.
 - *eurisiridxe txarra da biderarako*
 - *eurisiridxe asi de ta laster beitu zemat azidente ongo dizen*
 
-## EUTZO AMUE ##
+### EUTZO AMUE ###
 
 Eutsi amua. Iruzurra edo engainua sartzean edo susmatzean jaurtitzen den leloa. Figuratiboan amua karnataz horniturik doalakoan erabiltzen da.
 
 - *da eutzo amue ein tso engaiñeteko dauelakuen*
 - *txo, eutzo amue, ori esan beste bateri*
 
-## EZ ARDAUTEKO EZ URETARAKO ##
+### EZ ARDAUTEKO EZ URETARAKO ###
 
 Ez baterako ez besterako. Zalantzak daudenean.
 
 - *eztaix Bilbora dxun biar badot edo ez, enau ez ardauteko ez uretarako*
 - *pintoreruek esan dost zuridxegaz pintxeko dauela, da Mirenek diñost ezetz, da oiñ enau ez ardauteko ez uretarako*
 
-## EZ BATA, EZ BESTIE, EZ ZEZTRIE
+### EZ BATA, EZ BESTIE, EZ ZEZTRIE
 
 Ez bata, ez bestea, ezta hurrengo ere.
 
 - *Gazteako esataridxek zeintzuk dizen onak? Ez bata, ez bestie, ez zeztrie!*
 - *nok irebazi dau rugby txapelketie, Irlandak, Inglaterrak edo Frantzik? Ba ez batak, ez bestiek, ez zeztriek, Galesek!* 
 
-## EZEBE EZ DALAKUEN ##
+### EZEBE EZ DALAKUEN ###
 
 Disimuluaz.
 
@@ -1477,7 +1477,7 @@ Disimuluaz.
 - *ezebe ez dalakuen sastarratara bota dau gordeta okiñ dxauen papela*
 - *aulan, ezebe eztalakuen dxo dot lepuen da ez dxast paraten sulfureta, ezer ein barik*
 
-## EZEBEZA / EZEREZA ##
+### EZEBEZA / EZEREZA ###
 
 Miseria. Krisi. Ezereza.
 
@@ -1488,13 +1488,13 @@ Miseria. Krisi. Ezereza.
 
 Azkuek ez du jaso, baina D.A.R.k *ezer ez* forma jaso du eta horren definizioetariko bat Bermeoko zentzuaz agertzen da.
 
-## EZEBEZA BEGIREKO ONA ##
+### EZEBEZA BEGIREKO ONA ###
 
 Beste esaldi bati erantzuten dio esaldi honek.
 
 - *zer dakazu ba? Ezebez. Ezebeza begireko ona, baie partikararako txarra*
 
-## EZKIÑERUE ##
+### EZKIÑERUE ###
 
 Lorontzia jartzeko izkina baten ipintzen den altzaritxoa.
 
@@ -1502,7 +1502,7 @@ Lorontzia jartzeko izkina baten ipintzen den altzaritxoa.
 - *muebleri guztidxetara dxun nai da eztot topa eskiñerorik*
 - *klaro! Oraiñ ezta eruten eskiñerorik eta*
 
-## EZNIRIKUTU ##
+### EZNIRIKUTU ###
 
 Pertsona delikatua, ala fina izatea nahi duena. Gehienetan emakumezkoei dagokie.
 
@@ -1515,28 +1515,28 @@ Hitz konposatu hau hiru elementuk osatzen dute:
   
 **ez** + **niri** + **ikutu** → **eznirikutu** + **riko** → **eznirikuturikoa** → **eznirikuitikoa**; **r** galdu eta **oa** → **ue**.
 
-## EZTA KRISTIÑO BATIITUE ##
+### EZTA KRISTIÑO BATIITUE ###
 
 Kristau bataiatua izan ez. Ez dela behar den modukoa adierazteko.
 
 - *au imie ezta kristiño batiitue, etzeko kristel guztidxek apurtuten dabill*
 - *baie txetxo! Kristiño batiitue zara orrek gauzek eitxeko?*
 
-## EZTA NOGAZ DAUEN BEZ ##
+### EZTA NOGAZ DAUEN BEZ ###
 
 Kasurik ere ez.
 
 - *dendara sanun nai da ango dependientiek nogaz dauen be eztost eiñ*
 - *neu denpora guztidxen berba ta berba, da berak nogaz dauen be ez*
 
-## EZTAI ZER DA BADAI NOR ##
+### EZTAI ZER DA BADAI NOR ###
 
 Gauzak zehaztu barik edo azaldu gabe uzten direnean.
 
 - *eztakitx nori, eztai zer da badai nor pasa dxatzola esan dost*
 - *berbetan egon danari eztotzat entenidu ezebez, eztai zer da badai nor ein dotsola esan dau*
 
-## EZTAKOT ZEURE KONTORIK ##
+### EZTAKOT ZEURE KONTORIK ###
 
 Aintzakotzat hartu barik.
 
@@ -1544,7 +1544,7 @@ Aintzakotzat hartu barik.
 - *ama erdu Bilbora gauzek erosten. Eztakot zeure kontorik*
 - *aitxek esan dau eztakola beran kontorik, eta eitxie dakola berak gure dauena*
 
-## EZTAU AMARIK ETZIEN ##
+### EZTAU AMARIK ETZIEN ###
 
 Ez dago inor etzean erantzukizun bati erantzuteko.
 
@@ -1552,7 +1552,7 @@ Ez dago inor etzean erantzukizun bati erantzuteko.
 - *ainbeste zorregaz onda, ara ta ona dabill, da gero arpidxe emon bi denien, amarik eztau etzien*
 - *berak arma dau armatekue, da gero, berak, amarik eztau etzien*
 
-## EZTROPEZA ##
+### EZTROPEZA ###
 
 Behaztopatu. Pertsona batekin topo egitea.
 

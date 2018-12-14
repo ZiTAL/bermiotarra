@@ -2,11 +2,11 @@
 <?php include('search_box.tpl'); ?>
 <ul>
 <?php foreach($result as $dir => $value): ?>
-	<li><h1><?php echo $dir; ?></h1>
+	<li><h2><?php echo $dir; ?></h2>
 	<ul>
 	<?php foreach($value as $v): ?>
 		<li>
-			<h2><a href="<?php echo $v['link']; ?>"><?php echo $v['word']; ?></a></h2>
+			<h3><a href="<?php echo $v['link']; ?>"><?php echo $v['word']; ?></a></h3>
 		</li>
 	<?php endforeach; ?>
 	</ul>
