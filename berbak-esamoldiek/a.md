@@ -702,27 +702,25 @@ Ekiten jardun.
 
 ### ALABATXI ###
 
-Neska gaztea. Oso erabilia da adineko zein emakume gazteen artean.
+Neska gaztea. Oso erabilia da adineko zein gazteen artean.
 
-- *erdu ona alabauti da ez ezan esantxarrekue*
+- *erdu ona alabatxi da ez ezan esantxarrekue*
 - *eztakit alabatxi non sartu zaran*
 - *alabatxi, nire gixonak eztost gure etorri Benidorrera*
 
-Azken hau izango litzateke adinekoen arteko esaldia. Hurrengo hitzaren eta honen artean ezberdintasuna ez da bokalezkoa bakanik. Adin ezberdineko pertsonei dagokie hizki bakoitza. Hitz hau neska gazteei dagokie eta artean horrela erabiltzen dute. Hala ere, konfiantzazkoa denean, adinekoekin ere erabiltzen da.
+Azken hau izango litzateke adinekoen arteko esaldia. **Alabatxu** hitzaren eta honen arteko ezberdintasuna ez da bokalezkoa bakarrik; adin ezberdineko pertsonei dagokie hizki bakoitza. Hitz hau neska gazteei dagokie, eta artean horrela erabiltzen dute. Hala ere, konfiantzazkoa denean, adinekoekin ere erabiltzen da.
 
 ### ALABATXU ###
 
-Berba hau, alderantziz, adinekoen artean edo hauek gazteei zuzendutakoan bakarrik erabiltzen da.
+Berba hau adinekoen artean edo hauek emakume gazteei zuzendutakoan bakarrik erabiltzen da.
 
-Kasu honetan tonua ere aldatu egiten da. Gehienetan adinekoek erabiliko dute gazteei deitzeko eta ez alderantziz.
+Kasu honetan tonua ere aldatu egiten da. Gehienetan adinekoek erabiliko dute emakume gazteei deitzeko, eta ez alderantziz.
 
 - *alabatxu ez ei dakarrie antxobarik*
 - *bidxar plaidxera dxun bidu alabatxu, geu be eguzkidxe artzien zuri gauz da*
 - *ez esan ori alabatxu, guzurre dala diñoie ta*
 - *alabatxu, zer da itxurie dakozuna?*
 - *belarriondokue artuko zu alabatxu isillik ez pazauz*
-
-Beherago ikusiko dugunez,hitz hauek beste bariante batzuk dauzkate eta ikusiko dugu, nola eboluzionatu duten.
 
 ### ALAKAKARDARA BOTA ###
 
