@@ -1640,7 +1640,7 @@ Ilekizkurra.
 
 ### TXIRIMOTADAK ###
 
-Beherago agertzen den **txirribotoak** hitzaren parekoa dugu,hau da, zirriborroak, baina hau berriagoa da, eta gazteagoen artean erabiltzen da.
+**Txirribotoak** hitzaren parekoa dugu, hau da, zirriborroak, baina hau berriagoa da, eta gazteagoen artean erabiltzen da.
 
 - *txirimotadak eitxen pasa dot dibujoko ordue eskolan*
 - *meisueri ez dxatzo gustaten txirimotadak eitxie*
