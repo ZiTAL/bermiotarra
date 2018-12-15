@@ -845,7 +845,7 @@ Segurua ez dena. Kolokan dagoena.
 - *eskillara barridxek ezanda, daburduko kilin kolan dauz*
 - *agiñek kilin kolan dakotez, atara ein bi dotez*
 
-Hitz hau, Azkuek bere hiztegian jaso duen **kili-kolo** hitzaren bariante bat izan daiteke.
+Hitz hau, Azkuek bere hiztegian jaso duen **kili-kolo** hitzaren aldaera izan daiteke.
 
 ### KINITO ###
 

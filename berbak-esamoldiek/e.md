@@ -488,7 +488,7 @@ Aditz funtzioa betetzen du.
 - *zeu tire gure bazu baie ni ez enpatxa*
 - *onek neu enpatxaten nau leko g,uztidxetan*
 
-Azkuek ez du jaso forma bau, bai, ostera, hurrengoa. Baita D.A.R. k eta Kintanak ere, baina beste zentzu batez jaso dute, hau da, **impedir**, **obstaculizar** definizioa ematen dute.
+Azkuek ez du jaso forma bau, bai, ostera, **enpatxata**. Baita D.A.R. k eta Kintanak ere, baina beste zentzu batez jaso dute, hau da, **impedir**, **obstaculizar** definizioa ematen dute.
 
 ### ENPATXATA ###
 
@@ -927,7 +927,7 @@ Hilera.
 - *baporak bata bestien atzien etor diez, errenkoladan*
 - *errenkolada andidxe on da ziñerako entradak artzien*
 
-**erronka** edo **errenka** hitzen bariante bat izan daiteke, zeren, Bermeon, atzizkiak itsatsi eta gehitzeko joera baitago, eta horrela, **-ada** atzizkia gehitu zaio.
+**erronka** edo **errenka** hitzen aldaera izan daiteke, zeren, Bermeon, atzizkiak itsatsi eta gehitzeko joera baitago, eta horrela, **-ada** atzizkia gehitu zaio.
 
 **errenkola** + **ada** → **errenkolada**.
 
@@ -964,7 +964,7 @@ Gaztelerazko **registrar** aditzetik sartua, Bermeon normalak diren fonefikazko 
 
 **registrar** → **erregistrar** → **errekistrar**.
 
-Azken honek beste bariante bat eman du, gaur ere noizbehinka entzuten den **errekistre**; baina ez da hain erabilia. Eta badirudi, hortik irten duela gaur erabilitako forma: **errekistre** → **erreskitxe**.
+Azken honek beste aldaera eman du, gaur ere noizbehinka entzuten den **errekistre**; baina ez da hain erabilia. Eta badirudi, hortik irten duela gaur erabilitako forma: **errekistre** → **erreskitxe**.
 
 ### ERRETOLIKIE ###
 

@@ -329,7 +329,7 @@ Broma gutxi.
 
 ### BARROKUE ###
 
-Tripulantea. Hurrengo hitzetikk sortuta dago forma hau.
+Tripulantea.
 
 - *Canariasera aillega garizenien barruko guztidxek dxun garizen Atletic ikusten*
 - *barruko bat ill dxe ta entierrora nuen*
@@ -1032,7 +1032,7 @@ Ez etsi. Ez amore eman.
 
 Zoladura. Lurra.
 
-*berenganie* eta *beringanie* barianteak ere entzuten dira, baina beste hauek baino zabalkunde handiagoa daukala aurrekoak uste dut.
+*berenganie* eta *beringanie* aldaerak ere entzuten dira, baina beste hauek baino zabalkunde handiagoa daukala aurrekoak uste dut.
 
 - *eskursiñuen dxun garizenien bienganien eiñ dxu lo*
 - *mai ganien bazabiltzez bienganie dxoko zu*
@@ -1269,7 +1269,7 @@ Mahonezko prakak.
 - *an dako arek borbolera botata ainbeste diroko erropie*
 - *alan botaten diez borbolera zapata barridxek*
 
-Azkuek, honen bariante bat den *bolborrera* jaso du Ondarrun.
+Azkuek honen aldaera den **bolborrera** jaso du Ondarrun.
 
 ### BORBOLIEN ###
 
@@ -1458,7 +1458,7 @@ Paseo. Bueltatxoa.
 - *bueltadie ein bi du gaue eiñ orduko*
 - *ez etorri berandu gero; bueltada bat emon da etzera*
 
-Kasu honetan ere, gaztelerazko **vuelta**-ri **-ada** atzizkia jarri eta euskaratu egin da hitza. **biribueltadie** hitzaren bariante bat da.
+Kasu honetan ere, gaztelerazko **vuelta**-ri **-ada** atzizkia jarri eta euskaratu egin da hitza. **biribueltadie** hitzaren aldaera da.
 
 ### BUENO! ###
 

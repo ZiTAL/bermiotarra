@@ -554,14 +554,14 @@ Urteurreneko hiletak.
 
 ### OTSEKO BATEN ###
 
-Sarri. Hurrengo esaldiaren parekoa dugu.
+Sarri.
 
 - *hotseko baten esaten dost tentela naiela*
 - *orrek imiek eztako lotsarik, otseko baten dau dirue eskatuten*
 
 ### OTSIEN OTSIEN ###
 
-Txitean-pitean.
+Txitean-pitean, sarri.
 
 - *otsien-otsien apurtuten dotez basuek, basotako be eztot eitxen*
 - *otsien-otsien telefonotik deike oten da, telefonika pozarren*

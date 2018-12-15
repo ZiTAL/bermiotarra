@@ -88,7 +88,7 @@ Berba asko egiten duena.
 - *gure imie lamiñ utse da, urte bi baiño eztakoz da berbetan daki...*
 - *lamiñe lez dakozu egun santo guztidxen, berba ta berba*
 
-**Lamia** hitzaren bariante bat da. Hiztegiek ez dute jaso hitz hori zentzu horretaz.
+**Lamia** hitzaren aldaera da. Hiztegiek ez dute jaso hitz hori zentzu horretaz.
 
 ### LAMIÑEN BIZARRA ###
 
@@ -390,7 +390,7 @@ Lehor. Siku. Pertsonen izaerari ere aplikatua.
 - *ez zaitxez ezan aiñ ligorra, ostantzien bakanik geratu bi zu*
 - *ligortute dauz onek ogidxek*
 
-Hitz hau, **legor** hitzaren bariante bat da, baina zentzuz aldatu egiten da. Azkuek ez du jaso forma hau, baina bai D.A.R.k. Honek ere ez du zentzu berbera, **seco** eta **poco fervoroso** zentzuaz baizik.
+Hitz hau, **legor** hitzaren aldaera da, baina zentzuz aldatu egiten da. Azkuek ez du jaso forma hau, baina bai D.A.R.k. Honek ere ez du zentzu berbera, **seco** eta **poco fervoroso** zentzuaz baizik.
 
 ### LIXIE LEZ AZALA KENDU ###
 

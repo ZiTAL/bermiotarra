@@ -95,7 +95,7 @@ Belaunpe edo zangope.
 - *zankapien urten dost tunbuto batek*
 - *zankapie igiri tsoie ikusteko zer dakon belaunien*
 
-Azkuek **zankabe** bariantea jaso du.
+Azkuek **zankabe** aldaera jaso du.
 
 ### ZANTARKILLO ###
 

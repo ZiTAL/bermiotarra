@@ -244,7 +244,7 @@ Hitz berria dugu. berrogehi une inguru izango du, arrantzaleak Afrikara joaten h
 
 Mendebaleko haize indartsuari aurre egiteko modukoa. Itsasoko terminoa da.
 
-Hurrengo hitza kontutan izanik, afrontuari aurpegia emateko ahalmena daukan itsasontziari dagokio.
+**Afrontue** hitza kontutan izanik, afrontuari aurpegia emateko ahalmena daukan itsasontziari dagokio.
 
 - *ori bapora afrontosue da*
 - *ez da kapaz arpeidxe emoteko afronturi, ez da afrontosue*
@@ -632,7 +632,7 @@ Alamena eman. Agindu kutsu bat ere badauka.
 - *da zuk akomotiten dostazu dxun ein binaiela*
 - *akomotitso  etzie erosteko*
 
-Hitz honen bariante bat **akometidu** da, eta D.A.R.-n agertzen da Bermeokoa dela aipatuz.
+Hitz honen aldaera bat **akometidu** da, eta D.A.R.-n agertzen da Bermeokoa dela aipatuz.
 
 Gaztelaniazko **acometer** dirudi; beharbada hori izan daiteke hitzaren etimologia, gero beste zentzu bat hartu badu ere.
 
@@ -780,9 +780,9 @@ Dena dela.
 
 ### ALATXE ###
 
-*alabatxu* hitzaren bariante bat da.
+**alabatxu** hitzaren aldaera da, adinekoek emakume gazteei zuzentzeko hitza, hain zuzen ere.
 
-Hurrengo hitzaren forma despektiboa, gehienetan gizonezkoak emakumeei zuzentzen zaienean agertzen da. Askotan errepikatuz erabiltzen da eta gehienetan haserrezko tonua izaten du.
+**Alatxi** hitzaren forma despektiboa, gehienetan gizonezkoak emakumeei zuzentzen zaienean agertzen da. Askotan errepikatuz erabiltzen da eta gehienetan haserrezko tonua izaten du.
 
 - *alatxe ezinoixu kabrie*
 - *Alatxe-alatxe, ortik ezpazuez osti bet omongo tzut*
@@ -791,13 +791,13 @@ Hurrengo hitzaren forma despektiboa, gehienetan gizonezkoak emakumeei zuzentzen 
 
 ### ALATXI ###
 
-Bariante hau, berriz, *alabatxi* berbarena da.
+Aldaera hau *alabatxi* berbarena da.
 
 Biak erabiltzen dira normalki, baina hamabost urtetik beherakoetan gutxi entzuten da, arruntagoa baita *alabatxi*.
 
 ### ALATXU ###
 
-Eta beste hau ere -alabatxu- berbaren bariantea da.
+Eta beste hau ere **alabatxu** berbaren aldaera da.
 
 Adinekoetan entzuten da, berrogei urtetik gorakoetan eta gizonezkoetan gehiago.
 
@@ -990,7 +990,7 @@ Gauzak edozelan botata, ordena barik.
 
 ### ALTRANPONIEN ###
 
-Aurrekoaren bariante bat da, eta zentzu berdinekoa.
+**Altranpon** hitzaren aldaera da, eta zentzu berdinekoa.
 
 - *plaidxera dxuteko priesagaz altranponien itxi txuz beran erropak*
 - *zer eztot topa bienganien ba, zapatak, libruek, boltsak, dana altraponien*
@@ -1079,7 +1079,7 @@ Taldean falta dena. Peioratiboa da.
 
 ### AMANDRONGILLEK ###
 
-Almandrongilak. Baina ironiaz erabilita. Beste bariante bat **amondongillek** da.
+Almandrongilak. Baina ironiaz erabilita. Beste aldaera bat **amondongillek** da.
 
 - *ama zer dau dxateko? Zera! Amandrongillek!*
 
@@ -1087,7 +1087,7 @@ Hau, **langosta!** esatea legez da. Edo beste hau:
 
 - *amandrongillek eta aitxedrongillek*
 
-Hitzaren jatorria gaztelerazko **albondiguilla** izango da; orduan, erabiltzen den **amondongillek** bariantetik sortutakoa izango dugu **amandrongillek**.
+Hitzaren jatorria gaztelerazko **albondiguilla** izango da; orduan, erabiltzen den **amondongillek** aldaeratik sortutakoa izango dugu **amandrongillek**.
 
 **albondiguilla** → **almondongilla** → **amondongille** → **amandrongilla**.
 
@@ -1138,7 +1138,7 @@ Masa. Zentzu ezberdinetan erabilia da.
 
 ### AMATXARRIDXE ###
 
-Erabiliena den interjekzioa dugu. Egoera guztietan ager daiteke. Aurreko eta hurrengo lokuzioak ere berdintsuak dira, baina adierazpen bigunagoaz. Lokuzio luzeagoetan maiz erabiltzen da, gainera zentzu ezberdinaz ere agertzen da.
+Erabiliena den interjekzioa dugu. Egoera guztietan ager daiteke. Lokuzio luzeagoetan maiz erabiltzen da, gainera zentzu ezberdinaz ere agertzen da.
 
 - *amatxarridxe! galdu dot portomanadie*
 - *erdu etzera...amatxarridxe! ezin dxot dxuen*
@@ -2241,7 +2241,7 @@ Hitz hau ere aurrekoa bezala konposatua da, baina oraingoan **lepo** hitza erabi
 
 ### ARRIA / ERRIE ###
 
-Beheratu. Gazteleratik hartua, zentzu berdinaz erabiltzen da, eta ez bakarrik gazteleraz erabiltzen den moduan, beste gauza batzuekin ere erabiltzen da, horren bariantea dan **errie** aztertzea.
+Beheratu. Gazteleratik hartua, zentzu berdinaz erabiltzen da, eta ez bakarrik gazteleraz erabiltzen den moduan, beste gauza batzuekin ere erabiltzen da, horren aldaera dan **errie** aztertzea.
 
 Zentzu berdinaz erabiltzen dira biak baina erabiliagoa da azken hau. Hala ere beste zentzu askotan ere erabiltzen da.
 
@@ -2546,7 +2546,7 @@ Untzigintza.
 
 **astilleroa** → **astillerue** → **astilleue** → **astilleidxe** → **astilleidxe** → **astilidxe**.
 
-Azken bariante biak erabiltzen dira maizen. Hala ere ez da argia eboluzioa, zeren lanbide hori duen gizonari **astillerue** deitzen zaio.
+Azken aldaera biak erabiltzen dira maizen. Hala ere ez da argia eboluzioa, zeren lanbide hori duen gizonari **astillerue** deitzen zaio.
 
 ### ASTILLERUE ###
 

@@ -29,7 +29,7 @@ Azkuek ez du jaso, baina D.A.R.k Bermeoko hitza bezala azaltzen du, baina esanah
 
 ### TAKARTA BAIÑO GOGORRAU ###
 
-Panekari Takarta deitzen diogu Bermeon. Arrain hau nahiko gogor egoten da, zurrun. Gogortasuna adierazteko etabiltzen dira lokuzio hau eta hurrengoa.
+Panekari Takarta deitzen diogu Bermeon. Arrain hau nahiko gogor egoten da, zurrun. Gogortasuna adierazteko erabiltzen dira lokuzio hau eta **takarta lez**.
 
 - *bera gixona takarta baiño gogorrau on da, baie ez gara konturatu illdxe dauena*
 - *izterrak dakotez takarta baiño gogorrau otzagaz*
@@ -265,7 +265,7 @@ Kokolo. Tonto. Ganoragabekoa.
 - *baie noiz ikasko zu eztala ein biar olan, tentelori?*
 - *da neu bertan tentela lez, mobidu be ein barik*
 
-Azkuek Mundakan eta Gernikan jaso du, baina Bermeon normalki erabiltzen da, baina Azkueren garaian erabiltzen bazen ere, galdu egingo zen, Mundakan behintzat, hor, urte askotan ez baitzen erabiltzen euskararik edo oso gutxi. Hala ere, azken aldian zabaltzen ari, eta telebistan ere entzuten da. Baina segurutik, hurrengoak oraindino Bermeon bakarrik erabiltzen direna.
+Azkuek Mundakan eta Gernikan jaso du, baina Bermeon normalki erabiltzen da, baina Azkueren garaian erabiltzen bazen ere, galdu egingo zen, Mundakan behintzat, hor, urte askotan ez baitzen erabiltzen euskararik edo oso gutxi. Hala ere, azken aldian zabaltzen ari, eta telebistan ere entzuten da. Baina segurutik, **tenteldu** oraindino Bermeon bakarrik erabiltzen direna.
 
 ### TENTELDU ###
 
@@ -366,11 +366,11 @@ Arrantzarako apareiua. Amuak kordeletan karnatarekin homituak eta metro askotan 
 - *berandu ala dauie tertzak*
 - *ondo plamie barik on da ori tertzie*
 
-Azkuek Bermeokoa bezala jaso du hitz hori, baina bariante bat **tretza** hain zuzen, kostako beste herri batzuetan ere erabilizen da.
+Azkuek Bermeokoa bezala jaso du hitz hori, baina honen aldaera bat **tretza** da hain zuzen, kostako beste herri batzuetan ere erabiltzen da.
 
 ### TERTZA FALTAUE ###
 
-Zalantzazko fama edo erreputazioa txarra daukan pertsona. **Tertza** berba honen inguruan esaldi asko sortu dira, hurrengo agertzen direnak, adibidez. Tretza, edo tertza, Bermeon esaten den bezala, arrantzarako apareiua da eta hau krielean bilbatzen da.
+Zalantzazko fama edo erreputazioa txarra daukan pertsona. **Tertza** berba honen inguruan esaldi asko sortu dira. Tretza edo tertza, Bermeon esaten den bezala, arrantzarako apareiua da, eta hau krielean bilbatzen da.
 
 - *zuk esan zun enbrie tertza faltaue da, beraneante guztidxekaz ibillikue*
 - *beran aiztie be tertza faltaue ezan da, baie Bilbora dxun danien morroi bategaz ezkondu de*
@@ -814,7 +814,7 @@ Urratu.
 - *trille dizen erropak dxosi bi diez*
 - *ba frakak pe trille trilleta dakotez*
 
-Hitz honen bariante bat, Azkuek jaso du Otxandion baina Bermeon, esanahia, zabalagoa da.
+Hitz honen aldaera bat, Azkuek jaso du Otxandion baina Bermeon, esanahia, zabalagoa da.
 
 ### TRIMILDXU ###
 
@@ -1452,7 +1452,7 @@ Badago kantu bat lelo ori erabiltzen dena:
 
 ### TXILIÑUE ###
 
-Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste bariante bat hobeto esanda. Geroago ikusiko dugun **txitxiliñue**, ume baten zakila definitzeko erabilia. Honen laburpena izango dugu goikoa.
+Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste aldaera bat hobeto esanda. Geroago ikusiko dugun **txitxiliñue**, ume baten zakila definitzeko erabilia. Honen laburpena izango dugu goikoa.
 
 - *txiliñue be ez dxatzo ikusten koitxaduri*
 - *zelan ikusiko dxatzo txiliñue imiri beran mamiñekaz tapata dako ta*
@@ -1767,7 +1767,7 @@ Atzamarka egin. Txatxamurka egin.
 - *ba zeuk pe txitxemarka*
 - *txitxumarkaten batsu zeuk pe ez itzi*
 
-Azkuek, Lekeition **txitximurka** jaso du, berori eta **txumumarka** barianteak jaso ditu, eta Kintanak **txatxumarka**.
+Azkuek, Lekeition **txitximurka** jaso du, berori eta **txumumarka** aldaerak jaso ditu, eta Kintanak **txatxumarka**.
 
 ### TXITXEMARKADA ###
 
@@ -1777,7 +1777,7 @@ Atzamarka. Txatxamurka.
 - *gorputze be txitxemarkadaz beteta dako*
 - *eitxen bastazu mitzemarkada bat amari esango tsat*
 
-Hitz honen barianteak asko dira, baina berau ez dator hiztegietan.
+Hitz honen aldaerak asko dira, baina berau ez dator hiztegietan.
 
 ### TXITXILIÑUE ###
 

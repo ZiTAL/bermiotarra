@@ -600,7 +600,7 @@ Jateko gogorik ez.
 - *dxangangar dauela, baie berak langostino guztidxek dxan*
 - *ori ezta dxangangar egotie, askatan dxatie baitio* IBAN
 
-Forma hau, hiztegietan datorren *jangar* hitzaren bariante bat izan daiteke.
+Forma hau, hiztegietan datorren **jangar** hitzaren aldaera izan daiteke.
 
 ### DXANOIXU-DXANOIXU ###
 
@@ -771,7 +771,7 @@ Erdi edo osorik erotuta.
 - *dxota dauela diñoie. Neguen uger eitxen dau orrek Aritxatxun*
 - *enebada! Dxota ete nau ba, orrek gauzek eitxeko?*
 
-D.A.R.k bakarrik jaso du honen bariante bat izan daitekeen **joa** forma. Hau, **jo** aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, **tocado de la cabeza** definizioaz agertzen da.
+D.A.R.k bakarrik jaso du honen aldaera bat izan daitekeen **joa** forma. Hau, **jo** aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, **tocado de la cabeza** definizioaz agertzen da.
 
 ### DXUENA ###
 

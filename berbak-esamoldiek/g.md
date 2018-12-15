@@ -106,7 +106,7 @@ Alferra. Lanari ihes egiten diona.
 - *gangilloie lez dabill ara ta ona ezer ein barik*
 - *iñok eztau gure gangilloirik etzien*
 
-Azkuek bere hiztegian Mundakako hitza bezala jaso duen **gangil** hitzaren bariante bat izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerazko **-on** atzizkia, **-oi** bihurtzen da.  Beraz, honela geratuko litzateke **gangil** + **oi** → **gangilloi**.
+Azkuek bere hiztegian Mundakako hitza bezala jaso duen **gangil** hitzaren aldaera izan daiteke. Bermeon, handitasuna emateko erabiltzen den gaztelerazko **-on** atzizkia, **-oi** bihurtzen da.  Beraz, honela geratuko litzateke **gangil** + **oi** → **gangilloi**.
 
 ### GANGUS ###
 
@@ -591,7 +591,7 @@ Korrokada.
 - *grokada zaratatsuek botaten zuz*
 - *grokadak botaten kantsata nau*
 
-*korrokada* hitzaren bariante bat izango da.
+**korrokada** hitzaren aldaera izango da.
 
 ### GU IRUROK BOST ###
 
@@ -724,7 +724,7 @@ Lokuzio honetako **andiko mandie** hitz multzoa lau edo bost esalditan agertzen 
 
 ### GUZURREN MAMARRUE ###
 
-Lokuzio hau eta hurrengo biak parekoak dira, esanahi berdintsua daukate. Pertsona gezurtiari dagokio.
+Lokuzio hau eta **guzurreri dxeusten itxi bez** biak parekoak dira, esanahi berdintsua daukate. Pertsona gezurtiari dagokio.
 
 - *guzurren mamarruri, itxi berbetan, baie ez siñestu ezer*
 - *guzurren mamarruek guzurrek egidxek dizen moduen esaten txuz*

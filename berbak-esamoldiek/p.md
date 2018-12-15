@@ -148,7 +148,7 @@ Tontakeriak egitea. Keinu nabarmenak.
 - *ez eiñ paristerik ostantzien zartazue dutzu*
 - *pariste bat pe eztost ein dirue emoteko*
 
-Hitz honen beste bariante bat **paristadak** da baina gutxiago erabiltzen da.
+Hitz honen beste aldaera bat **paristadak** da, baina gutxiago erabiltzen da.
 
 ### PARISTOSO / A ###
 
@@ -655,7 +655,7 @@ Aurpegikoa, baina ez hain gogorra.
 - *plistadie emongo tsola esan tso baie gero ezebez*
 - *plistada asko agindxu ta gero emon bez*
 
-Hitz hau **plist** onomatopeiazkoa eta **-ada** atzizkiak konposatzen dute. **Plastazo** hitzaren bariante bat da eta erabilera berdintsua daukate. Badago azken beste bariante bat, nahiko erabilia den **plistazue**. Hau ere goikoen parean jarri behar da.
+Hitz hau **plist** onomatopeiazkoa eta **-ada** atzizkiak konposatzen dute. **Plastazo** hitzaren aldaera da eta erabilera berdintsua daukate. Badago azken aldaera bat, nahiko erabilia den **plistazue**. Hau ere goikoen parean jarri behar da.
 
 ### POLITXO ###
 

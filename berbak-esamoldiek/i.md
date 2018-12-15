@@ -66,7 +66,7 @@ Igo.
 - *idxengo zara aurra teillatora?*
 - *zelan idxengo nai ba, eztakot eskillararik eta*
 
-**Idxelien**-en antzeko beste kasu bat. Fonetikaren aldakuntzaz bariante bat sortu da.
+**Idxelien**-en antzeko beste kasu bat. Fonetikaren aldakuntzaz aldaera sortu da.
 
 ### IDXETXUEN ###
 
@@ -320,7 +320,7 @@ Zentzu honetan askoz ere gutxiago erabiltzen da.
 
 - *amen ingiruen eztau mutillik*
 
-Hitz hau **inguru** hitzaren bariante bat da, eta **i** bokalaren asimilazioa gertatu da.
+Hitz hau **inguru** hitzaren aldaera da, eta **i** bokalaren asimilazioa gertatu da.
 
 ### INKE ###
 
