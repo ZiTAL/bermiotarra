@@ -18,5 +18,6 @@ Esker berezidxek:
 - Lander Telletxea
 - @montantxo / twitter
 - Biotz Fradua Agirre
+- Txus Ordorika Prieto
 
 Eskerrik asko!
