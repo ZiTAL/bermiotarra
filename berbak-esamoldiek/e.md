@@ -213,7 +213,7 @@ Horixe berori. Ondo. Horrela da.
 - *bidxar etorko dala esan dau ezta ? Ekilikua*
 - *zuk danari esan bi tzazu ekilikua*
 
-Hitz honen etimologia  italierazko **eccoli qua** izan daiteke, **eccoli** hitza **ecco**-tik datorrelako, eta berori latinezko **ecce, eccum**, **hona hemen** esanahia duelarik.
+Hitz hau gaztelerazko **equilicuá** dugu, etimologia  italierazko **eccoli qua** izan daiteke, **eccoli** hitza **ecco**-tik datorrelako, eta berori latinezko **ecce, eccum**, **hona hemen** esanahia duelarik.
 
 ### ELANBRA ###
 
