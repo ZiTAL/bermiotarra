@@ -23,7 +23,8 @@ foreach($files as $file)
 $to = realpath(__DIR__."/../../web/public");
 
 $temp = tmpfile();
-$temp_filename = stream_get_meta_data($temp)['uri'];
+$temp_filename = stream_get_meta_data($temp);
+$temp_filename = $temp_filename['uri'];
 
 file_put_contents($temp_filename, $text);
 shell_exec("pandoc {$temp_filename} -f markdown -t latex --latex-engine=xelatex -o {$temp_filename}.pdf");
