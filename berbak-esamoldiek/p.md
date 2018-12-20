@@ -129,7 +129,7 @@ Jarri (pertsona).
 - *aur para ezkero obeto ikusten zaitxut*
 - *kalien eskiñien para ta, bertan on da, neu dxun artien*
 
-Gaztelerazko **parar** = **detener** aditza hartu da zentzu honetaz erabiltzeko. Baina aurretik ikusi dugu beste berba bat, gaztelerazko zentzu konkretu honetan agertzen dena: **apara** hitza hain zuzen.
+Gaztelerazko **parar** = **detener** aditza hartu da zentzu honetaz erabiltzeko.
 
 ### PARAUE ###
 

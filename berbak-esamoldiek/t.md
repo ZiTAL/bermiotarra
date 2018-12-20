@@ -400,12 +400,11 @@ Emakumearen hilekoak. Oraingoan gaztelerazko **tercianas** antzinako berba da. G
 
 ### TEÑAZTO ###
 
-Ezkabizto. Ezkabiatsu. Aurretik ikusi dugu honen sinonimo bat, nahiz eta definizioa ez izan bera. Beti zentzu peioratiboan erabilia, eta askotan deigarria ere bai.
+Ezkabiatsu. Gehienetan irain modura erabilia, eta askotan deigarria ere bai.
 
 - *teinaztue zara, teñaztua, agarraten batzut ill eingo zaitxut*
-- *txo teilazto! agarra auneri txikotari*
+- *txo teñazto! agarra auneri txikotari*
 - *teñazto, ardaue edo zerbezie guzu?*
-- *teiñaztueako morroi dok a*
 
 ### TEÑIE ###
 

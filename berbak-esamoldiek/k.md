@@ -822,7 +822,7 @@ Azken esaldi honek informazio gehiago ematen digu, zeren **kea** hitza ijitoekin
 
 ### KIKU ###
 
-Begirada bota. Aurretik ikusi dugu *kikada* hitza, ba hau haren sinonimo bat izan daiteke.
+Begirada bota. **Kikada** hitzaren sinonimoa izan daiteke.
 
 - *portutik kiku bet eiñ dxot nire nobidxue etor badan dxakitxeko*
 - *etor da zure ama, baie kiku eiñdxe dxun da*
@@ -900,7 +900,7 @@ Ile kizkurra.
 
 ### KIRIKINA ###
 
-Ardo gozoa. Aurretik ikusi dugun *kinito* hitzaren parekoa dugu eta jatorria ere berdina.
+Ardo gozoa. **Kinito** hitzaren parekoa dugu, eta jatorria ere berdina.
 
 - *kirikina ta guzti zelebra du kursuen akabakene*
 - *kirikina baiño gurau dot txanpana*

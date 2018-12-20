@@ -1146,7 +1146,7 @@ Armairua.
 
 ### ESKOTXARREKUE ###
 
-Esku txarrekoa. Aurretik **esku onekoa** jarri dugu, baina hau erabat alderantzizkoa da, dendariek edo saltzaileek bereizten dute **esku txarreko** pertsona **esku onekoa** bereizten duten bezala.
+Esku txarrekoa. **Esku onekoa**-ren alderantzizkoa da. Bermeon, bai dendari eta beste mota batetako saltzaileen artean, sineskera bat dago: eguneko salmentak **esku txarra** daukan pertsona batek hastea; horrela egun horretan izango dituen salmentak oso txarrak izango dira.
 
 - *eztot kure ori andrie etortie dendara eskotxarrekue da ta*
 - *eskotxarreko bat etorten badxatzu egun guztidxen ez zu salduko ezebe*

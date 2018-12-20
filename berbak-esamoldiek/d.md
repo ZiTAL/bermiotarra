@@ -547,7 +547,7 @@ Berehala egin.
 
 Arrantzaleen itsasoko jantzia. Gaur egun euritarako aproposak daude, baina aurrerago olanaz eta gero linaza olioa emanda erabiltzen zirenak dira. Baina orain ere izen hori ematen zaio.
 
-Aurretik azaldu ditugu **entzadu** eta **frakonozkuek** hitzak. Horietakoa dugu beste hau ere, **entzaduek** jaka eta frakaren konjuntoa da. **frakonozkuek** frakak dira eta **dxakenarroa** jaka da. Hirurek hartzen dute izen ezberdina.
+**Entzadu** eta **frakonozkuek** hitzen antzerakoa beste hau, **entzaduek** jaka eta frakaren konjuntoa da. **frakonozkuek** frakak dira eta **dxakenarroa** jaka da. Hirurek hartzen dute izen ezberdina.
 
 - *inundaziñuek ezan dizenien gixon guztidxek dxakenarruekaz dxantzitxe ibil dizen*
 - *dxakenarruek asko dxaboten zaitxuz euritxen*
@@ -558,7 +558,7 @@ Aurretik azaldu ditugu **entzadu** eta **frakonozkuek** hitzak. Horietakoa dugu 
 
 Aurretik esandakoa kontutan izanik, hemen ere **u** bokalea deklinatu gabe doan hitzean **o** bihurtzen da.
 
-Kasu honetan, ez da larruzko jaka, linaza olioa emandako olanazko jaka baizik. Gero, horrek, larruaren funtzioa beteko du.
+Kasu honetan, ez da larruzko jaka, linaza olioa emandako olanazko jaka baizik. Gero, horrek larruaren funtzioa beteko du.
 
 ### DXAKIDXE ###
 
@@ -586,7 +586,7 @@ Erdi janda ibili.
 
 ### DXANA ###
 
-Aurretik jarri dugun **dxabie** hitzaren parekoa da, baina gaur egun erabiliagoa da.
+**Dxabie** hitzaren parekoa da, hau da, zerbait ospatzeko egiten den bazkaria edo afaria, baina hau gaur egun erabiliagoa da.
 
 - *gaur dxana daku Mikelen egune da ta*
 - *zuek dxana okitxeko eztozue biar ezer zelebrateko*
@@ -793,7 +793,7 @@ Zoaz pikutara!
 
 ### DXUN POR DXUEN ###
 
-Ikusi dugu aurretik forma horretan agertzen diren lokuzioak.
+Joan, baina gogo gabe.
 
 - *ez dxast gustaten ziñera dxutie, dxun por dxuen eitxen dot*
 - *ezu esan ba, ezula gure ronpiolasetik ibilli? Da ez dxast gustaten, dxun por dxuen eitxen nai*

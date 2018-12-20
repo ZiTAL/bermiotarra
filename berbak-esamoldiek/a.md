@@ -1513,8 +1513,6 @@ Gaztelerazko **andoba** hitza maiz erabiltzen da.
 
 Emaztegaia.
 
-Aurretik esan dugu nola egiten den **-lei** atzizkia erabiliz.
-
 - *Josen andrakidxe da ori*
 - *andrakidxe Bilbon ezetu dau*
 - *beran andrakidxegaz dxun da Benidorrera*
@@ -2482,7 +2480,7 @@ Erabat ahulduta.
 
 Urrunago.
 
-Aurretik ikusi dugun **asau** hitzari **ago** gehituta izango dugu oraingo hau.
+**Asau** hitzari **ago** gehituta izango dugu oraingo hau.
 
 - *len baño asiau bixi de*
 - *ez zu gure asiau dxuen?*

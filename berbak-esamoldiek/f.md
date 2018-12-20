@@ -221,7 +221,7 @@ Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia defini
 
 ### FRAKONEZKUEK ###
 
-Aurretik **entzaduek** aipatu ditugu, itsasoko jantziak bezala. Oraingoan frakei dagokie bitz hau.
+**Entzaduek** itsasoko jantziak baziren, honako hau frakak dira.
 
 - *frakonezkuek dxantzitxe nora due ba, arraiñik pe eztauie ekarri txe*
 - *arek enbarkaziñuek arraiñe dakar antza, gixonak frakonezkuek takanie soiñien da*

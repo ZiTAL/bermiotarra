@@ -126,7 +126,7 @@ Noiz edo noiz. Bazen garaia! Exklamaziozkoa izaten da askotan.
 
 ### NOKIETA ###
 
-Aurretik ikusi dugu **keo** berba. Hortik sortu da beste hau, zentzu berdinaz, gainera. Gaztelerazko **fuera de combate**, hain zuzen. Hitza ederki euskaratu da ingelesetik.
+Gaztelerazko **noqueado**-tik dator.
 
 - *parrandan dxuen da gero, nokieta iñok erun biar etzera*
 - *emon dostezen ostidxekaz nokieta itxi nau arek morroiek*
