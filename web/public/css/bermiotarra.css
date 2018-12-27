@@ -101,12 +101,14 @@ a {
   color: black;
 }
 
-#content {padding-bottom: 3em;}
+#content {
+	padding: 0 1rem 3em 1rem;
+}
 
 /*Ezkutatutakoak*/
 br, label {display:none; position:absolute;}
 
-/*Bermiottarra*/
+/*Bermiotarra*/
 
 h1 {
    font-size: 640%;
