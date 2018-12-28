@@ -1,19 +1,19 @@
-## N ##
+# N #
 
-### NAGIDXEK ATARA ###
+## NAGIDXEK ATARA ##
 
 Normalean ohetik jeiki eta gero besoak luzatzeari esaten zaio, askotan aharrausiarekin batera egiten da.
 
 - *nagidxek ataten nauela, lepuen krakadie! Zahartuten hasitxen nau!*
 
-### NASKILLIE ###
+## NASKILLIE ##
 
 Esaten duenarekin jendea nahasten duen pertsona.
 
 - *orren naskillien gauzek ez siñestu*
 - *ama naskillie, da bera ondiño naskilliaue*
 
-### NASTA ###
+## NASTA ##
 
 Kutsatu da kasu honetan. Nahasi.
 
@@ -24,7 +24,7 @@ Kutsatu da kasu honetan. Nahasi.
 
 Aditzaren funtzioaz agertzen da hitz hau.
 
-### NASTATA ###
+## NASTATA ##
 
 Nahastuta.
 
@@ -34,7 +34,7 @@ Nahastuta.
 
 Kasu honetan moduzko adberbioasen funtzioa betetzen du.
 
-### NASTE / IE ###
+## NASTE / IE ##
 
 Nahastea. Endredoa.
 
@@ -44,7 +44,7 @@ Nahastea. Endredoa.
 
 Forma hau hiztegietan baino ez da agertzen, baina esanahia pixka bat aldatuta.
 
-### NASTERO / A / UE / IE ###
+## NASTERO / A / UE / IE ##
 
 Nahasteetan eta endredoetan sartzen dena.
 
@@ -55,21 +55,21 @@ Nahasteetan eta endredoetan sartzen dena.
 
 Kasu bonetan adjektibo funtzioa betetun du.
 
-### NEGAR BATEN ###
+## NEGAR BATEN ##
 
 Negarretan blai.
 
 - *non datosten negar baten txoridxe ill dxakola esaten*
 - *da neu negar baten on nai, baie iñok kasurik pe ez*
 
-### NEGAR DA BARRE TXIXE BOLUE ###
+## NEGAR DA BARRE TXIXE BOLUE ##
 
 Era berean negar eta barre egiten denean.
 
 - *auntxek negarrez, auntxek barreka, negar da barre txixe bolue*
 - *pelikule guztidxen on gariez negarrez eta barreka. Negar da barre txixe bolue*
 
-### NEGARLANTRUEK ###
+## NEGARLANTRUEK ##
 
 Negarrak.
 
@@ -80,7 +80,7 @@ Negarrak.
 Hitz konposatu honen bigarren osagaia **lantru**.
 Badirudi gaztelerazko **llanto** hitzetik datorrela, baina nola eboluzionatu du?
 
-### NEGARZIÑUEK ###
+## NEGARZIÑUEK ##
 
 Negar-zeinuka.
 
@@ -91,14 +91,14 @@ Negar-zeinuka.
 
 Azkuek **negarziñuka** jaso du **fingiendo llanto** zentzuaz.
 
-### NESKATILLIE ###
+## NESKATILLIE ##
 
 Itsasontzietan lan egiten duen emakumea.
 
 - *neskatillek promesien dxuten diez baporak itxosora urteten dauienien*
 - *patroiek esan dau neskatillei esateko biberak eitxeko*
 
-### NEURIE BE ENAI ###
+## NEURIE BE ENAI ##
 
 Erabat ahulduta.
 
@@ -106,14 +106,14 @@ Erabat ahulduta.
 - *gorputze dakot mangata, neurie be enai*
 - *neurie be enai txe zelan eingo dotez ein biar dotezen gauzek ba?*
 
-### NIAZKUE EIÑ DXAU ###
+## NIAZKUE EIÑ DXAU ##
 
 Betiko haserretu.
 
 - *arek zer pentsaten dau, burle eingo dostela? Ba niazkue eiñ dxau*
 - *niazkue ein zue, eztot gure zeuekaz geidxau tratorik*
 
-### NOIXONOIX ###
+## NOIXONOIX ##
 
 Noiz edo noiz. Bazen garaia! Exklamaziozkoa izaten da askotan.
 
@@ -124,14 +124,14 @@ Noiz edo noiz. Bazen garaia! Exklamaziozkoa izaten da askotan.
 - *noixonoix ein zunien biarra!*
 - *noixonoix! Zer pentsa zu ba, beti ongo garizela olan ela?*
 
-### NOKIETA ###
+## NOKIETA ##
 
 Gaztelerazko **noqueado**-tik dator.
 
 - *parrandan dxuen da gero, nokieta iñok erun biar etzera*
 - *emon dostezen ostidxekaz nokieta itxi nau arek morroiek*
 
-### NOKURE ###
+## NOKURE ##
 
 Ugari. Kantitatea. Edonoretazat.
 
@@ -142,7 +142,7 @@ Ugari. Kantitatea. Edonoretazat.
 
 **nork gura** → **nok gure** → **nokure**. Leherkari bietatik ozena erortzen da gorraren mesedetan. Dardarkaria ere jausi egiten da.
 
-### NONGUE DA BERA! ###
+## NONGUE DA BERA! ##
 
 Esaldi hau peioratiboan erabiltzen da.
 
@@ -150,7 +150,7 @@ Esaldi hau peioratiboan erabiltzen da.
 - *nongue zara zeu ba! dozu ikusten korridxen nabiltena da eziñ dxotena ein zeuk diñozune?*
 - *nongue da bera! Bestelako lotsie dako, ingiro guztidxek agiridxen okitxen*
 
-### NONZERBARRI ###
+## NONZERBARRI ##
 
 Kuxkuxero. Begiluze. Nontzerberri.
 
@@ -161,7 +161,7 @@ Kuxkuxero. Begiluze. Nontzerberri.
 
 Azkuek ez du jaso, ez eta D.A.R.k ere; baina P.M.k eta Kintanak **nonzerberri** jaso dute. Beraz ez bizkaierazko forma.
 
-### NOPAITXE ###
+## NOPAITXE ##
 
 Norbait.
 
@@ -172,7 +172,7 @@ Norbait.
 
 **norbait** → **nopait** → **nopaitxe**.
 
-### NOPAITXEN ###
+## NOPAITXEN ##
 
 Nonbait.
 
@@ -184,7 +184,7 @@ Hitzaren eboluzioa goikoaren antzekoa izan da.
 
 **nonbaiten** → **nopaiten** → **nopaitxen**.
 
-### NOPERA ###
+## NOPERA ##
 
 Norbera.
 
@@ -195,7 +195,7 @@ Norbera.
 
 Hitz honen aldaketa fonetikoak ere aurrekoen antzekoak izan dira.
 
-### NORA EZTALA / EZTIELA ###
+## NORA EZTALA / EZTIELA ##
 
 Eta gainera...
 
@@ -203,7 +203,7 @@ Eta gainera...
 - *zure lagunek nora eztiela, euren lagunen lagunek pe dxaten etor diez*
 - *da neure disgustue nora eztala, beste puñeteriek betik gora ez altzateko berbak esan*
 
-### NOREZ ###
+## NOREZ ##
 
 Kontrara.
 
@@ -212,7 +212,7 @@ Kontrara.
 - *norez dxuten bazara ez zara aillegako iñoiz be*
 - *enai dxungo zure etzera, norez datost eta*
 
-### NOREZKO / UE ###
+## NOREZKO / UE ##
 
 Kontrara edo korrontearen kontra dabilena.
 
@@ -221,7 +221,7 @@ Kontrara edo korrontearen kontra dabilena.
 - *ori gixona norezkue da, neguen be uger eitxen dau*
 - *norezkue dana ezta ainegaten iñora be*
 
-### NOTAKI BOTAKI! ###
+## NOTAKI BOTAKI! ##
 
 Nork daki? Botakik.
 

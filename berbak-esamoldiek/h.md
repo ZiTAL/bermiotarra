@@ -1,12 +1,12 @@
-## H ##
+# H #
 
-### HAURI MAURI ###
+## HAURI MAURI ##
 
 Asko.
 
 - *jentie aritzatxun hauri mauri*
 
-### HAGIE ###
+## HAGIE ##
 
 Habea.
 

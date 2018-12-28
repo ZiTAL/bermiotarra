@@ -1,13 +1,13 @@
-## L ##
+# L #
 
-### LAETRATIK EMON / ARTUN ###
+## LAETRATIK EMON / ARTUN ##
 
 Atzetik. Popatik.
 
 - *dana ondo, dana ondo, da gero laetratik emon*
 - *zer diñozu txo! Dxun adi laetratik artzien*
 
-### LAGUNTZIÑO ###
+## LAGUNTZIÑO ##
 
 Laguntza.
 
@@ -20,7 +20,7 @@ Laguntza.
 
 **laguntza** + **iño** → **laguntziño**.
 
-### LAIXARRA ###
+## LAIXARRA ##
 
 Emakume ederra, bular handien jabea.
 
@@ -30,7 +30,7 @@ Emakume ederra, bular handien jabea.
 
 Zuhaitz batekin konparatuz atera da adjektibo hau. **lizarra** rekin hain zuzen.
 
-### LAMAIDXE ###
+## LAMAIDXE ##
 
 Alua.
 
@@ -39,7 +39,7 @@ Alua.
 - *karu dako arek beran lamaidxe*
 - *da zer, ez da ba karu okitxekue norberan lamaidxe?*
 
-### LAMAIDXEN PUPUE ###
+## LAMAIDXEN PUPUE ##
 
 Zauri txikia. Analogiaz, handia dela pentsatzen den edozein min edo sumina.
 
@@ -49,7 +49,7 @@ Zauri txikia. Analogiaz, handia dela pentsatzen den edozein min edo sumina.
 
 Esaldi honen jatorria **la Mari** ren **pupa** ote? Ez dakit, Baina batzuk **lau maridxen** pupua dela ere entzun dut. Dena dela, azken honek ez dauka zentzurik esaldiarekin, zeren Bermeon **lamaidxe** emakumearen alua da. Beraz aluan pupua daukala esan daiteke.
 
-### LAMERA ###
+## LAMERA ##
 
 Parke.
 
@@ -64,7 +64,7 @@ Hitz hau gaztelerazko **alameda** tik sartu da.
 
 **alameda** → **lameda** → **lamera**.
 
-### LAMEÑEN GOZUE ###
+## LAMEÑEN GOZUE ##
 
 Mihi gozokoa, engainagarria.
 
@@ -72,7 +72,7 @@ Mihi gozokoa, engainagarria.
 - *ba lamiñen gozue badan be, ni enau engaileko*
 - *beran lamiñen gozuegaz diro guztidxek enbarka ein txuz arek*
 
-### LAMINTXUE ###
+## LAMINTXUE ##
 
 *Lamia* ren. Beharbada tonua apur bat leuntzeko egina.
 
@@ -80,7 +80,7 @@ Mihi gozokoa, engainagarria.
 - *lamintxue bada, nigaz eztako zeregiñik*
 - *beran lamintxuen miñegaz aitxe ta ama be enboliketa dakoz*
 
-### LAMIÑ / E ###
+## LAMIÑ / E ##
 
 Berba asko egiten duena.
 
@@ -90,7 +90,7 @@ Berba asko egiten duena.
 
 **Lamia** hitzaren aldaera da. Hiztegiek ez dute jaso hitz hori zentzu horretaz.
 
-### LAMIÑEN BIZARRA ###
+## LAMIÑEN BIZARRA ##
 
 Pertsona berbaduna.
 
@@ -98,7 +98,7 @@ Pertsona berbaduna.
 - *bai, lamiñen bizar utze dozu, kantsa be ezta eitxen berbetan*
 - *zelako lamiñen bizarra zara ba, ia miñe noix ebaitxen tzuen isillik oteko*
 
-### LANBASA LAKUE ###
+## LANBASA LAKUE ##
 
 Garbiketa gainetik egiten duen pertsona.
 
@@ -106,7 +106,7 @@ Garbiketa gainetik egiten duen pertsona.
 - *lanbasa lakue naiela diñozu? Zeu zara zu lanbasa da lanbasa lakue*
 - *gorputze be lanbasa lakue dakozu te, biarrak pe lanbasa lez ein biar*
 
-### LANBERON GITARRIE ###
+## LANBERON GITARRIE ##
 
 Lelo baten moduan erabiltzen den esaldia.
 
@@ -114,7 +114,7 @@ Lelo baten moduan erabiltzen den esaldia.
 - *ze eitxen gauz ba? Dxo lanberon gitarrie ondiño goixetik da ta*
 - *ama, zer ekarko dau aitxek itxosotik? Lanberon gitarrie*
 
-### LANBERONAK ###
+## LANBERONAK ##
 
 Gauza asko izan daitezke. Barrabilak (gehienetan). Kontuak. Gezurrak. Eta abar.
 
@@ -122,7 +122,7 @@ Gauza asko izan daitezke. Barrabilak (gehienetan). Kontuak. Gezurrak. Eta abar.
 - *lanberonak dxoko duz amen, olan baduez gauzek*
 - *lanberonak, zeuriek eta arenak, danak alda batera*
 
-### LANGANIKIE ###
+## LANGANIKIE ##
 
 Alua.
 
@@ -132,14 +132,14 @@ Alua.
 
 Emakumearen genitalak definitzeko erabiltzen den hitzetariko bat.
 
-### LANPROIEN BEGIDXEK ###
+## LANPROIEN BEGIDXEK ##
 
 Begi lizunak. Lanproia arrain bat da. Geldi egoten da, adi-adi, bistarik kendu barik. Konparazioan gizon baten begirada lizuna da.
 
 - *beti egoten da a gixona Laiden beran lanproien begidukaz enbrak dxan biarreko*
 - *benetan dakoz lanproien begidxek berak agure zantarrak*
 
-### LANTZA ###
+## LANTZA ##
 
 Bota. Jaurti.
 
@@ -152,7 +152,7 @@ Gaztelerazko **lanzar** aditzetik zuzenean hartuta dago.
 
 **lanzar** → **lantza**.
 
-### LANTZADAK ###
+## LANTZADAK ##
 
 Batela olatuen gainean bultzatua izatea. Gaur eguneko surflariak ere horrela deitu beharko liokete taulan olatu gainean joateari.
 
@@ -160,7 +160,7 @@ Batela olatuen gainean bultzatua izatea. Gaur eguneko surflariak ere horrela dei
 - *mundekako surfistek pe majo ibilltxen diez lantzadatan*
 - *baitxe Lagan be, ikusten dotez nik imiek lantzadatan barre masie eitxen*
 
-### LANTZIMEÑETAN ###
+## LANTZIMEÑETAN ##
 
 Noizbehinka.
 
@@ -172,14 +172,14 @@ Noizbehinka.
 
 **lantzean bein** + **etan** → **lantzien beinetan** → **lantzimeñetan**.
 
-### LAPIKO TXIKIDXE ###
+## LAPIKO TXIKIDXE ##
 
 Albiste, gertakizun bat edo sekretu bat gordetzen ez dakien pensona.
 
 - *ezin dotsut ezer esan lapiko txikidxe dakozu zuk eta*
 - *zeuk dxakin dxe lapiko txikidxe dakona, zeri konta areri*
 
-### LAPURREIDXETAN ###
+## LAPURREIDXETAN ##
 
 Lapurretan.
 
@@ -187,21 +187,21 @@ Lapurretan.
 - *gaur jentie aurretan dabill, eztaue lez dirorik ba lapurreidxetan*
 - *auntxek be au imie lapurreidxetan dabill, amari diruek ostuten*
 
-### LAPURREIDXETIE ###
+## LAPURREIDXETIE ##
 
 Lapurreta.
 
 - *ainbeste lekotan eiñ dxauie lapurreidxetak*
 - *gaur egun lapurreidxetie normala da, leku guztidxetan ostuten dotsue*
 
-### LAPURTI ###
+## LAPURTI ##
 
 Lapurra.
 
 - *ori karnazerue lapurti utse da, begidxe be ostu eitxen dau*
 - *lapurtidxek danak, denderuek, karnazeruek, pintoreruek...*
 
-### LARDXAKIÑE ###
+## LARDXAKIÑE ##
 
 Asko jakina.
 
@@ -210,13 +210,13 @@ Asko jakina.
 - *zure lagune lardxakiñ utse da gero*
 - *nik lardxakinek ezin dxotez traga*
 
-### LARGA BERTON! ###
+## LARGA BERTON! ##
 
 Sinesgaitza dela adierazten du.
 
 - *larga berton, arek esan txuzenak guzurrek diez da*
 
-### LARGURO ###
+## LARGURO ##
 
 Neurria edo pisua ondo jota.
 
@@ -224,7 +224,7 @@ Neurria edo pisua ondo jota.
 - *arek Gernikeko gitaniek larguro meiduten txuz telak*
 - *larguro larguro ez, baie bueno, largurotxu emoten dauie bestiek pe*
 
-### LARRIDXE ###
+## LARRIDXE ##
 
 Nazkantea. Enpagua ematekoa.
 
@@ -232,14 +232,14 @@ Nazkantea. Enpagua ematekoa.
 - *larridxe, benetako larridxe, Julio Iglesias, baie ze ]arridxe da ba*
 - *ori bakarrik ez, geure kaleko a morroie, uliek enpiketa eruten dauena eztakixu? A bai dala larridxe*
 
-### LARRITXU ###
+## LARRITXU ##
 
 Nazkatu.
 
 - *egidxe da, larritxu larritxute itxitxen zaitxuz beran kantakaz*
 - *ara! Larritxu nau beran txiste berdiekaz, dxunadi ortik*
 
-### LARROSUBOI / E ###
+## LARROSUBOI / E ##
 
 Sugea.
 
@@ -253,7 +253,7 @@ Hitz konposatu hau, **larru** + **suge** hitzez osatzen da.
 
 Hitz hau gehiago erabiltzen da auzoetan, zeren herri barruan narrasti guztiei **suboie** deitzen baitzaie.
 
-### LASKITXU ###
+## LASKITXU ##
 
 Erdizka egin gauzak. Erdizka, ondo egin barik utzi.
 
@@ -265,12 +265,12 @@ Erdizka egin gauzak. Erdizka, ondo egin barik utzi.
 
 Azkuek eta Kintanak jaso dute hitz hau, baina ez esanahia, hau ezberdina baita bietan.
 
-### LASTATIDXE ###
+## LASTATIDXE ##
 
 - *lastatidxen lasto tartien elegante eitxen da lo*
 - *lastatidxen lo? Dauzen beste moskitxogaz, astuen boluek!*
 
-### LAU DOBLE EINDXE ###
+## LAU DOBLE EINDXE ##
 
 Ezertarako gogo barik.
 
@@ -278,7 +278,7 @@ Ezertarako gogo barik.
 - *lau doble eiñdxe zauz, ze ein dxatzu ba?*
 - *egidxe, olako golpe bat artun de edonor ongo lekide lau  doble eiñdxe*
 
-### LEBA LEBA ###
+## LEBA LEBA ##
 
 Geldiro, haina hasten doana, gorantz doana.
 
@@ -289,7 +289,7 @@ Geldiro, haina hasten doana, gorantz doana.
 
 Azkuek jaso du hitz hau, baina zentzua **a pulso** jartzen du. Kintanak, ostera, **ir creciendo** dela dio.
 
-### LEBER LEBER ###
+## LEBER LEBER ##
 
 Energiaz, bizitasunez ibili edo egin.
 
@@ -298,7 +298,7 @@ Energiaz, bizitasunez ibili edo egin.
 - *ia andrak! leber leber, ariñ akabateko eskuartekue*
 - *leber leber ibilltxen banai, ariñ eingo tez etzeko biarrak*
 
-### LEGOIE ###
+## LEGOIE ##
 
 1. Gauzak ondo egiten duena. Adimen edo indar handikoa.
 
@@ -313,7 +313,7 @@ Energiaz, bizitasunez ibili edo egin.
 
 Adjektiboa sortzeko eta konparazioak egiteko piztiarik indartsuenaren izena erabiltzen da.
 
-### LEIXIBIE ###
+## LEIXIBIE ##
 
 Bustita. Blai eginda. Bigunduta.
 
@@ -322,14 +322,14 @@ Bustita. Blai eginda. Bigunduta.
 - *nondik gatozen? Ez zu ikusten biarrien on garana la? Zuk ezu atrapako leixibe andirik etzien onda*
 - *onek arraiñek leixibetute dauz, non okin zuz ba?*
 
-### LEJIATAKO LASTUE ###
+## LEJIATAKO LASTUE ##
 
 Ile horia duena.
 
 - *berak lejiatako lastuek ekar dostez arrotzak*
 - *ez eidxona esan lejiatako lastue koitxadueri. Ez tala? Aren ubek lejiatan sartuneikuen antza eztako ba?*
 
-### LEKUTEKO AMAN ETZIEN ###
+## LEKUTEKO AMAN ETZIEN ##
 
 Oso urrun.
 
@@ -337,7 +337,7 @@ Oso urrun.
 - *eztakot neuk amesik oiñez dxuteko lekuteko aman etzien badau baserri ori*
 - *nok esan dau lekuteko aman etzien dauela bera plaidxie, urre badauen!*
 
-### LELAU ###
+## LELAU ##
 
 Lehenengo.
 
@@ -347,14 +347,14 @@ Lehenengo.
 - *zeuk esan bi zu lelau nok esan tsun*
 - *lelautxuau etorten bazara obeto*
 
-### LELAU PLAZAKO ELIXERA ###
+## LELAU PLAZAKO ELIXERA ##
 
 Betetuko ez den zerbaiten promesa egiten denean erabilitako esaldia da gehienetan.
 
 - *zeuk eingo zula ezkontzako erropie? Zeu lelau plazako elixera*
 - *orrek patroiek arte bat barridxegaz iñok paiño arrain geidxau atrapako dauela? Bera lelau plazako elixera*
 
-### LENGUNIEN ###
+## LENGUNIEN ##
 
 Aurreko egun baten.
 
@@ -366,14 +366,14 @@ Aurreko egun baten.
 
 Hitz hau **lehengo** + **egunean** hitzen konposizioa da, **leengo egunean** → **lengogunien** → **lengunien**.
 
-### LEPUE DXAN ###
+## LEPUE DXAN ##
 
 Zigortu nahia adierazten du.
 
 - *ezpazauz esan tzuten ordureko, lepue dxango tzut*
 - *lepue dxango tzola esan tzo ezta? Ba, ez fidxetie dako askorik*
 
-### LIBRE ###
+## LIBRE ##
 
 Erditu. Umea izan.
 
@@ -381,7 +381,7 @@ Erditu. Umea izan.
 - urek bota dauz, eta arrapaladan erun dauie ospitxalera libreteko.
 - emagiñek diño, egun gitxi falda datsoz libreteko, laster familidxen beste bat gehidxau izengo gariez!
 
-### LIGORRA ###
+## LIGORRA ##
 
 Lehor. Siku. Pertsonen izaerari ere aplikatua. 
 
@@ -392,7 +392,7 @@ Lehor. Siku. Pertsonen izaerari ere aplikatua.
 
 Hitz hau, **legor** hitzaren aldaera da, baina zentzuz aldatu egiten da. Azkuek ez du jaso forma hau, baina bai D.A.R.k. Honek ere ez du zentzu berbera, **seco** eta **poco fervoroso** zentzuaz baizik.
 
-### LIXIE LEZ AZALA KENDU ###
+## LIXIE LEZ AZALA KENDU ##
 
 Gehienetan andrazkoen artean erabilitako esaldia da. Haserretzen direnean egindako mehatxua da.
 
@@ -400,7 +400,7 @@ Gehienetan andrazkoen artean erabilitako esaldia da. Haserretzen direnean eginda
 - *lixie legez azala kenduko tzola esan batzo, seguru eingo tzona*
 - *lixie lez azala kentzieko asko bi de gero!*
 
-### LIXIE LEZ IGIRI ###
+## LIXIE LEZ IGIRI ##
 
 Aurrekoaren parekoa da esanahian.
 
@@ -408,7 +408,7 @@ Aurrekoaren parekoa da esanahian.
 - *zuk igiri lixie lez? Eztakozu kapazidaderik ori eitxeko*
 - *lixie lez igiri bakarrik ez, azala be laster kenduko lekitzut*
 
-### LO EIÑ ###
+## LO EIÑ ##
 
 Egitekoa burutuko denaren zalantzak edo mesfidantza.
 
@@ -417,7 +417,7 @@ Egitekoa burutuko denaren zalantzak edo mesfidantza.
 - *lo ein, lo, enai mobiko ametik eta, neure lekue da lez, enai mobiko*
 - *nire begire badau esan lo eitxeko, enai dxungo ta*
 
-### LO TA SATS ###
+## LO TA SATS ##
 
 Lo sakonean egon.
 
@@ -425,7 +425,7 @@ Lo sakonean egon.
 - *lo ta sats dau ondiño nire andrie, neuk in bi zan tzatez, errekaduek pe*
 - *domekie etorteko poza okitxen dot lo ta sats eitxeko*
 
-### LODITXONA ###
+## LODITXONA ##
 
 Lodikotea, baina emakumea.
 
@@ -433,14 +433,14 @@ Lodikotea, baina emakumea.
 - *benetako loditxonie Miren da, beran dieta eta guzti*
 - *aurtengo misek eztau balidxo mise ezateko, apurtxu bet lodi dau, loditxonie da*
 
-### LOGURIEK ERRETEN ###
+## LOGURIEK ERRETEN ##
 
 Logura handia.
 
 - *loguriek erreten nau da oire nuen*
 - *balora dakozue, onek ime ternuek loguriek erreten okitxie kalien, onetan orduetan?*
 
-### LOIDXARTZIKO ###
+## LOIDXARTZIKO ##
 
 Itsasontzietan lanean aritzean erabiltzen duten fraka.
 
@@ -455,7 +455,7 @@ Hitz honen konposizioa, **loia artzekoa** da.
 
 Izen bihurturik agertzen da.
 
-### LOIDXE ###
+## LOIDXE ##
 
 Etxabea. Itsasontzien tresneria guztia gordetzen den lekua.
 
@@ -466,7 +466,7 @@ Etxabea. Itsasontzien tresneria guztia gordetzen den lekua.
 
 Azkuek Mundakarako jartzen du hitz hau, baina Bermeon oso normala da hitz hori.
 
-### LOIORRA ###
+## LOIORRA ##
 
 Arin edo berez zikintzen dena.
 
@@ -474,7 +474,7 @@ Arin edo berez zikintzen dena.
 - *kolore argidxek danak tiez loiorrak*
 - *neuk dakotez fraka batzuk total loiorrak dizenak, da ez tiez argidxek gero*
 
-### LOKUKO ###
+## LOKUKO ##
 
 Lo laburra. Mandoaren loa deritzona.
 
@@ -484,7 +484,7 @@ Lo laburra. Mandoaren loa deritzona.
 
 Azkuek jaso du hitz hau, baina zentzua **sueño ligero** da eta Bermeon denbora laburreko loari dagokio, beraz ordu laurdeneko loa gogorra izan daiteke. Erabilera zabala dauka.
 
-### LORO / UE ###
+## LORO / UE ##
 
 Kuxkuxero. Begiluze.
 
@@ -492,7 +492,7 @@ Kuxkuxero. Begiluze.
 - *ontxek pe bentanako lorue aur dau, eztau orrek dxakin bako gauzerik*
 - *zu, lorue, zer zauz begire ba?*
 
-### LOSA / IE ###
+## LOSA / IE ##
 
 Espaloia.
 
@@ -502,7 +502,7 @@ Espaloia.
 - *saka ein tso ta losa ganera dxeusi de, konorte barik*
 - *losatik ez urten ezetarako be*
 
-### LOSUMUSTUEN ###
+## LOSUMUSTUEN ##
 
 Erdi lo.
 
@@ -511,14 +511,14 @@ Erdi lo.
 - *losumustuen banau be, eztot entzuten ezer*
 - *plaidxen be lo eitxen dauie arek, da gero losumustuen dxuten diez uretara, ganien dakoien enpanadie kentziko*
 
-### LOTAN-LOTAN ###
+## LOTAN-LOTAN ##
 
 Lozorroan.
 
 - *lotan-lotan on garizen bertan estaziñuen trenak urten arte*
 - *ziñera dxuen da zantarra ezan dalez, lotan-lotan bertan tentelak lez on garizen*
 
-### LOTSA ###
+## LOTSA ##
 
 Errespetua.
 
@@ -529,7 +529,7 @@ Errespetua.
 
 Azkuek ez du jaso definizio honetaz, baina bai D.A.R.k **lotsa** hitzaren VII. definizioan, Bermeori dagokiola esanez.
 
-### LOTU ###
+## LOTU ##
 
 Gelditu. Geratu.
 
@@ -541,13 +541,13 @@ Gelditu. Geratu.
 
 Azkuek jaso du hitz hau, erabilera murritzaz bada ere, baina ez du Bermeo aipatzen, bai, ostera, Mundaka eta Gernika. Bermeon, ordea, **geratu** edo **gelditu** erabiltzen badira ere, horien ordez **lotu** erabiltzea da normalena.
 
-### LUKIDXE ###
+## LUKIDXE ##
 
 Azeria.
 
 - *Almiken Jontxun etxetik lukidxek ibiltzen diez olluek topaten*
 
-### LUMETXA ###
+## LUMETXA ##
 
 Normalean arropetan geratzen diren ileak.
 
@@ -555,21 +555,21 @@ Normalean arropetan geratzen diren ileak.
 - *lumetxak kentzieko eztau ezer ba*
 - *nik okiñ dxot aulako zepillo garratz bat lumetxak kentzieko balidxo zan dauena*
 
-### LUPUE BAIÑO GAZIDXAU ###
+## LUPUE BAIÑO GAZIDXAU ##
 
 Oso gazi.
 
 - *eurek antxobak lupue baiño gazidxau on dizelez, gero urek edaten eidxo*
 - *makallue be batzutan lupue lez oten da, baie dxan eitxen du*
 
-### LURRIEN IKUSI BE EZTIZENAK EITXEN ###
+## LURRIEN IKUSI BE EZTIZENAK EITXEN ##
 
 Oso txikiak.
 
 - *zelako piperrak dakozuz ba, lurrien ikusi be eztizenak eitxen*
 - *ime txarri guztidxek, lurrien ikusi be eztizenak eitxen, aurrek dabiltzuz kotxiekaz*
 
-### LUZE ME TA BISTOSUE ###
+## LUZE ME TA BISTOSUE ##
 
 Luzea, mehea eta dirdaitsua, baina nabarmena. Edozertan erabilia, bana pertsonekin ere. Gauza edo pertsonak meheak direla, eta askotan fruitu edo onura gabekoak adierazteko erabilia.
 
@@ -577,7 +577,7 @@ Luzea, mehea eta dirdaitsua, baina nabarmena. Edozertan erabilia, bana pertsonek
 - *sagar arbolie luze meie ta bistosue, baie sagarrik ez*
 - *ze argala da ori mutille. Bai, luze me ta bistosue*
 
-### LUZIDU ###
+## LUZIDU ##
 
 Behar bezain besterako eman.
 
@@ -590,7 +590,7 @@ Gaztelerazko **lucir** aditzetik hartua da eta aditz funtzioa betetzen du, zentz
 
 **lucir** → **luzir** + **du** → **luzidu**.
 
-### LUZIEN ###
+## LUZIEN ##
 
 Ur azpitik igerian.
 
@@ -598,7 +598,7 @@ Ur azpitik igerian.
 - *txo, afronto, zuk luzien ronpiolaserarte bez*
 - *konkurso bat eingu zeiñek obien luzien*
 
-### LUZIMENTO / UE ###
+## LUZIMENTO / UE ##
 
 Aurrekoa, baina oraingoan izen funtzioan agertzen da.
 

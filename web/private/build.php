@@ -30,14 +30,25 @@ $files = getFiles($dirs, array
 
 $pandoc = "pandoc -f markdown -t html5 ";
 
+$tmp_file = tmpfile();
+$tmp_path = stream_get_meta_data($tmp_file);
+$tmp_path = $tmp_path['uri'];
+
 foreach($files as $file)
 {
+	copy($file, $tmp_path);
+
+    // fitxategi tenporal baten sartuten dot, gero "#" bat gehidxau sartuteko, H2, eta H3 bihurtuteko
+	$tmp_content = file_get_contents($tmp_path);
+	$tmp_content = preg_replace("/#\s+([^#]+)\s+#/", '## $1 ##', $tmp_content);
+	file_put_contents($tmp_path, $tmp_content);
+
 	preg_match("/([^\/]+)\/([^\/]+)\.md$/i", $file, $m);
 
 	$type = $m[1];
 	$letter = $m[2];
 
-	$command = "{$pandoc} {$file}";
+	$command = "{$pandoc} {$tmp_path}";
 	$html = shell_exec($command);
 	$html = anchor($html, "{$type} - {$letter}");
 
