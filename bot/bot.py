@@ -38,12 +38,12 @@ for file in files:
 	with open(file, 'r') as f:
 		for line in f:
 			# letrie bada, hurrengo lerrora pasa
-			letter = re.search("^##\s([^#]+)\s##", line)
+			letter = re.search("^#\s([^#]+)\s#", line)
 			if letter != None:
 				continue
 
 			# berbie edo esamoldie topa
-			resource = re.search("^###\s([^#]+)\s###", line)
+			resource = re.search("^##\s([^#]+)\s##", line)
 			if resource != None:
 				tmp = resource.group(1).encode('utf-8')
 				if b:
@@ -89,7 +89,7 @@ fontsize: 20pt
 
 """
 
-md = md +"###"+element['title']+"###\n"+element['desc']
+md = md +"##"+element['title']+"##\n"+element['desc']
 
 # artxibo tenporala
 fd, path = tempfile.mkstemp()
