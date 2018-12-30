@@ -20,7 +20,7 @@ foreach($files as $file)
 
 # md tenporal baten sartun, pdf bihurtu, eta mobidu
 
-$to = realpath(__DIR__."/../../web/public");
+$to = realpath(__DIR__."/../../web/public/resources/pdf");
 
 $temp = tmpfile();
 $temp_filename = stream_get_meta_data($temp);
