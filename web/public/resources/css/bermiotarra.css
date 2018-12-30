@@ -135,6 +135,7 @@ form input[type=text] {
     background-color: transparent;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 150%;
+    background: url("trans-25.png");
 }
 
 form input[type=submit] {
@@ -217,6 +218,7 @@ p {margin:1em 0 0.5rem 0;}
 */
   display: flex;
   justify-content: center;
+  margin: 1rem;
 }
 
 #footer > a
