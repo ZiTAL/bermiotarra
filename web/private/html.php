@@ -33,13 +33,10 @@ $pandoc = "pandoc -f markdown -t html5 ";
 $tmp_file = tmpfile();
 $tmp_path = stream_get_meta_data($tmp_file);
 $tmp_path = $tmp_path['uri'];
-$tmp_path = "/tmp/sasi";
 
 foreach($files as $file)
 {
 	copy($file, $tmp_path);
-
-	echo "{$tmp_path}\n";
 
     // fitxategi tenporal baten sartuten dot, gero "#" bat gehidxau sartuteko, H2, eta H3 bihurtuteko
 	$tmp_content = file_get_contents($tmp_path);
@@ -61,5 +58,8 @@ foreach($files as $file)
 		mkdir($dir);
 
 	$file_output = "{$dir}/{$letter}.html";
-	file_put_contents($file_output, $html);
+	if(file_put_contents($file_output, $html))
+		echo "OK: {$file_output}\n";
+	else
+		echo "ERROR: {$file_output}\n";
 }
