@@ -127,7 +127,7 @@ form {
   margin-top:25px;
 }
 
-input[type=text] {
+form input[type=text] {
     width: calc(100% - 65px);
     margin:0;
     border: none;
@@ -137,14 +137,15 @@ input[type=text] {
     font-size: 150%;
 }
 
-input[type=submit] {
+form input[type=submit] {
     background : url("lupa.png") no-repeat center center;
     width : 50px;
     height :50px;
     border : none;
     color : transparent;
     font-size : 0;
-  cursor: pointer;
+    cursor: pointer;
+    vertical-align: top;
 }
 
 
@@ -210,8 +211,17 @@ p {margin:1em 0 0.5rem 0;}
 
 #footer
 {
-  margin: auto;
-  width: 63px;
+/*
+	margin: auto;
+	width: 63px;
+*/
+  display: flex;
+  justify-content: center;
+}
+
+#footer > a
+{
+	padding: 5px;
 }
 
 /*Responsive*/
