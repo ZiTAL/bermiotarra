@@ -33,14 +33,18 @@ $pandoc = "pandoc -f markdown -t html5 ";
 $tmp_file = tmpfile();
 $tmp_path = stream_get_meta_data($tmp_file);
 $tmp_path = $tmp_path['uri'];
+$tmp_path = "/tmp/sasi";
 
 foreach($files as $file)
 {
 	copy($file, $tmp_path);
 
+	echo "{$tmp_path}\n";
+
     // fitxategi tenporal baten sartuten dot, gero "#" bat gehidxau sartuteko, H2, eta H3 bihurtuteko
 	$tmp_content = file_get_contents($tmp_path);
-	$tmp_content = preg_replace("/#\s+([^#]+)\s+#/", '## $1 ##', $tmp_content);
+	$tmp_content = preg_replace("/##\s+([^#]+)\s+##\s*\n/", "### $1 ###\n\n", $tmp_content);
+	$tmp_content = preg_replace("/#\s+([^#]+)\s+#\s*\n/", "## $1 ##\n\n", $tmp_content);
 	file_put_contents($tmp_path, $tmp_content);
 
 	preg_match("/([^\/]+)\/([^\/]+)\.md$/i", $file, $m);
