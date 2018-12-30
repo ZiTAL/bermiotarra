@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" type="image/png" href="<?=PUBLIC_ROOT?>/favicon.png">
-<link rel="stylesheet" href="<?=PUBLIC_ROOT?>/css/bermiotarra.css">
+<link rel="icon" type="image/png" href="<?=PUBLIC_ROOT?>/resources/img/favicon.png">
+<link rel="stylesheet" href="<?=PUBLIC_ROOT?>/resources/css/bermiotarra.css">
 <title><?=$title;?></title>
 </head>
 <body>
