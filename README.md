@@ -1,3 +1,5 @@
+# Bermiotarra #
+
 Proiekto hau **Begoña Bilbao Albonigak** idatzi zauen **Bermeoko berba eta esamolde kresaltsuak** (2002) liburuen oinarritute dau, eta berak ondo diñolez:
 
 >Horrez gain, besteren bat edo beste batzuk lan honi jarraipena ematen edo zuzenketak egiten animatzen badira (bizirik banago), aurkituko naute.
