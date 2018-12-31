@@ -23,7 +23,7 @@ php7.0-xml
 ```
 <VirtualHost *:80>
         ServerAdmin zital@github.com
-        ServerName bermiotarra.pi2
+        ServerName bermiotarra.pi
         DocumentRoot "/home/projects/bermiotarra/web/public"
 
         <Directory "/home/projects/bermiotarra/web/public">
