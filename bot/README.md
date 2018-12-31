@@ -12,4 +12,5 @@ python3-setuptools
 pip3 install wheel
 pip3 install TwitterApi
 pip3 install Mastodon.py
+pip3 install Pillow
 ```
