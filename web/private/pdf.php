@@ -3,6 +3,7 @@ require_once('common.php');
 
 $dirs = array
 (
+    realpath(__DIR__."/../../"),
     realpath(__DIR__."/../../sarrerie"),
     realpath(__DIR__."/../../berbak-esamoldiek")
 );
