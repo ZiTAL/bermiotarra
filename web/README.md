@@ -1,5 +1,6 @@
 # PHP / APACHE
 
+```
 apache2
 apache2-bin
 apache2-data
@@ -16,7 +17,7 @@ php7.0-mbstring
 php7.0-opcache
 php7.0-readline
 php7.0-xml
-
+```
 
 **/etc/apache2/sites-available/bermiotarra.conf**
 ```
@@ -49,7 +50,7 @@ php7.0-xml
 ```
 
 # HTML eta PDF-ra bihurtuteko #
-
+```
 pandoc
 texlive-base
 texlive-binaries
@@ -71,6 +72,7 @@ texlive-pictures-doc
 texlive-pstricks
 texlive-pstricks-doc
 texlive-xetex
+```
 
 # SORTU #
 
