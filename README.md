@@ -1,10 +1,18 @@
-# Bermiotarra #
+Proiekto hau **Begoña Bilbao Albonigak** idatzi zauen **Bermeoko berba eta esamolde kresaltsuak** (2002) liburuen oinarritute dau, eta berak ondo diñolez:
 
-*Begoña Bilbao Alboniga*k idatzi zauen *Bermeoko berba eta esamolde kresaltsuak (2002)* liburue oinarri  hartute, Bermioko berbak eta esamoldiek digitalera pasatie da ideie, baie beste liburu batzuk be topa dotezelez ba... ia danon artien beteten badun hiztegidxe!
+>Horrez gain, besteren bat edo beste batzuk lan honi jarraipena ematen edo zuzenketak egiten animatzen badira (bizirik banago), aurkituko naute.
 
-Proiektue [Markdown](https://en.wikipedia.org/wiki/Markdown) erabilitze ezango da, erreza dalakon, eta holan edonok parte hartu al' izateko.
+Hauri dala ta, berba barridxek sartzien jun gara, eta **Joseba Mikel Ugalde**k idatzi zauen **Ai gure Bermio: esakerak eta izakerak** liburoko berbak eta esamoldiek sartzieko dakuz. **Jose Anton Renteria Anduiza**n apunte batzuk be itzi doskuzen Amaia Artetxe Atelak, ia aukerie badakun beragaz egoteko...
 
----
+Begoñak idatzi zauen liburuek copyright-e dako, eta ni proiekto honegaz copyright-en intsumiso ein nai; ze zentzun dako holako kultur proiektuek liburutegiko baldan ustelduten ikustiek? Neuretzako bapez. Kontran Joseba Mikel Ugalden liburuek **Creative Commons CC-BY-NC-SA** lizentzidxe dako.
+
+Haulan da ze, eindxun bihar dana publiko dau interneten, edonok parte hartzieko, berba barridxek sartuteko, edo sortu dun arkitekturiegaz beste proiekto batzun oinarridxe ezateko eta abar.
+
+Haurreitxik, hametik bertotik eskatuten tsatie erakunde publikueri herridxeri dagokitsozen proiekto kulturalak lizentzi librietan sortuteko.
+
+Neuk eindxotenak, lizentzidxe **GPL 3.0** dako.
+
+Proiektuen web orridxe: http://zital-pi.no-ip.org/bermiotarra/
 
 Esker berezidxek:
 
@@ -19,5 +27,6 @@ Esker berezidxek:
 - @montantxo / twitter
 - Biotz Fradua Agirre
 - Txus Ordorika Prieto
+- Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
-Eskerrik asko!
+iban
