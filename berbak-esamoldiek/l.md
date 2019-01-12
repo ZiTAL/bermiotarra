@@ -377,9 +377,9 @@ Zigortu nahia adierazten du.
 
 Erditu. Umea izan.
 
-- antziñe andrak kofradire juten zien libreten.
-- urek bota dauz, eta arrapaladan erun dauie ospitxalera libreteko.
-- emagiñek diño, egun gitxi falda datsoz libreteko, laster familidxen beste bat gehidxau izengo gariez!
+- *antziñe andrak kofradire juten zien libreten*
+- *urek bota dauz, eta arrapaladan erun dauie ospitxalera libreteko*
+- *emagiñek diño, egun gitxi falda datsoz libreteko, laster familidxen beste bat gehidxau izengo gariez!*
 
 ## LIGORRA ##
 
