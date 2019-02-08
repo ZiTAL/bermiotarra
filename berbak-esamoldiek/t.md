@@ -910,14 +910,12 @@ Izenaren funtzioa betetzen du.
 
 ## TRONPONADAN ##
 
-Aurreko berba bera da, baina adberbio funtzioan.
+Asko. Masa. Tropela, baina adberbio funtzioan.
 
 - *hainbeste denporan ezer on bez, da oraiñ dxai guztidxek tronponadan*
 - *ziñera tronponadan sartun de jentie, da idxe itxo bertan*
 - *tronponadan etortie baiño, obeto da apur apurke etortie arraiñe*
 - *illietan euri barik, eta oraiñ, eztanien biar, tronponadan euri guztidxek*
-
-Adberbio funtzioan dago.
 
 ## TROSKILLE ##
 
