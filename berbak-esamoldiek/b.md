@@ -258,7 +258,7 @@ Kasu honetan izenaren funtzioa betetzen du.
 
 ## BARBANTZADAKA ##
 
-Aurrekoaren adberbiozko forma. Moduzko adberbioaren funtzioa betetzen du.
+Irakitan dagoen likidoaren zarata izango da. Eta analogiaz, itsaso zakarra dagoenean ere, horri aplikatzen zaio. Adberbioaren funtzioa betetzen du.
 
 1. Likidoa irakitan.
 
@@ -483,7 +483,7 @@ Begiak lausotuta edo erabat nekatuta.
 
 ## BEGIDXEK LAU EIÑDXE ##
 
-Aurrekoaren parekoa dugu, hau da, begiak nekatuta.
+Begiak lausotuta edo erabat nekatuta.
 
 - *eztot ikusten ezebe, begidxek lau eiñdxe dakotez*
 - *letrak pe ezin leidu, begidxek lau eiñdxe*
@@ -1002,7 +1002,7 @@ Zentzu hauekin erabiltzen da. Bigarrena gutxiago bada ere.
 - *bidxorrak plantxe eziñik onai arratzalde santu guztidxen*
 - *oneri txikotari bidxorra kendu bi dxatzo*
 
-Aurrekoa bezala **biur** hitzetik hartu da eta zentzu horiek eman zaizkio.
+**biur** hitzetik hartu da, eta zentzu horiek eman zaizkio.
 
 ## BIDXOTZA LO ##
 
@@ -1394,7 +1394,7 @@ Olio-berakatza. Zenbait jatekori gainetik botatzen zaion olio-berakatz errea.
 - *barbañei erre ta gero, brebie botaten badxatzo asko  be gozuau*
 - *orrek antxobak oridxo brebetan sartu ezkero obeto dxaten diez*
 
-Hitz hau ere, aurrekoa bezala, **breve** hitzetik hartuta dago.
+**breve** hitzetik hartuta dago.
 
 ## BREGALDARIE ##
 
