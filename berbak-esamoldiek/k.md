@@ -1014,7 +1014,7 @@ Pertsona edo animalia oso zikina.
 
 ## KOIPIEN MAMARRUE ##
 
-Aurreko bien parekoa dugu hau ere, zikinkeria adierazten duena.
+Pertsona edo animalia oso zikina.
 
 - *aizte bidxek tiez koipien mamarruek, soiñeko erropai beitutre baiño eztau*
 - *a txikitzerik etor da koipien mamarruen antzagaz*

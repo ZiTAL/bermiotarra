@@ -1213,7 +1213,7 @@ Balio gabekoa. Kontua ez hartzekoa. Negatiboa da beti.
 
 ## ESKUREKO ##
 
-Eskuetara heltzeko prest. Ukabilka bastear.
+Eskuetara heltzeko prest. Ukabilka hastear.
 
 - *lelau edozer esan tsoie alkarreri, baie gero eskureko be on diez*
 - *sarri oten diez arek eskureko*
