@@ -276,7 +276,7 @@ Pertsona edo gauza txikia, eskasa, gutxi garatua.
 
 ## KAKATAN PLAUST ##
 
-Bi zentzu adierazten ditu: geldi geratu basatan edo leku zikin baten eta, figuratiboan, arazo ez atsegin baten sartu.
+Bi zentzu adierazten ditu: geldi geratu basatan edo leku zikin baten eta figuratiboan, arazo ez atsegin baten sartu.
 
 - *zu kakatan plaust eiñdxe be feliz ezango lekizara*
 - *dana guzan dau traga da kakatan plaust eiñdxe akaba dau*
