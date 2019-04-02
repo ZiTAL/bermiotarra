@@ -1032,7 +1032,7 @@ Ez etsi. Ez amore eman.
 
 Zoladura. Lurra.
 
-*berenganie* eta *beringanie* aldaerak ere entzuten dira, baina beste hauek baino zabalkunde handiagoa daukala aurrekoak uste dut.
+*berenganie* eta *beringanie* aldaerak ere entzuten dira.
 
 - *eskursiñuen dxun garizenien bienganien eiñ dxu lo*
 - *mai ganien bazabiltzez bienganie dxoko zu*

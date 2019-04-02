@@ -305,7 +305,7 @@ Zaborreria izango da. Baina soroko orbel siku eta abar ere bai.
 - *sakeleidxek erreten on da ta ertzaiñe etor dxatzo aldarrike*
 - *zer batzien da berton saskeleidxe ba, neuk pe laster emongo tzatie su, datorrela ertzaiñe ostike*
 
-Aurreko **saskel** + **-eria** atzizkia → **sakeleria**.
+**Saskel** + **-eria** atzizkia → **sakeleria**.
 
 Gero fonetikako aldaketak jasan ondoren: **saskeleidxe** eman du.
 

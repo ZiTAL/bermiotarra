@@ -133,7 +133,7 @@ Nekatu. Literalki, eho.
 
 ## EIDXOTA ##
 
-Nekatuta. Ehota.
+Nekatuta.
 
 - *eidxota itxi nau San Juanerako bidiek*
 - *dxantzan eidxota, Lamerako banko baten dxesarri garizen*
@@ -142,7 +142,7 @@ Adberbio funtzioan ere erabiltzen dela ikusten dugu.
 
 ## EIDXUEK ##
 
-Aurrekoa, baina pluralean.
+Nekatuta, baina pluralean.
 
 Kasu honetan aditza substantibatuz egiten da. Gainera beti erabiltzen da pluralean.
 
@@ -151,7 +151,7 @@ Kasu honetan aditza substantibatuz egiten da. Gainera beti erabiltzen da plurale
 - *negarrez eidxuetan egon da goix guztidxen*
 - *biarrien eidxuek ein bidiez gauzek ondo okitxeko*
 
-Ikusten denez, deklinatu ere normal egiten da. Azkuek bere hiztegian Mundakakoa bezala azaltzen du. Baina zentzu aldetik ere ez da berdina, zeren berak, **hacer ezfuerzos excesivos** itzultzen du eta Bermeon **muchas moliendas** izango litzateke literalki itzuli ezkero, beraz, ugaritasuna ematen du. Honela, kantitatezko adberbio baten funtzioa betetzen du.
+Ikusten denez, deklinatu ere normal egiten da. Azkuek bere hiztegian Mundakakoa bezala azaltzen du. Baina zentzu aldetik ere ez da berdina, zeren berak, **hacer ezfuerzos excesivos** itzultzen du, eta Bermeon **muchas moliendas** izango litzateke literalki itzuli ezkero, beraz, ugaritasuna ematen du. Honela, kantitatezko adberbio baten funtzioa betetzen du.
 
 ## EIN BIARRA GOGORRAUE ##
 
@@ -734,7 +734,7 @@ Gauza baten era.
 Aspergarria. Kezkatuta. Haserretuta.
 
 - *alabie eztatortsola ta ernegadu ibill dxe*
-- *emegaduen arpeidxegaz ikusi dot*
+- *ernegaduen arpeidxegaz ikusi dot*
 - *zelako ernegadue da ba*
 - *ernegadue bazara no pi tzu*
 

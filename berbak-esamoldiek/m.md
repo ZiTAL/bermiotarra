@@ -827,7 +827,7 @@ Ganora gutxikoa dela, edo horrela iruditzen dela adierazteko.
 
 ## MOLDIE POPAN ##
 
-Aurrekoaren parekoa, baina gogorragoa.
+Ganora gutxikoa.
 
 - *zuk bakixu non dakozun moldie, popan!*
 - *alan da olan dxantzitxe, baie moldie, popan*

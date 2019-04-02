@@ -181,7 +181,7 @@ Bultzada.
 - *zapuzkada andi bategaz bota dau andik*
 - *emoten bastazu zapuzkada geidxau, enai esango zure lagune*
 
-Aurreko hitza bera dugu, egokia ez bada ere, **-kada** atzizkia erantsita.
+**Zaputz** hitza bera dugu, egokia ez bada ere, **-kada** atzizkia erantsita.
 
 Izenaren funtzioa betetzen du.
 

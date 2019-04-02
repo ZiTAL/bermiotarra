@@ -958,14 +958,14 @@ Trumoi. Baina hemen konparazioan erabiliko dugu. Esaterako, pertsona bat nagitsu
 
 ## TRUBOIEKDXOTA ##
 
-Gaupasa egin ondoren egoten den ajea. Nagitsu dagoenean pertsona bat.
+Gaupasa egin ondoren egoten den ajea. Nagitsu dagoenean pertsona.
 
 - *truboiek dxota gauz danok, dutxe otz bana artu biarko dogu*
 - *esnedunegaz batera etzera etorri ezkero, truboiek dxota on biar*
 
 ## TRUBONADIE ##
 
-Trumonada. Konparazioan, aurreko hitzak ematen duen zentzua dauka.
+Trumonada. Konparazioan, gaupasa egin ondoren egoten den ajea. Nagitsu dagoenean pertsona.
 
 - *trubonadie eiñ orduko ein bi du bueltie*
 - *trubonadak ezan diez partidue asi baiño lelau, baie gero ez*

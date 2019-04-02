@@ -402,7 +402,7 @@ Gehienetan andrazkoen artean erabilitako esaldia da. Haserretzen direnean eginda
 
 ## LIXIE LEZ IGIRI ##
 
-Aurrekoaren parekoa da esanahian.
+Haserrearen ondorioz esaten den mehatxua.
 
 - *esaten bastazu geidxau olakorik, lixie lez igiriko zaitxut*
 - *zuk igiri lixie lez? Eztakozu kapazidaderik ori eitxeko*
@@ -600,7 +600,7 @@ Ur azpitik igerian.
 
 ## LUZIMENTO / UE ##
 
-Aurrekoa, baina oraingoan izen funtzioan agertzen da.
+Ur azpitik igerian. Izen funtzioan agertzen da.
 
 - *onek diruek eztako luzimento andirik*
 - *orrek zapatak luzimento andikuek tiez*

@@ -193,7 +193,7 @@ Norbera.
 - *noperan konture eitxen dizen gauzek askotan eztauie urteten ondo*
 - *noperari be miñ emoten tso isillikostuke ibilltxiek*
 
-Hitz honen aldaketa fonetikoak ere aurrekoen antzekoak izan dira.
+Hitz honen aldaketa fonetikoak ere **nopaitxe**-ren antzekoak izan dira.
 
 ## NORA EZTALA / EZTIELA ##
 

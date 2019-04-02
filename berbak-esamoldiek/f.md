@@ -69,7 +69,7 @@ Pertsona fidagaitza, gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esa
 - *berak fandero andidxek esan tsuz orrek berbak? Ezin dxo arpeidxen?*
 - *ni naiela fanderue? Da zeu zer zara ba, fandango andidxori?*
 
-Aurreko hitzaren zentzu berbera ematen zaionez askotan, jatorria ere bera izan daitekeela pentsatzekoa da. Gaztelerazko **fandanguero** hitza honela geratuko litzateke hurrengo eboluzioa gertatuz:
+Jatorria gaztelerazko **fandanguero** hitza delakoan gaude, eta honela geratuko litzateke hurrengo eboluzioa gertatuz:
 
 **fandanguero** → **fandangero** → **fandanero** → **fandaero** → **fandero**.
 

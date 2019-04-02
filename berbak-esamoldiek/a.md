@@ -737,11 +737,11 @@ Zerbait egin. Zerbait burutu.
 - *alakotu ein au, eztot ikusten ezer da*
 - *goixin goixien alakotuten dau arek beran gauzek*
 
--egin- zentzua dauka. Hitz egiterakoan berba erdiak erabiltzen direnean, beti esaten da hitz hori.
+**egin** zentzua dauka. Hitz egiterakoan berba erdiak erabiltzen direnean, beti esaten da hitz hori.
 
 ## ALAKUE ##
 
-Aurreko /a/ horretan azentuatua.
+Horrelakoa.
 
 - *berak ekar dau, zera, alakue...*
 - *alakue erosi dau, jersie*
@@ -1050,7 +1050,7 @@ Jasanezina.
 
 ## AMAK ITXIKUE ##
 
-Aspergarria, jasanezina. Aurreko esaldia eta hau esanahi berdinekoak dira, baina hau zabalagoa.
+Aspergarria, jasanezina. **Amak eiñekue** eta hau esanahi berdinekoak dira, baina hau zabalagoa.
 
 - *amak itxikue zara alabatxi, enfadata nakozu*
 - *politxe ezango da, baie amak itxikue*
@@ -1169,9 +1169,9 @@ Puta semea.
 
 ## AMATXITXIE ##
 
-Aurreko biak baino bigunagoa da.
+**Amatxarridxen imie**-lakoa baino bigunagoa da.
 
-*kaka* Hitza oihuzkoa da.
+**kaka** Hitza oihuzkoa da.
 
 - *amatxitxie! Berandu etortiarren dendak zarratute!*
 - *amatxitxie! Ebai dot atzamarra!*

@@ -605,7 +605,7 @@ Gaztelerazko **acarreo**.
 - *orregaz pixugaz nora zuez ba, karrie ein bi zu te*
 - *udxolakaz kasinue karrie da beiek amore emonda
 
-2. Igaro. Formaz aurrekoa bera dugu, baina ez zentzua.
+2. Igaro.
 
 - *karrie dauie etzeko traste guztidxek*
 - *sagarrak karrieten ibilli diez*
@@ -952,7 +952,7 @@ Egunsentia. Itsasoan erabiltzen den berba bat da. Herrian ere esaten da.
 
 ## KLAROTASUNE ##
 
-Aurrekoaren esanahia badu ere, hau gehiago esaten da herrian. Eta gainera, eguraldiari dagokio, hau da, zeruan hodeiak egon ala ez, horren arabera esaten da.
+Egunsentia, **klarie** baino gehiago esaten da herrian. Eta gainera, eguraldiari dagokio, hau da, zeruan hodeiak egon ala ez, horren arabera esaten da.
 
 - *klarotasune dakar, altza eingo dau egualdidxe*
 - *amen ezta ikusten klarotasunik, seguru euridxe eingo dauena*
@@ -1148,7 +1148,7 @@ Gauza batentzat egokia den zuloa.
 
 ## KONKABIDEKO ##
 
-Aurreko hitza bera da, baina konparazioan, edo zentzu figuratuan, pertsona ere izan daiteke egokia den zuloa.
+Gauza batentzat egokia den zuloa, konparazioan, edo zentzu figuratuan, pertsona ere izan daiteke egokia den zuloa.
 
 - *topako dau orrek pe beran konkabidie dakon personie*
 - *beran gorputzek diñotso zelakue dan, gorputzen konkabidekue*

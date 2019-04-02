@@ -107,7 +107,7 @@ Amak seme-alabei botatzen dien mehatxua.
 
 ## PAPUEK DXAN ##
 
-Hau ere goikoaren parekoa dugu, baina gogorragoa izan daiteke. Jo. Agirika egin. Mehatxua.
+Agirika egin. Jotzeko mehatxua.
 
 - *ezpazatoz orduen etzera, papuek be dxan eingo tsutez*
 - *amak esan dau, papuek be dxan eingo tsuzela diro danak gastaten bazuz*
@@ -115,7 +115,7 @@ Hau ere goikoaren parekoa dugu, baina gogorragoa izan daiteke. Jo. Agirika egin.
 
 ## PAPUSIA ##
 
-Aurrekoaren sinonimo bat da.
+Agirika egin. Jotzeko mehatxua.
 
 - *ikusten zu zelako papusiatxue dakun?*
 - *benetan papusia, papuek erremenanteko moduen dakoz da*
@@ -298,7 +298,7 @@ Borrokan.
 - *niri ez dxast gustaten pellikan eitxie baie bera etor da*
 - *ezpazu eitxen pellikan karamelue emongo tsut*
 
-Aurrekoa bezala atzizki batez aldatu da, baina oraingoan moduzko adherbioa egiteko **-ka** atzizkia erabili da.
+**Pellikada** bezala atzizki batez aldatu da, baina oraingoan moduzko adherbioa egiteko **-ka** atzizkia erabili da.
 
 **pelea** + **ka** → **peleaka** → **peliaka** → **pellika**.
 

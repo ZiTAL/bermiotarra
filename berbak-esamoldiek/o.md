@@ -167,7 +167,7 @@ Iskanbila.
 - *zelako okasiñue arma dauie ba, amak eta aitxek pe sartun eiñ dxiez*
 - *nik eztot gu zan sartun, baie azkanien okasinue libreteko sartun ein bi zan nai*
 
-Ez du zerikusirik gaztelerazko **ocasión** bitzarekin. Aurreko hitza bemendik sortu da.
+Ez du zerikusirik gaztelerazko **ocasión** hitzarekin. **Okasinte** hitza hemendik sortu da.
 
 ## OKASIÑUEN MAMARRUE ##
 
@@ -313,7 +313,7 @@ Sikua. Gogorra.
 
 ## ORBELA LEZ ##
 
-Aurrekoa bezala, konparazioan erabiltzen da.
+Sikua. Gogorra. Konparazioan erabiltzen da.
 
 - *orbela lez dauz ikopasak, oin lau urtekuek tizela pentsaten da*
 - *baitxe aunek abillanak pe, dxan be ezin dxiez eiñ*
@@ -376,7 +376,7 @@ Mehatxua. Jipoiaren iragarkia.
 
 ## ORMIEGAZ TRINKE ##
 
-Mehatxua. Aurrekoaren parekoa dugu.
+Mehatxua. Jipoiaren iragarkia.
 
 - *ormiegaz be trinke eingo dauela esan tsonien neuk pe berbie esan tsat*
 - *ni eingo nozule ormiaz trinke, neure tripera ez zarana aillegaten*
@@ -424,7 +424,7 @@ Berri-berria dela adierazteko, baina edozer izan daiteke.
 
 ## ORTIK ORRANTZ! ##
 
-Aurrekoaren parekoa da, baina esaldiak bigunagoak izaten direla ematen du.
+Berri-berria dela adierazteko, baina edozer izan daiteke.
 
 - *alamenien ibill dxe da azkanien ortik orrantz bota dau*
 - *dxun zaitxez ortik orrantz, da ez etorri nireiñe ezetako be*
