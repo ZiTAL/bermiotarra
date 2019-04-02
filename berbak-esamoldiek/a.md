@@ -1400,9 +1400,9 @@ Andanadan Bermeoko hitza hartu da, eta korrika gehitu zaio enfasi handiagoa emat
 
 **andanadan** + **korrika** → **andanakorridxen** 
 
-## ANDANAKORRIJE ##
+## ANDANAKORRIDXE ##
 
-Aurrekoaren parekoa dugu.
+Abiadura bizian.
 
 - *andanakorridxeri! Nora zuez ain arin ba*
 - *andanakorridxe izterratan, ez miñen*
@@ -1575,7 +1575,7 @@ Aingura botata. Leku baten geldi. Itsasoko terminoa da, baina herrian erabilia e
 
 ## ANKINDO ##
 
-Oker edo zeharretara dagoen zerbait. Aurrekoaren aldaki bat dela dirudien arren, zabalagoa da, pertsonekin ere erabiltzen baita.
+Oker edo zeharretara dagoen zerbait. **Ankillie botata**-ren aldaki bat dela dirudien arren, zabalagoa da, pertsonekin ere erabiltzen baita.
 
 - *ori imie ankindo dabil*
 - *ori kuadrue ankindo dau*
@@ -1597,8 +1597,8 @@ Negar-anpuluak.
 - *begidxen anpulue dakola etorri dxast*
 - *guzurrezko anpuluek eitxeko, kinpulie dxan*
 
-Bermeon, aurreko barik erabiltzen da gehienetan.
-Azkuek ere ez du aurrekoa jartzen eta **ampolla**, **burbuja** jartzen du, baina D.A.R.k Mogelen zita batetan jasotzen du. Baita Kintanak ere, baina honek ez du azalpenik ematen. Hiru Mila Hiztegian, lehenengo esangura bietan burbuila moduan agertzen da, baina hirugarrenean negar anpulua bezala agertzen da.
+Bermeon, **negar** barik erabiltzen da gehienetan.
+Azkuek ere ez du **negar** jartzen eta **ampolla**, **burbuja** jartzen du, baina D.A.R.k Mogelen zita batetan jasotzen du. Baita Kintanak ere, baina honek ez du azalpenik ematen. Hiru Mila Hiztegian, lehenengo esangura bietan burbuila moduan agertzen da, baina hirugarrenean negar anpulua bezala agertzen da.
 
 ## ANPURREK / APURREK ##
 
@@ -1797,7 +1797,7 @@ Ardozalea.
 
 ## ARDAUZTO ##
 
-Aurrekoaren parekoa da baina zentzu gogorragoan erabilia.
+Ardozalea. Baina zentzu gogorrean erabilia.
 
 - *arek ardauztok emon dost ostikadie*
 - *ardauztuekaz kopla gitxi*
@@ -2235,7 +2235,7 @@ Aurrerago esan den bezala, **ü** horrek ez du zerikusirik zuberotarrarekin.
 - *arrelepo eruteko andidxeidxe zara*
 - *eziñ dxau korridu, da arrelepo erun bikozu*
 
-Hitz hau ere aurrekoa bezala konposatua da, baina oraingoan **lepo** hitza erabiliz. Azkuek Lekeitio eta Ondarrun kokatzen du hitz hau. Hala ere, esan beharra dago, Bermeon ere asko esaten dela.
+Hitz hau ere **arrekokozillo** bezala konposatua da, baina oraingoan **lepo** hitza erabiliz. Azkuek Lekeitio eta Ondarrun kokatzen du hitz hau. Hala ere, esan beharra dago, Bermeon ere asko esaten dela.
 
 ## ARRIA / ERRIE ##
 
@@ -2485,7 +2485,7 @@ Urrunago.
 - *len baño asiau bixi de*
 - *ez zu gure asiau dxuen?*
 
-Azkuek, Bermeon, Mundaka eta Txorierrin kokatzen du bere hiztegian, baina **asago** forman agertzen da eta forma horrek **más lejos** esan nahi du. Bermeotarrok aurrekoa eta biak erabiltzen ditugu normalean.
+Azkuek, Bermeon, Mundaka eta Txorierrin kokatzen du bere hiztegian, baina **asago** forman agertzen da, eta forma horrek **más lejos** esan nahi du. Bermeotarrok biak erabiltzen ditugu normalean.
 
 ## ASKATAN ##
 
