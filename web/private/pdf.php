@@ -30,3 +30,4 @@ $temp_filename = $temp_filename['uri'];
 file_put_contents($temp_filename, $text);
 shell_exec("pandoc {$temp_filename} -f markdown -t latex --latex-engine=xelatex -o {$temp_filename}.pdf");
 shell_exec("mv {$temp_filename}.pdf {$to}/bermiotarra.pdf");
+echo "OK: {$to}/bermiotarra.pdf";
