@@ -234,7 +234,7 @@ Ume txikiak bezala, korrika.
 
 ## IMELAPURRE ##
 
-Gizon oso lizuna, neska gaztetzoak gustatzen zaakiona.
+Gizon oso lizuna, neska gaztetzoak gustatzen zaizkiona.
 
 - *aregaz ez dxun gero, imelapurre da ta*
 - *ori neskie imelapur bategaz dabill*
