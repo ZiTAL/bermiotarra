@@ -2,5 +2,5 @@
 // html-ak sortu
 include('html.php');
 
-// pdf-a sortu
-include('pdf.php');
+// pdf / epub -ak sortu
+include('pandoc.php');
