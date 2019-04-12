@@ -1755,7 +1755,8 @@ Zauriak laster sendatzen zaizkion pertsona.
 
 ## ARAKO / KUE ##
 
-Aurrekoa, baina oraingoan, beti **nongoa** zentzuan.
+Egin berri.  
+Beti erabiltzen da **nongoa** zentzuaz.
 
 - *orrotzetik arakue ezan da galdu dauen dxaketie*
 - *sutetik arako marmitxe dxan du*
