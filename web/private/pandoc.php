@@ -35,7 +35,8 @@ echo "PDF-a sortzen...\n";
 shell_exec("pandoc {$temp_filename} -f markdown -t latex --latex-engine=xelatex -o {$temp_filename}.pdf");
 shell_exec("cp {$temp_filename}.pdf {$to}/bermiotarra.pdf");
 echo "OK: {$to}/pdf/bermiotarra.pdf\n\n";
+
 echo "EPUB-a sortzen...\n";
 shell_exec("pandoc {$temp_filename} -f markdown -t epub -o {$temp_filename}.epub");
-shell_exec("mv {$temp_filename}.pdf {$to}/bermiotarra.epub");
+shell_exec("mv {$temp_filename}.epub {$to}/bermiotarra.epub");
 echo "OK: {$to}/epub/bermiotarra.epub\n";
