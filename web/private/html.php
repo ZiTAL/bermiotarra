@@ -1,4 +1,5 @@
 <?php
+echo "HTML sortzen:\n";
 require_once('constants.php');
 require_once('common.php');
 include('anchor.php');
