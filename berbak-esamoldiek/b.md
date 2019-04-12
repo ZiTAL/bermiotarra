@@ -1168,7 +1168,7 @@ Presaka ibili.
 - *bitse daidxola ibilli nai azkaningoko trena atrapateko*
 - *trankill ein guz gauzek bitse daidxola barik bidxar be egune dau te*
 
-## BITSIK KALDU BARIK ##
+## BITSIK GALDU BARIK ##
 
 Denborarik galdu gabe.
 

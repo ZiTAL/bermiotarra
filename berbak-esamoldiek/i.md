@@ -180,7 +180,7 @@ Andrazkoaren hilekoak.
 - *illekuek amabi urtegaz etor dxatzoz*
 - *illekorik ezpakozu, ez zauz ondo, ez zauz seguru te*
 - *illekuekaz be uger eitxen dot nik*
-- *ba illekuekaz ballue artzie ezta ona*
+- *ba illekuekaz bañue artzie ezta ona*
 
 ## IMAJIÑIE ##
 
