@@ -445,7 +445,7 @@ Badirudi, antzinako txalupetako belak aforratzetik datorrela hitza, hau da, bela
 
 ## BEGIDXE BE OSTU ##
 
-Geroago ikusiko dugu honen pareko beste esaldi bat, baina hor **beterrie** izango da lapurtzekoa.
+Edozer eta edonola lapurtu.  
 
 - *orrek denderiek begidxe be ostu eingo lekidau*
 - *begi bat bakarrik? Begi bidxek pe laster ostuko txuz orrek*
