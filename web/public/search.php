@@ -101,7 +101,7 @@ if(isset($result))
 {
     foreach($result as $file => $values)
     {
-        $search_results.= "<a href=\"{$file}\">{$file}</a>\n";
+        $search_results.= "<p><a href=\"{$file}\">{$file}</a></p>\n";
         foreach($values as $value)
             $search_results.="{$value}\n";
     }
