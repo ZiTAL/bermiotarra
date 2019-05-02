@@ -29,6 +29,8 @@ Esker berezidxek:
 - @montantxo / twitter
 - Biotz Fradua Agirre
 - Txus Ordorika Prieto
+- xo_lomo / instagram
+
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
 iban

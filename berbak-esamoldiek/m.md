@@ -1,5 +1,16 @@
 # M #
 
+## MAHASTIDXEN KAKA ETA MAHATSIK EZ ##
+
+Zerbait uste ez duzun moduan aurkitzen duzunean.
+
+- *neberie jatekugaz gorarte itzi, eta entera orduko ime txirridxek dana jan, mahastidxen kaka eta mahatsik ez!*
+- *solomuek prijidu dotez parrandatik bueltan natorrenerako ta arrebie lelau allega, eta danak jan! Mahastidxen kaka eta mahatsik ez!*
+
+Guztia amaitu eta gero iristea.
+
+- *Udaletxeko plenuen Guzan-ekuek mahastidxe
+
 ## MAJAJAI ##
 
 Bai zera!
