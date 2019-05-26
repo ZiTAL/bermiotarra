@@ -123,7 +123,7 @@ for i in files:
 
 	img.save(i, "PNG")
 
-txt = "Egunien berba edo esamolde aleatoidxo bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\n"
+txt = "Egunien berba edo esamolde bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\n"
 
 #mastodon
 
