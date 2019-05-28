@@ -134,7 +134,7 @@ txt = "Egunien berba edo esamolde bat, gaurkuen: '"+element['title']+"'\n#bermio
 
 mastodon = Mastodon(
     access_token = sys.path[0]+"/mastodon.credentials",
-    api_base_url = 'https://mastodon.eus'
+    api_base_url = 'https://mastodon.jalgi.eus'
 )
 
 images = []
