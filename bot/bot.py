@@ -12,6 +12,8 @@ import tempfile
 from PIL import Image, ImageFont, ImageDraw
 from TwitterAPI import TwitterAPI
 from mastodon import Mastodon
+from time import localtime
+from time import strftime
 
 # fitxero danak hartun #
 
@@ -67,9 +69,12 @@ element = resources[r]
 
 # gudoten bat hartun
 """
-for i in resources:
-	if(i['id']=='2797b748eb9425e3975f1d724c7e1ff2'):
-		element = i
+local_time = localtime()
+local_time = strftime("%Y-%m-%d", local_time)
+if(local_time=="2019-04-26"):
+	for i in resources:
+		if(i['id']=='2797b748eb9425e3975f1d724c7e1ff2'):
+			element = i
 """
 
 # markdown sortu
