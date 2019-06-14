@@ -1925,6 +1925,13 @@ Berba asko egiten duena.
 
 Azkuek, Arrasaten jaso du, baina zentzua *informalidad* da.
 
+## TXOTORRA ##
+
+Begitxindorra.
+
+- *txotorrari! amumari ikusi zazu popie ela?*
+- *urten dosten txotor mandue, ata kontu pellikan eindxotela*
+
 ## TXOTXOLIÑIE ##
 
 Alua definitzeko beste berba bat, baina gehienetan gaztetxoen alua definitzeko erabilia izaten da.
