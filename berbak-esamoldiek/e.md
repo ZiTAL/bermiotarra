@@ -1417,7 +1417,7 @@ Hartu! Eutsi!
 
 ## ETZIKARAMU ##
 
-Etzidamu, hau da, gaurtik hirugarren eguna.
+Etzidamuren hurrengo eguna, hau da, gaurtik laugarren eguna.
 
 - *noiz zuzie ba etzi? Ez, etzikaramu*
 - *etzikaramu datorrela esan dau*
