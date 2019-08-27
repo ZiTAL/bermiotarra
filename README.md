@@ -30,6 +30,7 @@ Esker berezidxek:
 - Biotz Fradua Agirre
 - Txus Ordorika Prieto
 - xo_lomo / instagram
+- Miren Karmele Beitia
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
