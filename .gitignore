@@ -3,6 +3,10 @@
 .settings
 .vscode
 
+mastodon.credentials
+twitter.credentials
+bot/bot.cache
+
 web/public/berbak-esamoldiek
 web/public/resources/pdf/bermiotarra.pdf
 web/public/resources/epub/bermiotarra.epub
