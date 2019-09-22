@@ -3,8 +3,8 @@
 .settings
 .vscode
 
-mastodon.credentials
-twitter.credentials
+bot/mastodon.credentials
+bot/twitter.credentials
 bot/bot.cache
 
 web/public/berbak-esamoldiek
