@@ -491,7 +491,7 @@ Begiak lausotuta edo erabat nekatuta.
 
 ## BEGIDXEK NORTERA BEGIRE ##
 
-Begi okerrak. Geroago ikusiko dugu honen antzeko beste esaldi bat.
+Begi okerrak.
 
 - *orrek imiek zelan dakoz begidxek, nortera begire dakoz koitxaduek*
 - *orrek begi bidxek takoz, baie arek begi bet bakarrik tako nortera begire*

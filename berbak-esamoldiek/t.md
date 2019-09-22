@@ -275,7 +275,7 @@ Tentel bihurtu, aditz forman.
 - *ezkondu danik eta ona tenteldu eiñ dxe*
 - *iñor ez tenteldu zeure berbakaz*
 
-Azkuek ez du jaso baina D.A.E.k bai, baina adberbio forman, hau da, geroago ikusiko duguna, Ondarruko Agustin Zubikaraien zita bat aipatuz. Bermeon, aditz funtzioa betetzen du forma honek.
+Azkuek ez du jaso, baina D.A.R.k bai, **tenteldute**, adberbio forman, Ondarruko Agustin Zubikaraien zita bat aipatzen da. Bermeon, aditz funtzioa betetzen du forma honek.
 
 ## TENTELDUTE ##
 
@@ -286,7 +286,7 @@ Tentelduta, adberbio forman.
 - *tenteldute nau daburduko, kafe kargau bet artun bikot espabilleteko*
 - *on dan beste jentegaz, an ibil gariez tenteldute, ara ta ona*
 
-Lehen esan bezala, adberbio funtzioa, kasu honetan betetzen du eta ez bestean.
+Lehen esan bezala, adberbio funtzioa, kasu honetan betetzen du, eta ez bestean.
 
 ## TENTELKEIDXEK ##
 
@@ -1449,7 +1449,7 @@ Badago kantu bat lelo ori erabiltzen dena:
 
 ## TXILIÑUE ##
 
-Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste aldaera bat hobeto esanda. Geroago ikusiko dugun **txitxiliñue**, ume baten zakila definitzeko erabilia. Honen laburpena izango dugu goikoa.
+Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste aldaera bat hobeto esanda. **txitxiliñue**, ume baten zakila definitzeko erabiltzen den hitzaren laburpena da.
 
 - *txiliñue be ez dxatzo ikusten koitxaduri*
 - *zelan ikusiko dxatzo txiliñue imiri beran mamiñekaz tapata dako ta*

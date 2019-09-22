@@ -1002,7 +1002,7 @@ Pertsona edo animalia oso zikina.
 - *egidxe da, eskatza koipien andiko mandielez dakoie*
 - *baie txetxo! Koipezto! Koipien andiko mandie zara!*
 
-Koipearen handiko alderdia garbia beharko luke izan, baina ez, horretan geratu da. Gainera, ikusiko ditugu geroago beste adibide batzuk.
+Koipearen handiko alderdia garbia beharko luke izan, baina ez, horretan geratu da.
 
 ## KOIPIEN ARRAZIE ##
 

@@ -465,7 +465,7 @@ Azkuek interjekzio moduan sartzen du bere hiztegian. Baina D.A.R.k, Ortuzar aipa
 
 Aitaginarrebagai.
 
-Oso normala da, geroago ere ikusiko den bezala, **-ki** atzizkia erabiliz honelako formak egitea.
+Oso normala da, **-ki** atzizkia erabiliz honelako formak egitea.
 
 - *zeure aitxeñarrabakidxegaz ikusi dot*
 - *beran aitxeriarrabakidxe ezango dana etorri da*
@@ -1374,7 +1374,7 @@ Konparazioan erabiltzen da. Arraina itsasoaren azaletik doanean, dizdira gorria 
 
 Abiadura.
 
-Geroago ere agertuko den **andanada** hitzaren parekoa dugu. Biak erabiltzen dira; eta gutxienez parekatuta dago erabilera.
+**andanada** hitzaren parekoa dugu. Biak erabiltzen dira; eta gutxienez parekatuta dago erabilera.
 
 - *andana andidxe darue aren kotxiek*
 - *andana gitxiko bapora da*
@@ -2227,13 +2227,13 @@ Sorbalda gainean norbait eramatea. Gehienetan umea.
 - *arrekokozillo artzien banozu eztot eingo negarrik*
 - *aitxe danak on diez imiek arrekokozillo artun de*
 
-**kokozillo** hitza geroago azalduko den legez, buruaren amaieraren erdialdea da atzeko alderdian.
+**kokozillo** hitza, buruaren amaieraren erdialdea da, atzeko alderdian.
 
-**kokota** + **zillo** hitzez konposatua. Baina **zillo** hitza ere, geroago agertuko da. Hala ere azalpen bat egin beharra dago, hau da, nola sortu den hitz hori.
+**kokota** + **zillo** hitzez konposatua.
 
 **zulo** → **zulu**; **zulu** → **zülu**; **zülu** → **zilu**; **zilu** → **zillu**.
 
-Aurrerago esan den bezala, **ü** horrek ez du zerikusirik zuberotarrarekin.
+**ü** horrek ez du zerikusirik zuberotarrarekin.
 
 ## ARRELEPO ##
 

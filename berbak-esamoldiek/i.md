@@ -701,7 +701,7 @@ Urruneko senideak edo ahaideak. Ia beti zentzu peioratiboan esaten da.
 
 Izterra.
 
-Bermeon ez da espezifikatzen zein alderdi den iztarra, eta berdin da goia, erdia zein behea, hau da, zangoa, oina edo izterra bera. Zentzu berean erabilizen den beste hitz bat, geroago agertuko den **kadera**.
+Bermeon ez da espezifikatzen zein alderdi den iztarra, eta berdin da goia, erdia zein behea, hau da, zangoa, oina edo izterra bera. Zentzu berean erabilizen den beste hitz bat: **kadera**.
 
 - *izterreko miñe dakot*
 - *izterra apurtu dau* (zangoa)

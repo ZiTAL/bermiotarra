@@ -511,7 +511,7 @@ Zerbait ospatzeko egiten den bazkaria edo afaria.
 - *baporan berinkaziñuen dxabie okiñ dxun kasinuen*
 - *etze barridxeri teilletue imitxen dxatzonien be okiñ dxu dxabie*
 
-Geroago ikusiko dugun **jana** hitzarekin batera erabiltzen da, baina hau gutxiago.
+**jana** hitzarekin batera erabiltzen da, baina hau gutxiago.
 
 ## DXABONADURIE ##
 
