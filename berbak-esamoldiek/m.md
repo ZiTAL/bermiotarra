@@ -859,6 +859,12 @@ Ausardia izatea.
 - *arek eziakoie mosuen bizarrik Izarora uger dxuteko*
 - *eztakule mosuen bizarrik ori eitxeko? lkusiko zue zelan baietz*
 
+## MUKURRE ##
+
+Pertsona dorpea.
+
+- *horregaz garri bueltiegaz zelan ezta ezango mukurre ba?*
+
 ## MUNDEKAKO LORUE LEZ ##
 
 Izorratuta.

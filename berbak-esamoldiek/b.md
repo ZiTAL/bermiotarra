@@ -1046,7 +1046,7 @@ Zoladura. Lurra.
 
 ## BIETZARRIDXE ##
 
-Estropezu. Era guzlietakoak.
+Estropezu. Era guztietakoak.
 
 - *plazara dxun nai da bidien bietzarridxe topa dot, neure lagunegaz topa nai*
 - *kuidadugaz ibilli biko zara bietzarridxe dxo barik*
@@ -1153,7 +1153,7 @@ Arrodatzen.
 
 - *eskilatatatik dxeusi de birinbolaka*
 - *bostekue birinbolaka dxun da kañotik barrure*
-- *txikilliste guzlidxek dxeusi diez birinbolaka karreran*
+- *txikilliste guztidxek dxeusi diez birinbolaka karreran*
 - *Belokiri aurrien para dxatzo txikilliste bat, da gero bidxek dxun diez birinbolaka*
 
 D.A.R.k, Beran jartzen du hitz hau, baina froga daitekeen bezala, hitz honen erabilera Bermeon oso zabala da.

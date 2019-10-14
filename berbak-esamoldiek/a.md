@@ -2474,7 +2474,7 @@ Ez dakigu gaur egun beste inon esaten den, baina Bermeon ez da besterik erabiltz
 Nekatu.
 
 - *asesiñe eiñ dxela etzeko biarrak eitxen ezan dau*
-- *asesiñe-asesiñe ein etze guzliko kristelak garbiten*
+- *asesiñe-asesiñe ein etze guztiko kristelak garbiten*
 
 ## ASESIÑETA ##
 
