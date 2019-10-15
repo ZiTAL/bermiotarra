@@ -581,7 +581,7 @@ Masa. Kantitatea. Asko.
 
 ## MASKARIE ##
 
-Lotsagabekoa. Aurpegi-handi.
+Lotsagabea. Aurpegi-handi.
 
 - *maskarie be zelakue zara ba, arpidxe be ez dxatzu domaten*
 - *maskara ederra da a, iñok ezebe esan barik etor da dxaten*
@@ -591,14 +591,14 @@ Gaztelerazko **máscara** hitzetik hartu da, eta esanahia ere bertatik hartu da.
 
 ## MASKARIEN ARPIDXE ##
 
-Lotsagabekoa dela adie raz teko.
+Lotsagabea dela adierazteko.
 
 - *nik esan dotela zu ez zanda garbidxel Maskarien arpidxe dakozu zuk*
 - *arek bakixu zer dakon, maskarien arpidxe ederra, guzurti zantarra da a*
 
 ## MASKETU ##
 
-Lotsagabekoa.
+Lotsagabea.
 
 - *ori be esan ein zu, ori masketu ezatie da*
 - *ez, ori da masketu baiño andidxaue ezatie*
