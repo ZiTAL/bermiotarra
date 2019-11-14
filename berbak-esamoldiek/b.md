@@ -574,6 +574,14 @@ Irabaziei, ondasunei edo beste edozeri begizkoa egitea.
 - *begiz dxan biar doskuie bera diro gitxidxe*
 - *begiz dxan biar dostie au imie ba*
 
+## BEGIZURI ##
+
+Begi urdinak dituzten pertsonei esaten zaie.
+
+- *neure lobie begizuridxe da, begidxek urdiñ-urdiñek dakoz*
+- *baie ze begi politxe dakoz neure begizuritxuek!*
+- *ze gatxa dan begizuridxekaz ez maitemindxutie!*
+
 ## BEINTIZINKO BAIÑO ARRUAU ##
 
 Erabat harro.
