@@ -59,13 +59,19 @@ Sikatuta. Konparazioan.
 
 ## MAKATZA ##
 
-Gizon galanta, itxurosoa. Berriro fruta baten izena, adjektibo bat sortzeko.
+1. Gizon galanta, itxurosoa. Berriro fruta baten izena, adjektibo bat sortzeko.
 
 - *zemat gustaten dxast berori mutille ba, makatza da ta*
 - *atzoko pelikuleko mutille bai ezan dala makatza*
 - *zeure nebie be eztau txarto e? A be makatza bada ta*
 - *niri Paul Newman gustaten dxast, makatza lez dau ori be ta*
 - *ori zarra da, baie Robert Redford bai dauela makatza lez*
+
+2. Mozkorra.
+
+- *atzo zelako makatza hartun zan dun txosnatan!*
+- *atzoko makatzagaz gaur bero-bero nau!*
+- *zelako makatzak hartunguz andramaidxetan! kankankan!*
 
 ## MAKIÑE GUZTIDXEN ##
 
