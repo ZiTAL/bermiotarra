@@ -576,7 +576,7 @@ Irabaziei, ondasunei edo beste edozeri begizkoa egitea.
 
 ## BEGIZURI ##
 
-Begi urdinak dituzten pertsonei esaten zaie.
+Begi argiak dituzten pertsonei esaten zaie.
 
 - *neure lobie begizuridxe da, begidxek urdiñ-urdiñek dakoz*
 - *baie ze begi politxe dakoz neure begizuritxuek!*
