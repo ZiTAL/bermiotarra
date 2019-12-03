@@ -595,9 +595,13 @@ Antzarrak ferratzera bota.
 
 ## AIXIE EMON ##
 
-Haserretu. Gastatu. Antzarrak ferratzera bidali.
+1. Haserretu. Antzarrak ferratzera bidali.
 
 - *an, asarratu diez, emon tzo aixie*
+- *asarratu dast Zarautzeko andobie, emon dost aixie*
+
+2. Gastatu.
+
 - *Bilbora dxun dxatzuz arek, diruei aixie emoten*
 - *zer, emon tzazu diruei aixie? Oiñ amarik eztau etzien, ezta?*
 
