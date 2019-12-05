@@ -504,6 +504,13 @@ Kasu askotan bezala, arrain baten izena erabili da adjetibo bat sortzeko.
 - *bestelakue zauz or gerrie emoten durdoi ori*
 - *gusta be eitxie bera durdoien mosodune*
 
+## DURKUBETUTE ##
+
+Umeak logura direla adierazteko erabiltzen da.
+
+- *au imie durkubetute dau, imiñi sehaskien*
+- *pelikulie ikusten imie durkubetute! Ohire eruen lo geratu orduko*
+
 ## DXABIE ##
 
 Zerbait ospatzeko egiten den bazkaria edo afaria.
