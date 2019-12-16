@@ -31,6 +31,7 @@ Esker berezidxek:
 - Txus Ordorika Prieto
 - xo_lomo / instagram
 - Miren Karmele Beitia Esteban
+- Jon Zarate Fradua
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

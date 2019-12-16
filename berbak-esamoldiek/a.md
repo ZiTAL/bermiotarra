@@ -783,7 +783,7 @@ Dena sinistu edo dena, den moduan hartzea.
 
 ## ALANDAZE ##
 
-Dena dela.
+Hori dela eta. Ondorioz.
 
 - *eztot, eingo errekadue, alandaze, ez on nik eingo dotenari begire*
 - *gaur ezin dxu Bilbora juen, alandaze, bidxarko itzi biku*
