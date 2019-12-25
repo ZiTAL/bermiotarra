@@ -73,11 +73,13 @@ Jenio txarrean umore txarrean.
 
 ## TALLEPE / TELLAPE ##
 
-Auzoa. Teilatupea. Biak erabiltzen direnez biak sartu dirut baten.
+1. Auzoa. Biak erabiltzen direnez biak sartu dirut baten.
 
-- *geure tallepien bixi da ori mutille*
-- *eneki gure zuen tallepera dxutie bixitxen*
-- *neuk elekidot gure ezango zeu etortie geure tallepera*
+- *geure tallepeko jaidxetan herri kirolak ongo diez*
+
+2. Teilatupea.
+
+- *geure tallepera bizitzen etor diez, baie ondiño ez dotez ikusi kolarran*
 
 ## TALLEPEKUE ##
 
