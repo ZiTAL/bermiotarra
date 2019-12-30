@@ -102,7 +102,7 @@ with os.fdopen(fd, 'w') as tmp:
 	tmp.write(md)
 
 # pdf-ra pasa
-os.system("pandoc "+path+" -f markdown -t latex --latex-engine=xelatex -o "+path+".pdf")
+os.system("pandoc "+path+" -f markdown -t latex --pdf-engine=xelatex -o "+path+".pdf")
 
 # pdf-tik png-ra
 os.system("convert "+path+".pdf -background white -alpha remove "+path+".png")
