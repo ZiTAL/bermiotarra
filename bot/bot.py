@@ -94,7 +94,7 @@ fontsize: 20pt
 
 """
 
-md = md +"##"+element['title']+"##\n"+element['desc']
+md = md +"## "+element['title']+" ##\n"+element['desc']
 
 # artxibo tenporala
 fd, path = tempfile.mkstemp()
