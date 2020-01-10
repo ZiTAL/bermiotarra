@@ -885,11 +885,17 @@ Asko, kantitate handia.
 
 ## KIÑE ##
 
-Azkura izaten denean hazkatzea.
+1. Azkura izaten denean hazkatzea.
 
 - *kiñeten nabil, baie bizarreko azgurie ez dast pasaten*
 - *bizarra kiñeten... Magu pentsakor!*
 - *belarridxe kiñeten hasten naienien ezin gelditxu ibiltzen nai!*
+
+2. Zirikatu. Zentzu guztietan.
+
+- *biar bat eitxeko beti ibilli bi zara kiñeten*
+- *kiñeta be arek eztau eitxen berak gure dauena baiño*
+- *gure alboko andrie beti dabilst kiñeten, gaur be esan dost aulako bat*
 
 ## KIRIKILLO ##
 
@@ -921,14 +927,6 @@ Keinua.
 - *enai konturatu lelangotan da berak eiñ dxostenien kiñadie aurduen dxeusi nai kontuen*
 - *bera neuri kiñadaka, da ni santainfanzian*
 - *orren kiñadiek zeuzer gure dau esan, kuidadue gero*
-
-## KIÑE ##
-
-Zirikatu. Zentzu guztietan.
-
-- *biar bat eitxeko beti ibilli bi zara kiñeten*
-- *kiñeta be arek eztau eitxen berak gure dauena baiño*
-- *gure alboko andrie beti dabilst kiñeten, gaur be esan dost aulako bat*
 
 ## KIÑUE ATARA ##
 
