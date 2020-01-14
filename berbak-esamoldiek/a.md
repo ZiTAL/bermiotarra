@@ -1816,7 +1816,7 @@ Ardozalea. Baina zentzu gogorrean erabilia.
 
 ## ARDI GALDUE ##
 
-Pertsona bakartia. Nora ezean ibiltzea.
+Pertsona bakartia. Noraezean dabilena.
 
 - *ori beti dabil bakarrik, ardi galdue da koitxadue*
 - *bera ezan da aulakue, ardi galdutxue*
