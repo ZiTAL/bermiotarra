@@ -528,9 +528,9 @@ Arropa garbiketa.
 - *nik dxabonadure asko dakot eta eziñ dxot urten ba*
 - *dxabonadurek interiñieri emoten tsatez*
 - *eskeitxe dakozun dxabonadurie, ariñ ein zu*
-- *dxabonadurek ez palelddotez okiñ Bilbora dxungo leidnai*
+- *dxabonadurek ez palekidotez okiñ Bilbora dxungo leidnai*
 
-Hitz hau, fonetikazko aldakuntzen bidez ezberdintzen da gaztelerazkotik. Normalki erabiltzen den hitz bat da eta aspalditik gainera.
+Hitz hau, fonetikazko aldakuntzen bidez ezberdintzen da gaztelerazkotik. Normalki erabiltzen den hitz bat da, eta aspalditik gainera.
 
 ## DXABOTURE ##
 
