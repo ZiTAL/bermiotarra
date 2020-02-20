@@ -1186,7 +1186,7 @@ Kontagaia.
 
 ## KONTUEK ETA ERROZOIEK ESKATU ##
 
-Esaldi hau oso erabilia da edozein egoeratan. Esaldiak ikusiz gero, hobeto adierazten da horren erabilera nolakoa den.
+Zerbaitengatik azalpenak eskatu.
 
 - *nora zatoz nireiñe kontuek eta errozoiek eskatuten, dxun beraiñe, berak eiñ dxau te*
 - *barreka artun dau notezidxe, baie laster dxungo da kontuek eta errozoiek eskatuten*
