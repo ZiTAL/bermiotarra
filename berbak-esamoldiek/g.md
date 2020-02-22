@@ -597,7 +597,7 @@ Korrokada.
 
 Zerbait zalantzan jartzen denean esaten da.
 
-. *Enrique Iglesias datorreIa Bermiora? Gu irurok bost*
+- *Enrique Iglesias datorreIa Bermiora? Gu irurok bost*
 - *dana merketuko dala? Gu irurok bost*
 
 ## GUARDA GUARDAKA ##
