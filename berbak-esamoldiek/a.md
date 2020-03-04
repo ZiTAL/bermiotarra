@@ -3155,7 +3155,7 @@ Aditz funtzioan.
 
 ## AZELERATA ##
 
-Adberbioan funtzioan.
+Haserretu. Zenetik irten.
 
 - *azelerata etor da lotsak emoten*
 - *azelerata bazauz tila artun*
