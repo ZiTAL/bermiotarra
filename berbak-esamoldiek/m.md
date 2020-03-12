@@ -485,7 +485,7 @@ Tentela, zentzu peioratiboan ia beti.
 
 ## MARITXONA ##
 
-Modan dagoena baino arropa luzeagoak eramaten dituena. Mlodara janzten ez dena. Lehen baserritik etorritakoei esaten zitzaien.
+Modan dagoena baino arropa luzeagoak eramaten dituena. Modara janzten ez dena. Lehen baserritik etorritakoei esaten zitzaien.
 
 - *ori erropie marintxona lez dakozu*
 - *marintxona dozu dxasten*
