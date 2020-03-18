@@ -523,11 +523,13 @@ Gaztelerazko **tirria** da, eta zentzua ere berbera. Azkuek hiru definizio emate
 
 ## TOFEZ ##
 
-Aurrez aurre aurkitu.
+Aurrez aurre aurkitu. 
 
 - *beragaz tofez ein da arpire beitu be eztost ein*
 - *da oiñ arte eztozu eiñ tofezik?*
 - *eiñ dxau orrek tofez beiñola ziñetik urten dunien*
+
+Seguruena frantseseko *to face* hitzetatik hartuta dagoela.
 
 ## TOKAMENA ##
 
