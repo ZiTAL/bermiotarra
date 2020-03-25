@@ -286,7 +286,7 @@ Sistema horretan antxoa guztiz **masa** eginda etortzen zenez horregatik zentzu 
 Maneiatu.
 
 - *orregaz kotxiegaz enai manejaten ondo*
-- *ezin inaneja ibill dxe da azkanien bertan itxi dau lapikue*
+- *ezin maneja ibill dxe da azkanien bertan itxi dau lapikue*
 - *erropie dxesten maneja bez, da gixonari esan tsat imitzeko*
 - *au erlojue eruen, da ezpazara manejaten atzera ekarri*
 
