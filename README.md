@@ -32,6 +32,7 @@ Esker berezidxek:
 - xo_lomo / instagram
 - Miren Karmele Beitia Esteban
 - Jon Zarate Fradua
+- Iraia Larrozea Zuazo
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

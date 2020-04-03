@@ -414,8 +414,8 @@ Diruak berak esan zer egin behar den.
 
 Diruzale amorratua.
 
-- *zelako diruen kukurrukue da ba, eztako beste pentzamenturik*
-- *diruen kukurrukue ezatie gauze itzala data pentzaten dot*
+- *zelako diruen kukurrukue da ba, eztako beste pentsamenturik*
+- *diruen kukurrukue ezatie gauze itzala dala pentsaten dot*
 
 ## DIRUEN MAMARRUE ##
 
