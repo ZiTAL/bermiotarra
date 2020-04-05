@@ -29,9 +29,10 @@ Esker berezidxek:
 - @montantxo / twitter
 - Biotz Fradua Agirre
 - Txus Ordorika Prieto
-- xo_lomo / instagram
+- @xo_lomo / instagram
 - Miren Karmele Beitia Esteban
 - Jon Zarate Fradua
+- Igor Etxaburu Bulukua
 - Iraia Larrozea Zuazo
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)

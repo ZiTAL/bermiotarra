@@ -802,7 +802,7 @@ Hori dela eta. Ondorioz.
 
 ## ALATXI ##
 
-Aldaera hau *alabatxi* berbarena da.
+Neska gaztea. Oso erabilia da adineko zein gazteen artean. Aldaera hau *alabatxi* berbarena da.
 
 Biak erabiltzen dira normalki, baina hamabost urtetik beherakoetan gutxi entzuten da, arruntagoa baita *alabatxi*.
 
