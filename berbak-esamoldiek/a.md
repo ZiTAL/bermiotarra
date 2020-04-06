@@ -1001,7 +1001,7 @@ Gauzak edozelan botata, ordena barik.
 
 ## ALTRANPONIEN ##
 
-**Altranpon** hitzaren aldaera da, eta zentzu berdinekoa.
+Gauzak edozelan botata, ordena barik. **Altranpon** hitzaren aldaera da, eta zentzu berdinekoa.
 
 - *plaidxera dxuteko priesagaz altranponien itxi txuz beran erropak*
 - *zer eztot topa bienganien ba, zapatak, libruek, boltsak, dana altraponien*
