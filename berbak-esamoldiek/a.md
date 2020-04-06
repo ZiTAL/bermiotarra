@@ -791,7 +791,7 @@ Hori dela eta. Ondorioz.
 
 ## ALATXE ##
 
-**alabatxu** hitzaren aldaera da, adinekoek emakume gazteei zuzentzeko hitza, hain zuzen ere.
+Berba hau adinekoen artean edo hauek emakume gazteei zuzendutakoan bakarrik erabiltzen da.
 
 **Alatxi** hitzaren forma despektiboa, gehienetan gizonezkoak emakumeei zuzentzen zaienean agertzen da. Askotan errepikatuz erabiltzen da eta gehienetan haserrezko tonua izaten du.
 
@@ -799,6 +799,8 @@ Hori dela eta. Ondorioz.
 - *Alatxe-alatxe, ortik ezpazuez osti bet omongo tzut*
 - *alatxe etorri ba*
 - *alatxe, eztakot zeure kontorik*
+
+**alabatxu** hitzaren aldaera da, adinekoek emakume gazteei zuzentzeko hitza, hain zuzen ere.
 
 ## ALATXI ##
 
