@@ -267,6 +267,8 @@ Azkuek eta Kintanak jaso dute hitz hau, baina ez esanahia, hau ezberdina baita b
 
 ## LASTATIDXE ##
 
+Lasto multzoa.
+
 - *lastatidxen lasto tartien elegante eitxen da lo*
 - *lastatidxen lo? Dauzen beste moskitxogaz, astuen boluek!*
 
