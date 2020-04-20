@@ -1369,6 +1369,13 @@ Duela berrogeitaz urteak -orain ere noizbehinka ikus daiteke- joko baten jardute
 - *ez ibilli andaka izterra apurtuko zu te*
 - *andaka ibilli gariez goixe guztidxen*
 
+## ANDAKIDXOLA ##
+
+Izorra dadila.
+
+- Ondokuen txakurre ausike dauela? Ba nik black metala martxan! Andakidxola!
+- Horrek papauek dirue galdu dauela? Andakidxola! Okintsue da te!
+
 ## ANDAN GORRIDXE ##
 
 Konparazioan erabiltzen da. Arraina itsasoaren azaletik doanean, dizdira gorria gertatzen da, arrain masak sortzen duena.

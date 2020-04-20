@@ -34,6 +34,7 @@ Esker berezidxek:
 - Jon Zarate Fradua
 - Igor Etxaburu Bulukua
 - Iraia Larrozea Zuazo
+- Aner Uriondo
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
