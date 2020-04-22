@@ -938,8 +938,8 @@ Zartada. Betondokoa.
 Kolpatu. Jo.
 
 - *emoten tsuten ostidxegaz betondue be baltzitxu eingo tsut*
-- *amerik tire betondue baltzitxu orduko*
-- *zapatien takoiegaz dxo da betondue baltzitxuko tsola esan tso*
+- *ametik tire betondue baltzitxu orduko*
+- *zapatien takoiegaz dxo, da betondue baltzitxuko tsola esan tso*
 - *betondue baltzitxu barik gero, nok esan dotsu zuri berandu etorteko?*
 
 ## BIARRARI IXO ##
