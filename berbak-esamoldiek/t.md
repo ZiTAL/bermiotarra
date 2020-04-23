@@ -1057,7 +1057,7 @@ Arraina portura etortzen zenean, antzina kanpaia jotzen zen. Horri kanpaia zerit
 
 - *goixien goixetik dxo dau gaur turrune*
 - *entzun zu turrunik ela?*
-- *turrune dxoten daueneko batera alizaten nai oitxik*
+- *turrune dxoten daueneko batera altzaten nai oitxik*
 
 ## TURTULO / UE ##
 
