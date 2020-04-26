@@ -7,6 +7,9 @@ Ene Jaungoikoa!
 - *Jangoiko fraka zabala, emoizu argitxasune!*
 - *egidxe da gerrie datorrena? Jangoiko fraka zabala lagunduixu zerotik*
 - *beti zauz zu Jangoiko fraka zabalazi erregututen da eztotzu kasurik eitxen*
+- *Jangoiko fraka zabala...! Eta kantzontzilo istuek!
+
+Askotan batek **jangoiko fraka zabala** esatean, askotan beste batek **eta kantzontzilo istuek** esaldiarekin erantzuten dio.
 
 ## JANGOIKUEN ERREÑUTAN	##
 
