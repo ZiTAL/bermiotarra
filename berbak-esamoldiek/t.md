@@ -329,7 +329,7 @@ Gaztelerazko **viento terral** hitza erabiltzen da honetarako.
 
 ## TERRESTE ##
 
-Lehorrean lan egiten duena. Ez dakit kostaldeko beste berrietan erabiltzen den hitz bau. Bermeon asko.
+Lehorrean lan egiten duena. Ez dakit kostaldeko beste herrietan erabiltzen den hitz bau. Bermeon asko.
 
 - *fameli guztidxe esan da terrestiena*
 - *terrestiek bixidxe dakoie ona, gure aldien*
