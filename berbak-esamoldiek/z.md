@@ -108,7 +108,7 @@ Lizunkeriak esaten eta egiten dituena.
 
 Lotsagabea.
 
-- *zu rantarra, etor bia auna ia, arpidxe apurtuko tsut eta*
+- *zu zantarra, etor bia auna ia, arpidxe apurtuko tsut eta*
 - *a lotsabako zantarra ezan da, nireitxik gauzek esaten on dana*
 - *zeu zantarrori zeu, zeu zara, niri kondutie kendu dostazune*
 
