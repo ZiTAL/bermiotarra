@@ -1929,7 +1929,7 @@ Berba asko egiten duena.
 
 Azkuek, Arrasaten jaso du, baina zentzua *informalidad* da.
 
-## TXOTORRA ##
+## TXOTOR ##
 
 Begitxindorra.
 
