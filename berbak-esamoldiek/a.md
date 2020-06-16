@@ -1791,7 +1791,7 @@ Punta batetik bestera ibiltzea.
 
 ## ARBALDADIE ##
 
-Zama. Baina ez da fisikoa, erantzukizun bat izatea baizik.
+Zama. Baina ez da fisikoa, erantzukizuna izatea baizik.
 
 - *etzie erosi dauela diñozu? Bestelako arbaldadie artun dau orduen*
 - *honegaz legiegaz arbaldada andidxek datortzoz armadoriri*

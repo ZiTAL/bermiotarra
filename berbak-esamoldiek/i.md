@@ -285,7 +285,7 @@ Atunaren belarriak deituak. Gazteleraz *ventresca* deitzen diete, baina Bermeon 
 - *eztau indxadarik, eztau atunik eta*
 - *karu dauz gero indxadak, laster lebatza baiño karuau*
 
-## INFERNORA ZAPATATA GUZTI ##
+## INFERNORA ZAPATA TA GUZTI ##
 
 Gaiztoa, maltzurra edo gezurtia izateagatik infernuko sua jasango duenaren iragarkia.
 
