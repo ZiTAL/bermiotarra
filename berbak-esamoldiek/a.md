@@ -949,7 +949,7 @@ Gaztelerazko **aliado** hitzak guztiz esanahi ezberdina du.
 
 ## ALIJANDRO ##
 
-**Aliadue** hitza da honen sorburua. Baina honen zentzua zabalagoa da. Gauzei aplikatzen zaie eta askotan, adjektibo funtzioan ez-ezik izen funtzioa ere hartzen du.
+Zerbait edipurdikoa. **Aliadue** hitza da honen sorburua, baina honen zentzua zabalagoa da. Gauzei aplikatzen zaie eta askotan, adjektibo funtzioan ez-ezik izen funtzioa ere hartzen du.
 
 - *artazidxek ixena alijandro*
 - *au batela alijandro utse da*
