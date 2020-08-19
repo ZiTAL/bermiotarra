@@ -605,7 +605,7 @@ Jateko gogorik ez.
 - *aspaldidxon dxangangar nau, eztakot dxateko ganarik*
 - *geure imie be dxangangar dabil*
 - *dxangangar dauela, baie berak langostino guztidxek dxan*
-- *ori ezta dxangangar egotie, askatan dxatie baitio* IBAN
+- *ori ezta dxangangar egotie, askatan dxatie baitio*
 
 Forma hau, hiztegietan datorren **jangar** hitzaren aldaera izan daiteke.
 
