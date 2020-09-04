@@ -85,12 +85,16 @@ Matxinsaltoa.
 
 ## SALTSA / IE ##
 
-Saltsa. Endredoa.
+1. Saltsa. Endredoa.
 
 - *saltsie armaten artistie da*
 - *saltsatan sartzien da, ta gero eziñ dxau urten*
 - *zuk zeuk arma zu saltsie, da gero zeure burue libre*
 - *saltsie gure bazu, dxuen aurreko tabemara an topako zu te*
+
+2. Katarroa edo hotzituta egoteak dakarren mukiei esaten zaie.
+
+- *Dakoten katarruegaz surretik dakot saltsie daidxola!*
 
 Azkuek ez du jaso, baina bai D.A.R.k. Honek beste zentzu batez jaso du.
 
@@ -472,6 +476,12 @@ Besterik gabe. Ezer barik.
 
 - *etzetik urten dauenien soiñien soiñekuekaz urten zauen, da bueltan aberastute etor da*
 - *soiñien soiñekuekaz bota dau etzetik kanpora*
+
+## SOLDU ##
+
+Oztopatuta dagoen zerbait libratu.
+
+- *Kiwidxek jan bidiez tripek solduteko*
 
 ## SOLUE ##
 
