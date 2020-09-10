@@ -36,6 +36,7 @@ Esker berezidxek:
 - Iraia Larrozea Zuazo
 - Aner Uriondo
 - Amaia Kapanaga Loyola
+- Gotzon Unanue Mentxaka
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

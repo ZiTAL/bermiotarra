@@ -852,6 +852,12 @@ Kategorikoki. Ia beti izaten da erantzuna ezezkoa.
 
 Gaztelerazko zentzua bera dauka: **mensaje** = **provisión diaria**.
 
+## ERREKAJABOLIE ##
+
+Sorgin-orratza.
+
+- *Ze politxek dizen errekajaboliek, ata kontu, hegaz eitxen dauien marisorgiñek dizela*
+
 ## ERREKALISTIE ##
 
 Ez dakit gaur mezulari edo mandatari bati gaztelerazko **recadista** esaten bazaio. Bermeon oraindik erabiltzen da azken hau, baina geure erara, hemen ikusten dugun moduan.
