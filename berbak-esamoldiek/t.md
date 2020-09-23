@@ -1718,7 +1718,7 @@ Arreta erakartzeko egiten dugun zarata hori: txist-txist. Adberbio funtzioan age
 
 ## TXISTERA BOTA ##
 
-Esaldi honetan aditz iragankorrak erabiltzen dira: eduti, bota, atera, eta abar. Baina **txiste** arpoia da eta zentzua apur bat aldatu egiten da, zeren badakigu arpoiak berak harrapatzen duela arraina, eta kasu honetan **arraina** bera dator arpoira. Dena den, hor doaz esaldiak.
+Esaldi honetan aditz iragankorrak erabiltzen dira: eduki, bota, atera, eta abar. Baina **txiste** arpoia da eta zentzua apur bat aldatu egiten da, zeren badakigu arpoiak berak harrapatzen duela arraina, eta kasu honetan **arraina** bera dator arpoira. Dena den, hor doaz esaldiak.
 
 - *bota txistera or zapatan barruen gordeta dakozun dirue*
 - *txo, esan amari botateko txistera ostu dostezen diruek*
