@@ -324,7 +324,7 @@ Barre faltsua. Pertsona hipokrita.
 
 Broma gutxi.
 
-- *niri barreketa gilxi, eztakot bromatarako gogorik eta*
+- *niri barreketa gitxi, eztakot bromatarako gogorik eta*
 - *orrek eguno be eztako ganarik, orreri barreketa gitxi*
 
 ## BARROKUE ##
