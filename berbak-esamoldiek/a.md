@@ -3159,7 +3159,7 @@ Haserretu. Zenetik irten.
 Aditz funtzioan.
 
 - *ori esan tzonien azelera dxatzu da emontzo belarriondokue*
-- *ez ezelera iñor, bakie biar du te*
+- *ez azelera iñor, bakie biar du te*
 - *ez azelera! Trankil, denporie dakozu danatarako ta*
 
 ## AZELERATA ##
