@@ -1029,7 +1029,7 @@ Ez etsi. Ez amore eman.
 
 ## BIENGANERA DXEUSTEKO BERBAK ##
 
-*Betik ez altzateko* lokuzioaren alderantzizkoa da gauza bera adierazteko.
+Berba gogorrak. *Betik gora ez altzateko berbak* lokuzioaren alderantzizkoa da gauza bera adierazteko.
 
 - *da berba batetik bestera, non asten dxasten bienganera dxeusteko berbak esaten*
 - *neuri esastazu zeuk, bienganera dxeusteko berbak*
