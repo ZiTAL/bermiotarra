@@ -2037,6 +2037,12 @@ Ezer egin barik, eskua eskuaren gainean egoten.
 - *zetan zauz or ba, arpie dxoten?*
 - *bai arpie dxoten zeuk tiñozun moduen, baie biarrak nok eitxen txuz ba?*
 
+## ARPIGUE ##
+
+Aingura.
+
+- *arpigue batun, baguez beste leko batera arrantzen*
+
 ## ARPIKAKA ##
 
 Irain antzeko bat da. Ezizen bat ere badago.

@@ -654,6 +654,12 @@ Endredoa.
 
 Berriro ere ikusten dugu, fruitu baten izenarekin beste bat sortzen dela.
 
+## MATAPUTXETA ##
+
+Atunak hiltzeko erabiltzen den makila.
+
+- *ekau mataputxeta atune ondiño bizirik dau te*
+
 ## MATATXIÑIE ##
 
 Sarraskia.
