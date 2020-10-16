@@ -824,6 +824,13 @@ Berba asko egin.
 - *zeuri gauzek espliketen miñe be kantsata dakot gero*
 - *arek eztau kantsako askorik miñe*
 
+## MISKEIDXE ##
+
+Aitzakia.
+
+- *miskeri asko dakoztazu! Jaidxuz lentejok!*
+- *miskeidxe baino eztakozuie biharrik ez eitxeko!*
+
 ## MOKO TRUKEN ##
 
 Ezerezaren truke saldu, eman.

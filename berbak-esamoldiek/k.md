@@ -307,6 +307,12 @@ Mozkorra.
 - *kakota atrapaten kanpeoiek gariez*
 - *kakota kakotan ganien atrapa dotez*
 
+## KAKULEKEIDXEK ##
+
+Aitzakiak.
+
+- *zuok beti kakulekeidxek eitxen indxabak ez jateko*
+
 ## KALAI MALAI ##
 
 1. Erdipurdian ibili. Ez ondo. Pertsonak zein gauzak.

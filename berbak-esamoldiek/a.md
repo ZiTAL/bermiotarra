@@ -3074,6 +3074,12 @@ Zaunka.
 - *osaban txakurren ausidxegaz kaka frakatan!*
 - *txakurren ausidxe ezta ezer, otsuenagaz bai ikaratu!*
 
+## AUSPEZ ##
+
+Aurrez erori, aurpegia aurretik.
+
+- *izterrak laban, eta auspez berenganera!*
+
 ## AUSPO ##
 
 Haitz artean gertatzen den putzu erraldoiak.
