@@ -55,6 +55,12 @@ Lan asko egiten jardun.
 - *dandarrez ibillitxe be eztau aillegaten dxazteko*
 - *dandarrez ibilli arren, dxateko bakarrik aillegaten dau*
 
+## DANDANDORIDXE ##
+
+Urdaibain errekatik datorren behelainoa.
+
+- *dauen dandandoridxegaz ezin gara jun Laidatxure*
+
 ## DANGILIZKE ##
 
 Dandarrez edo dariola zerbait janztea.

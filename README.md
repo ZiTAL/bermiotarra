@@ -37,6 +37,7 @@ Esker berezidxek:
 - Aner Uriondo
 - Amaia Kapanaga Loyola
 - Gotzon Unanue Mentxaka
+- Iñaki Vara Altonaga
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
