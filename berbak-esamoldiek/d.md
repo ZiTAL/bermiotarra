@@ -57,9 +57,10 @@ Lan asko egiten jardun.
 
 ## DANDANDORIDXE ##
 
-Urdaibain errekatik datorren behelainoa.
+Urdaibain Oka errekatik datorren behelainoa.
 
 - *dauen dandandoridxegaz ezin gara jun Laidatxure*
+- *arraunien jun gara Urdaibaitxik eta dandandoridxegaz metro batere ba ikusi bez txo!*
 
 ## DANGILIZKE ##
 
