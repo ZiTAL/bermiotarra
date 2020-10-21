@@ -629,6 +629,14 @@ Behera etorri. Jausi.
 
 Hitz hau ere portuko giroan erabiltzen zen, baina, gaur egun, denek erabiltzen dute normalki.
 
+## GUARDAKOLA ##
+
+Itsasontziko zubia eta makina tapatzen dituena, sukaldea eta denak hor barruan doaz.
+
+- *guardakolan daku kapitxena*
+
+Gaztelerako **guardacalor** hitzetik dator.
+
 ## GUK TAKUZ EGUNEK ##
 
 A zelako egunak, geratzen zaizkigunak!
