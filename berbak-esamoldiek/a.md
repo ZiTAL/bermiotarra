@@ -2325,7 +2325,7 @@ Harri txikiak. Harrikirria.
 
 ## ARRO ZORRIZTO ##
 
-Darroputza, dirurik ez izan arren.
+Harroputza, dirurik ez izan arren.
 
 - *zer diño berorrek arro zorriztuek ba, eztako dxateko be ta*
 - *dxuadi arro zorriztori tokatzen dxatzun lekora. Kortara*
