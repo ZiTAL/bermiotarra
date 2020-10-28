@@ -466,7 +466,7 @@ Piperbeltza.
 - *ekau pipergaztelakue arrotza prijidueri botakotsat eta*
 - *pipergaztelakuek emoten tso jatekueri falta datson toketxue*
 
-Uste dugum, garai batean espezia hau gaztelatik ekartzen zutelako dela.
+Uste dugu, garai batean espezia hau gaztelatik ekartzen zutelako dela.
 
 ## PIPETOI ##
 
