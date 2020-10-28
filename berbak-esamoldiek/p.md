@@ -459,6 +459,15 @@ Pintore.
 
 Seguru aski gaztelerazko **pinturero** hitza hartu da nahiz eta honen esanahia guztiz ezberdina izan.
 
+## PIPERGAZTELAKUE ##
+
+Piperbeltza.
+
+- *ekau pipergaztelakue arrotza prijidueri botakotsat eta*
+- *pipergaztelakuek emoten tso jatekueri falta datson toketxue*
+
+Uste dugum, garai batean espezia hau gaztelatik ekartzen zutelako dela.
+
 ## PIPETOI ##
 
 Pipa. Dupa.
