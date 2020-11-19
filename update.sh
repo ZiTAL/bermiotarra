@@ -1,3 +1,3 @@
 #!/bin/bash
 git pull
-php web/private/build
+php web/private/build.php
