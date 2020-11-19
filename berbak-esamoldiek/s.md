@@ -118,7 +118,7 @@ Beti arazoetan egoten den pertsona.
 - *bularrien dakoten saltsaidxue eztaitx zek kenduko dauen*
 - *ori saltsaidxue kentzieko esnie mielagaz artun bi zu*
 
-## SALTSERUO / UE / IE ##
+## SALTSERO / UE / IE ##
 
 Saltsa guztietan sartzen den pertsona.
 
@@ -126,7 +126,7 @@ Saltsa guztietan sartzen den pertsona.
 - *zure lagune baiño saltseruaurik eztau erri guztidxen*
 - *beran ama be saltserie da ta zer gu zu bera ezatie ba*
 
-Hitz honek **-ro** gaztelerazko atzizkia hanu du. 
+Hitz honek **-ro** gaztelerazko atzizkia hartu du. 
 
 **saltsa** + **ro** → **saltsero**.
 
