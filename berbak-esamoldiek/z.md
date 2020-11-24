@@ -142,6 +142,13 @@ Lizuna.
 
 - *neska gaztetxuen onduen dxesarritxe, txiste berdiek kontaten ibilltxen da a zantarrue*
 
+## ZANTZUE ##
+
+Irrintzia.
+
+- *San Juantan oten diez Bermioko andrak zantzuek botaten goiko plazan*
+- *trikitixie entzun hutsegaz zantzuek urteten dost!*
+
 ## ZAPASALTO BATEN ##
 
 Azkar. Joan-etorri baten.
@@ -597,4 +604,3 @@ Katarroa dagoenean arnasa hartzeko eragozpena dagoenean, batez ere umeetan.
 
 - *onek imiek zurrupurrue dako*
 - *zurrupurruentzat eukalito lurrune da ona*
-
