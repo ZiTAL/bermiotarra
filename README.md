@@ -38,6 +38,7 @@ Esker berezidxek:
 - Amaia Kapanaga Loyola
 - Gotzon Unanue Mentxaka
 - Iñaki Vara Altonaga
+- Gorka Sanchez
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

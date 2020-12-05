@@ -868,6 +868,15 @@ Metatesiaren bidez, **arbolbol** irteten da. Seguru aski *borboil* hitzetik hart
 
 Azkuek Lapurdiko kostaldean kokatzen du, eta baten baino gehiagotan entzun izan direnez iparraldetik sartutako hitzak, badirudi hau ere handik etorritakoa dela. Hitz honek **arrain saskia** esan nahi duenez, arrantzaleengandik sartua izango da.
 
+## ALBOSA ##
+
+Arropa edo tela baten tolesdura.
+
+- *gonien albosa josi mesedez, daidxola dakot eta*
+- *maidxen ulen puntiri albosie atara, labur dau te*
+
+Mañu auzoan erabiltzen da.
+
 ## ALDABATERA ##
 
 Aldi berean.

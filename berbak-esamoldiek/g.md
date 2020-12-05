@@ -303,6 +303,13 @@ Isil-isilean.
 - *berez asma dotez noix etor dizen, geri geridxen etor diez baie*
 - *urrungotan iñok asma be enau eingo, geri geridxen sartungo nai*
 
+## GERRAKO BARKULEZ ##
+
+Pertsona alde batera eta bestera dabilenean.
+
+- *hamen nator ginasidxotik gerrako barkulez, jesarri ein binai*
+- *bitu hori, jai handidxe okindxau, gerrako barkulez dabil ta*
+
 ## GIBARROI ##
 
 Atun eta zimarroien gibela.

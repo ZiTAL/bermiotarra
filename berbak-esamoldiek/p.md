@@ -459,6 +459,14 @@ Pintore.
 
 Seguru aski gaztelerazko **pinturero** hitza hartu da nahiz eta honen esanahia guztiz ezberdina izan.
 
+## PIÑUEN AZPIKO IDIE ##
+
+Pertsona hazi denean esaten zaio.
+
+- *alabie piñuen azpiko idien bestekue eindxatzu!*
+
+Mañuko esamoldea da, **idie** berba iratzea da (helecho).
+
 ## PIPERGAZTELAKUE ##
 
 Piperbeltza.
@@ -567,6 +575,13 @@ Irainezko berba da.
 - *ona bazatoz piztojien antzekuori, arpidxe be apurtu eingo tzut*
 - *piztoja utse zaralez, ez zaitxut guse ezetako be*
 - *piztojo, esan bia beste baten ia, emoten tzutenagaz...*
+
+## PLA EITZEKO PATATIE ## 
+
+Pertsona oso lasaia.
+
+- *bitu a, disgustue emontzoie baie pla eitzeko patatie dalez betulek mobidu bez*
+- *bueno bakizu, pla eitzeko patatatxue da ta, askorik ez eskatu*
 
 ## PLAMIKIE ##
 

@@ -598,6 +598,13 @@ Gizonak asko gustatzen zaizkion emakumea.
 - *tortola bero orregaz ezkonduko da? Eztaki zelako alajie daruen*
 - *tortola bero zantarra ezanda be, bera ezkondu*
 
+## TORTOLA KAKA ##
+
+Norbaiti modu maitakorrean deitzeiko balio du.
+
+- *hamen neure tortola kaka, zelan zauz ba?*
+- *tortola kaka, jun adubidxetara haizie hartzien.
+
 ## TORTOLIE LAKUE ##
 
 Pertsona lodikotea, baina andrazkoa.

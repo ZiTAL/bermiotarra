@@ -10,6 +10,13 @@ Artaburuak jorratzera edo pikutara bidali.
 
 Bermeon **Rita serrapollerie** esaten zioten andra bat bizi zen. Benetan zeukan Rita izena eta egiatan saltzen zituen serrapollerak -gaztelerazko **cierres**-. Adinekoa zen hil zenean, laurogei bat urte bai; eta nahiko bizartsua. Gaztelerazko **vete donde Rita la pollera** esaldia Bermeotik kanpo esaten bada ere, hemengo esaldi honek hau du jatorria: Latino Amerikan **pollera** gona da, hortik **cierra pollera**. Guk hori hartu dugula? Agian.
 
+## ROTAZIÑO BAKO GIRASOLA ##
+
+Pertsona alperra.
+
+- *hemen nau ni etzunde talapen, rotasiño bako girasolalez*
+- *bitu bera, berton dau erreskadie eitzen baie bera rotasiño bako girasolalez*
+
 ## RUSIAKO TXARRIDXE ##
 
 Aurpegi dorpea edo txerri antza daukana.
