@@ -1,5 +1,11 @@
 # N #
 
+## NAIDXE ##
+
+Elurbustia.
+
+- *Rompeolaseko naidxegaz labandu nai, berenganera jeusi ta loitsu eindxotez erropak!*
+
 ## NAGIDXEK ATARA ##
 
 Normalean ohetik jeiki eta gero besoak luzatzeari esaten zaio, askotan aharrausiarekin batera egiten da.
