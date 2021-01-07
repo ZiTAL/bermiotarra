@@ -3239,7 +3239,7 @@ Beraz, ez du gazteleraz duen esanahia.
 
 ## AZPILDXUREKO ZORRIDXE BAIÑO EPELAUE ##
 
-Erabat epela, abula.
+Erabat epela, ahula.
 
 - *ori andrie azpildxureko zorridxe baiño epelaue da*
 - *txetxo mobiko zara, azpildxureko zorridxe baiño epelaue zara ta*
