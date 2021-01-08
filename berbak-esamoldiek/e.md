@@ -1280,14 +1280,6 @@ Goseak hiltzen.
 - *dxungo gariez nonora zeuzer dxaten, estiek pe bidxortute dakotez gosien gosiegaz*
 - *zuk beti dakozuz estiek bidxortute, eztaitx nok beteko zaitxuzen*
 
-## ESTITXU BAKO ARBOLIE ##
-
-Txertatu gabeko arbola. Konparazioan gora eta gora doazen pertsonak.
-
-- *zeren bestekue ein zarq, eztitxu bako arbolie lez zuez gora ta gora*
-- *balonzestoko mutillek pe, eztitxu bako arbolak ezaten diez*
-- *zelan dau zure teillapeko neskatue! Atara kontue eztitzu bako arbolie dala*
-
 ## ESTREBILLOSKUE ##
 
 Normala ez den edozein gauza.
@@ -1557,6 +1549,20 @@ Ez dago inor etzean erantzukizun bati erantzuteko.
 - *diruek edozetan gasta, da zeuzer paga bi denien, eztau amarik etzien*
 - *ainbeste zorregaz onda, ara ta ona dabill, da gero arpidxe emon bi denien, amarik eztau etzien*
 - *berak arma dau armatekue, da gero, berak, amarik eztau etzien*
+
+## EZTITXUE ##
+
+Txertoa.
+
+- *semie anbulatoidxora tire eztitxue hartuten*
+
+## EZTITXU BAKO ARBOLIE ##
+
+Txertatu gabeko arbola. Konparazioan gora eta gora doazen pertsonak.
+
+- *zeren bestekue ein zarq, eztitxu bako arbolie lez zuez gora ta gora*
+- *balonzestoko mutillek pe, eztitxu bako arbolak ezaten diez*
+- *zelan dau zure teillapeko neskatue! Atara kontue eztitzu bako arbolie dala*
 
 ## EZTROPEZA ##
 

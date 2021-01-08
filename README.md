@@ -39,6 +39,7 @@ Esker berezidxek:
 - Gotzon Unanue Mentxaka
 - Iñaki Vara Altonaga
 - Gorka Sanchez
+- Adolfo Arejita
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
