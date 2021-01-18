@@ -615,7 +615,7 @@ Asko mugitzen den txori bat da. Konparazioan urduri ibiltzen den pertsona da, mu
 
 ## EPERDIKUEK ##
 
-Lotsak eman.
+Lotsarazi.
 
 - *eperdikuek emoten etor dxast lotsabako zantarra*
 - *obeto eingo dau arek, eperdikuek emon barik ixillik otie*
