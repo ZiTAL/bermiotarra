@@ -523,6 +523,13 @@ Aberats berriak.
 - *aspaldidxon on dizen irebazidxekaz, atzerantz eiñ dxauie zorri ill bizin guztidxek*
 - *baie esaten dauie, zorri ille biztue txarrena dala*
 
+## ZORRIBIZTUE ##
+
+Aberats berriak.
+
+- *hori zorribiztue, atzorarte kaka jaten ibili badan zer dakar oin*
+- *aberatsa ein danetik hori zorribiztue eztau aman semerik aguantako dauenik*
+
 ## ZORRIZTO ##
 
 Gaur egun ez dago zorririk, edo, behintzat oso gutxi ikusten da. Baina garai bateko miseria hori kontutan izanda, gaurko **aberatsei** aplikatzen zaie, hau da, garai baten pobreak izan, eta orain ere pobreak izanda dirutsuak moduan agertzen direnei.

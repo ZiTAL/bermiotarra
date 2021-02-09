@@ -40,6 +40,7 @@ Esker berezidxek:
 - Iñaki Vara Altonaga
 - Gorka Sanchez
 - Adolfo Arejita
+- Mikel Larruzea
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

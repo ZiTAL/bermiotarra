@@ -2362,6 +2362,13 @@ Legatzaren arbiak ere askotan **arrotzak** deitzen dira. Agian analogiaz.
 - *lebatzan arrotzak gozuenak tiez, baie niriek pe eztiz txarrak*
 - *arrotzatan emon tzon golpigaz sentido barik itxi dau*
 
+## ARROTZAK GORRINGO BIKUEK ##
+
+Zerbait gainbaloratuta dagoela adierazteko esaten da.
+
+- *18 eurotan lebatzan kilue! Horren arrotzak gorringo bikuek diez.
+- Ze karu dauen okelie! Arrotzak gorringo bikuek okingo dauz.
+
 ## ARRUEK ##
 
 Harrokeria, baina pluralean erabilita.
