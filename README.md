@@ -45,3 +45,4 @@ Esker berezidxek:
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
 iban
+
