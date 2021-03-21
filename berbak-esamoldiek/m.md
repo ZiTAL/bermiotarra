@@ -791,6 +791,13 @@ Senitarteko bat, nahiz eta urrunekoa izan, lagun bat edo auzoko bat hiltzen dene
 - *gure atxitxen lengusue ill dxe, da meza biarrekue dan lez, entierrora dxun biar dot*
 - *geure meza biarrekue be bada, da neuk pe dxun ein biarko dot*
 
+## MIEKIE ##
+
+Atunaren belarria. Hegaluze-mendrezka.
+
+- *miekie atunen atalik gozuena da*
+- *miekie parrillen baino gauze gozuaurik eztau!*
+
 ## MILLE PENTZAMENTU ##
 
 Burmuinari buelta asko ematen dion pertsona.
@@ -861,6 +868,12 @@ Ganora gutxikoa.
 
 - *zuk bakixu non dakozun moldie, popan!*
 - *alan da olan dxantzitxe, baie moldie, popan*
+
+## MOROKILE ##
+
+Taloa egiteko egiten den masa borobila.
+
+- *morokilek ekau taluek eingotez eta*
 
 ## MOSUE OKERTU ##
 

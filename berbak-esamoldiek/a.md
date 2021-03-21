@@ -3209,6 +3209,12 @@ Azken aurrekoa. Logikaz egindako hitza.
 - *azkaningobigarren dxun nai da sandxie galdu dot*
 - *azkainingobigarrenari emon tsat sandxie*
 
+## AZKORDIÑEK ##
+
+Ospelak.
+
+- Hotzagaz azkordiñek urten dostie izterran.
+
 ## AZORRAZIDXEK ##
 
 Berriketa. Mota guztietako esamesak direla adierazten du.

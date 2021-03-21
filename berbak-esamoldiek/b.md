@@ -1019,6 +1019,13 @@ Ondo esnatu gabe, ondo itzartu barik.
 - *goixeko amaiketan oitxik altza da ondiño bidxotza lo, politxo emoten tzu!*
 - *dutxie artun de be, ondiño bidxotza lo, izartu barik txo*
 
+## BIDXOTZEKO KOILARIE ##
+
+Antzina andrek dirua titi artean eramaten zuten, eta diruari buruz hitz egiteko erabiltzen da gaur egun.
+
+- *bidxotzeko koilarako miñe dakot, diro barik nau te*
+- *bidxotzeko Koilarie beteta dakot gaur, diro masie dakot*
+
 ## BIDXOTZIK EZ IL ##
 
 Ez etsi. Ez amore eman.

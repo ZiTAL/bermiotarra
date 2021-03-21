@@ -41,6 +41,8 @@ Esker berezidxek:
 - Gorka Sanchez
 - Adolfo Arejita
 - Mikel Larruzea
+- Aitor Atutxa Larrinaga
+- Agurne Gaueka
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
