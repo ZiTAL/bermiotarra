@@ -43,6 +43,7 @@ Esker berezidxek:
 - Mikel Larruzea
 - Aitor Atutxa Larrinaga
 - Agurne Gaueka
+- Aaron Llorens Allika
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

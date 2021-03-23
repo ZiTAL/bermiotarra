@@ -521,6 +521,13 @@ Tirria. Ezinikusia.
 
 Gaztelerazko **tirria** da, eta zentzua ere berbera. Azkuek hiru definizio ematen ditu hitz horrentzat eta hirugarrena da zentzu honetaz jaso duena, Goi-Nafarreraz.
 
+## TITIRITERUEN ANTZA ##
+
+Janzkera barregarria izan.
+
+- *aratustiek diez ela? Nora zatoz titiriteruen antzagaz ba!*
+- *ezkontzara tirititeruen antzagaz, ia markie!*
+
 ## TOFEZ ##
 
 Aurrez aurre aurkitu. 
