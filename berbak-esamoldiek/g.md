@@ -129,6 +129,12 @@ Azkuek eskualde honetako herrietan esaten den hitza bezala jaso du, baina zentzu
 
 Azkuek ere hiztegian Mundaka eta Bermeorako jaso du esanahi honekin.
 
+## GANTZARIDXE ##
+
+Txarriaren koipea.
+
+- *buzkentzari gantzaridxe sartun tsagu gozuau oteko*
+
 ## GARDIE BAIÑO LUZIAU ##
 
 Garda marrazoen familiako arrain luze bat da. Konparazioan erabiltzen da, pertsona bat luze dagoela esateko.

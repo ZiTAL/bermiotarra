@@ -797,6 +797,7 @@ Atunaren belarria. Hegaluze-mendrezka.
 
 - *miekie atunen atalik gozuena da*
 - *miekie parrillen baino gauze gozuaurik eztau!*
+- *atunen miekie jan dau prijite*
 
 ## MILLE PENTZAMENTU ##
 
@@ -874,6 +875,7 @@ Ganora gutxikoa.
 Taloa egiteko egiten den masa borobila.
 
 - *morokilek ekau taluek eingotez eta*
+- *arto-urune ta uregaz morokilek preparata dauz taluek eitxeko*
 
 ## MOSUE OKERTU ##
 

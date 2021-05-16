@@ -654,6 +654,12 @@ Zabua. **Columpio**.
 - *ama, eruen dxibo-dxibutara*
 - *ezpazu dxaten meridxandie eztau dxibo-dxiborik*
 
+## DXIGIDILLEK ##
+
+Errieta, baina txikia.
+
+- *emontsuten orduen ez bazatoz etxera... dxigidillek ezango diez!*
+
 ## DXIGOTAK ##
 
 Iskanbilak. Haserrekuntzak.

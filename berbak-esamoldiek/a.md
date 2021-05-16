@@ -3214,6 +3214,7 @@ Azken aurrekoa. Logikaz egindako hitza.
 Ospelak.
 
 - Hotzagaz azkordiñek urten dostie izterran.
+- Hotzan pasinugaz azkordinek dakoz atzamarratan.
 
 ## AZORRAZIDXEK ##
 
