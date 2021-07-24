@@ -1876,6 +1876,12 @@ Etxeko zorua eta eskailerak garbitu. Lehen harea erabiltzen zen horiek garbitzek
 
 Hemendik sortu da goiko hitza, gaztelerazko **arenadura**-tik, hain zuzen.
 
+## ARETIÑIK ##
+
+Aratinik, ahoz gora.
+
+- *labandu eta aretiñik jeusi de, popaz*
+
 ## ARGALERIE ##
 
 Mehetasun. Argaltasun.

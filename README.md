@@ -44,6 +44,7 @@ Esker berezidxek:
 - Aitor Atutxa Larrinaga
 - Agurne Gaueka
 - Aaron Llorens Allika
+- Iziar / @urriko18 / instagram
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

@@ -457,6 +457,12 @@ Oso merke.
 - *zer diño berak iru txikiko fuetiek ba, lau killo be eztoitxuz piseten da*
 - *iru txikiko fuetiek paiño andana andidxaue erun dau*
 
+## IRUNTZETARA ##
+
+Iruntzietara.
+
+- *hau morroie lo dau, jertsie iruntzetara imiñi dau, eta ezta entera bez*
+
 ## IRUTXIKIKOA ##
 
 Balio gabekoa.

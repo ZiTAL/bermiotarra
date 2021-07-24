@@ -1080,6 +1080,12 @@ Lexikoan *eskoganekue* hitza agertzen da zentzu berberaz gaztelerazko itzulpen l
 - *eztot gure bigarren eskokorik ezer*
 - *karue ezanda be, obeto orrotzetik arakue bigarren eskokue baiño*
 
+## BIKORRA ##
+
+Esne-gaina.
+
+- *Esnien bikorra bokadilluen azukariegaz gozo!*
+
 ## BINBOLIÑE ##
 
 Biolina. Figuratiboan edozer gauza adierazteko erabiltzen dugu hitz hori, tresna bat zein egoera bat.
