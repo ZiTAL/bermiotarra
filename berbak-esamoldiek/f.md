@@ -229,6 +229,12 @@ Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia defini
 
 Hitz hau konposatua da: **fraka** olanezkoak (**lona**). Frakak josi eta gero, linaza olioa ematen zitzaion. Gaur egun plastiko edo tela sintetikoz egindakoak izaten dira, baina izena mantentzen dute.
 
+## FRANTZUNATZATAKO ARRATOIEK BAINO GEHIDXAU JAKIN ##
+
+Asko jakina.
+
+- *txetxo dana dakizu txo! Frantzunatzatako arratoiek baino gehidxau dakistazu*
+
 ## FUETA ##
 
 Suziria.
