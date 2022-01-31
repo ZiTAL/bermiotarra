@@ -9,7 +9,7 @@ Zerbait uste ez duzun moduan aurkitzen duzunean.
 
 Guztia amaitu eta gero iristea.
 
-- *Udaletxeko plenuen Guzan-ekuek mahastidxe
+- *Udaletxeko plenuen Guzan-ekuek mahastidxe*
 
 ## MAJAJAI ##
 
