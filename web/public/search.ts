@@ -32,8 +32,8 @@ function parseGetParams(url:string):object
   {
     params.forEach(function(element)
     {
-      let p = element.match(/([^=&]+)=([^=&]+)/)
-      result[p[1]] = p[2]
+      let p         = element.match(/([^=&]+)=([^=&]+)/)
+      result[p[1]]  = p[2]
     })
   }
 
