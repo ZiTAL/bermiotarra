@@ -303,6 +303,16 @@ Jatekoak zaporerik edo behar duena ez daukanean.
 - *onure barik iñok eztatu gure, baie buzkentza botaten bazazu...*
 - *ur asko ta onure gitxi dako orrek lapikuek*
 
+## OPUAL ##
+
+Bikaina. Oso gozoa. Ederto dagoena.
+
+- *egualdi elegantie dau! Opual!*
+- *aste santue ezateko ure dau... opual!*
+- *ze ondo sartun dast zerbezie! Opual!*
+
+Frantzeseko **au poil**, esamoldetik dator, Frantziara erbesteratu zirenak hartutakoa, eta bueltatzerakoan erabilia.
+
 ## ORBELA BAÑO SIKUAU ##
 
 Sikua. Gogorra.

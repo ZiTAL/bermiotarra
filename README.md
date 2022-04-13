@@ -45,6 +45,9 @@ Esker berezidxek:
 - Agurne Gaueka
 - Aaron Llorens Allika
 - Iziar / @urriko18 / instagram
+- Madalen Lopez Gangoiti
+- Eneritz German Zabala
+- Oier Gorosabel Larrañaga @txikillana / mastodon
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
