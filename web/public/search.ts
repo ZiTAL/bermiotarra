@@ -78,7 +78,6 @@ function search(params:object)
           t = t+p.textContent+"\n"
         })
         const r = new RegExp(decodeURI(params['q']), "gi");
-        console.log(t, r)
         if(t.match(r))
         {
           found.push(w)
