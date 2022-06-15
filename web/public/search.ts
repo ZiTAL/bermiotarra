@@ -2,8 +2,8 @@ import * as http    from 'http'
 import * as fs      from 'fs'
 import { JSDOM }    from 'jsdom'
 
-let Req:object
-let Res:object
+let Req
+let Res
 
 http.createServer(function (req:object, res:object)
 {
@@ -58,33 +58,31 @@ function search(params:object)
   if(typeof params['q'] !== 'undefined')
   {
     const dir:string        = '/home/projects/bermiotarra/web/public/berbak-esamoldiek/'
-    const files:object      = fs.readdirSync(dir)
+    const files             = fs.readdirSync(dir)
 
-    let found = []
-    files['forEach'](function(file)
+    let founds              = []
+    let html:string         = ''
+    files.forEach(function(file)
     {
-      const html:string     = fs.readFileSync(dir+file, 'utf-8')
+      html                  = fs.readFileSync(dir+file, 'utf-8')
       const dom:object      = new JSDOM(html);
       const content:object  = dom['window']['document']['body'].querySelector('div[id="content"]')
       const childs:object   = content['childNodes']
       
       let words = getWords(childs)
-      
       words.forEach(function(w)
       {
         let t:string = ''
-        w.forEach(function(p)
+        w.forEach(function(p:object)
         {
-          t = t+p.textContent+"\n"
+          t = t+p['textContent']+"\n"
         })
         const r = new RegExp(decodeURI(params['q']), "gi");
         if(t.match(r))
-        {
-          found.push(w)
-        }
+          founds.push(w)
       })
     })
-    console.log(found);
+    html = wordsToHtml(founds)
   }
   else
     showError(400, 'Bad request!')
@@ -92,6 +90,7 @@ function search(params:object)
 
 function getWords(childs)
 {
+  //let deny_nodes = ['#text', 'H2']
   let deny_nodes = ['#text', 'H2']
   let words = [[]]
   let i     = -1
@@ -109,17 +108,24 @@ function getWords(childs)
     words[i].push(c)
   })
   return words
-/*
-  let t:string = ''
-  words[1].forEach(function(c)
+}
+
+function wordsToHtml(words)
+{
+  let html = ''
+  words.forEach(function(w)
   {
-    t = t+c.textContent+"\n"
+    w.forEach(function(p)
+    {
+      html = html + p.outerHTML
+    })
   })
-*/
+  console.log(html)
+  return html
 }
 
 function showError(code:number, text:string)
 {
-  Res['writeHead'](code)
-  Res['end'](text)
+  Res.writeHead(code)
+  Res.end(text)
 }

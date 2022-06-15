@@ -43,31 +43,31 @@ function search(params) {
     if (typeof params['q'] !== 'undefined') {
         var dir_1 = '/home/projects/bermiotarra/web/public/berbak-esamoldiek/';
         var files = fs.readdirSync(dir_1);
-        var found_1 = [];
-        files['forEach'](function (file) {
-            var html = fs.readFileSync(dir_1 + file, 'utf-8');
-            var dom = new jsdom_1.JSDOM(html);
+        var founds_1 = [];
+        var html_1 = '';
+        files.forEach(function (file) {
+            html_1 = fs.readFileSync(dir_1 + file, 'utf-8');
+            var dom = new jsdom_1.JSDOM(html_1);
             var content = dom['window']['document']['body'].querySelector('div[id="content"]');
             var childs = content['childNodes'];
             var words = getWords(childs);
             words.forEach(function (w) {
                 var t = '';
                 w.forEach(function (p) {
-                    t = t + p.textContent + "\n";
+                    t = t + p['textContent'] + "\n";
                 });
                 var r = new RegExp(decodeURI(params['q']), "gi");
-                console.log(t, r);
-                if (t.match(r)) {
-                    found_1.push(w);
-                }
+                if (t.match(r))
+                    founds_1.push(w);
             });
         });
-        console.log(found_1);
+        html_1 = wordsToHtml(founds_1);
     }
     else
         showError(400, 'Bad request!');
 }
 function getWords(childs) {
+    //let deny_nodes = ['#text', 'H2']
     var deny_nodes = ['#text', 'H2'];
     var words = [[]];
     var i = -1;
@@ -82,15 +82,18 @@ function getWords(childs) {
         words[i].push(c);
     });
     return words;
-    /*
-      let t:string = ''
-      words[1].forEach(function(c)
-      {
-        t = t+c.textContent+"\n"
-      })
-    */
+}
+function wordsToHtml(words) {
+    var html = '';
+    words.forEach(function (w) {
+        w.forEach(function (p) {
+            html = html + p.outerHTML;
+        });
+    });
+    console.log(html);
+    return html;
 }
 function showError(code, text) {
-    Res['writeHead'](code);
-    Res['end'](text);
+    Res.writeHead(code);
+    Res.end(text);
 }
