@@ -4,22 +4,20 @@ export class Server
 {
   static parseGetParams(url:string):object
   {
-    let result:object       = {}
+    let result:any       = {}
     let query_string:string = url.replace(/[^\?]+\?/, '')
-    let params              = query_string.match(/([^=&]+)=([^=&]+)/g)
+    let params:any       = query_string.match(/([^=&]+)=([^=&]+)/g)
 
     if(query_string==='' || params===null)
       return result
   
-    if(params.length>0)
+    params.forEach(function(element:string)
     {
-      params.forEach(function(element)
-      {
-        let p               = element.match(/([^=&]+)=([^=&]+)/)
-        if(p)
-          result[p[1]]      = p[2]
-      })
-    }
+      let r:RegExp  = /([^=&]+)=([^=&]+)/
+      let p:any     = element.match(r)
+      if(p)
+        result[p[1]]  = p[2]
+    })
   
     return result
   }
@@ -29,15 +27,15 @@ export class Server
     return url.replace(/\/?\?[^$]+$/, '')
   }
 
-  static write(res, code:number, text:string)
+  static write(res:any, code:number, text:string)
   {
     res.writeHead(code)
     res.end(text)
   }
 
-  static view(file:string, params)
+  static view(file:string, params:object)
   {
-    return (function(__params)
+    return (function(__params:object)
     {
       return eval("`"+fs.readFileSync(file, 'utf-8')+"`")
     })(params)
