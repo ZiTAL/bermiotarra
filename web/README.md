@@ -87,3 +87,19 @@ pdf bakarrik:
 ```
 php web/private/pdf.php
 ```
+
+# TYPESCRIPT #
+`
+cd private
+npm install --save-dev @types/node
+npm install --save-dev @types/jsdom
+su
+npm i -g @vercel/ncc
+exit
+`
+
+# TRANSPILATU #
+ncc build ./daemon.ts -w -o dist/
+
+# ZERBITZARIA #
+node dist/index.js
