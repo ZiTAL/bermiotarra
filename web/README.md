@@ -99,7 +99,12 @@ exit
 `
 
 # TRANSPILATU #
+`
+cd private
 ncc build ./daemon.ts -w -o dist/
+`
 
 # ZERBITZARIA #
+`
 node dist/index.js
+`
