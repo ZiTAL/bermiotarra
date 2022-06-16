@@ -15,19 +15,29 @@ export class Search
     self.req    = req
     self.res    = res
     self.params = Server.parseGetParams(req.url)
-    self.index()
+    //self.index()
   }
 
   index()
   {
     let self          = this
+    let html:string   = self.getHtml()
+    if(typeof self.params['q'] !== 'undefined')
+      self.output(self.res, html)
+    else
+      Server.write(self.res, 400, 'Bad request!')
+  }
+
+  getHtml()
+  {
+    let self                  = this
+    let html:string           = ''
 
     if(typeof self.params['q'] !== 'undefined')
     {
       const dir:string        = __dirname+"/../../public/berbak-esamoldiek/"
-      const files             = fs.readdirSync(dir)  
+      const files:string[]    = fs.readdirSync(dir)  
       let founds: object[]    = []
-      let html:string         = ''
 
       files.forEach(function(file)
       {
@@ -50,10 +60,8 @@ export class Search
         })
       })
       html = self.wordsToHtml(founds)
-      self.output(self.res, html)
-    }
-    else
-      Server.write(self.res, 400, 'Bad request!')
+    }    
+    return html
   }
 
   getWords(childs:any)

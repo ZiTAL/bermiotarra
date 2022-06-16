@@ -9,7 +9,7 @@ http.createServer(function(req:any, res:any)
   switch(url)
   {
     case '/search':
-      new Search(req, res)
+      new Search(req, res).index()
       break
 
     default:
