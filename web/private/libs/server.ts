@@ -4,9 +4,9 @@ export class Server
 {
   static parseGetParams(url:string):object
   {
-    let result:any       = {}
+    let result:any          = {}
     let query_string:string = url.replace(/[^\?]+\?/, '')
-    let params:any       = query_string.match(/([^=&]+)=([^=&]+)/g)
+    let params:any          = query_string.match(/([^=&]+)=([^=&]+)/g)
 
     if(query_string==='' || params===null)
       return result
@@ -24,16 +24,17 @@ export class Server
   
   static cleanUrl(url:string):string
   {
-    return url.replace(/\/?\?[^$]+$/, '')
+    let r:RegExp  = /\/?\?[^$]+$/
+    return url.replace(r, '')
   }
 
-  static write(res:any, code:number, text:string)
+  static write(res:any, code:number, text:string):void
   {
     res.writeHead(code)
     res.end(text)
   }
 
-  static view(file:string, params:object)
+  static view(file:string, params:object):string
   {
     return (function(__params:object)
     {

@@ -2,9 +2,9 @@ import * as http   from 'http'
 import { Search }  from './libs/search'
 import { Server }  from './libs/server'
 
-http.createServer(function(req:any, res:any)
+http.createServer(function(req:any, res:any):void
 {
-  const url:string = Server.cleanUrl(req['url'])
+  const url:string = Server.cleanUrl(req.url)
 
   switch(url)
   {

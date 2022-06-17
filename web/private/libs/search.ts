@@ -18,43 +18,44 @@ export class Search
     //self.index()
   }
 
-  index()
+  index():void
   {
     let self          = this
     let html:string   = self.getHtml()
-    if(typeof self.params['q'] !== 'undefined')
+
+    if(typeof self.params.q !== 'undefined')
       self.output(self.res, html)
     else
       Server.write(self.res, 400, 'Bad request!')
   }
 
-  getHtml()
+  getHtml():string
   {
     let self                  = this
     let html:string           = ''
 
-    if(typeof self.params['q'] !== 'undefined')
+    if(typeof self.params.q !== 'undefined')
     {
       const dir:string        = __dirname+"/../../public/berbak-esamoldiek/"
       const files:string[]    = fs.readdirSync(dir)  
-      let founds: object[]    = []
+      let founds:object[]     = []
 
-      files.forEach(function(file)
+      files.forEach(function(file:string)
       {
-        html                  = fs.readFileSync(dir+file, 'utf-8')
-        const dom:any         = new JSDOM(html);
-        const content:Node    = dom.window.document.body.querySelector('div[id="content"]')
-        const childs:NodeList = content.childNodes
-        let words             = self.getWords(childs)
+        html                          = fs.readFileSync(dir+file, 'utf-8')
+        const dom:any                 = new JSDOM(html);
+        const content:HTMLDivElement  = dom.window.document.body.querySelector('div[id="content"]')
+        const childs:NodeList         = content.childNodes
+        let words:any[]               = self.getWords(childs)
 
-        words.forEach(function(w)
+        words.forEach(function(w:any)
         {
-          let t:string = ''
+          let t:string  = ''
           w.forEach(function(p:HTMLElement)
           {
             t = t+p.textContent+"\n"
           })
-          const r = new RegExp(decodeURI(self.params.q), "gi");
+          const r       = new RegExp(decodeURI(self.params.q), "gi");
           if(t.match(r))
             founds.push(w)
         })
@@ -64,7 +65,7 @@ export class Search
     return html
   }
 
-  getWords(childs:any)
+  getWords(childs:any):HTMLElement[][]
   {
     let self                  = this
     let deny_nodes:string[]   = ['#text', 'H2']
@@ -87,9 +88,9 @@ export class Search
     return words
   }
 
-  wordsToHtml(words:any)
+  wordsToHtml(words:any):string
   {
-    let html = ''
+    let html:string = ''
     words.forEach(function(w:HTMLElement[])
     {
       w.forEach(function(p:HTMLElement)
@@ -100,7 +101,7 @@ export class Search
     return html
   }
 
-  output(res:object, html:string)
+  output(res:object, html:string):void
   {
     let self            = this
     const params        = 
