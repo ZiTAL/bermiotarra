@@ -1,5 +1,5 @@
 /*
-use: ncc build ./terminal.ts -o dist/terminal.js
+use: ncc build ./terminal.ts -o dist/
 */
 
 import { Search }  from './libs/search'

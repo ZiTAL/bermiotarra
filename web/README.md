@@ -89,17 +89,17 @@ php web/private/pdf.php
 ```
 
 # TYPESCRIPT #
-`
+```
 cd web/private
 npm install @types/node --save
 npm install @types/jsdom --save
 su
 npm i -g @vercel/ncc
 exit
-`
+```
 
 # TRANSPILATU #
-`
+```
 cd private
 ncc build ./terminal.ts -o dist/
-`
+```
