@@ -14,6 +14,5 @@ if(q==='')
     process.exit(1)
 
 let html:string = new Search(req, {}).getHtml()
-console.log(req.q)
 console.log(html)
 process.exit(0)
