@@ -1,5 +1,5 @@
 <?php
-define('NODE', '/usr/local/bin/node')
+define('NODE', '/usr/local/bin/node');
 /*
 define('PUBLIC_ROOT', "http://bermiotarra.localhost");
 define('RELATIVE_ROOT', '/');
