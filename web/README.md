@@ -90,9 +90,9 @@ php web/private/pdf.php
 
 # TYPESCRIPT #
 `
-cd private
-npm install --save-dev @types/node
-npm install --save-dev @types/jsdom
+cd web/private
+npm install @types/node --save
+npm install @types/jsdom --save
 su
 npm i -g @vercel/ncc
 exit
@@ -101,10 +101,5 @@ exit
 # TRANSPILATU #
 `
 cd private
-ncc build ./daemon.ts -w -o dist/
-`
-
-# ZERBITZARIA #
-`
-node dist/index.js
+ncc build ./terminal.ts -o dist/
 `
