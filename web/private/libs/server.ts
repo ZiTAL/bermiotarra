@@ -1,20 +1,20 @@
+import * as Interfaces   from './interfaces'
 import * as fs from 'fs'
 
 export class Server
 {
   static parseGetParams(url:string):object
   {
-    let result:any          = {}
-    let query_string:string = url.replace(/[^\?]+\?/, '')
-    let params:any          = query_string.match(/([^=&]+)=([^=&]+)/g)
+    let result:Interfaces.Object  = {}
+    let query_string:string       = url.replace(/[^\?]+\?/, '')
+    let params:any                = query_string.match(/([^=&]+)=([^=&]+)/g)
 
     if(query_string==='' || params===null)
       return result
   
     params.forEach(function(element:string)
     {
-      let r:RegExp  = /([^=&]+)=([^=&]+)/
-      let p:any     = element.match(r)
+      let p:any     = element.match(/([^=&]+)=([^=&]+)/)
       if(p)
         result[p[1]]  = p[2]
     })
@@ -24,8 +24,7 @@ export class Server
   
   static cleanUrl(url:string):string
   {
-    let r:RegExp  = /\/?\?[^$]+$/
-    return url.replace(r, '')
+    return url.replace(/\/?\?[^$]+$/, '')
   }
 
   static write(res:any, code:number, text:string):void

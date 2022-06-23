@@ -602,7 +602,7 @@ Ur azpitik igerian.
 
 ## LUZIMENTO / UE ##
 
-Ur azpitik igerian. Izen funtzioan agertzen da.
+Behar bezain besterako eman. Izen funtzioan agertzen da.
 
 - *onek diruek eztako luzimento andirik*
 - *orrek zapatak luzimento andikuek tiez*
