@@ -1,4 +1,4 @@
 export interface Object
 {
-  [key: string]: string
+  [key: string]: any
 }

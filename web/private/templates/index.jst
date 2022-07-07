@@ -1,0 +1,23 @@
+<ul>
+    ${Object.keys(__params.result).map(function (key)
+	{
+		let output = `
+			<li>
+				<h2>${key}</h2>
+				<ul>
+		`
+		__params.result[key].map(function(e)
+		{
+			output = output+`
+				<li>
+					<h3><a href="${e.link}">${e.word}</a></h3>
+				</li>
+			`
+		}).join('')
+		output = output+`
+				</ul>
+			</li>
+		`
+		return output
+    }).join('')}
+</ul>

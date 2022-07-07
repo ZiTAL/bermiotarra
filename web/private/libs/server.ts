@@ -1,5 +1,5 @@
-import * as Interfaces   from './interfaces'
-import * as fs from 'fs'
+import * as Interfaces  from './interfaces'
+import * as fs          from 'fs'
 
 export class Server
 {
@@ -14,7 +14,7 @@ export class Server
   
     params.forEach(function(element:string)
     {
-      let p:any     = element.match(/([^=&]+)=([^=&]+)/)
+      let p:any = element.match(/([^=&]+)=([^=&]+)/)
       if(p)
         result[p[1]]  = p[2]
     })
