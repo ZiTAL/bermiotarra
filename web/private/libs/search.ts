@@ -36,7 +36,7 @@ export class Search
 
     if(typeof self.params.q !== 'undefined')
     {
-      const dir:string        = __dirname+"/../../public/berbak-esamoldiek/"
+      const dir:string        = __dirname+"/../../../public/berbak-esamoldiek/"
       const files:string[]    = fs.readdirSync(dir)  
       let founds:object[]     = []
 
@@ -108,8 +108,8 @@ export class Search
     {
       'PUBLIC_ROOT':    'http://zital-pi.no-ip.org',
       'RELATIVE_ROOT':  '/bermiotarra/',
-      'title':          '',
-      'link_home':      '../'
+      'TITLE':          '',
+      'LINK_HOME':      '../'
     }    
     const header        = Server.view(__dirname+"/../templates/header.jst", params)
     const footer        = Server.view(__dirname+"/../templates/footer.jst", params)

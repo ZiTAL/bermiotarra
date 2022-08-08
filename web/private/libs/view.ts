@@ -2,21 +2,21 @@ import * as fs from 'fs'
 
 export class View
 {
-    static load(file:string, params:object, charset:string = 'utf-8'):string
+    static load(file:string, params:object = {}, encoding:string = 'utf-8'):string
     {
-        console.log(charset)
         try
         {
-            return (function(__params:object)
+            const options:object = {encoding: encoding}
+            return (function(__params:object, __options:object):string
             {
-                return eval("`"+fs.readFileSync(file, charset)+"`")
-            })(params)
+                return eval("`"+fs.readFileSync(file, __options)+"`")
+            })(params, options)
         }
         catch(e)
         {
             console.error("Error View.load - file: "+file)
             console.error(e)
             return ''
-        }
+        }        
     }
 }  

@@ -8,7 +8,7 @@ let q:string    = process.argv.slice(2).join(' ')
 let req:any     =
 {
     q:      q,
-    url:    "/search?q="+q
+    url:    `/search?q=${q}`
 }
 if(q==='')
     process.exit(1)
