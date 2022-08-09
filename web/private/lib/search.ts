@@ -24,10 +24,10 @@ export class Search
   index():void
   {
     let self                        = this
-
+/*
     let params:Interfaces.Object    = Constants
     params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
-
+*/
     let html:string                 = self.getHtml()
 
     if(typeof self.params.q !== 'undefined')
