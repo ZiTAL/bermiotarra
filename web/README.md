@@ -103,3 +103,13 @@ exit
 cd private
 ncc build ./terminal.ts -o dist/
 ```
+
+# PM2 #
+```
+su
+npm install pm2 -g
+ln -s /opt/node/bin/pm2         /usr/local/bin/pm2
+ln -s /opt/node/bin/pm2-dev     /usr/local/bin/pm2-dev
+ln -s /opt/node/bin/pm2-docker  /usr/local/bin/pm2-docker
+ln -s /opt/node/bin/pm2-runtime /usr/local/bin/pm2-runtime
+```
