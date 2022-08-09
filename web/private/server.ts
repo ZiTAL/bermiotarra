@@ -16,4 +16,4 @@ http.createServer(function(req:any, res:any):void
       Server.write(res, 404, 'Not Found!')
       break
   }
-}).listen(8080);
+}).listen(8080)

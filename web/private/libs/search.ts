@@ -51,7 +51,7 @@ export class Search
       files.forEach(function(file:string)
       {
         html                          = fs.readFileSync(dir+file, 'utf-8')
-        const dom:any                 = new JSDOM(html);
+        const dom:any                 = new JSDOM(html)
         const content:HTMLDivElement  = dom.window.document.body.querySelector('div[id="content"]')
         const childs:NodeList         = content.childNodes
         let words:any[]               = self.getWords(childs)
@@ -63,7 +63,7 @@ export class Search
           {
             t = t+p.textContent+"\n"
           })
-          const r       = new RegExp(decodeURI(self.params.q), "gi");
+          const r       = new RegExp(decodeURI(self.params.q), "gi")
           if(t.match(r))
             founds.push(w)
         })
@@ -84,11 +84,11 @@ export class Search
     {
       const node_name = c.nodeName
       if(deny_nodes.indexOf(node_name)!==-1)
-        return false;
+        return false
   
       if(node_name===self.node_group_break)
       {
-        i++;
+        i++
         words[i] = []
       }          
       words[i].push(c)
