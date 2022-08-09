@@ -58,7 +58,7 @@ export class Build
     
     let html:string                 = ''
     html                            = html+View.load('./templates/header.jst',      params)
-    html                            = html+View.load('./templates/search_box.jst',  {q: ''})
+    html                            = html+View.load('./templates/search.jst',  {q: ''})
     html                            = html+View.load('./templates/index.jst',       {result: result})
     html                            = html+View.load('./templates/footer.jst',      Constants)
     

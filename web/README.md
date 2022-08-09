@@ -5,15 +5,6 @@ apache2
 apache2-bin
 apache2-data
 apache2-utils
-libapache2-mod-php
-libapache2-mod-php7.0
-php-common
-php-mbstring
-php-xml
-php7.0-cli
-php7.0-common
-php7.0-mbstring
-php7.0-xml
 ```
 
 **/etc/apache2/sites-available/bermiotarra.conf**
@@ -76,23 +67,6 @@ texlive-pstricks-doc
 texlive-xetex
 ```
 
-# SORTU #
-
-dana:
-```
-php web/private/build.php
-```
-
-html bakarrik:
-```
-php web/private/html.php
-```
-
-pdf bakarrik:
-```
-php web/private/pdf.php
-```
-
 # TYPESCRIPT #
 ```
 cd web/private
@@ -103,11 +77,6 @@ npm i -g @vercel/ncc
 exit
 ```
 
-# TRANSPILATU #
-```
-cd private
-ncc build ./terminal.ts -o dist/
-```
 
 # PM2 #
 ```
@@ -117,4 +86,10 @@ ln -s /opt/node/bin/pm2         /usr/local/bin/pm2
 ln -s /opt/node/bin/pm2-dev     /usr/local/bin/pm2-dev
 ln -s /opt/node/bin/pm2-docker  /usr/local/bin/pm2-docker
 ln -s /opt/node/bin/pm2-runtime /usr/local/bin/pm2-runtime
+exit
+```
+
+# UPDATE & DEPLOY #
+```
+bash update.sh
 ```
