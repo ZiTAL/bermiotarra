@@ -13,6 +13,7 @@ export class Build
     let self = this
     self.html()
     self.index()
+    self.external()
   }
 
   index():void
@@ -184,5 +185,43 @@ export class Build
         let command:string  = `rm -rf ${td}`
         execSync(command)
     })
+  }
+
+  external():void
+  {
+    let self = this
+
+    const md_dirs: string[] =
+    [   
+        fs.realpathSync('../../'),
+        fs.realpathSync('../../sarrerie'),
+        fs.realpathSync('../../berbak-esamoldiek')
+    ]
+    const md_files = self.getFiles(md_dirs,
+    [
+        /\.md$/i
+    ])
+
+    let all:string = ''
+    md_files.forEach(function(md)
+    {
+        all = `${all}\n${fs.readFileSync(md, {encoding:'utf8', flag:'r'})}\n\pagebreak\n`;
+    })
+    fs.writeFileSync('../public/resources/full.md', all, 'utf-8');
+
+    let command     = `rm -rf ../public/resources/bermiotarra.pdf`
+    execSync(command)
+
+    command         = `rm -rf ../public/resources/bermiotarra.epub`
+    execSync(command)    
+
+    command         = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=xelatex -o ../public/resources/bermiotarra.pdf`
+    execSync(command)
+
+    command         = `pandoc ../public/resources/full.md -f markdown -t epub -o ../public/resources/bermiotarra.epub --metadata title=Bermiotarra`
+    execSync(command)
+
+    command         = `rm -rf ../public/resources/full.md`
+    execSync(command)    
   }
 }
