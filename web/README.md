@@ -23,6 +23,9 @@ php7.0-xml
         ServerName bermiotarra.pi
         DocumentRoot "/home/projects/bermiotarra/web/public"
 
+        ProxyPass /bermiotarra/search http://bermiotarra-search.pi:8080/search
+        ProxyPassReverse /bermiotarra/search http://bermiotarra-search.pi:8080/search        
+
         <Directory "/home/projects/bermiotarra/web/public">
                 DirectoryIndex index.php
 
@@ -44,6 +47,8 @@ php7.0-xml
 **/etc/hosts**
 ```
 127.0.0.1   bermiotarra.pi
+127.0.0.1   bermiotarra-search.pi
+
 ```
 
 # HTML eta PDF-ra bihurtuteko #
