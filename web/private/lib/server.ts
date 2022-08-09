@@ -3,7 +3,7 @@ import * as fs          from 'fs'
 
 export class Server
 {
-  static parseGetParams(url:string):object
+  static parseGetParams(url:string):Interfaces.Object
   {
     let result:Interfaces.Object  = {}
     let query_string:string       = url.replace(/[^\?]+\?/, '')

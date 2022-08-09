@@ -24,10 +24,6 @@ export class Search
   index():void
   {
     let self                        = this
-/*
-    let params:Interfaces.Object    = Constants
-    params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
-*/
     let html:string                 = self.getHtml()
 
     if(typeof self.params.q !== 'undefined')
@@ -43,9 +39,9 @@ export class Search
 
     if(typeof self.params.q !== 'undefined')
     {
-      const dir:string        = __dirname+"/../../../public/berbak-esamoldiek/"
-      const files:string[]    = fs.readdirSync(dir)  
-      let founds:object[]     = []
+      const dir:string                = __dirname+"/../../../public/berbak-esamoldiek/"
+      const files:string[]            = fs.readdirSync(dir)  
+      let founds:Interfaces.Object[]  = []
 
       files.forEach(function(file:string)
       {
@@ -95,7 +91,7 @@ export class Search
     return words
   }
 
-  wordsToHtml(words:any):string
+  wordsToHtml(words:Interfaces.Object):string
   {
     let html:string = ''
     words.forEach(function(w:HTMLElement[])
@@ -108,7 +104,7 @@ export class Search
     return html
   }
 
-  output(res:object, html:string, q:string):void
+  output(res:Interfaces.Object, html:string, q:string):void
   {
     let params:Interfaces.Object    = Constants
     params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
