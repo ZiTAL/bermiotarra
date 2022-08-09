@@ -3,7 +3,7 @@ import * as fs          from 'fs'
 import { View }         from './view'
 import { JSDOM }        from 'jsdom'
 
-const { execSync }  = require('child_process');
+const { execSync }  = require('child_process')
 const Constants     = require('./constants')
 
 export class Build
@@ -62,7 +62,7 @@ export class Build
     html                            = html+View.load('./templates/index.jst',       {result: result})
     html                            = html+View.load('./templates/footer.jst',      Constants)
     
-    fs.writeFileSync('../public/index.html', html, 'utf-8');
+    fs.writeFileSync('../public/index.html', html, 'utf-8')
   }
 
   html():void
@@ -109,7 +109,7 @@ export class Build
             html                            = View.load('./templates/header.jst', params)+html
             html                            = html+View.load('./templates/footer.jst', Constants)
             html                            = self.anchor(html)
-            fs.writeFileSync(file_html, html);
+            fs.writeFileSync(file_html, html)
 
             execSync(`rm -rf ${tmp_md}`)
         }
@@ -142,7 +142,7 @@ export class Build
 
   anchor(html:string):string
   {
-    let dom:any = new JSDOM(html);
+    let dom:any = new JSDOM(html)
     dom.window.document.querySelectorAll('h3').forEach(function(e:HTMLHeadingElement)
     {
         let word:string = e.innerHTML
@@ -206,9 +206,9 @@ export class Build
     let all:string = ''
     md_files.forEach(function(md)
     {
-        all = `${all}\n${fs.readFileSync(md, {encoding:'utf8', flag:'r'})}\n\pagebreak\n`;
+        all = `${all}\n${fs.readFileSync(md, {encoding:'utf8', flag:'r'})}\n\pagebreak\n`
     })
-    fs.writeFileSync('../public/resources/full.md', all, 'utf-8');
+    fs.writeFileSync('../public/resources/full.md', all, 'utf-8')
 
     let command     = `rm -rf ../public/resources/bermiotarra.pdf`
     execSync(command)
