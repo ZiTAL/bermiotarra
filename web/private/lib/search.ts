@@ -19,7 +19,6 @@ export class Search
     self.req    = req
     self.res    = res
     self.params = Server.parseGetParams(req.url)
-    //self.index()
   }
 
   index():void
@@ -113,7 +112,7 @@ export class Search
   {
     let params:Interfaces.Object    = Constants
     params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
-    //params.TITLE                    = `${params.TITLE} - Bilatzailie: ${q}` 
+    params.TITLE                    = `${params.SEARCH_CAPTION} ${q}`
 
     html                            = View.load('./templates/header.jst', params)+
                                       html+
