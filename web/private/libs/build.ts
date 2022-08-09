@@ -85,6 +85,7 @@ export class Build
         /\.md$/i
     ])
 
+    // Web-erako Heading-ak aldatuko ditugu ## (H2) -> ### (H3) eta # (H1) -> ## (H2) bihurtuz
     const html_files:string[] = []
     md_files.forEach(function(md)
     {
@@ -110,7 +111,7 @@ export class Build
             html                            = self.anchor(html)
             fs.writeFileSync(file_html, html);
 
-            execSync(`rm ${tmp_md}`)
+            execSync(`rm -rf ${tmp_md}`)
         }
     })
   }
