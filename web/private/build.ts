@@ -1,3 +1,3 @@
-import { Build }    from './libs/build'
+import { Build }    from './lib/build'
 
 new Build()

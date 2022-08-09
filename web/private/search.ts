@@ -1,11 +1,8 @@
-/*
-use: ncc build ./terminal.ts -o dist/
-*/
+import * as Interfaces  from './lib/interfaces'
+import { Search }  from './lib/search'
 
-import { Search }  from './libs/search'
-
-let q:string    = process.argv.slice(2).join(' ')
-let req:any     =
+let q:string                = process.argv.slice(2).join(' ')
+let req:Interfaces.Object   =
 {
     q:      q,
     url:    `/search?q=${q}`

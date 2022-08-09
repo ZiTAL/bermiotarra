@@ -23,7 +23,7 @@ export class Build
         '../public/berbak-esamoldiek/'
     ]
     
-    let result:any = {}
+    let result:Interfaces.Object = {}
     dirs.forEach(function(dir)
     {
         let files:string[]  = fs.readdirSync(dir)
