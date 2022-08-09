@@ -1,6 +1,10 @@
-import * as fs      from 'fs'
-import { JSDOM }    from 'jsdom'
-import { Server }   from './server'
+import * as Interfaces  from './interfaces'
+import * as fs          from 'fs'
+import { JSDOM }        from 'jsdom'
+import { Server }       from './server'
+import { View }         from './view'
+
+const Constants         = require('./constants')
 
 export class Search
 {
@@ -20,11 +24,15 @@ export class Search
 
   index():void
   {
-    let self          = this
-    let html:string   = self.getHtml()
+    let self                        = this
+
+    let params:Interfaces.Object    = Constants
+    params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
+
+    let html:string                 = self.getHtml()
 
     if(typeof self.params.q !== 'undefined')
-      self.output(self.res, html)
+      self.output(self.res, html, self.params.q)
     else
       Server.write(self.res, 400, 'Bad request!')
   }
@@ -101,20 +109,15 @@ export class Search
     return html
   }
 
-  output(res:object, html:string):void
+  output(res:object, html:string, q:string):void
   {
-    let self            = this
-    const params        = 
-    {
-      'PUBLIC_ROOT':    'http://zital-pi.no-ip.org',
-      'RELATIVE_ROOT':  '/bermiotarra/',
-      'TITLE':          '',
-      'LINK_HOME':      '../'
-    }    
-    const header        = Server.view(__dirname+"/../templates/header.jst", params)
-    const footer        = Server.view(__dirname+"/../templates/footer.jst", params)
+    let params:Interfaces.Object    = Constants
+    params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
+    //params.TITLE                    = `${params.TITLE} - Bilatzailie: ${q}` 
 
-    html = header + html + footer
+    html                            = View.load('./templates/header.jst', params)+
+                                      html+
+                                      View.load('./templates/footer.jst', Constants)
 
     Server.write(res, 200, html)
   }  
