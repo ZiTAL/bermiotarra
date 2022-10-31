@@ -537,7 +537,7 @@ Hego-haizeak gauza guztiak hanpatzen dituenez, konparazioan erabiltzen da:
 
 ## AIXETIK ##
 
-Figuratiboan zerbanek ihes egin, adibidez diruak eskapatu.
+Figuratiboan zerbaitek ihes egin, adibidez diruak eskapatu.
 
 - *aixetik eintso irabazitxe okin dxauen diruek*
 - *atrapata okindxu te aixetik eiñ dxosku*
