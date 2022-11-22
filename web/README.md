@@ -69,24 +69,25 @@ texlive-xetex
 
 # TYPESCRIPT #
 ```
-cd web/private
-npm install @types/node --save
-npm install @types/jsdom --save
 su
 npm i -g @vercel/ncc
 exit
+cd web/private
+npm install
 ```
-
 
 # PM2 #
 ```
 su
 npm install pm2 -g
-ln -s /opt/node/bin/pm2         /usr/local/bin/pm2
-ln -s /opt/node/bin/pm2-dev     /usr/local/bin/pm2-dev
-ln -s /opt/node/bin/pm2-docker  /usr/local/bin/pm2-docker
-ln -s /opt/node/bin/pm2-runtime /usr/local/bin/pm2-runtime
+# ln -s /opt/node/bin/pm2         /usr/local/bin/pm2
+# ln -s /opt/node/bin/pm2-dev     /usr/local/bin/pm2-dev
+# ln -s /opt/node/bin/pm2-docker  /usr/local/bin/pm2-docker
+# ln -s /opt/node/bin/pm2-runtime /usr/local/bin/pm2-runtime
 exit
+pm2 startup
+sudo env PATH=$PATH:/opt/node-v18.12.1/bin /opt/node-v18.12.1/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi
+pm2 start
 ```
 
 # UPDATE & DEPLOY #
