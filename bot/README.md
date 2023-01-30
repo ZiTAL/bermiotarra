@@ -9,6 +9,7 @@ libxml2-dev
 libxslt1-dev
 python3-setuptools
 imagemagick
+ghostscript
 
 pip3 install wheel
 pip3 install TwitterApi
