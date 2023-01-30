@@ -1,7 +1,7 @@
 module.exports = 
 {
-    PUBLIC_ROOT:    'http://zital-pi.no-ip.org',
-    RELATIVE_ROOT:  '/bermiotarra/',
+    PUBLIC_ROOT:    'https://bermiotarra.zital.freemyip.com',
+    RELATIVE_ROOT:  '/',
     TITLE:          'Bermiotarra',
     HEADER:         'Bermiotarra',
     SEARCH_CAPTION: 'Bermiotarra: Bilatzailie'

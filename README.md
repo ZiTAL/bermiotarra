@@ -14,7 +14,7 @@ Haurreitxik, hametik bertotik eskatuten tsatie erakunde publikueri herridxeri da
 
 Neuk eindxotenak, lizentzidxe **GPL 3.0** dako.
 
-Proiektuen web orridxe: http://zital-pi.no-ip.org/bermiotarra/
+Proiektuen web orridxe: https://bermiotarra.zital.freemyip.com/
 
 Esker berezidxek:
 
