@@ -17,6 +17,15 @@ pip3 install Mastodon.py
 pip3 install Pillow
 ```
 
+# IMAGEMAGICK
+
+**/etc/ImageMagick-6/policy.xml**
+```
+...
+<policy domain="coder" rights="read | write" pattern="PDF" />
+...
+```
+
 # MASTODON-eko kredentzialak lortuteko #
 ```
 from mastodon import Mastodon
