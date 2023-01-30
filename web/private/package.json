@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@types/jsdom": "^20.0.1"
+  }
+}
