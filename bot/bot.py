@@ -124,7 +124,7 @@ for i in files:
 	d = ImageDraw.Draw(img)
 
 	d.text((375, 730), "#bermiotarra  #zitalbot", font = font, fill=(0, 0, 0, 255))
-	d.text((300, 750), "http://zital-pi.no-ip.org/bermiotarra/", font = font, fill=(0, 0, 0, 255))
+	d.text((300, 750), "https://bermiotarra.zital.freemyip.com/", font = font, fill=(0, 0, 0, 255))
 
 	img.save(i, "PNG")
 
@@ -143,7 +143,7 @@ for i in files:
 	images.append([a.id])
 	os.remove(i)
 
-m = mastodon.status_post(txt+"http://zital-pi.no-ip.org/bermiotarra/", None, images)
+m = mastodon.status_post(txt+"https://bermiotarra.zital.freemyip.com/", None, images)
 
 # twitter
 
