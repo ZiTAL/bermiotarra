@@ -10,10 +10,11 @@ import random
 from hashlib import md5
 import tempfile
 from PIL import Image, ImageFont, ImageDraw
-from TwitterAPI import TwitterAPI
+#from TwitterAPI import TwitterAPI
 from mastodon import Mastodon
 from time import localtime
 from time import strftime
+from time import sleep
 
 # fitxero danak hartun #
 
@@ -143,16 +144,19 @@ for i in files:
 	images.append([a.id])
 	os.remove(i)
 
+sleep(15)
+
 m = mastodon.status_post(txt+"https://bermiotarra.zital.freemyip.com/", None, images)
 
 # twitter
-
+"""
 credentials_file = sys.path[0]+"/twitter.credentials"
 with open(credentials_file, 'r') as f:
 	credentials = json.load(f)
 
 api = TwitterAPI(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'], credentials['ACCESS_TOKEN_KEY'], credentials['ACCESS_TOKEN_SECRET'])
 r = api.request('statuses/update', {'status': txt+m.url})
+"""
 
 # toka dan berbie cache-n sartu #
 
