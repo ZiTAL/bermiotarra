@@ -639,7 +639,7 @@ Oso zapala den arraina da gaztelerazko **platija** deritzona, baina konparazioan
 
 ## PLAUST EIÑDXE ##
 
-Bertan bebera utzita.
+Bertan behera utzita.
 
 - *plaust eiñdxe itxi gaitxuz bertan*
 - *ez itxi gauzek plaust eindxe, gero neuretzat biarra da ta*
