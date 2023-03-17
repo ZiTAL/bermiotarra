@@ -1,38 +1,26 @@
-# PHP / APACHE
+# NGINX
 
 ```
-apache2
-apache2-bin
-apache2-data
-apache2-utils
+apt-get install nginx-full
 ```
 
-**/etc/apache2/sites-available/bermiotarra.conf**
+**/etc/nginx/sites-available/bermiotarra.conf**
 ```
-<VirtualHost *:80>
-        ServerAdmin zital@github.com
-        ServerName bermiotarra.pi
-        DocumentRoot "/home/projects/bermiotarra/web/public"
+server {
+        server_name     bermiotarra.zital.freemyip.com;
+        root            /home/projects/bermiotarra/web/public;
 
-        ProxyPass /bermiotarra/search http://bermiotarra-search.pi:8080/search
-        ProxyPassReverse /bermiotarra/search http://bermiotarra-search.pi:8080/search        
+        location /search {
+                proxy_cache      dcache;
+                proxy_pass       http://bermiotarra-search.opi4:8080/search;
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        }
 
-        <Directory "/home/projects/bermiotarra/web/public">
-                DirectoryIndex index.php
-
-                # apache 2.2
-                #Order allow,deny
-                #Allow From all
-
-                # apache 2.4
-                AllowOverride none
-                Require all granted
-        </Directory>
-
-        ErrorLog ${APACHE_LOG_DIR}/bermiotarra-error.log
-        LogLevel error
-        CustomLog ${APACHE_LOG_DIR}/bermiotarra-access.log combined
-</VirtualHost>
+        error_log  /var/log/nginx/bermiotarra-error.log error;
+        access_log /var/log/nginx/bermiotarra-access.log;
+}
 ```
 
 **/etc/hosts**
@@ -92,5 +80,4 @@ pm2 start
 
 # UPDATE & DEPLOY #
 ```
-bash update.sh
-```
+bash deploy.sh
