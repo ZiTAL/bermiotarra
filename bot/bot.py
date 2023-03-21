@@ -107,7 +107,8 @@ with os.fdopen(fd, 'w') as tmp:
 os.system("pandoc "+path+" -f markdown -t latex -o "+path+".pdf")
 
 # pdf-tik png-ra
-os.system("convert "+path+".pdf -background white -alpha remove -colorspace RGB "+path+".png")
+#os.system("convert "+path+".pdf -background white -alpha remove -colorspace RGB "+path+".png")
+os.system("convert "+path+".pdf -background white -alpha remove "+path+".png")
 
 os.remove(path)
 os.remove(path+".pdf")
