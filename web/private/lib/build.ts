@@ -212,7 +212,7 @@ export class Build
         command     = `rm -rf ../public/resources/bermiotarra.epub`
         execSync(command)
 
-        command     = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=xelatex -o ../public/resources/bermiotarra.pdf`
+        command     = `pandoc ../public/resources/full.md -f markdown -t latex -o ../public/resources/bermiotarra.pdf`
         execSync(command)
 
         command     = `pandoc ../public/resources/full.md -f markdown -t epub -o ../public/resources/bermiotarra.epub --metadata title=Bermiotarra`
