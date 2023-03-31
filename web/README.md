@@ -30,36 +30,40 @@ server {
 
 ```
 
+
 # HTML eta PDF-ra bihurtuteko #
 ```
-pandoc
-texlive-base
-texlive-binaries
-texlive-extra-utils
-texlive-font-utils
-texlive-fonts-recommended
-texlive-fonts-recommended-doc
-texlive-fonts-recommended
-texlive-generic-extra
-texlive-generic-recommended
-texlive-latex-base
-texlive-latex-base-doc
-texlive-latex-extra
-texlive-latex-extra-doc
-texlive-latex-recommended
-texlive-latex-recommended-doc
-texlive-pictures
-texlive-pictures-doc
-texlive-pstricks
-texlive-pstricks-doc
-texlive-xetex
+su
+apt-get install pandoc texlive-latex-recommended
+exit
+```
+
+# NODE
+```
+su
+chown -R pi:pi /opt
+exit
+cd /opt
+wget https://nodejs.org/dist/v18.15.0/node-v18.15.0-linux-arm64.tar.xz
+tar -xf node-v18.15.0-linux-arm64.tar.xz
+ln -s /opt/node-v18.15.0-linux-arm64 /opt/node
+su
+ln -s /opt/node/bin/corepack /usr/local/bin/corepack
+ln -s /opt/node/bin/node /usr/local/bin/node
+ln -s /opt/node/bin/npm /usr/local/bin/npm
+ln -s /opt/node/bin/npx /usr/local/bin/npx
+chmod -R +x /usr/local/bin/
+exit
 ```
 
 # TYPESCRIPT #
 ```
-su
 npm i -g @vercel/ncc
+su
+ln -s /opt/node/bin/ncc /usr/local/bin/ncc
+chmod -R +x /usr/local/bin/
 exit
+
 cd web/private
 npm install
 ```
@@ -68,13 +72,14 @@ npm install
 ```
 su
 npm install pm2 -g
-# ln -s /opt/node/bin/pm2         /usr/local/bin/pm2
-# ln -s /opt/node/bin/pm2-dev     /usr/local/bin/pm2-dev
-# ln -s /opt/node/bin/pm2-docker  /usr/local/bin/pm2-docker
-# ln -s /opt/node/bin/pm2-runtime /usr/local/bin/pm2-runtime
+ln -s /opt/node/bin/pm2         /usr/local/bin/pm2
+ln -s /opt/node/bin/pm2-dev     /usr/local/bin/pm2-dev
+ln -s /opt/node/bin/pm2-docker  /usr/local/bin/pm2-docker
+ln -s /opt/node/bin/pm2-runtime /usr/local/bin/pm2-runtime
+chmod -R +x /usr/local/bin/
 exit
 pm2 startup
-sudo env PATH=$PATH:/opt/node-v18.12.1/bin /opt/node-v18.12.1/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi
+sudo env PATH=$PATH:/opt/node/bin /opt/node/lib/node_modules/pm2/bin/pm2 startup systemd -u pi --hp /home/pi
 pm2 start
 ```
 
