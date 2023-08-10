@@ -148,7 +148,7 @@ for i in files:
 
 sleep(15)
 
-m = mastodon.status_post(txt+"https://bermiotarra.zital.freemyip.com/", None, images)
+m = mastodon.status_post(txt+"https://bermiotarra.zital.freemyip.com/", visibility='public', media_ids=images)
 
 # twitter
 """
