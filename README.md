@@ -48,6 +48,7 @@ Esker berezidxek:
 - Madalen Lopez Gangoiti
 - Eneritz German Zabala
 - Oier Gorosabel Larrañaga @txikillana / mastodon
+- Aritzatxuko andrak
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
