@@ -44,7 +44,8 @@ Gaztelerazko **pantalón** nola sartu den esanahi horretaz ez da erraza jakitea.
 
 Toalla.
 
-- Aritzatxuko andrak diñoie Portugaleko pañuek dizela hobienak.
+- *Aritzatxuko andrak diñoie Portugaleko pañuek dizela hobienak*
+- *hondartzarako pañue garbitxuten dakot*
 
 ## PAPARDUEN ARPIDXE ##
 
