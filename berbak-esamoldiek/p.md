@@ -40,6 +40,12 @@ Kuleroak.
 
 Gaztelerazko **pantalón** nola sartu den esanahi horretaz ez da erraza jakitea. Hala ere analogiaz egin dela argi dago.
 
+## PAÑUE ##
+
+Toalla.
+
+- Aritzatxuko andrak diñoie Portugaleko pañuek dizela hobienak.
+
 ## PAPARDUEN ARPIDXE ##
 
 Kokolo aurpegia. 
