@@ -329,7 +329,7 @@ Bustita. Blai eginda. Bigunduta.
 Ile horia duena.
 
 - *berak lejiatako lastuek ekar dostez arrotzak*
-- *ez eidxona esan lejiatako lastue koitxadueri. Ez tala? Aren ubek lejiatan sartuneikuen antza eztako ba?*
+- *ez eidxona esan lejiatako lastue koitxadueri. Ez tala? Aren uliek lejiatan sartuneikuen antza eztako ba?*
 
 ## LEKUTEKO AMAN ETZIEN ##
 
