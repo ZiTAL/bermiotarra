@@ -1524,7 +1524,7 @@ Kristau bataiatua izan ez. Ez dela behar den modukoa adierazteko.
 
 Kasurik ere ez.
 
-- *dendara sanun nai da ango dependientiek nogaz dauen be eztost eiñ*
+- *dendara sartun nai da ango dependientiek nogaz dauen be eztost eiñ*
 - *neu denpora guztidxen berba ta berba, da berak nogaz dauen be ez*
 
 ## EZTAI ZER DA BADAI NOR ##
