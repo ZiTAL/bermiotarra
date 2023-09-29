@@ -1440,7 +1440,7 @@ Abiadura bizian.
 
 ## ANDANAN ##
 
-Adberbioan erabiliko dugu hitz hau.
+Abiadura bizian. Adberbioan erabiliko dugu hitz hau.
 
 - *andanan etor nai zeu atrapateko*
 - *ez ibilli andanan dxeusi barik*
