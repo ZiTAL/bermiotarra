@@ -1,6 +1,6 @@
 module.exports = 
 {
-    PUBLIC_ROOT:    'https://bermiotarra.zital.freemyip.com',
+    PUBLIC_ROOT:    'https://bermiotarra.zital.eus',
     RELATIVE_ROOT:  '/',
     TITLE:          'Bermiotarra',
     HEADER:         'Bermiotarra',

@@ -7,7 +7,7 @@ apt-get install nginx-full
 **/etc/nginx/sites-available/bermiotarra.conf**
 ```
 server {
-        server_name     bermiotarra.zital.freemyip.com;
+        server_name     bermiotarra.zital.eus;
         root            /home/projects/bermiotarra/web/public;
 
         location /search {
