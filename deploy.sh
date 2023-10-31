@@ -10,6 +10,7 @@ node dist/build/index.js
 
 pm2 stop bermiotarra
 pm2 start dist/server/index.js --name bermiotarra
+pm2 save
 
 cd -
 exit 0
