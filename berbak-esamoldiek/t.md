@@ -178,7 +178,7 @@ Kintanak bakarrik jaso du Bermeon hain erabilia den hitz hau:
 
 **tardanza** → **ardantza**.
 
-## TARDATZIE BILE / EMON ##
+## TARDANTZIE BILE / EMON ##
 
 Umeak momentu baterako etxetik kanpora botatzeko aitzakia.
 
