@@ -34,7 +34,7 @@ server {
 # HTML eta PDF-ra bihurtuteko #
 ```
 su
-apt-get install pandoc texlive-latex-recommended
+apt-get install pandoc texlive-latex-recommended calibre
 exit
 ```
 

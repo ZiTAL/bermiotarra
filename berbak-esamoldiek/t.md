@@ -1,6 +1,4 @@
-# T #
-
-## TABARDILLE / IE ##
+# TABARDILLE / IE #
 
 1. Pertsona gaiztoak. Obeditzen ez duten pertsona, animalia edo gauza.
 
@@ -16,7 +14,7 @@ Hitz honek gaztelerazko **tabardillo** = **fiebre que altera el sistema nervioso
 - *onek sagarrak tabardillie baiño gogorrau dauz*
 - *abardillie dala ata kontu onen erropien telie*
 
-## TAIDXO ##
+# TAIDXO #
 
 Adore. Indar. Energia.
 
@@ -27,7 +25,7 @@ Adore. Indar. Energia.
 
 Azkuek ez du jaso, baina D.A.R.k Bermeoko hitza bezala azaltzen du, baina esanahia **incapaz** jartzen du.
 
-## TAKARTA BAIÑO GOGORRAU ##
+# TAKARTA BAIÑO GOGORRAU #
 
 Panekari Takarta deitzen diogu Bermeon. Arrain hau nahiko gogor egoten da, zurrun. Gogortasuna adierazteko erabiltzen dira lokuzio hau eta **takarta lez**.
 
@@ -35,19 +33,19 @@ Panekari Takarta deitzen diogu Bermeon. Arrain hau nahiko gogor egoten da, zurru
 - *izterrak dakotez takarta baiño gogorrau otzagaz*
 - *takarta baiño gogorrau dakotez titidxek pe*
 
-## TAKARTA LEZ ##
+# TAKARTA LEZ #
 
 - *takarta lez gogortute dakotez atzamarrak*
 - *onek erropak gaue kanpuen pasa dauielez, eiñ dxauen otzagaz takarta lez dauz*
 
-## TAKET EIÑ ##
+# TAKET EIÑ #
 
 Muzin egin.
 
 - *biarrari taket eitxen tso arek, ezta arrarue*
 - *fabrikera dxuteko, baie berak taket*
 
-## TAKETA LEZ ##
+# TAKETA LEZ #
 
 Taket edo zutoi bat bezala egon.
 
@@ -55,7 +53,7 @@ Taket edo zutoi bat bezala egon.
 - *non zauz ba! Bestela nau berton, taketa lez eskiñie berotuten*
 - *neu be oten nai zeuri begire taketa lez*
 
-## TAKETERO / A ##
+# TAKETERO / A #
 
 Jenio txarreko pertsona. Aldarte txarrekoa.
 
@@ -63,7 +61,7 @@ Jenio txarreko pertsona. Aldarte txarrekoa.
 - *zeu be taketera utse zara ta*
 - *bai, da neure alabie be taketerie, da nor geidxau?*
 
-## TAKETIEN ##
+# TAKETIEN #
 
 Jenio txarrean umore txarrean.
 
@@ -71,7 +69,7 @@ Jenio txarrean umore txarrean.
 - *takeden dau, gixona edxatzolako etorri*
 - *beti dauz arek taketien*
 
-## TALLEPE / TELLAPE ##
+# TALLEPE / TELLAPE #
 
 1. Auzoa. Biak erabiltzen direnez biak sartu dirut baten.
 
@@ -81,7 +79,7 @@ Jenio txarrean umore txarrean.
 
 - *geure tallepera bizitzen etor diez, baie ondiño ez dotez ikusi kolarran*
 
-## TALLEPEKUE ##
+# TALLEPEKUE #
 
 Auzokoa.
 
@@ -90,14 +88,14 @@ Auzokoa.
 - *nik tallepeko onak dakotez*
 - *ba, gauze andidxe da tallepeko onak okitxie*
 
-## TALUEN ARPIDXE ##
+# TALUEN ARPIDXE #
 
 Aurpegi zabala eta biribila daukanari aplikatua. 
 
 - *beran taluen arpidxegaz, mobidu bez gero*
 - *zeure taluen arpidxegaz ez beitu iñori, enfada eitxen nozu te*
 
-## TANBOLIN PALO ##
+# TANBOLIN PALO #
 
 Oso mehea, batez ere bernak.
 
@@ -105,7 +103,7 @@ Oso mehea, batez ere bernak.
 - *enebada! Tanbolin palotxuek takozuz izterrak*
 - *ia! Dxan asko, orrek tanbolin paluek loditxuteko*
 
-## TANBORRA DXO ##
+# TANBORRA DXO #
 
 Notizia bat edo sekretu bat lau haizetara zabaltzea.
 
@@ -113,7 +111,7 @@ Notizia bat edo sekretu bat lau haizetara zabaltzea.
 - *tanborra dxoten asi berton, danak enterateko. Zuk takozu arpidxe!*
 - *eztauela gure iñok dxakitxie, da bera asi de tanborra dxoten*
 
-## TANBUTXUE ##
+# TANBUTXUE #
 
 Itsasontzi baten bodegarako sarrera zuloa da. Lauki zabala eta baxua da. Konparazioan pertsona lodia eta txikia. Salbuespenak ere badaude, gauzak gisa horretakoak direnean aplikatzen da.
 
@@ -121,14 +119,14 @@ Itsasontzi baten bodegarako sarrera zuloa da. Lauki zabala eta baxua da. Konpara
 - *ba beran lagunen nobidxie bai dala tanbutxue*
 - *zirkuen ikusi duzen enbrak eta mutillek tanbutxue tiez*
 
-## TANGA / IE ##
+# TANGA / IE #
 
 Portzelana erregogorrezko ontzia. Antzina ez zegoen besterik eta gaur be erabiltzen diren horren antzeko ontziei, horrela deitzen zaie.
 
 - *tanga bete ur ekarristaixu egarri nai txe*
 - *tangie beteta ekarri tsut da amen itxi geruau gure bazu be*
 
-## TANGARRO / UE ##
+# TANGARRO / UE #
 
 Era guztietako ontzia.
 
@@ -138,7 +136,7 @@ Era guztietako ontzia.
 - *an eztot ikusi nik tangarrorik*
 - *esneduneri imiñi esnien tangarrue atepostan*
 
-## TANGETERA / IE ##
+# TANGETERA / IE #
 
 Antzina itsasora kafesnea eramaten zen tresna da. Gaur egun, analogiaz, hauskorra ez den beste edozein ontzi.
 
@@ -146,7 +144,7 @@ Antzina itsasora kafesnea eramaten zen tresna da. Gaur egun, analogiaz, hauskorr
 - *onek tangeteriek eztost kabiten gure doten beste kresel*
 - *tangetera andidxaue ekar biar*
 
-## TANTO KONTU BATEN ##
+# TANTO KONTU BATEN #
 
 Neurtu barik. Gutxi gorabehera.
 
@@ -154,7 +152,7 @@ Neurtu barik. Gutxi gorabehera.
 - *tanto konto baten emonda, zelan dxakingu zemat metro paga biar tsagun ba?*
 - *arek a berbie tanto kontu baten esan dau, meidu barik berbiek takon pisue*
 
-## TARASKA ##
+# TARASKA #
 
 Emakume bat da. Bermeon plaza baten aurkitzen den odaliska. Dotore jantzita dagoen emakume baten estatua da. Antzina, estatua hori emagaldu batena dela esaten zuten. Gaur egun emakume traketsa, baldarra definitzeko erabiltzen dugu hitz hori.
 
@@ -165,7 +163,7 @@ Emakume bat da. Bermeon plaza baten aurkitzen den odaliska. Dotore jantzita dago
 
 Erdarazko hiztegietan herensuge izugarria dela adierazten da, eta figuratiboan daukan zentzua **mujer fea, maja y desenvuelta** da. Guk ematen diogun zentzua ez da berdina, ezta plazan dagoen irudiak ematen duena ere.
 
-## TARDANTZA ##
+# TARDANTZA #
 
 Berandutzea. Atzerapena.
 
@@ -178,7 +176,7 @@ Kintanak bakarrik jaso du Bermeon hain erabilia den hitz hau:
 
 **tardanza** → **ardantza**.
 
-## TARDANTZIE BILE / EMON ##
+# TARDANTZIE BILE / EMON #
 
 Umeak momentu baterako etxetik kanpora botatzeko aitzakia.
 
@@ -186,7 +184,7 @@ Umeak momentu baterako etxetik kanpora botatzeko aitzakia.
 - *alabatxu tire izekonera, eta esan tardantzie emoteko*
 - *onek imiek azukara lar jan dau, eta oin eztau nok aguantako dauen, amumanera botakot tardantzie bile*
 
-## TARRAZTO ##
+# TARRAZTO #
 
 Irain baten antzera botatzen da. Zeresanik ez, peioratiboan ere erabiltzen dela.
 
@@ -195,7 +193,7 @@ Irain baten antzera botatzen da. Zeresanik ez, peioratiboan ere erabiltzen dela.
 - *eurok tarraztuen antzeko magaridxek tiez orrenbeste diro?*
 - *tarraztuek? balekozuz kamara bete, tarraztuek tizela ta*
 
-## TARTANA ##
+# TARTANA #
 
 Tartamutua.
 
@@ -203,7 +201,7 @@ Tartamutua.
 - *tartanarik ongo da zuk baiño obeto eitxen dauenik berba*
 - *ni enai tartanie, baie nerbiosa paraten naienien bai*
 
-## TARTANATU ##
+# TARTANATU #
 
 Tartamutu bihurtu.
 
@@ -211,7 +209,7 @@ Tartamutu bihurtu.
 - *ez tartanatuteko, kantaten ein bide berba*
 - *tartanatute bertan zer esan ezien, zelako apurue pasa dot ba*
 
-## TAUTIK / TAUKETIK ##
+# TAUTIK / TAUKETIK #
 
 Ezer ez egin.
 
@@ -223,7 +221,7 @@ Ezer ez egin.
 - *eztau esan, baie tautik be eztau eiñ*
 - *lo ta lo ein da gero tautik esan barik dxun dok*
 
-## TEN ##
+# TEN #
 
 Tiratu.
 
@@ -234,7 +232,7 @@ Tiratu.
 
 Azkuek jaso du, baina ez du esanahi bera.
 
-## TENKA ##
+# TENKA #
 
 Tiratzen.
 
@@ -245,7 +243,7 @@ Tiratzen.
 
 Azkuek, **tenga** forma jaso du, Tx, Agirteren **Kresala** tik.
 
-## TENPLANTZIE ##
+# TENPLANTZIE #
 
 Patxada.
 
@@ -258,7 +256,7 @@ Ez du gaztelerazko **templanza** hitzaren esanahia, nahiz eta formaz berdina iza
 
 **templanza** → **tenplanza** → **tenplantza**.
 
-## TENTELA ##
+# TENTELA #
 
 Kokolo. Tonto. Ganoragabekoa.
 
@@ -269,7 +267,7 @@ Kokolo. Tonto. Ganoragabekoa.
 
 Azkuek Mundakan eta Gernikan jaso du, baina Bermeon normalki erabiltzen da, baina Azkueren garaian erabiltzen bazen ere, galdu egingo zen, Mundakan behintzat, hor, urte askotan ez baitzen erabiltzen euskararik edo oso gutxi. Hala ere, azken aldian zabaltzen ari, eta telebistan ere entzuten da. Baina segurutik, **tenteldu** oraindino Bermeon bakarrik erabiltzen direna.
 
-## TENTELDU ##
+# TENTELDU #
 
 Tentel bihurtu, aditz forman.
 
@@ -279,7 +277,7 @@ Tentel bihurtu, aditz forman.
 
 Azkuek ez du jaso, baina D.A.R.k bai, **tenteldute**, adberbio forman, Ondarruko Agustin Zubikaraien zita bat aipatzen da. Bermeon, aditz funtzioa betetzen du forma honek.
 
-## TENTELDUTE ##
+# TENTELDUTE #
 
 Tentelduta, adberbio forman.
 
@@ -290,7 +288,7 @@ Tentelduta, adberbio forman.
 
 Lehen esan bezala, adberbio funtzioa, kasu honetan betetzen du, eta ez bestean.
 
-## TENTELKEIDXEK ##
+# TENTELKEIDXEK #
 
 Tentelkeriak. Beti pluralean.
 
@@ -298,7 +296,7 @@ Tentelkeriak. Beti pluralean.
 - *tentelkeidxek eitxen txuz, jentie berari begire plantateko*
 - *ez ein tentelkeririk, nigaz zauzen artien beintzet*
 
-## TENTELUNTZI ##
+# TENTELUNTZI #
 
 Tentela hitzaren sinonimo bat.
 
@@ -306,7 +304,7 @@ Tentela hitzaren sinonimo bat.
 - *atxiñe esan tsoie areri tenteluntzidxe dana*
 - *tenteluntzidxen gauzek eitxen txuz da ganera barre eitxen dau*
 
-## TERMIÑO / UE ##
+# TERMIÑO / UE #
 
 Distantzia fisikoa eta denborarena.
 
@@ -315,7 +313,7 @@ Distantzia fisikoa eta denborarena.
 - *termiñue andidxe ezan arren eztau zetan imiñi orrenbeste arbola*
 - *partido batetik besterako termiñue, laburre da, ta eztau emoten denporiek*
 
-## TERRELA ##
+# TERRELA #
 
 Itsasoan gauez ibiltzen den haize freskoa. Baina konparazioan biharamona, ostea da.
 
@@ -327,7 +325,7 @@ Itsasoan gauez ibiltzen den haize freskoa. Baina konparazioan biharamona, ostea 
 
 Gaztelerazko **viento terral** hitza erabiltzen da honetarako.
 
-## TERRESTE ##
+# TERRESTE #
 
 Lehorrean lan egiten duena. Ez dakit kostaldeko beste herrietan erabiltzen den hitz bau. Bermeon asko.
 
@@ -338,7 +336,7 @@ Lehorrean lan egiten duena. Ez dakit kostaldeko beste herrietan erabiltzen den h
 
 Gaztelerazko **terrestre** = **referentes la tierra** izan da erabilitako hitza.
 
-## TERRIÑE ##
+# TERRIÑE #
 
 Esne-ontzia. Bermeon edozertarako erabiltzen den ontzia.
 
@@ -348,7 +346,7 @@ Esne-ontzia. Bermeon edozertarako erabiltzen den ontzia.
 - *terriñek ondo zarratu, autse sartun barik*
 - *terriñ andi bategaz neiko da, egun guztireko ure artzieko*
 
-## TERTERA ##
+# TERTERA #
 
 Tartera. Baina zentzu zabalagoan, hau da era guztietako kazolak, basazkoak izan ezik.
 
@@ -359,7 +357,7 @@ Tartera. Baina zentzu zabalagoan, hau da era guztietako kazolak, basazkoak izan 
 
 Gaztelerazko **tartera** hitzak esanahi mugatua badu ere, Bermeoko erabileran askoz ere zabalagoa dauka.
 
-## TERTZA ##
+# TERTZA #
 
 Arrantzarako apareiua. Amuak kordeletan karnatarekin homituak eta metro askotan eratuak, krielean bilbatzen da. Hitz hau lokuzioetan agertzen da, konparazioan beste zentzu bat hartuz.
 
@@ -370,7 +368,7 @@ Arrantzarako apareiua. Amuak kordeletan karnatarekin homituak eta metro askotan 
 
 Azkuek Bermeokoa bezala jaso du hitz hori, baina honen aldaera bat **tretza** da hain zuzen, kostako beste herri batzuetan ere erabiltzen da.
 
-## TERTZA FALTAUE ##
+# TERTZA FALTAUE #
 
 Zalantzazko fama edo erreputazioa txarra daukan pertsona. **Tertza** berba honen inguruan esaldi asko sortu dira. Tretza edo tertza, Bermeon esaten den bezala, arrantzarako apareiua da, eta hau krielean bilbatzen da.
 
@@ -378,14 +376,14 @@ Zalantzazko fama edo erreputazioa txarra daukan pertsona. **Tertza** berba honen
 - *beran aiztie be tertza faltaue ezan da, baie Bilbora dxun danien morroi bategaz ezkondu de*
 - *tertza faltau guztidxek dakoie suertie txo, dxuen Canariasera da enbra aberats bategaz ezkondu*
 
-## TERTZIE NASTA ##
+# TERTZIE NASTA #
 
 Dena nahastu.
 
 - *isillik on tertzie nastaten zauz de*
 - *tertzie nastaten eztau obiaurik, dana nasta bidau*
 
-## TERTZIE PLAMIE ##
+# TERTZIE PLAMIE #
 
 Tertza bilbatzearen horren konparazioz, zera ematen du: Nahastu. Intrigatu. Azpijokoan aritu.
 
@@ -393,14 +391,14 @@ Tertza bilbatzearen horren konparazioz, zera ematen du: Nahastu. Intrigatu. Azpi
 - *terzie plamieten abillauek zarie andrak*
 - *zeu zara terzie plamie dozune, asike oraiñ zeuk konpondu biar dozu asuntue*
 
-## TERTZINAK ##
+# TERTZINAK #
 
 Emakumearen hilekoak. Oraingoan gaztelerazko **tercianas** antzinako berba da. Gainera peioratiboan erabiltzen da.
 
 - *dardakadan zauz alabatxu, tertzinakaz zauz ela?*
 - *ezta etorri plaidxera. Tertzinakaz ongo da!*
 
-## TEÑAZTO ##
+# TEÑAZTO #
 
 Ezkabiatsu. Gehienetan irain modura erabilia, eta askotan deigarria ere bai.
 
@@ -408,7 +406,7 @@ Ezkabiatsu. Gehienetan irain modura erabilia, eta askotan deigarria ere bai.
 - *txo teñazto! agarra auneri txikotari*
 - *teñazto, ardaue edo zerbezie guzu?*
 
-## TEÑIE ##
+# TEÑIE #
 
 Zentzu figuratuan, ikusiezina, gorrotoa, iskanbila...
 
@@ -416,7 +414,7 @@ Zentzu figuratuan, ikusiezina, gorrotoa, iskanbila...
 - *bai, bazan teñie amen erridxen*
 - *teñie ta txarrikeidxe baiño eztau gure artien*
 
-## TIADORA ##
+# TIADORA #
 
 Tiradera.
 
@@ -427,7 +425,7 @@ Tiradera.
 
 Gaztelerazko **tirador** = **asidero para cerrar y abrir** hitza, kaxa adierazteko zabaldu da.
 
-## TIESKUE ##
+# TIESKUE #
 
 Kioskoa.
 
@@ -437,7 +435,7 @@ Kioskoa.
 
 Gaztelerazko **quiosco** edo **kiospio** hitza da horren etimologia.
 
-## TINDI ##
+# TINDI #
 
 Apur bat.
 
@@ -445,7 +443,7 @@ Apur bat.
 - *tindi tindi bategaz dakozu neiko useiñe emoteko*
 - *tindike tindike zabiltzez, botaixu geidxau*
 
-## TINDITXU / E ##
+# TINDITXU / E #
 
 Pixka bat. Apur bat baino gutxiago.
 
@@ -456,7 +454,7 @@ Pixka bat. Apur bat baino gutxiago.
 
 Azkuek, Mundakan jartzen du hitz hau; Bermeon normalki erabiltzen da.
 
-## TIPOSO / A / UE ##
+# TIPOSO / A / UE #
 
 Itxurosoa. Itxurazkoa. Pertsona, animalia edo gauza.
 
@@ -465,7 +463,7 @@ Itxurosoa. Itxurazkoa. Pertsona, animalia edo gauza.
 - *ba mutille ezta bape tiposue*
 - *erlojo tiposue ekar tsu gixonak*
 
-## TIRAÑEK ##
+# TIRAÑEK #
 
 Zirikada. Zeiharresana.
 
@@ -473,7 +471,7 @@ Zirikada. Zeiharresana.
 - *tirañek botaten on barik, arpire esan esateko dakozune*
 - *eztau gure asarratu, baie tirañek botaten segiten badau asarratu ein biko dau*
 
-## TIRE ##
+# TIRE #
 
 Azentuaren arabera esanahi ezberdina izan lezake.
 
@@ -499,7 +497,7 @@ Azentuaren arabera esanahi ezberdina izan lezake.
 
 Azkuek ez du jaso baina D.A.R.k azkena jaso du Lhanderen zita bat aipatuz.
 
-## TIRIBIRE ##
+# TIRIBIRE #
 
 Irauli. Anodatu.
 
@@ -510,7 +508,7 @@ Irauli. Anodatu.
 
 Azkuek **vuelco de embarcación** zentzuaz jaso du, baina Bermeon, hori baino esanain zabalagoan erabiltzen da. Hala ere, galtzen ari den hitza da, hogei urtetik beherakoetan oso gutxi entzuten baita.
 
-## TIRRIDXE ##
+# TIRRIDXE #
 
 Tirria. Ezinikusia.
 
@@ -521,14 +519,14 @@ Tirria. Ezinikusia.
 
 Gaztelerazko **tirria** da, eta zentzua ere berbera. Azkuek hiru definizio ematen ditu hitz horrentzat eta hirugarrena da zentzu honetaz jaso duena, Goi-Nafarreraz.
 
-## TITIRITERUEN ANTZA ##
+# TITIRITERUEN ANTZA #
 
 Janzkera barregarria izan.
 
 - *aratustiek diez ela? Nora zatoz titiriteruen antzagaz ba!*
 - *ezkontzara tirititeruen antzagaz, ia markie!*
 
-## TOFEZ ##
+# TOFEZ #
 
 Aurrez aurre aurkitu. 
 
@@ -538,7 +536,7 @@ Aurrez aurre aurkitu.
 
 Seguruena frantseseko *to face* hitzetatik hartuta dagoela.
 
-## TOKAMENA ##
+# TOKAMENA #
 
 Tokatzen zaiona.
 
@@ -548,7 +546,7 @@ Tokatzen zaiona.
 
 Hitz honetan argi ikusten da erdarazko berba bat geureganatzeko daukagun gaitasuna.
 
-## TOLA / IE ##
+# TOLA / IE #
 
 Kanpinetan erabiltzen den edontzia.
 
@@ -556,7 +554,7 @@ Kanpinetan erabiltzen den edontzia.
 - *obiauek tiez plastikozko basuek tolie baiño*
 - *baie basuek apurtu eitxen diez da tolie barriz ez*
 
-## TOLETA ##
+# TOLETA #
 
 Toleta. Konparazioan zakila.
 
@@ -564,7 +562,7 @@ Toleta. Konparazioan zakila.
 - *beran toleta aidien dakola on dxatzu txixe eitxen*
 - *toleta ebaiko tso andriek, beste andra bategaz dabillela enteraten dartien*
 
-## TOLLE ##
+# TOLLE #
 
 Arrain bat da, marrazo familiakoa. Konparazioan erabiltzen da energia gabeko pertsona definitzeko.
 
@@ -574,7 +572,7 @@ Arrain bat da, marrazo familiakoa. Konparazioan erabiltzen da energia gabeko per
 
 Azkuek Bermeorako jaso du hitz hori, baina esanahia pixka bat ezberdina da, **hombre cachazudo** definitzen baitu.
 
-## TONBOLO / UE / IE ##
+# TONBOLO / UE / IE #
 
 Pertsona lodikotea.
 
@@ -582,7 +580,7 @@ Pertsona lodikotea.
 - *beste neskatiltxue be tonbolatxue da*
 - *tonboluek eta tonbolak eztakoie munduen, bixitxeko deretxorik ela?*
 
-## TORTOLA / IE ##
+# TORTOLA / IE #
 
 Alua. Beti erabiltzen da gogor hitz egiten denean, edota, haserre tonuan.
 
@@ -590,7 +588,7 @@ Alua. Beti erabiltzen da gogor hitz egiten denean, edota, haserre tonuan.
 - *arraiñ asko ekartsue ezta? Arraiñ asko? Zeure tortolie!*
 - *arek tako, tortolie erreta, ibill dxen beste gixonegaz*
 
-## TORTOLA BERINKATIE ##
+# TORTOLA BERINKATIE #
 
 Pertsona potolotxoa eta ona, baina emakumea.
 
@@ -598,21 +596,21 @@ Pertsona potolotxoa eta ona, baina emakumea.
 - *beran imien ama be tortola bereinkatie da ta*
 - *alabatxi, emega; aurreitxik zauz zu tortola bereinkatie lez*
 
-## TORTOLA BERO ##
+# TORTOLA BERO #
 
 Gizonak asko gustatzen zaizkion emakumea.
 
 - *tortola bero orregaz ezkonduko da? Eztaki zelako alajie daruen*
 - *tortola bero zantarra ezanda be, bera ezkondu*
 
-## TORTOLA KAKA ##
+# TORTOLA KAKA #
 
 Norbaiti modu maitakorrean deitzeiko balio du.
 
 - *hamen neure tortola kaka, zelan zauz ba?*
 - *tortola kaka, jun adubidxetara haizie hartzien.
 
-## TORTOLIE LAKUE ##
+# TORTOLIE LAKUE #
 
 Pertsona lodikotea, baina andrazkoa.
 
@@ -620,7 +618,7 @@ Pertsona lodikotea, baina andrazkoa.
 - *zelako neskatillie ein zara ba, tortolie lakotxue zara gero*
 - *gero ezta eingo tortolie lakue ba, Lameran emon ezkero orduek dxesarritxe*
 
-## TOTAL ##
+# TOTAL #
 
 Oso.
 
@@ -628,7 +626,7 @@ Oso.
 - *azterketie total txarto eiñ dxot*
 - *total politxo pintze dauie Talako ormie*
 
-## TOTALEKUE ##
+# TOTALEKUE #
 
 Totalekoa. Ezer edo inor baino gehiago.
 
@@ -638,7 +636,7 @@ Totalekoa. Ezer edo inor baino gehiago.
 
 Azuek **totala** jaso du zerazu berdinaz.
 
-## TOTO / UE ##
+# TOTO / UE #
 
 Pertsona lodikotea.
 
@@ -648,7 +646,7 @@ Pertsona lodikotea.
 
 Azkuek beste zentzu batez jaso du forma hau.
 
-## TOTOLODI ##
+# TOTOLODI #
 
 Pertsona baxua eta lodikotea.
 
@@ -658,7 +656,7 @@ Pertsona baxua eta lodikotea.
 
 Azkuek ez du jaso, D.A.R.k, ostera, bai, baina zentzua **bobalicón** jartzen du; beraz guztiz zentzu ezberdina.
 
-## TRA(N)KERO / UE ##
+# TRA(N)KERO / UE #
 
 Trasteak.
 
@@ -666,7 +664,7 @@ Trasteak.
 - *trenik bapez txo, ostabe artun trakeruek eta etzera*
 - *itzi berton trakero guztidxek, baten batek erungo txuz de*
 
-## TRABES ##
+# TRABES #
 
 Txarto.
 
@@ -674,7 +672,7 @@ Txarto.
 - *zelan dabiltzez zure gixona ta ba? Trabes dabiltzez, txarto*
 - *trabes be, trabes dabiltzez gero*
 
-## TRABES TRABESKA ##
+# TRABES TRABESKA #
 
 Itsasontzia gilarekin perpendikularrean doanean esaten da. Konparazioan txarto ibiltzen den pertsona.
 
@@ -682,7 +680,7 @@ Itsasontzia gilarekin perpendikularrean doanean esaten da. Konparazioan txarto i
 - *gu aixiek tiñonien guez ba, trabes trabeska, azkaningoko txikitue artzien*
 - *trabes trabeska dxun da mozkorragaz, eztaitx zelan aillegako dan etzera*
 
-## TRABESEKO PAELA ##
+# TRABESEKO PAELA #
 
 Paela, itsasontzietan arraina gordetzerakoan erabiltzen diren trabesetara jarritako oholak dira. Horrela, bada, gauzak oker egiten dituena edo noraezean ibiltzen den pertsona definitzeko erabiltzen da.
 
@@ -690,21 +688,21 @@ Paela, itsasontzietan arraina gordetzerakoan erabiltzen diren trabesetara jarrit
 - *txo, trabeseko paela zara txo, Bilbora dxun biarrien Gerniken lotu*
 - *trabeseko paela be ezta a makala, beti dabill noraezien*
 
-## TRABESTU ##
+# TRABESTU #
 
 Txarto hitza, baina aditz funtzioan.
 
 - *asikeran gauzek ondo dxun diez, baie orain trabestu eiñ dxiez*
 - *geuri be trabestu eiñ dxaskuz okiñ dxuzen asmuek*
 
-## TRABESTUTE ##
+# TRABESTUTE #
 
 **Trabes** hitza adberbio funtzioan erabiltzen bada, kasu honetan ere funtzio hori beteko du.
 
 - *denbora guztidxen ibilli gariez trabestute*
 - *diro barik, osasun barik eta kriston serra barik, trabestute ibilko gariez*
 
-## TRAGARRO / IE ##
+# TRAGARRO / IE #
 
 Asko jaten duena. Dena beretzat nahi duena.
 
@@ -715,7 +713,7 @@ Asko jaten duena. Dena beretzat nahi duena.
 - *tragarroiek pe aulan ibilltxen diez, dana atrapa guren*
 - *tragarroi utse da gero, ezta konformaten atrapaten dauenagaz*
 
-## TRANKA ##
+# TRANKA #
 
 Barrutik krisketaz atea itxi.
 
@@ -725,7 +723,7 @@ Barrutik krisketaz atea itxi.
 
 Gaztelerazko **atrancar** edo **tranear** aditza erabiltzen da kasu honetan, eta funtzioa ere aditzarena dauka.
 
-## TRANKIE ##
+# TRANKIE #
 
 Antzina ateak. zarratzen ziren palua. Analogiaz, gaur ere erabili egiten da, atea ondo zarratzeko definizioaz, barrutik krisketarekin, hain zuzen.
 
@@ -733,7 +731,7 @@ Antzina ateak. zarratzen ziren palua. Analogiaz, gaur ere erabili egiten da, ate
 - *trankiaz bakarrik itxi dot atie ta preokupeta nau*
 - *ori zarra kendute, tranka barridxe imingo tsagu atiri*
 
-## TRANKO / GE ##
+# TRANKO / GE #
 
 Pausu luzea, handia.
 
@@ -745,7 +743,7 @@ Pausu luzea, handia.
 
 Gaztelerazko **tranco**-tik sartu da zuzenean. Azkuek baxe-nafarreraz eta Erronkariko Uztarrozen jaso du zentzu honetaz.
 
-## TRAPO OLATUE ##
+# TRAPO OLATUE #
 
 Itsaso astinduak -baina ez itsaso handia- sortarazten dituen olatua. Edonondik joten du.
 
@@ -753,7 +751,7 @@ Itsaso astinduak -baina ez itsaso handia- sortarazten dituen olatua. Edonondik j
 - *edonondik dxoten gaitxuz olatuek, klaro, trapo olatue dauelez*
 - *trapo olatue beti da molestue*
 
-## TRASTE / IEK ##
+# TRASTE / IEK #
 
 Altzariak. Tretxuak. Trasteak.
 
@@ -764,7 +762,7 @@ Altzariak. Tretxuak. Trasteak.
 - *trastien trastiegaz, aurki bet non be eztau*
 - *balidxo eztauien trastiek bota eingo tez*
 
-## TRAUSKIDXE ##
+# TRAUSKIDXE #
 
 Pertsona dorpea, baldarra.
 
@@ -774,14 +772,14 @@ Pertsona dorpea, baldarra.
 
 Azkuek, bere hiztegian jaso du hitz hau, Mundakako Otxoluaren zita bat aipatuz. Definizio berbera ematen dio.
 
-## TREBERIE EDERRA ##
+# TREBERIE EDERRA #
 
 Alua handia izatea. Konparazioan emakume bizkorra, ernea, bizia.
 
 - *zu, alabatxu, trebera ederra dakozu zuk, zeuk gorde arraiñik onenak da niri txarrenak emon*
 - *nik treberie dakotela ederra, zeitxik? Zeu baiño ariñau allega naielakon?*
 
-## TRENAK EKARRIKUE ##
+# TRENAK EKARRIKUE #
 
 Kanpotik etorritako emigrantea.
 
@@ -789,7 +787,7 @@ Kanpotik etorritako emigrantea.
 - *bai, orrek, trenak ekarrikuek, batzuk kukurruku eiñdxe dauz*
 - *trenak ekarriko bategaz ezkondu de zeure lobie be, da ze, mutill ona*
 
-## TRENTIN BAKUE ##
+# TRENTIN BAKUE #
 
 Adimen eskasekoa. Baina peioratiboan erabiltzen da asko.
 
@@ -797,7 +795,7 @@ Adimen eskasekoa. Baina peioratiboan erabiltzen da asko.
 - *trentin bakotxuek diez aizte bidxek*
 - *alabatxi, ganorie artun, trentin bako tentelori*
 
-## TRENTIÑE ##
+# TRENTIÑE #
 
 Adimena. Ganora.
 
@@ -807,7 +805,7 @@ Adimena. Ganora.
 
 Azkuek, **cachaza** zentzuaz jaso du.
 
-## TRIBIS DA ENPARE DXAN ##
+# TRIBIS DA ENPARE DXAN #
 
 Asko jaten duen pertsona, Tribis eta Enpare Bermeoko auzoak dira.
 
@@ -815,7 +813,7 @@ Asko jaten duen pertsona, Tribis eta Enpare Bermeoko auzoak dira.
 - *neure gixonak pe  dxango lekidau, tribis da enpare*
 - *tribis da enpare dxan ezkero, on biar tripie altza eiziñik*
 
-## TRIKIMALLUEK ##
+# TRIKIMALLUEK #
 
 Beti erabiltzen da pluralean. Maltzurkeriak. Trikimailu. Aitzakia.
 
@@ -823,7 +821,7 @@ Beti erabiltzen da pluralean. Maltzurkeriak. Trikimailu. Aitzakia.
 - *trikimailluek tabiltzez arek, zemakure*
 - *trikimalluekaz datorren personie ezta fidxetekue*
 
-## TRILLE ##
+# TRILLE #
 
 Urratu.
 
@@ -833,7 +831,7 @@ Urratu.
 
 Hitz honen aldaera bat, Azkuek jaso du Otxandion baina Bermeon, esanahia, zabalagoa da.
 
-## TRIMILDXU ##
+# TRIMILDXU #
 
 Urratu. Apurtu. Zati-zati.
 
@@ -842,7 +840,7 @@ Urratu. Apurtu. Zati-zati.
 
 **Trille** hitzaren sinonimo bat izan daiteke, baina honek zentzu zabalagoa dauka.
 
-## TRINKE ##
+# TRINKE #
 
 Estutu.
 
@@ -852,7 +850,7 @@ Estutu.
 
 Gaztelerazko **trincar** aditza pixka bat aldatuz edo behintzat zentzu zabalagoan erabiltzen da. Funtzioa ere aditzarena betetzen du.
 
-## TRINKETA ##
+# TRINKETA #
 
 Estututa.
 
@@ -860,7 +858,7 @@ Estututa.
 - *erropie be trinketa darue*
 - *garridxe istu istu, garrikue trinketa, arnasarik artzien be eztost itxitxen*
 
-## TRIPE USTELA ##
+# TRIPE USTELA #
 
 Arduragabeko pertsona. Ernegatzen ez duena.
 
@@ -869,14 +867,14 @@ Arduragabeko pertsona. Ernegatzen ez duena.
 - *zeuek ikusi zelan dabiltzuen ama antzidxerako be etsazue tripe ustelak zarie*
 - *tripe ustelak dakoie, ezkondu ein biar da ondiño arriorik pe ez*
 
-## TRIPEK DXATEN ##
+# TRIPEK DXATEN #
 
 Arrabiaz.
 
 - *entzuten dizen gauzek entzun de, tripek dxaten paraten nai*
 - *an dau a, tripek dxaten, geugaz ez datorrelako Benidorrera*
 
-## TRIXIE LISTO ##
+# TRIXIE LISTO #
 
 Prest egon. Adi egon. Antzinatik datorren berba da. Trixa antzina erabiltzen zen apareiu bat da, itsasontziek bela erabiltzen zutenekoa. Gaur egun ez dago horrelakorik, baina esaldia eta zentzua berdina da, nahiz eta beste egoera batzuetan erabili.
 
@@ -884,7 +882,7 @@ Prest egon. Adi egon. Antzinatik datorren berba da. Trixa antzina erabiltzen zen
 - *auna beitu, ta trixie listo laster urtengo dau txoridxek eta*
 - *loteridxek urten tsola? Ba, trixie listo egidxe ezango da ta*
 
-## TROIXAK ##
+# TROIXAK #
 
 Ile-txortak.
 
@@ -895,7 +893,7 @@ Ile-txortak.
 
 Hitz hau adinekoen artean bakarrik entzuten da.
 
-## TROKATU ##
+# TROKATU #
 
 Biburtu. Bihurdura.
 
@@ -906,7 +904,7 @@ Biburtu. Bihurdura.
 
 Azkuek Lekeition eta Gernikan jaso du, baina Bermeon oso erabilia da.
 
-## TRONGILLE ##
+# TRONGILLE #
 
 Pirikoma. Bulto.
 
@@ -916,7 +914,7 @@ Pirikoma. Bulto.
 
 Azkuek jaso du hitz hau, baina zentzua, mugatuagoa da.
 
-## TRONPONADA ##
+# TRONPONADA #
 
 Asko. Masa. Tropela.
 
@@ -926,7 +924,7 @@ Asko. Masa. Tropela.
 
 Izenaren funtzioa betetzen du.
 
-## TRONPONADAN ##
+# TRONPONADAN #
 
 Asko. Masa. Tropela, baina adberbio funtzioan.
 
@@ -935,7 +933,7 @@ Asko. Masa. Tropela, baina adberbio funtzioan.
 - *tronponadan etortie baiño, obeto da apur apurke etortie arraiñe*
 - *illietan euri barik, eta oraiñ, eztanien biar, tronponadan euri guztidxek*
 
-## TROSKILLE ##
+# TROSKILLE #
 
 Pertsona fina ez dena. Baldarra. Dorpea. Baserrikoa.
 
@@ -945,7 +943,7 @@ Pertsona fina ez dena. Baldarra. Dorpea. Baserrikoa.
 
 Azkuek zentzua pixka bat aldatuta jaso du, eta F, Segura aipatzen du.
 
-## TROSKO / UE ##
+# TROSKO / UE #
 
 Zati handi-handia. Pertsona edo gauza dorpea.
 
@@ -957,7 +955,7 @@ Zati handi-handia. Pertsona edo gauza dorpea.
 
 Azkuek forma honi ematen dion definizioetako bat, azken hau dugu. Bestea ez da zentzu berdinekoa, Berak F, Segura aipatzen du hitz hau jasotzerakoan.
 
-## TRUBEN ##
+# TRUBEN #
 
 Noraezean. Norabidea galduta.
 
@@ -966,7 +964,7 @@ Noraezean. Norabidea galduta.
 - *esan dauie bapor guztidxek dabiltzezela truben arraiñe topa eziñik*
 - *truben ibilltxekutan, obeto da etzien geratzie*
 
-## TRUBOI / E ##
+# TRUBOI / E #
 
 Trumoi. Baina hemen konparazioan erabiliko dugu. Esaterako, pertsona bat nagitsu edo gaupasa eginda dagoenean nola dagoen definitzeko.
 
@@ -974,14 +972,14 @@ Trumoi. Baina hemen konparazioan erabiliko dugu. Esaterako, pertsona bat nagitsu
 - *kordu kalera, truboiek atrapa orduko*
 - *onek beruek, truboie emoten dau*
 
-## TRUBOIEKDXOTA ##
+# TRUBOIEKDXOTA #
 
 Gaupasa egin ondoren egoten den ajea. Nagitsu dagoenean pertsona.
 
 - *truboiek dxota gauz danok, dutxe otz bana artu biarko dogu*
 - *esnedunegaz batera etzera etorri ezkero, truboiek dxota on biar*
 
-## TRUBONADIE ##
+# TRUBONADIE #
 
 Trumonada. Konparazioan, gaupasa egin ondoren egoten den ajea. Nagitsu dagoenean pertsona.
 
@@ -991,7 +989,7 @@ Trumonada. Konparazioan, gaupasa egin ondoren egoten den ajea. Nagitsu dagoenean
 - *enuen ni iñora, trubonadie dakot eta*
 - *okiñ dxun trubonadiegaz, Lamerako bankuen idxe luek artun*
 
-## TRUXUEK ##
+# TRUXUEK #
 
 Euri-zaparrada.
 
@@ -1001,7 +999,7 @@ Euri-zaparrada.
 
 Gaztelerazko **chuzos** hitzetik sartutakoa dela dirudi.
 
-## TUNBE ##
+# TUNBE #
 
 Jausi.
 
@@ -1010,7 +1008,7 @@ Jausi.
 - *orrek gobemuek laster umbeko dau*
 - *tunbe geuk eingu guk, orrek gobernuek agiñe gogor dako txo!*
 
-## TUNBETA ##
+# TUNBETA #
 
 Etzanda.
 
@@ -1020,7 +1018,7 @@ Etzanda.
 
 Adberbio funtzioa betetzen du.
 
-## TUNBUTO / UE ##
+# TUNBUTO / UE #
 
 Bulto handia.
 
@@ -1028,7 +1026,7 @@ Bulto handia.
 - *buruen dakot Sollube baiño tunbuto andidxaue*
 - *izterrien dakozun tunbutue ez dxatzu kentzien ba*
 
-## TUNKURRE ##
+# TUNKURRE #
 
 Bulto.
 
@@ -1036,14 +1034,14 @@ Bulto.
 - *zuk bat badoku nik tunkur bi dakotez*
 - *eztie ezango ba, gixonak imin tsuzen tunkur bidxek*
 
-## TUNTURRE ##
+# TUNTURRE #
 
 Bulto.
 
 - *ia or buruen zer dakozun tuntur bet ikusten tsut eta*
 - *buruen eztakot ezer baie belaunien tuntur andi bet dakot*
 
-## TUNTUX / E ##
+# TUNTUX / E #
 
 Buia. Konparazioan andrazko baten enbarazua.
 
@@ -1051,21 +1049,21 @@ Buia. Konparazioan andrazko baten enbarazua.
 - *zeure aiztie be tuntux matxugaz dau*
 - *ez orain tuntux barik tau, errie dau imie ta*
 
-## TURDI(DU)TE ##
+# TURDI(DU)TE #
 
 Harrituta.
 
 - *ezta ba turdidutekue eiñ dxauen biarra?*
 - *egidxe, mundu guztidxe geratu turdidute PPra dxun dala esan dauenien*
 
-## TURDIDU ##
+# TURDIDU #
 
 Harritu. Lelotu.
 
 - *entzun dotenagaz turdidu ein nai alabatxu*
 - *danak turdidu diez, pentsa-pentsa barik etor da ta*
 
-## TURRUNE ##
+# TURRUNE #
 
 Arraina portura etortzen zenean, antzina kanpaia jotzen zen. Horri kanpaia zeritzoten. Gero **sirena** jarri zuten eta horri **turrune** deitzen zitzaion. Gaur egun ez dago ez kanpairik ez sirenarik, telefonoek egiten dutelako lan hori. Baina **turrune** esaten jarraitzen da horien antzeko zerbait entzuten denan.
 
@@ -1073,7 +1071,7 @@ Arraina portura etortzen zenean, antzina kanpaia jotzen zen. Horri kanpaia zerit
 - *entzun zu turrunik ela?*
 - *turrune dxoten daueneko batera altzaten nai oitxik*
 
-## TURTULO / UE ##
+# TURTULO / UE #
 
 Tokor. Koskor. Baina, baita mozkorra ere, zentzu figuratuan.
 
@@ -1083,7 +1081,7 @@ Tokor. Koskor. Baina, baita mozkorra ere, zentzu figuratuan.
 - *okiñ dxauen turtuluegaz etzie non dakon be eztau dxakiñ*
 - *edan au kafetxue, turtulue kentzieko*
 
-## TUTELIKLAS ##
+# TUTELIKLAS #
 
 Klase guztietakoak.
 
@@ -1092,7 +1090,7 @@ Klase guztietakoak.
 
 Erdaratik, frantsesetik seguru, edo batek daki nondik asmaturikoa den.
 
-## TUTERREZ / IEN ##
+# TUTERREZ / IEN #
 
 Makina guztian. Azkar. Konparazioan.
 
@@ -1100,49 +1098,49 @@ Makina guztian. Azkar. Konparazioan.
 - *neuk pe tuterrez ein bidot etzerantz*
 - *txikiteuek tiño, turrez ibilltxeko*
 
-## TUTUEN BESTEKUE ##
+# TUTUEN BESTEKUE #
 
 Oso txikiak.
 
 - *tutuen besteko imiek dxuten diez tabematara, da ori eztau ondo*
 - *erosi eiñ dxuz, baie zelakuek? Tutue lako boltsak, ez ei dau andidxaurik eta*
 
-## TXABETADA ##
+# TXABETADA #
 
 Burutik eginda dagoen baten ekintza.
 
 - *zelako txabetadak okitxen txuz ba, eziñ dxakiñ zelan dauen*
 - *txabetatute dauenak txabetadak ein biar*
 
-## TXABETIE ##
+# TXABETIE #
 
 Burutik ondo ez dabilena.
 
 - *txabetiek eztau ekarri ezan dxatzona*
 - *txabetie beti txabeta, berak gure dauena eiñ*
 
-## TXANGA ##
+# TXANGA #
 
 Izorratu.
 
 - *bueno ia ez padan txangaten egualdidxe... aritzatxure jun gudot eta!*
 - *txo automotorra txanga dast, eta tallerrea saka-sakaka eruen bizan dot!*
 
-## TXAKURRE EZAN BAZAN AINKE ##
+# TXAKURRE EZAN BAZAN AINKE #
 
 Zerbait bilatzen ari garenean, eta aurrean eduki eta ikusi ez, esaldi hori erabiltzen dugu.
 
 - *amen eztakozu pintxurie ba, txakurre ezan bazan ainke*
 - *begidxen bisten okiñ da eziñ dxauela topa, txakurre ezan bazan ainke*
 
-## TXAKURREK ELIXERAKO DAKON GANIE ##
+# TXAKURREK ELIXERAKO DAKON GANIE #
 
 Gogorik ez.
 
 - *Bilbora dxuteko txakurrek elixerako dakon ganie dakot neuk pe*
 - *bai, Mirenek pe esan dost, txakurrek elixerako dakon ganie dakola Benidorrera dxuteko*
 
-## TXANKAME ##
+# TXANKAME #
 
 Hankak meheak dauzkan pertsona.
 
@@ -1154,7 +1152,7 @@ Hitz honen konposizioan **txanka** eta **me** (mehe) erabili dira.
 
 **txanka** + **me** → **txankame**.
 
-## TXANKAPISTOLA ##
+# TXANKAPISTOLA #
 
 
 Hankak oso meheak dauzkan pertsona. **Txankame** ren parekoa da, baina oraindino meheagoak dituena.
@@ -1167,7 +1165,7 @@ Kasu honetan, **txanka** eta **pistola** izan dira konposaketan parte hartu dute
 
 **txanka** + **pistola** → **txankapistola**.
 
-## TXANTELA ##
+# TXANTELA #
 
 Arrainaren faktura da. Kofradian ematen dena, gero bankuan kobratzeko. Baina orain edozein faktura izan daiteke, pintorea, dendakoa, arotzarena, eta abar. 
 
@@ -1184,14 +1182,14 @@ Bermeoko kofradian gertatutako bitxikeria bat zera da:
 
 Hori entzun da askotan txantela **abalatzek** eskatzean. Eta hau ez da txiste bat.
 
-## TXANTON / NIE ##
+# TXANTON / NIE #
 
 Erabat gorra.
 
 - *txanton deitxuten tsoie gorra dalakon*
 - *da Mikelari be txantonie deitxu biar tsagu gorra dalakon?*
 
-## TXAPLIE ##
+# TXAPLIE #
 
 Arropetako ipingia. Parche.
 
@@ -1199,7 +1197,7 @@ Arropetako ipingia. Parche.
 - *txaplie imitxie modan dauelako*
 - *bestelakue! Lelau txaplie dakoien frakarik gure bez dxantzi, da oiñ txaplaz beteta edozer*
 
-## TXARKERIDXEK ##
+# TXARKERIDXEK #
 
 Umeen okerkeriak.
 
@@ -1207,14 +1205,14 @@ Umeen okerkeriak.
 - *Kesusito dabill txarkeridxek eitxen*
 - *bai, orrek eingo dau txarkeriren bat betikue lez*
 
-## TXARPIE ##
+# TXARPIE #
 
 Isuna edo horren antzekoren bat ordaintzeko datorrenean.
 
 - *zelako txarpie dakot pagateko ba, multie edo eztakitx*
 - *txarpa ederra etorko dxast neuri be kontribuziñuena*
 
-## TXARRAPATA ##
+# TXARRAPATA #
 
 Atzamarka. Aditz funtzioan.
 
@@ -1224,7 +1222,7 @@ Atzamarka. Aditz funtzioan.
 
 Ikusten denez, gehienetan partizipio barik erabiltzen den aditza da.
 
-## TXARRAPATADA ##
+# TXARRAPATADA #
 
 Atzamarkada.
 
@@ -1232,7 +1230,7 @@ Atzamarkada.
 - *arpidxen ein tzon txarrapatadie ez dxatzo kenduko denporatan be*
 - *gorputze itxi tzo txarrapatadaz beteta*
 
-## TXARRAPATAKA ##
+# TXARRAPATAKA #
 
 Atzamarka egiten.
 
@@ -1242,7 +1240,7 @@ Atzamarka egiten.
 
 Moduzko gerundio honek adberbioaren funtzioa betetzen du.
 
-## TXARRAPATARIDXE ##
+# TXARRAPATARIDXE #
 
 Elaiaren antzeko txoria, baina handiagoa. Arrano txiki baten erpak dauzka eta erasotzen dakiena.
 
@@ -1250,7 +1248,7 @@ Elaiaren antzeko txoria, baina handiagoa. Arrano txiki baten erpak dauzka eta er
 - *askotan, elaiek tizelakuen, txarrapataridxekaz erretuten nai*
 - *txarrapatari asko ibilltxen da gure soluen*
 
-## TXARRENARI EMONDA ##
+# TXARRENARI EMONDA #
 
 Gehiegikerietan sartuta ibiltzea.
 
@@ -1258,7 +1256,7 @@ Gehiegikerietan sartuta ibiltzea.
 - *geure ama be txarrenari emonda dau, eztozt itxi biar bizitxen be*
 - *txarrenari emon tsoiela? Gerrie bille dabiltzez orrek txarri, zantar guztidxek*
 
-## TXARRI MARKAKUE LEZ ##
+# TXARRI MARKAKUE LEZ #
 
 Erpakada, txarramikoz beterik.
 
@@ -1266,7 +1264,7 @@ Erpakada, txarramikoz beterik.
 - *ein tsozen txarrapatadakaz, txarri markauen antzien itxi dau*
 - *bestela itxi nozu txarri markauen moduen zeure txitxemarkadakaz*
 
-## TXARRIASKA ##
+# TXARRIASKA #
 
 Pertsona lotsagabea.
 
@@ -1274,7 +1272,7 @@ Pertsona lotsagabea.
 - *bakigu txarriaska utze dana, baie nok esango tzo ezer ba*
 - *txarriaskakaz eztot kure tratorik*
 
-## TXARRO / UE ##
+# TXARRO / UE #
 
 Durdoi antzeko arraina,baina txikiagoa eta zabalagoa. Nahiko preziatua. Baina konparazioan erabiltzen da, kolore biziak dituelako soinekoei aplikaturik.
 
@@ -1283,14 +1281,14 @@ Durdoi antzeko arraina,baina txikiagoa eta zabalagoa. Nahiko preziatua. Baina ko
 - *gure imiri txarro dxantzitxe dxutie gustaten dxatzo*
 - *ori erropie ez dxast gustaten txarrue da ta, kolore lar dako*
 
-## TXARRO DXANTZITXE ##
+# TXARRO DXANTZITXE #
 
 Kolore nabarmenez jantzita.
 
 - *ba, datorren uden danok txarro jantzitxe Lameran*
 - *txarro jantzitxe etor dasku, atakontu erlie dala*
 
-## TXARTO IKUSI BURUE ##
+# TXARTO IKUSI BURUE #
 
 Egoera larrian aurkitu.
 
@@ -1298,7 +1296,7 @@ Egoera larrian aurkitu.
 - *olan bazabiltzez, txarto ikusko zu zeure burue*
 - *dakarrera dxun dizenien, txarto ikusi dauie euren buruek, an be gerrie dau te*
 
-## TXATIE LEZ ##
+# TXATIE LEZ #
 
 Ederki. Primeran.
 
@@ -1306,7 +1304,7 @@ Ederki. Primeran.
 - *txatie lez dakotez Bilbon erosi dotezen frakak*
 - *etzie lotu dxast txatie lez, papel barridxek imindxe*
 
-## TXATXARRA ##
+# TXATXARRA #
 
 1. Oso eskasak.
 
@@ -1317,14 +1315,14 @@ Ederki. Primeran.
 
 - *agin guztidxek dakotez txatxarrak dxanda*
 
-## TXATXUR ##
+# TXATXUR #
 
 Umeei zuzentzen garenean haginak definitzeko erabilia da hitz hau.
 
 - *ia zelan dakozuzen txatxurrek*
 - *ikusi amari txatxurtxue*
 
-## TXEPETXA ##
+# TXEPETXA #
 
 1. Pertsona mesfidatiei aplikatzen da konparazioan.
 
@@ -1336,7 +1334,7 @@ Umeei zuzentzen garenean haginak definitzeko erabilia da hitz hau.
 
 Txepetxa Euskal Herriko txoririk txikiena dela esaten da. Ez dakit hori egia den, baina bai mesfidatiena dela. Honek, enbor erraldoi baten gainean pausatzen denean, frogatu egin behar du bere pisua sostengatzeko gai den enborra.
 
-## TXETXO ##
+# TXETXO #
 
 Deitzekoa dugu forma hau.
 
@@ -1344,7 +1342,7 @@ Deitzekoa dugu forma hau.
 - *ara txetxo, eztakot zeure kontorik*
 - *txetxo, itxistazu bakien*
 
-## TXETXOTXU ##
+# TXETXOTXU #
 
 Deitzeko forma, **Txetxo** bera, baina diminutibo forman.
 
@@ -1352,32 +1350,32 @@ Deitzeko forma, **Txetxo** bera, baina diminutibo forman.
 - *dxun zaitxez ortik txetxotxu, biar ein bi dot eta*
 - *baie txetxotxu, non sartun zara ba*
 
-## TXIBIDXIE BAIÑO ZURIDXAU ##
+# TXIBIDXIE BAIÑO ZURIDXAU #
 
 Kolore zuriaren konparazioak egiteko erabiltzen den hitz bat, txibia dugu.
 
 - *eguzkidxe artzien nuen, txibidxie baiño zuridxau nau te*
 
-## TXIBIDXIEN KOLORIE ##
+# TXIBIDXIEN KOLORIE #
 
 Kolore zuria adierazteko.
 
 - *txibidxien koloriegaz gauz, baie laster beitu ze baltz ongo garizen*
 
-## TXIBIDXLE LEZ ZURITXUTE ##
+# TXIBIDXLE LEZ ZURITXUTE #
 
 Kolore zuria adierazteko.
 
 - *aurten txibidxie lez zuritxute nau neu be*
 
-## TXIKERDI ##
+# TXIKERDI #
 
 Antzinako neurria da. Kikara erdi izaten zen ardoaren edo beste likido baten neurria. Gaur egun, adinekoen artean entzuten da, baina gutxitasuna adierazteko.
 
 - *txikerdi ardau baiño eztot edan da marieta nau*
 - *seguru txikerdi baiño geidxau ezan dana*
 
-## TXIKIKO ARPIDXE ##
+# TXIKIKO ARPIDXE #
 
 Aurpegi oso txikia.
 
@@ -1385,14 +1383,14 @@ Aurpegi oso txikia.
 - *berak imiek txikiko arpeidxe dako, arpi txiki txikitxue*
 - *muñekien antza dako beran txikiko arpeidxegaz*
 
-## TXIKILLISTE / IE ##
+# TXIKILLISTE / IE #
 
 Txirrindularia.
 
 - *txikillistek ikusten dxun gariez Sollubera*
 - *ez lekidxast gustako nire semie txikillistie ezatie*
 
-## TXIKIRRIÑUE ##
+# TXIKIRRIÑUE #
 
 Oso  txikia.
 
@@ -1400,21 +1398,21 @@ Oso  txikia.
 - *saldu tzuzenari esan txikirriñuek tizena*
 - *alabatxi, arrotzarik txikirriñuenak emostazuz*
 
-## TXIKIZARRA ##
+# TXIKIZARRA #
 
 Itxuraz txikia baina adinez zaharra.
 
 - *hamabost urte dakozela? Ba eztau emoten, txikizarra ezango da*
 - *bai txikizarra da, gorputz txikidxe dako baie urtiek ganien*
 
-## TXIKOT FALTAUE ##
+# TXIKOT FALTAUE #
 
 Burutik erdi eginda dagoena.
 
 - *edozein egunetan dxuten da bañue artzien a txikot faltaue*
 - *itxixu ba, txikot faltaue da ta*
 
-## TXIKOTA ##
+# TXIKOTA #
 
 Soka, edozein motatakoa.
 
@@ -1424,7 +1422,7 @@ Soka, edozein motatakoa.
 
 Gaztelerato **chicote** = **extremo de cuerda** hitza hartu eta gero, esanahia zabaldu egin da.
 
-## TXIKOTAZO / UE ##
+# TXIKOTAZO / UE #
 
 Ukabilkada. Kolpea.
 
@@ -1434,7 +1432,7 @@ Ukabilkada. Kolpea.
 
 Hitz hau ere zuzenean hartu da gaztelerazko **chicotazo** hitzetik.
 
-## TXIKOTETIK ##
+# TXIKOTETIK #
 
 Arrainak ihes egin, txikotetik eskapa. Analogiaz, ihes egiten duten gauza guztiekin erabiltzen da.
 
@@ -1442,7 +1440,7 @@ Arrainak ihes egin, txikotetik eskapa. Analogiaz, ihes egiten duten gauza guztie
 - *negozidxo on bat okiñ dxau, baie txikotetik tzo*
 - *biejiek ein tzu txikotetik, ezta? ez ezan biar tentelana*
 
-## TXILIN TXALAN ##
+# TXILIN TXALAN #
 
 Bi pertsonak, besoak elkarri lotuta umetxoa bertan gainean kulunkatzen ibiltzea da.
 
@@ -1453,7 +1451,7 @@ Badago kantu bat lelo ori erabiltzen dena:
 
 - *txilin txalan, eskatuten bozu infernora*
 
-## TXILIPITXO / TXILIPITXERO / UE ##
+# TXILIPITXO / TXILIPITXERO / UE #
 
 1. Lula. Arrain txikia, koloretsua, eta oso ona jateko.
 
@@ -1465,14 +1463,14 @@ Badago kantu bat lelo ori erabiltzen dena:
 
 - *txilipitxue ondo gorde gero, otzitxu barik*
 
-## TXILIÑUE ##
+# TXILIÑUE #
 
 Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste aldaera bat hobeto esanda. **txitxiliñue**, ume baten zakila definitzeko erabiltzen den hitzaren laburpena da.
 
 - *txiliñue be ez dxatzo ikusten koitxaduri*
 - *zelan ikusiko dxatzo txiliñue imiri beran mamiñekaz tapata dako ta*
 
-## TXILL ##
+# TXILL #
 
 Gehienetan eguzkia dirdaitsu dagoenean esaten da.
 
@@ -1480,7 +1478,7 @@ Gehienetan eguzkia dirdaitsu dagoenean esaten da.
 - *eguzkidxe txill on da atzo, baie gaur egualdi kapaue dau*
 - *begidxek pe txill txill dakoz eguzkidxe lez, ardautxu da ta*
 
-## TXILLO / UE ##
+# TXILLO / UE #
 
 Arrain txiki bat. Bisigu txikien antzekoa. Baina konparazioan ere erabiltzen da. Begiak ardoaren edo loguraren eraginaz txikituta daudenean esaten dugu.
 
@@ -1490,7 +1488,7 @@ Arrain txiki bat. Bisigu txikien antzekoa. Baina konparazioan ere erabiltzen da.
 - *beituixu orren begi txilluek, nondik ibill dxe ba*
 - *begi txillotxuek takoz, baie politxek*
 
-## TXILLOTU ##
+# TXILLOTU #
 
 Logura, ardoa edo beste drogaren baten eraginez begiak txikituta edukitzea. Aditz forma.
 
@@ -1502,7 +1500,7 @@ Aditzaren funtzion betetzen du forma honek.
 
 Azkuek Mundakan jaso du hitz hau, baina Bermeon zentzu zabalagoa dauka.
 
-## TXILLOTUTE ##
+# TXILLOTUTE #
 
 Logura, ardoa edo beste drogaren baten eraginez begiak txikituta edukitzea. Adberbio forma.
 
@@ -1511,7 +1509,7 @@ Logura, ardoa edo beste drogaren baten eraginez begiak txikituta edukitzea. Adbe
 - *berez eztiez okitxen txillotute, zeuzeitxik baiño*
 - *ba, orrek berez dakoz aulan, txillotute*
 
-## TXIMISTADA ##
+# TXIMISTADA #
 
 Tximistargia.
 
@@ -1522,7 +1520,7 @@ Tximistargia.
 
 **Tximista** hitzari **-ada** atzizkia erantsita egin da.
 
-## TXIMISTADAN ##
+# TXIMISTADAN #
 
 Korrikan ibili, joan, etorri. Adberbio forman.
 
@@ -1530,7 +1528,7 @@ Korrikan ibili, joan, etorri. Adberbio forman.
 - *dxun eingo gariez, tximistadan urteteko baiño ezpada*
 - *ori esan tsatenien tximistadan urten dau*
 
-## TXIMISTIE ##
+# TXIMISTIE #
 
 Tximista. Konparazioan, azkar ibiltzea.
 
@@ -1538,7 +1536,7 @@ Tximista. Konparazioan, azkar ibiltzea.
 - *tximistie lez dabill ara ta ona*
 - *ariñe da berori andrie, tximistie lakue*
 
-## TXINGAUE ##
+# TXINGAUE #
 
 Kokolo. Inozo. Erdi burutik eginda.
 
@@ -1548,7 +1546,7 @@ Kokolo. Inozo. Erdi burutik eginda.
 - *orregaz kopla gitxi txingau utse da ta*
 - *txingaue ezan biar da personie ori biarra eitxeko*
 
-## TXINGAUTU ##
+# TXINGAUTU #
 
 Zoratu.
 
@@ -1557,7 +1555,7 @@ Zoratu.
 - *edo neu nai tentela edo txingautu ein nai*
 - *betiko gauzek entzuten txingautu eitxen zara*
 
-## TXINGETA ##
+# TXINGETA #
 
 Zoratuta egon.
 
@@ -1567,7 +1565,7 @@ Zoratuta egon.
 
 Hitz honen etimologia Latino Amerikan erabiltzen den gaztelerazko **chingar** = **embringarse, beber mucho** izango da. Baina hor infinitibo forma horretan bakarrik agertzen da, eta Bermeon infinitiboan oso gutxi erabiltzen, hau da, **txinge** oso eskasa da erabileran. Gainera zentzun ere oso ezberdina da, semantikoki paralelismo bat agertzen bada ere.
 
-## TXINGO / UE ##
+# TXINGO / UE #
 
 Cuban esaten den gaztelerazko **chingo** = **diminuto** hitza da formaz eta esanahiaz, Azkuek ere Gernikan jaso du hitz hau, baina esanahia **copo de nieve pequeño y seco** da.
 
@@ -1578,7 +1576,7 @@ Guk, konparazioan, kaka mokordo oso txikiak eta sikuak adierazteko erabiltzen da
 - *ai! zelako tripetako miñek takorezen; txinguek paiño eztotez eiñ*
 - *txinguek lako bonboitxuek erosi dotez*
 
-## TXINGOLUE ##
+# TXINGOLUE #
 
 Burutik erdi eginda dagoela esateko erabiltzen da. Askotan peioratiboan, eta beste askotan arrazoi barik.
 
@@ -1587,7 +1585,7 @@ Burutik erdi eginda dagoela esateko erabiltzen da. Askotan peioratiboan, eta bes
 
 Argentinan edo beste leku batzuetan erabiltzen den berba hau, bermeotar arrantzaleen artean erabiltzen dela esan beharra dago.
 
-## TXINTXIÑE ##
+# TXINTXIÑE #
 
 Atzamar txikiaren neurrira iristen ez den antxoatxoa da. Oso preziatua, modu askotara prestatuta jaten da. Udazkenean harrapatzen da.
 
@@ -1595,7 +1593,7 @@ Atzamar txikiaren neurrira iristen ez den antxoatxoa da. Oso preziatua, modu ask
 - *erri barruen eztakidxe zer dan txintxiñie*
 - *Bilboko lagun batzui esan tsatie txiñtxiñek dxaten etorteko*
 
-## TXIPERRA ##
+# TXIPERRA #
 
 Mangera.
 
@@ -1604,7 +1602,7 @@ Mangera.
 - *obien obien txiperragaz garbitxuten diez kaliek*
 - *dauen beruegaz txiperragaz bota bilikidauie ure*
 
-## TXIPLAZUE ##
+# TXIPLAZUE #
 
 Aurpegikoa. Zartada.
 
@@ -1613,7 +1611,7 @@ Aurpegikoa. Zartada.
 - *zeuk pe emon beste txiplazo bat*
 - *ezta emoten txiplazorik, andidzek zarie ta*
 
-## TXIPLIE ##
+# TXIPLIE #
 
 1. Gogor bota euria.
 
@@ -1625,7 +1623,7 @@ Aurpegikoa. Zartada.
 
 - *txiplie txiplien ganien artun txuz arek esantxarrekuek*
 
-## TXIRI-TXIRI ##
+# TXIRI-TXIRI #
 
 Astiro.
 
@@ -1633,7 +1631,7 @@ Astiro.
 - *trankil ogon, ernega barik, txiri-txiri*
 - *hobeto txiri-txiri juen eta gauzek ondo ein*
 
-## TXIRIKILLAUE ##
+# TXIRIKILLAUE #
 
 Kizkur. Kiribildua.
 
@@ -1645,7 +1643,7 @@ Hitz honi gaztelerazko **-ado** atzizkia erantsita egin dugu:
 
 **txirikillo** + **ado** → **txirikillado** → **txirikillau**.
 
-## TXIRIKILLO ##
+# TXIRIKILLO #
 
 Ilekizkurra.
 
@@ -1653,21 +1651,21 @@ Ilekizkurra.
 - *tortolako bizarrak pe txirikilloz beteta dakotsu orrek*
 - *txirikilluek urteteko errizadorak imiñi bi dotez*
 
-## TXIRIMOTADAK ##
+# TXIRIMOTADAK #
 
 **Txirribotoak** hitzaren parekoa dugu, hau da, zirriborroak, baina hau berriagoa da, eta gazteagoen artean erabiltzen da.
 
 - *txirimotadak eitxen pasa dot dibujoko ordue eskolan*
 - *meisueri ez dxatzo gustaten txirimotadak eitxie*
 
-## TXIRLETA LEZ ##
+# TXIRLETA LEZ #
 
 Arin, azkar, mugikor pozik.
 
 - *txirleta lez dabiltzu poza sinestu eziñik*
 - *alabaixi, txirleta lez zabiltzez, zer emon dotsue jaten ba?*
 
-## TXIRLORA ##
+# TXIRLORA #
 
 Egurraren biruta. Konparazioan kizkurra den edozer.
 
@@ -1675,21 +1673,21 @@ Egurraren biruta. Konparazioan kizkurra den edozer.
 - *txirloratute itxi dost ulie permanentiegaz*
 - *beko txirlorai useiñe bota tsazu?*
 
-## TXIRRIBOTUEK ##
+# TXIRRIBOTUEK #
 
 Zirriborroak.
 
 - *txirribotoz beteta topa dotez koademo guztidxek*
 - *dibujuek eitxeko esan da txirriborroz bete etzie*
 
-## TXIRRIDXE ##
+# TXIRRIDXE #
 
 Ume txikiak.
 
 - *ime txirriz beteta on da ziñie*
 - *ime txirri guztidxek dxun dxatzuz dandarrez pallasuek ikusten*
 
-## TXIRRISTADIE ##
+# TXIRRISTADIE #
 
 Laprastada.
 
@@ -1697,7 +1695,7 @@ Laprastada.
 - *euridxe danien edonon ein leikezu txirristadie*
 - *asi goitxik eta beraiño txirristadan dxun nai*
 
-## TXIRTA LAKUE / LEZ ##
+# TXIRTA LAKUE / LEZ #
 
 Alaia. Mugikorra. Ederto.
 
@@ -1705,7 +1703,7 @@ Alaia. Mugikorra. Ederto.
 - *txirta lakue ezan ezkero dana ondo*
 - *zelan egon naien Benidorren? Ederto, txirta lez*
 
-## TXISTADA ##
+# TXISTADA #
 
 Arreta erakartzeko egiten dugun zarata hori: txist-txist.
 
@@ -1721,7 +1719,7 @@ Azkuek jaso du forma hau baina badirudi, erabileran ez dela hain arrunta esanahi
 
 Kasu honetan izenaren funtzioa betazen du.
 
-## TXISTADAKA ##
+# TXISTADAKA #
 
 Arreta erakartzeko egiten dugun zarata hori: txist-txist. Adberbio funtzioan agertzen da.
 
@@ -1730,7 +1728,7 @@ Arreta erakartzeko egiten dugun zarata hori: txist-txist. Adberbio funtzioan age
 - *Lamera erditxik pasa dxatzu beran gona laburregaz da gixon guztidxek berari txistadaka*
 - *beran txistadakaz larritxute nako*
 
-## TXISTERA BOTA ##
+# TXISTERA BOTA #
 
 Esaldi honetan aditz iragankorrak erabiltzen dira: eduki, bota, atera, eta abar. Baina **txiste** arpoia da eta zentzua apur bat aldatu egiten da, zeren badakigu arpoiak berak harrapatzen duela arraina, eta kasu honetan **arraina** bera dator arpoira. Dena den, hor doaz esaldiak.
 
@@ -1738,7 +1736,7 @@ Esaldi honetan aditz iragankorrak erabiltzen dira: eduki, bota, atera, eta abar.
 - *txo, esan amari botateko txistera ostu dostezen diruek*
 - *alabatxi, bota txistera atxitxek emon tsuzen karameluek*
 
-## TXISTILL / E ##
+# TXISTILL / E #
 
 Tanta.
 
@@ -1749,7 +1747,7 @@ Tanta.
 
 Hitz hau P.M. k bakarrik jaso du, baina ez du jartzen non. Bermeon normalki erabiltzen da.
 
-## TXISTUKETIE ##
+# TXISTUKETIE #
 
 Txistua botatzen egotea. Gehienetan haurdunaldian.
 
@@ -1757,7 +1755,7 @@ Txistua botatzen egotea. Gehienetan haurdunaldian.
 - *enebada! Txistuketie bakozu, laster imie*
 - *txo, txistuek bota ta bota zabiltzez, txistuketie dakozu le?*
 
-## TXITURRI / DXE ##
+# TXITURRI / DXE #
 
 Garbia garbitzen dabilen pertsona.
 
@@ -1766,7 +1764,7 @@ Garbia garbitzen dabilen pertsona.
 - *txitxirri utse zara baie!*
 - *txitxirridxe esan balekinai eiñdxe okingo lekidotez biarrak*
 
-## TXITXARRO / UE ##
+# TXITXARRO / UE #
 
 Zakila deskribatzeko dagoen hitzetariko bat dugu. Beste askotan bezala, arrain baten izena hartu da hori adierazteko. Umeena zein nagusiena izan daiteke.
 
@@ -1774,7 +1772,7 @@ Zakila deskribatzeko dagoen hitzetariko bat dugu. Beste askotan bezala, arrain b
 - *atara txitxarrue ikusteko zelan dakozun ori granue*
 - *enebada! txitxarrue alperrikaldute dakozu*
 
-## TXITXEMARKA / TXITXIMARKA ##
+# TXITXEMARKA / TXITXIMARKA #
 
 Atzamarka egin. Txatxamurka egin.
 
@@ -1784,7 +1782,7 @@ Atzamarka egin. Txatxamurka egin.
 
 Azkuek, Lekeition **txitximurka** jaso du, berori eta **txumumarka** aldaerak jaso ditu, eta Kintanak **txatxumarka**.
 
-## TXITXEMARKADA ##
+# TXITXEMARKADA #
 
 Atzamarka. Txatxamurka.
 
@@ -1794,7 +1792,7 @@ Atzamarka. Txatxamurka.
 
 Hitz honen aldaerak asko dira, baina berau ez dator hiztegietan.
 
-## TXITXILIÑUE ##
+# TXITXILIÑUE #
 
 Umeen zakila.
 
@@ -1802,7 +1800,7 @@ Umeen zakila.
 - *txitxiliñue dakozu erreta laztana*
 - *txitxiliñoko miñe dakola esan dost imiek*
 
-## TXITXIRRIDXEN BERAUNE LEZ URTU ##
+# TXITXIRRIDXEN BERAUNE LEZ URTU #
 
 Gauzak inor konturatu gabe desagertzen direnean.
 
@@ -1810,7 +1808,7 @@ Gauzak inor konturatu gabe desagertzen direnean.
 - *non dauz amen okiñ dxotezen karameluek? Txitxirridxen beraune lez urtu, ezta?*
 - *txitxirridxen beraune lez urtuten diez amen gauzek*
 
-## TXITXIÑE ##
+# TXITXIÑE #
 
 Neskatotxoen alua.
 
@@ -1818,34 +1816,34 @@ Neskatotxoen alua.
 - *zer dakoie imiok ba, txitxiñe erreta da eztaitx zer*
 - *ia, au txitxiñe zelan dauen ikusi bi de ta*
 
-## TXITXIÑUE ##
+# TXITXIÑUE #
 
 Umeen zakila.
 
 - *txitxiñue atata ibill dze goiz santo guztidzen plaidxen, da bera lotsatu bez*
 
-## TXIXE BARRIEK ##
+# TXIXE BARRIEK #
 
 Barre algaraka. Barre asko.
 
 - *txixe barriek eiñ dxuz eskursiñuen, aregaz mutillegaz eztau besterik*
 - *ziñera dxun garie da pelikulie zantarra ezan dalez gu txixe barrietan ibilli garie da kanpora bota gaitxuzie*
 
-## TXIXE DA BERTON ##
+# TXIXE DA BERTON #
 
 Hau bai barregura! Harridura.
 
 - *andrak, txixe da berton, nok ikusi da neguen uger eitzen*
 - *ez urteteko kalera zeozer pasako dala ta, da iñoiz baiño jente geidxau kalien, txixe da berton!*
 
-## TXIXE DAIDXOLA ##
+# TXIXE DAIDXOLA #
 
 Barre algaraka.
 
 - *esan doskuzen txistiekaz gu txixe daidxola*
 - *txixe daidxola on garizen beran gauzek entzuten*
 
-## TXIXEN BOLUEK ##
+# TXIXEN BOLUEK #
 
 Dodotiak.
 
@@ -1853,14 +1851,14 @@ Dodotiak.
 - *txixe boluek ez balekidiez ezan, iñok auenta bez beran txixekaz*
 - *geure amumari be, txixen boluek imiñi biar jatzoz*
 
-## TXIXETARA BEGIRE ##
+# TXIXETARA BEGIRE #
 
 Zapatak okerretara jantzita edo begiak oker.
 
 - *nora zuez ba, zapatak txixetara begire dxantzitxe*
 - *begidxek txixetara begire dakoz mutil koitxaduek*
 
-## TXOFERRISTIE ##
+# TXOFERRISTIE #
 
 Auto gidaria.
 
@@ -1873,7 +1871,7 @@ Galtzen ari den hitza da, adinekoetan bakarrik entzuten da.
 
 **txofer** + **ista** → **txoferrista**.
 
-## TXOIÑUE ##
+# TXOIÑUE #
 
 Txanoa.
 
@@ -1883,7 +1881,7 @@ Txanoa.
 
 **txoto** hitza eta beste hau parean erabiltzen direla esan behar da.
 
-## TXOKOLUELAKO ZAPATAK ##
+# TXOKOLUELAKO ZAPATAK #
 
 Zapata dorpeak.
 
@@ -1893,7 +1891,7 @@ Zapata dorpeak.
 
 Badirudi, oraingo zapaten modan antzinako **choclo** oinetakoetan oinarritu direla. Guk beti erabili dugu berba hori, antzina baten fabrikan erabiltzen ziren txokoloak kontuan izan ditugulako konparazioak egiterakoan.
 
-## TXOMIÑANTON ##
+# TXOMIÑANTON #
 
 Emagizon. Maritxu.
 
@@ -1903,7 +1901,7 @@ Emagizon. Maritxu.
 
 Bermeon, **txomiñ** hitza hartzen da, askotan maritxu bat definitzeko eta **anton** horrek indarra ematen diola pentsatuz hitz konposatu hori sortu da. Beraz, izen propio bi batu dira adjektibo bat egiteko.
 
-## TXORIDXE LABA GANIEN	##
+# TXORIDXE LABA GANIEN	#
 
 Erabat pozik.
 
@@ -1912,7 +1910,7 @@ Erabat pozik.
 
 Konparazio hau oso egokia da, txoria labe gainean jartzen bada, saltaka-saltaka ibili beharko baita ez erretzeko.
 
-## TXORIDXEN MOZOLUE LEZ ##
+# TXORIDXEN MOZOLUE LEZ #
 
 Denbora luzean itxaroten.
 
@@ -1920,7 +1918,7 @@ Denbora luzean itxaroten.
 - *bestela nau berton txoridxen mozoluelez, zeu noix etorko*
 - *ni ez okiñ bertan txoridxen mozoluelez gero, orduen etorko zara*
 
-## TXORIGORRA ##
+# TXORIGORRA #
 
 Zeharo gorra.
 
@@ -1932,7 +1930,7 @@ Adberbio moduan ere erabiltzen da:
 - *uger eiñ dxotenik eta ona txorigortute nau, ure sartun dxast belarridxetan antza*
 - *txorigortute ongo zara baie majo entzuten zuz diro kontuek dizenien*
 
-## TXORROPORRO / UE ##
+# TXORROPORRO / UE #
 
 Berba asko egiten duena.
 
@@ -1943,21 +1941,21 @@ Berba asko egiten duena.
 
 Azkuek, Arrasaten jaso du, baina zentzua *informalidad* da.
 
-## TXOTOR ##
+# TXOTOR #
 
 Begitxindorra.
 
 - *txotorrari! amumari ikusi zazu popie ela?*
 - *urten dosten txotor mandue, ata kontu pellikan eindxotela*
 
-## TXOTXOLIÑIE ##
+# TXOTXOLIÑIE #
 
 Alua definitzeko beste berba bat, baina gehienetan gaztetxoen alua definitzeko erabilia izaten da.
 
 - *ama txotxoliñie bustitxe dakot txixegaz*
 - *txixe ein ezkero busti biar txotxoliñie*
 
-## TXULIBRIÑ / E ##
+# TXULIBRIÑ / E #
 
 Pinpirina. Harroa. Gehienetan mutila izaten da, baina noiz edo noiz neskari ere aplikatzen zaio.
 
@@ -1968,7 +1966,7 @@ Pinpirina. Harroa. Gehienetan mutila izaten da, baina noiz edo noiz neskari ere 
 
 Gaztelerazko **chulo / a** hartu da oinarritzat; eta gero, **-in** atzizkia jarriz, **chulín** gertatu ondoren, hau indartzeko, **-bri-** tartizkia erantsi zaio.
 
-## TXUNTXURRE ##
+# TXUNTXURRE #
 
 Hezur sakroa. Erreinezur.
 
@@ -1977,14 +1975,14 @@ Hezur sakroa. Erreinezur.
 - *dxeusi danien txuntxurregaz artun dau golpie*
 - *arrakalatute dako txuntxurre*
 
-## TXUNTXURRUEN ##
+# TXUNTXURRUEN #
 
 Jendea multzoan.
 
 - *zeuzer pasaten danien txuntxurruetan oten da jentie batunde*
 - *txuntxurruen dau jentie portuen, ia zer pasa dan*
 
-## TXUPANDOZKI / DXE ##
+# TXUPANDOZKI / DXE #
 
 Parasito. Aprobetxategi.
 
@@ -1998,7 +1996,7 @@ Gaztelerazko **chupar** aditza erabili da hitz hau sortzeko, **chupando** gerund
 
 Gero eufoniagatik **z** bat sartu zaio.
 
-## TXURUPIÑEK ##
+# TXURUPIÑEK #
 
 Iskanbilak. Pasadizuak.
 
@@ -2015,7 +2013,7 @@ Disimilatzeko, bokal itxi gehiegi dagoenez, euretariko bat erori egin da, eta ho
 
 **zurrupiñek** → **txurrupiñek** → **txurupiñek**.
 
-## TXUT ##
+# TXUT #
 
 Esklamaziozkoa da. Beti da hotza.
 
@@ -2023,7 +2021,7 @@ Esklamaziozkoa da. Beti da hotza.
 - *txut! ze otz dau ezta?*
 - *txut! erdu ariñ hotz dau te*
 
-## TXUTADA / IE ##
+# TXUTADA / IE #
 
 Efektua.
 
@@ -2033,7 +2031,7 @@ Efektua.
 
 Hitz hau, **txut** eta **-ada** atzizkiaz konposatzen da.
 
-## TXUTXUMUTXUEK ##
+# TXUTXUMUTXUEK #
 
 Zurrumurruak.
 

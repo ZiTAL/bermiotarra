@@ -1,6 +1,4 @@
-# J #
-
-## JANGOIKO FRAKA ZABALA ##
+# JANGOIKO FRAKA ZABALA #
 
 Ene Jaungoikoa!
 
@@ -11,14 +9,14 @@ Ene Jaungoikoa!
 
 Askotan batek **jangoiko fraka zabala** esatean, askotan beste batek **eta kantzontzilo istuek** esaldiarekin erantzuten dio.
 
-## JANGOIKUEN ERREÑUTAN	##
+# JANGOIKUEN ERREÑUTAN	#
 
 Oso urrun.
 
 - *gure gixona jangoikuen erreñuetara dxuten diez arrantxen*
 - *da gerrie jangoikuen erreñuetan badau guk eztogu asmako*
 
-## JAUNE IL NOIXUKO DOLORIEK ##
+# JAUNE IL NOIXUKO DOLORIEK #
 
 Min handiak daudenean.
 
@@ -27,7 +25,7 @@ Min handiak daudenean.
 - *zelako gaue pasa dot ba, tripetako miñekaz, jaune il noixuko doloriekaz*
 - *saldarra zoldu arte jaune il noixuko doloriek egoten diez*
 
-## JAZBANA ##
+# JAZBANA #
 
 Orkestra. Jazz Band.
 
@@ -36,7 +34,7 @@ Orkestra. Jazz Band.
 
 Adinekoen artean baino ez da entzuten. Ingelesezko *jazz band* etik dator.
 
-## JENIDXUE ##
+# JENIDXUE #
 
 Jenio bizia. Jenio txarra. Haserrea.
 
@@ -48,21 +46,21 @@ Jenio bizia. Jenio txarra. Haserrea.
 
 Ahoskeran bereizten da erdarazko hitzaren jatorria.
 
-## JENTE MODUE ##
+# JENTE MODUE #
 
 Badaezpadako jendea edo pertsonak.
 
 - *zelako jente modue dau berton erridxen ba, lotsatu eitzen nai berton bizitxen*
 - *Madrillen dauen jente modue gure dot nik gerrara dxutie*
 
-## JOSEPA KALEKALE ##
+# JOSEPA KALEKALE #
 
 Beti kalean dabilen pertsona.
 
 - *esan be ez eiñ nor dan, badaitx eta. Josepa kalekale, beti dabill kalien da*
 - *benetako josepa kalekale, goixerik gauera dau a kalien*
 
-## JUANTRINKO ##
+# JUANTRINKO #
 
 Ibiltzeko dorpe dagoena.
 
@@ -74,7 +72,7 @@ Beti gizonezkoentzat erabilia. Hala ere, noizbait erabili izan da emakumeren bat
 
 Antza denez, **Juan Trinko** ezizenez ezagutzen zen gizon batek horrelako ibilera dorpea zeukan, eta hortik adjektibo horren sortzea.
 
-## JUEGUE ##
+# JUEGUE #
 
 Hezurretako artikulazioa.
 
@@ -84,7 +82,7 @@ Hezurretako artikulazioa.
 
 Gaztelerazko **juego** (de dos cosas articuladas) hitzetik literalki hartua.
 
-## JUGOI / E ##
+# JUGOI / E #
 
 Neguko kamiseta lodia.
 

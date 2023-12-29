@@ -12,8 +12,8 @@ import tempfile
 from PIL import Image, ImageFont, ImageDraw
 #from TwitterAPI import TwitterAPI
 #from mastodon import Mastodon
-from time import localtime
-from time import strftime
+#from time import localtime
+#from time import strftime
 from time import sleep
 
 # fitxero danak hartun #

@@ -1,6 +1,4 @@
-# Z #
-
-## ZABURREIDXE ##
+# ZABURREIDXE #
 
 Badaezpadako pertsona eta gauzak.
 
@@ -10,7 +8,7 @@ Badaezpadako pertsona eta gauzak.
 
 Ikusten denez, Bermeon, pertsonei ere aplikatzen zaie, eta Azkuek jaso duen esanahia baino zabalagoa dauka.
 
-## ZAFA ##
+# ZAFA #
 
 Askatu.
 
@@ -21,7 +19,7 @@ Askatu.
 
 Gaztelerazko **zafar** = **desatar** hitzetik zuzenean hartuta dago.
 
-## ZAFRAN ##
+# ZAFRAN #
 
 Ugaritasunean.
 
@@ -32,7 +30,7 @@ Ugaritasunean.
 
 Hitza, formaz, gaztelerazko **zafra** da, baina ez esanahia. Erdaraz dituen esanahiak, bat ere ez da egokia Bermeon erabiltzen den zentzua emateko.
 
-## ZAGAN ##
+# ZAGAN #
 
 Atoian eraman. Konparazioan pertsonak eraman atoian.
 
@@ -43,7 +41,7 @@ Atoian eraman. Konparazioan pertsonak eraman atoian.
 
 Gaztelerazko **zaga**, **llevar detrás** hartu da, baina esanahi zabalagoa dauka.
 
-## ZAGIE ##
+# ZAGIE #
 
 Zaga. Kasu honetan, norbaitek **zaga** bera eramaten duenean.
 
@@ -51,7 +49,7 @@ Zaga. Kasu honetan, norbaitek **zaga** bera eramaten duenean.
 - *bestelako zagie daruzu, botaidxona kaka saltzien!*
 - *berau imie zagie da gero! Eskineren baten itxi biku*
 
-## ZAIDXE ATARA ##
+# ZAIDXE ATARA #
 
 Zahia atera. Gaztelerazko **caspa**. Era guztietara astindu.
 
@@ -59,7 +57,7 @@ Zahia atera. Gaztelerazko **caspa**. Era guztietara astindu.
 - *etor danien berari etsolakon abixe zaidxe ata tso*
 - *edonori da edozeitxik ataten tso zaidxe*
 
-## ZAKATZA ##
+# ZAKATZA #
 
 Arrainarena izan arren, konparazioan pertsonarena izango da.
 
@@ -70,7 +68,7 @@ Arrainarena izan arren, konparazioan pertsonarena izango da.
 
 Azkuek, Bermeoko Ortuzarren zita bat aipatuz Lekeition eta Ondarrun ere jaso du zentzu honetaz.
 
-## ZAKATZA GORRITXUTE ##
+# ZAKATZA GORRITXUTE #
 
 Haserre bizian.
 
@@ -78,7 +76,7 @@ Haserre bizian.
 - *noreiñe dator zakatza gorritxute ba, zer dala ta orrenbeste zarata?*
 - *errozoiegaz nator zakatza gorritxute, ontxek entera naielakon zer zabiltzezen esaten*
 
-## ZANAZURREK ##
+# ZANAZURREK #
 
 Zaina eta hezurrak.
 
@@ -86,7 +84,7 @@ Zaina eta hezurrak.
 - *biar asko eindxe on biar zanazurrek kantsata*
 - *orren zanazurrek eztakoie deskantsuen biarrizanik beti dauz denkatsata ta*
 
-## ZANKAPE / IE ##
+# ZANKAPE / IE #
 
 Belaunpe edo zangope.
 
@@ -97,14 +95,14 @@ Belaunpe edo zangope.
 
 Azkuek **zankabe** aldaera jaso du.
 
-## ZANTARKILLO ##
+# ZANTARKILLO #
 
 Lizunkeriak esaten eta egiten dituena.
 
 - *zantarkillo utse da bera agurie*
 - *ez dxuen kale illunetatik gero, zantarkillo asko dabil ortik eta*
 
-## ZANTARRA ##
+# ZANTARRA #
 
 Lotsagabea.
 
@@ -114,7 +112,7 @@ Lotsagabea.
 
 Ikusten denez, gure artean beste zentzu batetan erabiltzen da hitz hau.
 
-## ZANTARREIDXE ##
+# ZANTARREIDXE #
 
 Jendaila. Zaborreria. Gauza zantarrak.
 
@@ -129,48 +127,48 @@ Arraro zamarra izan arren **-ria** eta ez **-keria** atzizkia erabiltzea, hemen,
 
 **zantar** + **ria** → **zantarreria**.
 
-## ZANTARRILLO ##
+# ZANTARRILLO #
 
 Lizuna.
 
 - *zantarrillo, zu beti berduleidxek esaten*
 - *aren gixona zantarrillo bat da, eztau enbrarik beituten eztauenik*
 
-## ZANTARRUA ##
+# ZANTARRUA #
 
 Lizuna.
 
 - *neska gaztetxuen onduen dxesarritxe, txiste berdiek kontaten ibilltxen da a zantarrue*
 
-## ZANTZUE ##
+# ZANTZUE #
 
 Irrintzia.
 
 - *San Juantan oten diez Bermioko andrak zantzuek botaten goiko plazan*
 - *trikitixie entzun hutsegaz zantzuek urteten dost!*
 
-## ZAPASALTO BATEN ##
+# ZAPASALTO BATEN #
 
 Azkar. Joan-etorri baten.
 
 - *zapasalto baten dxungo nai bisitxie eitxen*
 - *etorri zapasalto baten, errekado bat dakotsut esateko ta*
 
-## ZAPAZTO ##
+# ZAPAZTO #
 
 Zapa handia duena. Konparazioan orraztu barik ibiltzen dena.
 
 - *zu zapazto, orrek uliek orraztuten tire etzera*
 - *sekule uliek orraztu be etxuz eitxen zapazto arek*
 
-## ZAPIE ##
+# ZAPIE #
 
 Zapa. Begiak estaltzen dituen ile multzoa.
 
 - *dakon zapiegaz aurrekue be eztau ikusten*
 - *ebai xuz orrek uliek edo bota atzerantz*
 
-## ZAPUTZ ##
+# ZAPUTZ #
 
 Lepoa.
 
@@ -180,7 +178,7 @@ Lepoa.
 
 Hiztegietan beste zentzu batez agertzen da, baina Azkuek, **parte superior del tronco desde donde arrancan las ramas** jartzen du. Beraz, hori izango litzateke definizioa, baina pertsonei aplikatuta.
 
-## ZAPUZKADA ##
+# ZAPUZKADA #
 
 Bultzada.
 
@@ -192,7 +190,7 @@ Bultzada.
 
 Izenaren funtzioa betetzen du.
 
-## ZAPUZKADAKA ##
+# ZAPUZKADAKA #
 
 Bultzadaka.
 
@@ -202,7 +200,7 @@ Bultzadaka.
 
 Kasu honetan, **ka** moduzko adberbioa egiteko atzizkia sartu da.
 
-## ZARKILLE ##
+# ZARKILLE #
 
 Nagusien gauzak egin edo esaten duen umea, mutila zein neska.
 
@@ -213,7 +211,7 @@ Nagusien gauzak egin edo esaten duen umea, mutila zein neska.
 
 Konposizioan, **-killa** atzizki txikigarria lotu zaio **zar** izenari.
 
-## ZARRAZO / IE ##
+# ZARRAZO / IE #
 
 Lanbro.
 
@@ -223,7 +221,7 @@ Lanbro.
 
 Gaztelerazko **cerrazon** = **oscuridad grande ocasionada por nubes negras** hitza da honen oinarria, baina esanahia ez da bera.
 
-## ZARTAZO / UE ##
+# ZARTAZO / UE #
 
 Kolpea.
 
@@ -236,7 +234,7 @@ Kasu honetan ez du **-ada** atzizkia hartu, **-zo** atzizkia baizik. Askotan ger
 
 **zart** + **zo** → **zartazo**. Hala ere, esan beharra dago, **zartada** hitza ere erabiltzen dela eta biak ia ia parekaturik daukatela erabilera.
 
-## ZATI BITXU ##
+# ZATI BITXU #
 
 Erdi bi.
 
@@ -244,14 +242,14 @@ Erdi bi.
 - *bidxotza be zati bitxute dakot, baie ez bategaz ez bestiaz enau*
 - *au ogidxe zati bitxu, imiri emoteko*
 
-## ZATIKE POTRIKE ##
+# ZATIKE POTRIKE #
 
 Zati-zatika.
 
 - *zatike potrike zabiltzez atune pixeten, botaixu dana eztakozu or ezer da*
 - *emoteko okiñ dxosten dirue zatike potrike emon dost*
 
-## ZAZKELA ##
+# ZAZKELA #
 
 Pertsona zikina.
 
@@ -259,7 +257,7 @@ Pertsona zikina.
 - *zazkela matxue bera, beti erropa bardiñekaz*
 - *arek zazkelak atzazalak beti kakagaz beteta!*
 
-## ZAZPI SUETAS ##
+# ZAZPI SUETAS #
 
 Beti arazoetan dagoen pertsona.
 
@@ -267,7 +265,7 @@ Beti arazoetan dagoen pertsona.
 - *a zazpi suetasa baietz laster kartzelan sartun*
 - *zazpi suetasa zer zara ba, txarto amaitxuko zu*
 
-## ZAZPIKIDXE ##
+# ZAZPIKIDXE #
 
 Pertsona mugikorra, geldi egoten ez dena. Horren ondorioz esamesa guztien jabe egiten dena.
 
@@ -277,7 +275,7 @@ Pertsona mugikorra, geldi egoten ez dena. Horren ondorioz esamesa guztien jabe e
 
 Hitz honen esanahia zabalagoa da, ez da hitz horren zentzu konkretura mugatzen. Kintanak **impaciente** definitzen du.
 
-## ZAZPISUETE ##
+# ZAZPISUETE #
 
 Saltsa guztietako perrexila deituko genukeena.
 
@@ -287,7 +285,7 @@ Saltsa guztietako perrexila deituko genukeena.
 
 Azkuek, Mundakan jasotako definizioan **gorrón** jartzen du.
 
-## ZEMAKURE ##
+# ZEMAKURE #
 
 Ugari. Nahi den guztia. Zenbat gura.
 
@@ -301,14 +299,14 @@ Fonetikazko aldaketei ezker, honelako zenbait hitz sortzen da.
 
 **zenbat gura** → **zemakure**.
 
-## ZEMAT KURE ##
+# ZEMAT KURE #
 
 Nahi beste.
 
 - *lebatza ekar dauie kalatik zemat kure!*
 - *dirue nik? Zemat kure!*
 
-## ZEPAITXE ##
+# ZEPAITXE #
 
 Zerbait.
 
@@ -318,14 +316,14 @@ Zerbait.
 
 **zerbait** → **zepaitxe**.
 
-## ZER DAN EDO ZER EZTAN ##
+# ZER DAN EDO ZER EZTAN #
 
 Informazio bila.
 
 - *dxakin dxunien zer pasaten dan, bertara dxun gariez zer dan edo zer eztan obeto dxakitzeko*
 - *zer dan edo zer eztan entera arte ez gara mobiduko*
 
-## ZER DATOR MENDI GORRITXIK BERA ##
+# ZER DATOR MENDI GORRITXIK BERA #
 
 Harridurazko esaldi hau, luzea izan arren normalki erabiltzen zen duela gutxi, gaur eskasagoa da erabilera.
 
@@ -334,7 +332,7 @@ Harridurazko esaldi hau, luzea izan arren normalki erabiltzen zen duela gutxi, g
 - *zer dator mendi gorritxik bera? Ba loteridxek urten dostela*
 - *e? Zeu zapata barridxekaz da, e? Zer dator mendi gorritxik bera*
 
-## ZER... ETA ZER... ONDOKUEK ##
+# ZER... ETA ZER... ONDOKUEK #
 
 Ze otxokuarto!
 
@@ -342,7 +340,7 @@ Ze otxokuarto!
 - *ama dirue ekau. Ze diro da ze diro ondokuek, ez dotsut emoten dirorik*
 - *telebisiñue gure dot ikusi nik. Ze telebisiño da telebisiño ondokuek, eztau telebisiñorik*
 
-## ZEREIKUSIKO / UE ##
+# ZEREIKUSIKO / UE #
 
 Ederra, handia, harrigarria den zerbait.
 
@@ -352,14 +350,14 @@ Ederra, handia, harrigarria den zerbait.
 
 D.A.R.k Bermeoko Ortuzarren zita bat aiparten du, beraz, Bermeon jasotakoa da hitz hau. Gaur egun, gazteen artean entzuten ez bada ere, erabilera oso zabala daukate hiru formek.
 
-## ZERENTENIDUEK ##
+# ZERENTENIDUEK #
 
 Harremanak. Nolabaiteko erlazioa izan.
 
 - *zerenteniduek dakoz aregaz mutillegaz ela?*
 - *bai, zerentenidu andidxek takoz, eztaitx noizik baie*
 
-## ZEREÑEKIDXEN / ON ##
+# ZEREÑEKIDXEN / ON #
 
 Konturatu gabe zerbait egiten aritzea. Zerbait egitearren. 
 
@@ -370,7 +368,7 @@ Konturatu gabe zerbait egiten aritzea. Zerbait egitearren.
 
 **zereginean** → **zerekinean** → **zerenekian** → **zereñekidxen**.
 
-## ZERIKUSIDXEN ##
+# ZERIKUSIDXEN #
 
 1. Ikusgarria. Harrigarria.
 
@@ -384,7 +382,7 @@ Konturatu gabe zerbait egiten aritzea. Zerbait egitearren.
 - *atzo aiñ dxoten tartiek zerikusidxen urten dost*
 - *zerikusidxen pintxe tsu etzie pintoreruek*
 
-## ZERKILLO ##
+# ZERKILLO #
 
 Zirrikitu.
 
@@ -392,7 +390,7 @@ Zirrikitu.
 - *ondo sarratu zerkillo guztidxek zaratarik ez entzuteko*
 - *zerkilluetatik eskapaten dau berotasun danak*
 
-## ZEROIE LEZ PUZKE ##
+# ZEROIE LEZ PUZKE #
 
 Katxalote. Konparazioan erabiltzen da.
 
@@ -401,7 +399,7 @@ Katxalote. Konparazioan erabiltzen da.
 - *zeroi txikitxu baten antza dakozu*
 - *zeroiek Izaron atzien lo, ta zu eurek lez, zu be lo*
 
-## ZIDXAU / E ##
+# ZIDXAU / E #
 
 Ziaboga. Konparazioan, pertsona, animalia edo kotxe batek horrelako zerbait egitea.
 
@@ -410,14 +408,14 @@ Ziaboga. Konparazioan, pertsona, animalia edo kotxe batek horrelako zerbait egit
 - *astue be trankill trankill dxun da beran bidien, baie ikusi dauenien, berak pe zidxaue eiñ dxau*
 - *da arek, neu ikusi nauenien zidxaue eztau eitxen?*
 
-## ZIDXE ##
+# ZIDXE #
 
 Zirikatu.
 
 - *beti zabiltzez neu zidxeten, zeitxik eitxen zu ori ba?*
 - *zidxeten zidxeten ibillitxe be eztau eitxen ein bi dauena*
 
-## ZIENTZI / DXE ##
+# ZIENTZI / DXE #
 
 Adimena.
 
@@ -429,7 +427,7 @@ Gaztelerazko **ciencia** hitz farfailtsua erabili da beste izen hori sortzeko.
 
 **ciencia** → **zientzia** → **zientzidxe**.
 
-## ZINGELEKUE ##
+# ZINGELEKUE #
 
 Jaka eta berokiek atzealdean izaten duten irekidura.
 
@@ -437,7 +435,7 @@ Jaka eta berokiek atzealdean izaten duten irekidura.
 - *neuk pe badakot zingelekodun abrigo bat, atziñekue*
 - *andrak! Atara zingelekodun erropa guztidxek, modara dxungo gariez da*
 
-## ZINTXIE ##
+# ZINTXIE #
 
 Zartada Kolpea. Bronka.
 
@@ -447,7 +445,7 @@ Zartada Kolpea. Bronka.
 
 Gaztelerazko **cinta** hartu eta jasan dituen fonetikazko aldaketari esker, hitz berri bat sortu da.
 
-## ZIRIZIRIDXE ##
+# ZIRIZIRIDXE #
 
 Tobogan.
 
@@ -455,7 +453,7 @@ Tobogan.
 - *onek, frakak ekar dostez apurtute ziriziridxetan ibillitxe*
 - *e zuez geidxau ziriziridxetara eztot eitxen dxaboitxeko be ta*
 
-## ZIRIZIRIKE ##
+# ZIRIZIRIKE #
 
 Irristadan. Laprastadan.
 
@@ -466,20 +464,20 @@ Irristadan. Laprastadan.
 
 Azkuek Mundakan jaso du, baina jokoa dela dio, beraz, zentzua ez da berdina.
 
-## ZITXELA ##
+# ZITXELA #
 
 Zitala.
 
 - *kontuz horregaz morroiegaz zitxela da ta!*
 
-## ZIRRIZARRA / IE ##
+# ZIRRIZARRA / IE #
 
 Katarro bat dagoenean eta bularreko estua genatzen denean sortzen den zarata.
 
 - *zirrazarra andidxe dakot, zeuzer artun biarko dot*
 - *zirrizarrie bigunduteko bedarran kataplasmie imiñi*
 
-## ZOKILLE ##
+# ZOKILLE #
 
 Pertsona dorpea. Trauskil.
 
@@ -490,7 +488,7 @@ Pertsona dorpea. Trauskil.
 
 Zokila lur-zati handi eta gogorra da. Horregaitik, askotan, **zokil** hitzari **aldeano** hitza gehitzen zaio.
 
-## ZOLTZIÑE ##
+# ZOLTZIÑE #
 
 Zoldu egitea. Itzemin.
 
@@ -500,14 +498,14 @@ Zoldu egitea. Itzemin.
 
 **zoltze** → **zoltzia** → **zoltzina** → **zoltziñe**.
 
-## ZOR DA ARTURENAK ##
+# ZOR DA ARTURENAK #
 
 Kontuak egiten direnean erabiltzen da.
 
 - *zor da arturenak zemat dizen ikusitxe, orduen ikusiko du ze diro geratuten dan*
 - *kitxu kitxuten urten du, zorrak eta arturenak igualak ezan dizelakon*
 
-## ZORIGOGORREKO MARTA ##
+# ZORIGOGORREKO MARTA #
 
 Hau zoritxarra! Enebada!
 
@@ -515,7 +513,7 @@ Hau zoritxarra! Enebada!
 - *zorigogorreko marta! Zer da beronegaz imiegaz ein biar dotena ba?*
 - *egualdi txarra dakar da gixonak itxosuen, zorigogorreko marta, ze ikusteko gauz!*
 
-## ZORRI ILLE BIZTUE ##
+# ZORRI ILLE BIZTUE #
 
 Aberats berriak.
 
@@ -523,14 +521,14 @@ Aberats berriak.
 - *aspaldidxon on dizen irebazidxekaz, atzerantz eiñ dxauie zorri ill bizin guztidxek*
 - *baie esaten dauie, zorri ille biztue txarrena dala*
 
-## ZORRIBIZTUE ##
+# ZORRIBIZTUE #
 
 Aberats berriak.
 
 - *hori zorribiztue, atzorarte kaka jaten ibili badan zer dakar oin*
 - *aberatsa ein danetik hori zorribiztue eztau aman semerik aguantako dauenik*
 
-## ZORRIZTO ##
+# ZORRIZTO #
 
 Gaur egun ez dago zorririk, edo, behintzat oso gutxi ikusten da. Baina garai bateko miseria hori kontutan izanda, gaurko **aberatsei** aplikatzen zaie, hau da, garai baten pobreak izan, eta orain ere pobreak izanda dirutsuak moduan agertzen direnei.
 
@@ -538,7 +536,7 @@ Gaur egun ez dago zorririk, edo, behintzat oso gutxi ikusten da. Baina garai bat
 - *zulako zorriztuekaz eztot kure tratorik*
 - *or famelidxen danak tiez arro zorrizto batzuk*
 
-## ZOTZ BATEITXIK ##
+# ZOTZ BATEITXIK #
 
 Txikikeriengatik.
 
@@ -546,7 +544,7 @@ Txikikeriengatik.
 - *ene alabie! Zotz bateitxik asarratutie be*
 - *auntxe be zotz bateitxik zauzie alkarren ala*
 
-## ZOZO / UE ##
+# ZOZO / UE #
 
 Zakil.
 
@@ -556,7 +554,7 @@ Zakil.
 
 Berriro ere txori baten izena erabili da beste izen bat deskribatzeko.
 
-## ZOZOLIÑUE ##
+# ZOZOLIÑUE #
 
 Umeen zakiltxoa.
 
@@ -566,7 +564,7 @@ Umeen zakiltxoa.
 
 **Zozo** hitza diminutiboan jarrita erabilizen da.
 
-## ZUEZGORA ##
+# ZUEZGORA #
 
 Zuriz gora, Hau izango litzateke hitza. Konparazioan erabiltzen da, esaterako begiak gora begira jarri ezkero, begiko zuria besterik ez da ikusten. Arrainak, gora begira jartzen direnean tripa zuria ikusten zaie eta hau dirdaitsu agertzen da.
 
@@ -574,38 +572,38 @@ Zuriz gora, Hau izango litzateke hitza. Konparazioan erabiltzen da, esaterako be
 - *urregorrizko gauzek ikusten dotezenien begidzek pe zuezgora paraten dxastez*
 - *an, para da zuezgora, oraiñ ez esan iñok pe ezebe*
 
-## ZUK TAKOZU ARUE ##
+# ZUK TAKOZU ARUE #
 
 Zelakoa... Gaztelerazko **torta** izango litzateke.
 
 - *nok esan dotsu zuri ni enaiela etorriko, arek? Zuk dakozu arue, zelan enai etorriko ba?*
 
-## ZUK TAKOZU ATZA ##
+# ZUK TAKOZU ATZA #
 
 Zelakoa... Gaztelerazko **torta** izango litzateke.
 
 - *amar metro tela biarko dozule kortiñie eitzeko? Zuk takozu atza, baitxe hogei metro be*
 
-## ZUK TAKOZU BREKEKE ##
+# ZUK TAKOZU BREKEKE #
 
 Sinistu ere ez. Gaztelerazko **torta** izango litzateke.
 
 - *enebada! Zuk takozu brekeke, Gabonak ganien da ondiño olentzeroko erropak eitxeko*
 
-## ZUK TAKOZU MUNDUE ##
+# ZUK TAKOZU MUNDUE #
 
 Gaztelerazko **torta** izango litzateke.
 
 - *zuk takozu mundue! Santainfanzian bizi zara, zeure libruek eta zeure diskuetatik urten be eztozu eitxen*
 
-## ZUMURUTUE ##
+# ZUMURUTUE #
 
 Pertsona serioa, barnekoia. Uzkurra.
 
 - *gure aitxitxe total zumurutue ezan da, moso bat pe ez dotsu emoten ezan*
 - *ori mutille zelako zurumutue da, barrerik pe eztau eitxen*
 
-## ZURRUPURRUE ##
+# ZURRUPURRUE #
 
 Katarroa dagoenean arnasa hartzeko eragozpena dagoenean, batez ere umeetan.
 

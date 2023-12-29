@@ -1,6 +1,4 @@
-# M #
-
-## MAHASTIDXEN KAKA ETA MAHATSIK EZ ##
+# MAHASTIDXEN KAKA ETA MAHATSIK EZ #
 
 Zerbait uste ez duzun moduan aurkitzen duzunean.
 
@@ -11,7 +9,7 @@ Guztia amaitu eta gero iristea.
 
 - *Udaletxeko plenuen Guzan-ekuek mahastidxe*
 
-## MAJAJAI ##
+# MAJAJAI #
 
 Bai zera!
 
@@ -19,7 +17,7 @@ Bai zera!
 - *dirue emongostela? Bai! Majajai! Ori eztau siñistuten berak pe*
 - *baietz ba! Majajai! Ez pentsatie dako orregaz engañeko nauenik*
 
-## MAJARIK ##
+# MAJARIK #
 
 Dotore.
 
@@ -31,7 +29,7 @@ Dotore.
 
 Gaztelerazko **majo** = **ataviado**, **lujoso** hitzetik hartuta dagoela dirudi, zentzuari begiratuta behintzat. Gero femeninora pasatu da. Kasu honetan, substantiboa, adberbio bezala erabili izan da. Femeninoan erabiltzen da beti, nahiz eta gizonezkoei ere aplikatu.
 
-## MAJAZALE / IE ##
+# MAJAZALE / IE #
 
 Ondo jantzita edo soineko dotoreak gustatzen zaizkien pertsonak, gizonak eta emakumeak.
 
@@ -41,7 +39,7 @@ Ondo jantzita edo soineko dotoreak gustatzen zaizkien pertsonak, gizonak eta ema
 - *gure aitxe beti ezan da majazalie*
 - *zeu be bazara zu majazabe, ezetz badiñozu zu be*
 
-## MAJO ##
+# MAJO #
 
 **Ondo** sarkasmoz esana, peioratibo edo protesta tonuaz askotan.
 
@@ -50,14 +48,14 @@ Ondo jantzita edo soineko dotoreak gustatzen zaizkien pertsonak, gizonak eta ema
 - *or on dan saldie zer ein zu ba, bota? Majo! Oin zer dxango du ba?*
 - *maaajo! Eztala etorko esan dau? Da oin zer ein bi du*
 
-## MAKALLO SIKUE ##
+# MAKALLO SIKUE #
 
 Sikatuta. Konparazioan.
 
 - *zemat argaldu de zure lagune, makallo sikue lez dau*
 - *egidxe da, sikatute geratu da opera dauienik eta ona, makallo sikuen antza dako*
 
-## MAKATZA ##
+# MAKATZA #
 
 1. Gizon galanta, itxurosoa. Berriro fruta baten izena, adjektibo bat sortzeko.
 
@@ -73,7 +71,7 @@ Sikatuta. Konparazioan.
 - *atzoko makatzagaz gaur bero-bero nau!*
 - *zelako makatzak hartunguz andramaidxetan! kankankan!*
 
-## MAKIÑE GUZTIDXEN ##
+# MAKIÑE GUZTIDXEN #
 
 Arin. Azkar.
 
@@ -81,7 +79,7 @@ Arin. Azkar.
 - *nora dator korridxen ba, makiñe guztidxen dator da*
 - *amen guez gu makiñe guztidxen Talara, an zer dauen ikusten*
 
-## MALBAKUE ##
+# MALBAKUE #
 
 Malezia gabekoa. Erdi tontoa.
 
@@ -89,7 +87,7 @@ Malezia gabekoa. Erdi tontoa.
 - *malbakue da au imie, eztau ikusten iñon be txarrik*
 - *malbakue dala bai pentsa, orrek katoie daki gero*
 
-## MALDEZIÑUE ##
+# MALDEZIÑUE #
 
 Madarikazioa.
 
@@ -98,7 +96,7 @@ Madarikazioa.
 - *alabatxi, eztot kure beragaz kontorik; maldeziñue bota dost niri arek*
 - *bai, neure laguneri be maldeziñue maldeziñuen ganien bota tso*
 
-## MALDEZIÑURTIKE ##
+# MALDEZIÑURTIKE #
 
 Madarikazioak botatzen.
 
@@ -108,7 +106,7 @@ Madarikazioak botatzen.
 
 Hitz hau oso zaharra da. Nik neure amumari entzunda daukat. Nire amamak, gaur, ehun eta hogeita hamar une baino gehiago izango zituen.
 
-## MALKISTE ##
+# MALKISTE #
 
 Pertsonen aurrean txarto geratu.
 
@@ -119,7 +117,7 @@ Gaztelerazko **malquisto** bera dugu. Baina oso erabilia denez, horregatik sartu
 - *ez malkiste  nireitxik alabatxu, ni neu konponduko naitxe*
 - *malkisteten bazara gero etzue beituten arpire be*
 
-## MALMOSA ##
+# MALMOSA #
 
 Pertsona oso trankila, oso ona, baina energia gabekoa.
 
@@ -128,13 +126,13 @@ Pertsona oso trankila, oso ona, baina energia gabekoa.
 - *klaro dana malmosa, oneidxe ezatie ezta ona*
 - *malmosa be malmosa da gero*
 
-## MAMA ##
+# MAMA #
 
 Oso ondo, batez ere itsasoko urari.
 
 - *aritzatxun ure mama!*
 
-## MAMAIXELA ##
+# MAMAIXELA #
 
 Albotik kendu ere egiten ez den laguntzailea. Zentzu peioratiboan beti.
 
@@ -149,7 +147,7 @@ Hitz bau, frantseseko **mademoiselle** tik sartu da.
 
 **ua** → **a** eman du. Eta arraroa bada ere **ll** sinplitikatu egin da. **s**, normala den bezala, palatalizatu egin da eta horren ondorioz, **i** bat garatu.
 
-## MAMALA ##
+# MAMALA #
 
 Malezia gabeko edo gutxiko pertsona.
 
@@ -158,7 +156,7 @@ Malezia gabeko edo gutxiko pertsona.
 - *oraiñ ez ein negarrik, mamalie bazara nok bi tsu*
 - *mamalanekue da, ta ze eingo tsagu ba*
 
-## MAMAUE ##
+# MAMAUE #
 
 Mamua.
 
@@ -166,7 +164,7 @@ Mamua.
 - *gauez mamauek ibilltxen dizela esaten dauie*
 - *mamauek dizela esan bai, baie kontrabandistek majo dabiltzez*
 
-## MANA ##
+# MANA #
 
 Mania.
 
@@ -177,7 +175,7 @@ Mania.
 
 Azken boladan **manije** sartu den arren, erabilera zabala dauka oraindino.
 
-## MANDA / IE ##
+# MANDA / IE #
 
 1. Partea. Aldea.
 
@@ -197,7 +195,7 @@ Azkuek ez du jaso, baina D.A.R.k. Mundakako Otxularen **Bertolda** aipatzen du. 
 - *zelako manda garaue dako orrek gixonak*
 - *mandara eiñdxe dau zubidxe*
 
-## MANDANGA ##
+# MANDANGA #
 
 Mozkorra. Nagitasun. Lohasma.
 
@@ -206,7 +204,7 @@ Mozkorra. Nagitasun. Lohasma.
 - *diro barik ezta atrapaten atrapa dozun mandangie*
 - *nik iñoiz be eztot okiit mandangarik*
 
-## MANDARA EIÑ ##
+# MANDARA EIÑ #
 
 Joera izan.
 
@@ -214,7 +212,7 @@ Joera izan.
 - *gauzek txarto ikusten dizenien mandara eitxen da*
 - *auri kuadrue be ez zu ikusten, atzo geure begire on da, da oraiñ mandara eiñ dxau*
 
-## MANDAZ ##
+# MANDAZ #
 
 Inklinatuta.
 
@@ -223,7 +221,7 @@ Inklinatuta.
 - *kuidadue okiñ mandaz dxun barik*
 - *mandaz dxuten bazara errekara dxeusiko zara*
 
-## MANDAZ MANDAZKA ##
+# MANDAZ MANDAZKA #
 
 Albo-alboka joan.
 
@@ -232,7 +230,7 @@ Albo-alboka joan.
 - *enebada! Mandaz mandazka nabill, zer dakot ba?*
 - *bapora mandaz mandazka ibill dxe lez, marie ein nai*
 
-## MANDAZKADA ##
+# MANDAZKADA #
 
 Balantzada.
 
@@ -243,7 +241,7 @@ Balantzada.
 
 Ikusten denez, funtzio ugaritan erabiltzen da hitz hau.
 
-## MANDUEN BESTEKUE ##
+# MANDUEN BESTEKUE #
 
 Oso handia.
 
@@ -252,7 +250,7 @@ Oso handia.
 - *manduen besteko zapatak erosi tzoz, da orain etxuz gure ibilli*
 - *zer diño beronek pa, manduen besteko lapak atrapa itxuz de*
 
-## MANDUEN LUE ##
+# MANDUEN LUE #
 
 Lo kuluxka. Loarina. Bermeon lokukoa ere esaten da.
 
@@ -260,7 +258,7 @@ Lo kuluxka. Loarina. Bermeon lokukoa ere esaten da.
 - *gure aman luek manduen luek ezaten diez*
 - *manduen lue sofan eitxen da, baie obeto oien*
 
-## MANDUEN UZKIDXE ##
+# MANDUEN UZKIDXE #
 
 Beti muturtuta edo ezatsegina den pertsona.
 
@@ -268,7 +266,7 @@ Beti muturtuta edo ezatsegina den pertsona.
 - *manduen uzkidxe lako dependientak tauz or dendan*
 - *zu zara manduen uzkidxe, ezta ongo munduen zu baino desagradabliaurik*
 
-## MANDXUNGIE ##
+# MANDXUNGIE #
 
 Antxoa harrapatzeko sistema bat. Gaur ez da erabiltzen, baina hitza hor geratu da beste egoera batzuei aplikaturik, esaterako:
 
@@ -281,7 +279,7 @@ Negozio zikinak, argi ez dauden ekintzak edo gona kontuetarako aplikatua.
 
 Sistema horretan antxoa guztiz **masa** eginda etortzen zenez horregatik zentzu hori.
 
-## MANEJA ##
+# MANEJA #
 
 Maneiatu.
 
@@ -294,7 +292,7 @@ Argi dago gaztelerazko **manejar** aditzetik sartuta dagoela.
 
 **manejar** → **maneja**.
 
-## MANEJUE ##
+# MANEJUE #
 
 Ganora. Trebetasuna.
 
@@ -303,7 +301,7 @@ Ganora. Trebetasuna.
 - *manejue artun, aurrien dakozune eitxeko*
 - *eskuetan badakot manejue, baie eztost urteten ondo*
 
-## MANGA ##
+# MANGA #
 
 1. Jipoitu. Jo.
 
@@ -321,7 +319,7 @@ Nondik sartu den hitz hau ez dago argi. Baliteke, gaztelerazko **mangonada**, **
 
 **mangonada** → **mangada** → **manga**.
 
-## MANIE ##
+# MANIE #
 
 Mugitu.
 
@@ -332,7 +330,7 @@ Mugitu.
 
 Honaino aditzaren funtzioan erabili da. Baina izenaren funtzioaz ere erabiltzen da.
 
-## MANIOBROSUE ##
+# MANIOBROSUE #
 
 Maniobra liandia duen itsasontzia da, baina gero katxeetara eta beste ibilgailu batzuetan ere pasatu da.
 
@@ -341,7 +339,7 @@ Maniobra liandia duen itsasontzia da, baina gero katxeetara eta beste ibilgailu 
 - *automotorrak maniobrosuek ezaten diez*
 - *ba karruek ez tiez ezaten maniobrosuek, geidxenak beintzat*
 
-## MANIUE ##
+# MANIUE #
 
 Higidura. Mugimendua.
 
@@ -351,7 +349,7 @@ Higidura. Mugimendua.
 
 Aipatu dugun **manejo** berbera da baina zentzua aldatzean, hitza bera ere aldatu egin da, bai grafiaz, bai ahoskeran.
 
-## MANTARRA ##
+# MANTARRA #
 
 Balio gabeko gauza. Gutxietsia. Despektiboan sarri.
 
@@ -360,7 +358,7 @@ Balio gabeko gauza. Gutxietsia. Despektiboan sarri.
 - *ori telie ez erosi, mantar mantarra da ta*
 - *zeuzer dalakuen erosi dot erropie ta mantarrak urten dost*
 
-## MANTEKAUE ##
+# MANTEKAUE #
 
 Izozkia.
 
@@ -368,7 +366,7 @@ Izozkia.
 - *uden askatan jaten duz mantekauek*
 - *neureko mantekaurik gozuena limoiena da*
 
-## MANUEN ##
+# MANUEN #
 
 1. Ahul dagoen edo dabilen pertsona, animalia edo gauza.
 
@@ -381,7 +379,7 @@ Izozkia.
 
 - *au txikota manuen dau, ondo ezpazu amarraten laster erungo dau arbolie aixiek*
 
-## MANUKUE ##
+# MANUKUE #
 
 Energia gabeko pertsona edo animalia.
 
@@ -390,7 +388,7 @@ Energia gabeko pertsona edo animalia.
 - *gaurko gaztiek manukuek tie, ezeren pentsamento barik bixi diez*
 - *manuko txorrue dau iturridxen*
 
-## MARE ##
+# MARE #
 
 Arrantza karga ona edo txarra.
 
@@ -399,7 +397,7 @@ Arrantza karga ona edo txarra.
 - *mare txarrak sartun dauie Canariasen dauzenak*
 - *kosterie eindxe dakozu mare on batzuk sartunde*
 
-## MAREZIÑUE ##
+# MAREZIÑUE #
 
 Mareoa.
 
@@ -410,7 +408,7 @@ Mareoa.
 
 **mareo** → **mare** + **zino** → **marezino** → **mareziño** → **mareziñue**.
 
-## MARIDXE ##
+# MARIDXE #
 
 Arrantzale bati dagokion harrapatutako arrantzaren dirua.
 
@@ -419,7 +417,7 @@ Arrantzale bati dagokion harrapatutako arrantzaren dirua.
 - *baie askok maridxe bakarragaz bixi bi dau*
 - *iru maridxe dakoz etzien, baie irurekaz be etso allegaten*
 
-## MARIDXE BAKO ARRAINE ##
+# MARIDXE BAKO ARRAINE #
 
 Etekin gabeko arraina. Itsasoan erabiltzen den berba da.
 
@@ -427,7 +425,7 @@ Etekin gabeko arraina. Itsasoan erabiltzen den berba da.
 - *auntxe be maridxe bako arraiñek dakarrie; kosterie kalai malai*
 - *maridxe bako arraiñekaz partille eskasak*
 
-## MARIDXE BAKO GAUZEK ##
+# MARIDXE BAKO GAUZEK #
 
 Etekin gabeko gauza.
 
@@ -435,7 +433,7 @@ Etekin gabeko gauza.
 - *eztakot maridxe bako gauzek ein gurerik*
 - *askotan maridxe bako gauzek pe eiñ ein bi diez*
 
-## MARIDXE MADALENIE ##
+# MARIDXE MADALENIE #
 
 Negar asko egin eta sarri.
 
@@ -443,14 +441,14 @@ Negar asko egin eta sarri.
 - *enau ni maridxe madalenie lez, zeuk dxo nozulako nau negarrez*
 - *amen dator maridxe madalenie, segurutik auntxek pe negarrez etorko da*
 
-## MARIDXERDIKO ##
+# MARIDXERDIKO #
 
 Itsasontzi bateko mutila, txo da, lehen, gizon bati zegokion maridxearen erdia jasotzen zuelako. Gaur ere, horrela deitzen da, nahiz eta osorik jaso partila. Analogiaz. adin bateko gazteztxo guztiak dira.
 
 - *maridxerdikueri bidxar goixien zortziretan etorteko*
 - *ori ezta maridxerdikuen biarra, baie ein eitxen dau*
 
-## MARIEK ATRAPATA ##
+# MARIEK ATRAPATA #
 
 Neurrikoak baino laburragoak diren frakak.
 
@@ -458,14 +456,14 @@ Neurrikoak baino laburragoak diren frakak.
 - *lagun guztidxek dxun diez frakak mariek atrapata*
 - *niri gustaten dxastez mariek atrapaiko frakak*
 
-## MARIKUE ##
+# MARIKUE #
 
 Maritxu. Marikoi plantak egiten dituena.
 
 - *niri ez ein paristerik marikuori!*
 - *marikuen plantak dakoz berak mutillek, baie ezta maritxu*
 
-## MARISORGIÑE ##
+# MARISORGIÑE #
 
 Asko dakien umea gehienetan. Batzuetan nagusiei ere aplikatzen zaie.
 
@@ -476,14 +474,14 @@ Asko dakien umea gehienetan. Batzuetan nagusiei ere aplikatzen zaie.
 
 Azkuek jaso du, baina **mariposa** adierazteko.
 
-## MARITENTEL ##
+# MARITENTEL #
 
 Tentela, zentzu peioratiboan ia beti.
 
 - *zelako maritentela da ba, arruen pasiñuek eitxen dotsona da*
 - *maritentel eta ganorabakoa, besterik ez esatearren*
 
-## MARITXONA ##
+# MARITXONA #
 
 Modan dagoena baino arropa luzeagoak eramaten dituena. Modara janzten ez dena. Lehen baserritik etorritakoei esaten zitzaien.
 
@@ -492,7 +490,7 @@ Modan dagoena baino arropa luzeagoak eramaten dituena. Modara janzten ez dena. L
 - *zueneko imien erropak, geidxenak marintxonak tiez*
 - *eztot kure ori erropie eruen, marintxon dakot eta*
 
-## MARIZAR ##
+# MARIZAR #
 
 Larregi jakitea adin determinatu baten.
 
@@ -500,14 +498,14 @@ Larregi jakitea adin determinatu baten.
 - *marizartxue bada baie neuk eztot kure neure alabie olakue ezatie*
 - *ezta marizarra, dana da, berbalapikue*
 
-## MARMOKA ##
+# MARMOKA #
 
 Medusa. Baina konparazioan, gutxi mugitzen den pertsona.
 
 - *marmoka da ta ze eingo tsagu ba, bertan bertan bixi de*
 - *zu marmoka erdu auna, ia espabilleten bazaitxut*
 
-## MARRA-MARRA ##
+# MARRA-MARRA #
 
 Mur-mur.
 
@@ -515,7 +513,7 @@ Mur-mur.
 - *marra-marra zauz berandu etor naielako*
 - *zeitxik zauz marra-marra? ze eiñ dxatzu ba?*
 
-## MARRADA ##
+# MARRADA #
 
 Agirika.
 
@@ -525,7 +523,7 @@ Agirika.
 - *marrada asko eitxen dau arek, baie ezta txarra*
 - *marradak botaten abille da, gero ezpadau ezer eingo be*
 
-## MARRAJA ##
+# MARRAJA #
 
 Marrazoa. Baina kasu honetan femeninoa da. Gazteleraz **tiburona** izango litzateke. Konparazioan emakume maltzurra, gezurtitxoa, eta trikimailuak erabiltzen dituena.
 
@@ -533,21 +531,21 @@ Marrazoa. Baina kasu honetan femeninoa da. Gazteleraz **tiburona** izango litzat
 - *marrajiaue da beti dau tranpak eitzen*
 - *marrajie bazara zeuretzat, ni enozu engañeko ta*
 
-## MARRO / UE ##
+# MARRO / UE #
 
 Mozorrotutakoa. Haratusteetan mozorrotuta dabilena.
 
 - *marruek asko on diez gauien, baie goizalderantz iñor bez*
 - *ime pillo ibill dxiez marro dxatzitze puxikekaz jentie dxoten*
 
-## MASAGABIDXE ##
+# MASAGABIDXE #
 
 Borra handia.
 
 - *masagabidxegaz emoten batxuten zulora zuez!*
 - *baserridxen beti okin bide masagabiren bat badaezpada!*
 
-## MASAMORRA ##
+# MASAMORRA #
 
 Itsasoko terminoa da. Karnata moduan itsasora botatzen den nahastea da. Konparazioan: Endredoa. Nahasmendua.
 
@@ -558,14 +556,14 @@ Itsasoko terminoa da. Karnata moduan itsasora botatzen den nahastea da. Konparaz
 
 Gaztelerazko **mazamorra** = **mezcla de cosas dispares** hitza bera da.
 
-## MASAMORRIE ARMA ##
+# MASAMORRIE ARMA #
 
 Nahaste-borrastea sortarazi.
 
 - *nasterue da baie! Auntxek pe masamorrie arma dau arek*
 - *danak pe..., masamorrie armaten eztau abillaurik*
 
-## MASGARRATZA ##
+# MASGARRATZA #
 
 Mahats mikatza. Konparazioan pertsona zakarra. Ezatsegina.
 
@@ -576,7 +574,7 @@ Mahats mikatza. Konparazioan pertsona zakarra. Ezatsegina.
 
 Hitz honen zentzua, mahats garratzak jaten direnean ipintzen den aurpegiaren keinuaz konparatzen da. Mahats garratza, oso garratza den hirusta antzeko belar mota bat da. Horregatik hartu da konparaketa egiteko.
 
-## MASIE ##
+# MASIE #
 
 Masa. Kantitatea. Asko.
 
@@ -585,7 +583,7 @@ Masa. Kantitatea. Asko.
 - *diro masie irebaziko dauie aurten*
 - *aldianue etor dalakon, ostantzien sagar masie ostu kun*
 
-## MASKARIE ##
+# MASKARIE #
 
 Lotsagabea. Aurpegi-handi.
 
@@ -595,14 +593,14 @@ Lotsagabea. Aurpegi-handi.
 
 Gaztelerazko **máscara** hitzetik hartu da, eta esanahia ere bertatik hartu da. Aurpegian maskara bat izan balitz bezala jokatzea.
 
-## MASKARIEN ARPIDXE ##
+# MASKARIEN ARPIDXE #
 
 Lotsagabea dela adierazteko.
 
 - *nik esan dotela zu ez zanda garbidxel Maskarien arpidxe dakozu zuk*
 - *arek bakixu zer dakon, maskarien arpidxe ederra, guzurti zantarra da a*
 
-## MASKETU ##
+# MASKETU #
 
 Lotsagabea.
 
@@ -614,7 +612,7 @@ Hitz hau gaztelerazko **más que tú** da, hau da, **el no va más**. Ezer baino
 
 **más que tú** → **masketu**.
 
-## MASPASA ##
+# MASPASA #
 
 Agure zahar-zaharra. Baina askotan gazteagoei ere aplikatzen zaie. 
 
@@ -626,7 +624,7 @@ Gaztelerazko **uva pasa** literalki oinarritzat hastu eta adjektibo hori sortu d
 
 Azkuek ez du jaso, baina bai D.A.R.k eta Ortuzarren zita bat aipatzen du Bermeoko hitza dela esanez.
 
-## MASPASATU ##
+# MASPASATU #
 
 Zaharkitu.
 
@@ -635,7 +633,7 @@ Zaharkitu.
 - *alla zeu maspasatu bazara; nik ondiño gerra asko emon biar dot*
 - *berak esaten dau maspasatute dauela*
 
-## MASTAPALO ##
+# MASTAPALO #
 
 Masta-palo. Konparazioan pertsona argala eta altua.
 
@@ -643,7 +641,7 @@ Masta-palo. Konparazioan pertsona argala eta altua.
 - *mastapalo utse dalez, berak imiñ dxau ikurriñe*
 - *mastapalue da berau imie, eztaitx non lotuko dan*
 
-## MASUSTE / IE ##
+# MASUSTE / IE #
 
 Endredoa.
 
@@ -654,13 +652,13 @@ Endredoa.
 
 Berriro ere ikusten dugu, fruitu baten izenarekin beste bat sortzen dela.
 
-## MATAPUTXETA ##
+# MATAPUTXETA #
 
 Atunak hiltzeko erabiltzen den makila.
 
 - *ekau mataputxeta atune ondiño bizirik dau te*
 
-## MATATXIÑIE ##
+# MATATXIÑIE #
 
 Sarraskia.
 
@@ -668,7 +666,7 @@ Sarraskia.
 - *Putinek be Txetxenian bardin eiñ dxau, matatxiñe*
 - *matatxiñie eiñ dxe gero eurek petrolidxo guztidxen dxaue*
 
-## MATAZA ##
+# MATAZA #
 
 Endredoa.
 
@@ -678,14 +676,14 @@ Endredoa.
 
 Hitz hau beste zentzu batez agertzen da hiztegietan; eta gaztelerazko **madeja** hitzaren zentzua aldatu egin dela esan genezake.
 
-## MATAZATAN SARTUN ##
+# MATAZATAN SARTUN #
 
 Nahasteman sartu.
 
 - *beti zabiltzez matazatan sartunde, gusta eitxen dxatzu*
 - *areri be asko gustaten dxatzo beti matazan sartunde ibilltxie*
 
-## MATRAILLO ##
+# MATRAILLO #
 
 Mailua.
 
@@ -699,14 +697,14 @@ Gaztelerazko **martillo**-tik hartu da zuzen zuzenean.
 
 **r/**dardarkariaren metatesia izan da aldatzailea.
 
-## MATSAK DXAN DA GERO ##
+# MATSAK DXAN DA GERO #
 
 Guztia amaitu eta gero iristea.
 
 - *kanpotik ekarri dauien sagarrak errepartiten on diez, baie gu matsak dxan de gero aillega gariez*
 - *zelako dxaidxe on da Almiken, da gu ezer dxakin barik, ara aillega garizenien matsak dxanda on diez*
 
-## MATXAZO ##
+# MATXAZO #
 
 Erraldoia. Oso handia.
 
@@ -717,7 +715,7 @@ Erraldoia. Oso handia.
 
 Hitz honek, **-zo** atzizkia sartu ezkero, halako handitasun bat ematen dio hitzaren zentzuari.
 
-## MATXUE ##
+# MATXUE #
 
 Oso handia.
 
@@ -728,14 +726,14 @@ Oso handia.
 
 Ez dakigu gaztelerazko **macho** hitzetik sartu den, baina ez dauka horren zentzurik.
 
-## MAUTE-MAUTE ##
+# MAUTE-MAUTE #
 
 Asko jan eta edozer.
 
 - *abe! Zemat loditxu zara ba. Maute-maute dxan ezkero, aulan on biar*
 - *ara dxun garizen danok etor gariez loditxute, emoten ezan doskune maute-maute dxanda*
 
-## MAZIDXE ##
+# MAZIDXE #
 
 Zikinkeria. Basa.
 
@@ -746,7 +744,7 @@ Zikinkeria. Basa.
 - *klaro! eradi guztidxek bienganera bota ezkero, mazidxe forma biar*
 - *ainbeste egunien garbitxu barik mazidxe be eiñ*
 
-## MAZIMAZI ##
+# MAZIMAZI #
 
 Xehekatu eta nahastatuz gero gertatzen dena.
 
@@ -756,7 +754,7 @@ Xehekatu eta nahastatuz gero gertatzen dena.
 
 Hemen, aditzaren lekua hartzen du hitz honek, baina galdegaia aditza bera delarik.
 
-## MAZITXU ##
+# MAZITXU #
 
 Zikindu. Lohitu. Maziru.
 
@@ -769,7 +767,7 @@ Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan a
 
 **mazi** + **tu** → **mazitu** → **mazitxu**.
 
-## MELA-MELA ##
+# MELA-MELA #
 
 1. Bustita, blai eginda.
 
@@ -784,14 +782,14 @@ Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan a
 
 Azkuek ez du jaso, baina D.A.R,k Juan San Martinen **Zirikadak** liburutik jaso du. Bermeon asko erabiltzen den hitza da.
 
-## MEZA BIARREKUE ##
+# MEZA BIARREKUE #
 
 Senitarteko bat, nahiz eta urrunekoa izan, lagun bat edo auzoko bat hiltzen denean erabiltzen da esaldi hori. Duela urte batzuk, aipatutako baten bat hiltzen zenean, meza bat agintzen zen elizan hildakoaren oroimenez. Horregatik, meza beharrekoa hil dela esaten zen. Gaur ere erabilizen da esaldi hori, nahiz eta meza ateratzeko ohitura galduta egon.
 
 - *gure atxitxen lengusue ill dxe, da meza biarrekue dan lez, entierrora dxun biar dot*
 - *geure meza biarrekue be bada, da neuk pe dxun ein biarko dot*
 
-## MIEKIE ##
+# MIEKIE #
 
 Atunaren belarria. Hegaluze-mendrezka.
 
@@ -799,7 +797,7 @@ Atunaren belarria. Hegaluze-mendrezka.
 - *miekie parrillen baino gauze gozuaurik eztau!*
 - *atunen miekie jan dau prijite*
 
-## MILLE PENTZAMENTU ##
+# MILLE PENTZAMENTU #
 
 Burmuinari buelta asko ematen dion pertsona.
 
@@ -808,14 +806,14 @@ Burmuinari buelta asko ematen dion pertsona.
 - *mille pentzamentu dan lez, enai fidxeten aregaz*
 - *zeu be millepentzamentu zara lez, orduan zeugaz be ezin gara fidxe*
 
-## MISERIKORDI KO KANPAIEK DXO ##
+# MISERIKORDI KO KANPAIEK DXO #
 
 Iskanbila baten botatzen den mehatxua.
 
 - *isillik ezpazauz, gaur amen miserikordiko kanpaiek dxoko dauie*
 - *ez ein kasurik, orrek beti esaten dau miserikordiko kanpaiek dxoko dauiela nonogaz asarratuten danien*
 
-## MIXI-MIXIDXE ##
+# MIXI-MIXIDXE #
 
 Monja antzeko emakumea.
 
@@ -824,28 +822,28 @@ Monja antzeko emakumea.
 - *aparentzidxe mixi mixidxena, baie gero etxos de karnabal*
 - *eskillaran be iñok eztau asmaten mixi-mixidxe dalakon*
 
-## MIÑE KANPORA ATARATA ##
+# MIÑE KANPORA ATARATA #
 
 Presaka. Mihia kanpoan dela.
 
 - *ibill dxun abidxadiegaz miñe kanpora atarata ibilli gariez*
 - *etzeko biarrak pe miñe kanpora atarata eiñ dxotez*
 
-## MIÑE KANTSA ##
+# MIÑE KANTSA #
 
 Berba asko egin.
 
 - *zeuri gauzek espliketen miñe be kantsata dakot gero*
 - *arek eztau kantsako askorik miñe*
 
-## MISKEIDXE ##
+# MISKEIDXE #
 
 Aitzakia.
 
 - *miskeri asko dakoztazu! Jaidxuz lentejok!*
 - *miskeidxe baino eztakozuie biharrik ez eitxeko!*
 
-## MOKO TRUKEN ##
+# MOKO TRUKEN #
 
 Ezerezaren truke saldu, eman.
 
@@ -856,28 +854,28 @@ Ezerezaren truke saldu, eman.
 
 Hitz honen konposizioan **moko** + **truke** sartu dira.
 
-## MOLDA BAKO TRENA ##
+# MOLDA BAKO TRENA #
 
 Ganora gutxikoa dela, edo horrela iruditzen dela adierazteko.
 
 - *baie zelako molda bako trena zara ba, eztakixu ezer eitxen*
 - *molda bako trena zeure ama, niri itxi bakien!*
 
-## MOLDIE POPAN ##
+# MOLDIE POPAN #
 
 Ganora gutxikoa.
 
 - *zuk bakixu non dakozun moldie, popan!*
 - *alan da olan dxantzitxe, baie moldie, popan*
 
-## MOROKILE ##
+# MOROKILE #
 
 Taloa egiteko egiten den masa borobila.
 
 - *morokilek ekau taluek eingotez eta*
 - *arto-urune ta uregaz morokilek preparata dauz taluek eitxeko*
 
-## MOSUE OKERTU ##
+# MOSUE OKERTU #
 
 Goseak ezpainak okertu.
 
@@ -885,7 +883,7 @@ Goseak ezpainak okertu.
 - *gerra denporan mosue okertute bixi zan garizen*
 - *erdu zeuzer dxaten gosiegaz mosue be okertute dakot eta*
 
-## MOSUEN BIZARRAK ##
+# MOSUEN BIZARRAK #
 
 Ausardia izatea.
 
@@ -893,13 +891,13 @@ Ausardia izatea.
 - *arek eziakoie mosuen bizarrik Izarora uger dxuteko*
 - *eztakule mosuen bizarrik ori eitxeko? lkusiko zue zelan baietz*
 
-## MUKURRE ##
+# MUKURRE #
 
 Pertsona dorpea.
 
 - *horregaz garri bueltiegaz zelan ezta ezango mukurre ba?*
 
-## MUNDEKAKO LORUE LEZ ##
+# MUNDEKAKO LORUE LEZ #
 
 Izorratuta.
 
@@ -907,7 +905,7 @@ Izorratuta.
 - *eztogu biar askorik mundekako lorue lez egoteko*
 - *danok gauz diro barik eta andra barik, mundekako lorue lez jodite*
 
-## MUNDUEK ITXIKUE ##
+# MUNDUEK ITXIKUE #
 
 Pertsona jasanezina.
 
@@ -915,7 +913,7 @@ Pertsona jasanezina.
 - *munduek itxikuek tiez eurok gixonok, geuretzako itxitxen dauie biar guztidxek*
 - *amen danok gara munduek itxikuek, danok gure du agindxu*
 
-## MUNDUEN BADAN BEZ ##
+# MUNDUEN BADAN BEZ #
 
 Existitzen denik ere ez.
 
@@ -923,7 +921,7 @@ Existitzen denik ere ez.
 - *aztu eiñ dxast, munduen badan bez*
 - *ezta munduen badan be, eztot okiñ astirik orretako*
 
-## MURMOIE ##
+# MURMOIE #
 
 Behe-lainoa.
 
@@ -931,21 +929,21 @@ Behe-lainoa.
 - *Mañu idxe beti dau murmoiegaz, bidiek eitzen juen eta galdu!*
 - *dauen murmoiegaz ezindxe juen mendire*
 
-## MURRU-MURRU ##
+# MURRU-MURRU #
 
 Murmur.
 
 - *beti dabill murru-murru, beti asarratute, beti umore txarrien*
 - *oin be murru-murru zabiltzez, zer dakozun esateko esan argi ta garbi*
 
-## MUSKILE ##
+# MUSKILE #
 
 Mutxikina.
 
 - *gosien gosiegaz sagarran muskile be jan!*
 - *muskile bota eidxok zaztarratara!*
 
-## MUSTE ##
+# MUSTE #
 
 Miazkatu.
 
