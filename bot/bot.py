@@ -11,7 +11,7 @@ from hashlib import md5
 import tempfile
 from PIL import Image, ImageFont, ImageDraw
 #from TwitterAPI import TwitterAPI
-#from mastodon import Mastodon
+from mastodon import Mastodon
 #from time import localtime
 #from time import strftime
 from time import sleep
@@ -40,13 +40,8 @@ b = None
 for file in files:
 	with open(file, 'r') as f:
 		for line in f:
-			# letrie bada, hurrengo lerrora pasa
-			letter = re.search("^#\s([^#]+)\s#", line)
-			if letter != None:
-				continue
-
 			# berbie edo esamoldie topa
-			resource = re.search("^##\s([^#]+)\s##", line)
+			resource = re.search("^#\s([^#]+)\s#", line)
 			if resource != None:
 				tmp = resource.group(1).encode('utf-8')
 				if b:
