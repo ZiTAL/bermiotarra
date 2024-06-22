@@ -711,7 +711,7 @@ Gauza itsusia katuaren bizarrak bakarrik direnaren ustea.
 
 - *onek kortiñek feo ei dauz, baie feo bakixu zer, katun bizarrak*
 - *katun bizarrak pe feo oten diez, baie berak aldien*
-- *orren zapatan feuel Feuek katun bizarrak, ori eztakixu le?*
+- *orren zapatan feuek! Feuek katun bizarrak, ori eztakixu le?*
 
 # KATUEN GLORIDXEN #
 
