@@ -227,7 +227,7 @@ Neurria edo pisua ondo jota.
 Nazkantea. Enpagua ematekoa.
 
 - *ze larridxe da bera mutille ba, gonbitxoka imitxen zaitxuz*
-- *larridxe, benetako larridxe, Julio Iglesias, baie ze ]arridxe da ba*
+- *larridxe, benetako larridxe, Julio Iglesias, baie ze larridxe da ba*
 - *ori bakarrik ez, geure kaleko a morroie, uliek enpiketa eruten dauena eztakixu? A bai dala larridxe*
 
 # LARRITXU #

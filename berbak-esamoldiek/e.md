@@ -701,7 +701,7 @@ Desegokia da, baina hor dago.
 
 **relucidad** → **erluzidad** → **erluzidade**.
 
-Ez da egon **e** protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
+Ez da egon **e** protesia hartzerik; bokale horrek tokiz aldatzea besterik ez du izan.
 
 # ERA / ERIE #
 

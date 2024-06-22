@@ -100,7 +100,7 @@ Ordaindu gabeko lanak.
 
 - *eitxen duzen biarrak debalduek tiez*
 - *etzeko biarrak pe debaldekuek tiez da*
-- *baitxe solokuek pe, arek pe deba]deko biarrak tiez*
+- *baitxe solokuek pe, arek pe debaldeko biarrak tiez*
 
 # DEBALDEKO PAUSUEK #
 
@@ -390,7 +390,7 @@ Batzuk dirua daukaten itxura ematen dute diru asko izan gabe, beste batzuk, orde
 Dirua diruaren gainean.
 
 - *diroz itxota dauzela esan, baie zorrez itxota be bai*
-- *neu be diroz itxota nau, ikusten zu? Baie diro danak fa]tzuek*
+- *neu be diroz itxota nau, ikusten zu? Baie diro danak faltzuek*
 
 # DIRUE LASKA #
 
