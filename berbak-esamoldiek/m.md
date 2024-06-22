@@ -332,10 +332,10 @@ Honaino aditzaren funtzioan erabili da. Baina izenaren funtzioaz ere erabiltzen 
 
 # MANIOBROSUE #
 
-Maniobra liandia duen itsasontzia da, baina gero katxeetara eta beste ibilgailu batzuetan ere pasatu da.
+Maniobra handia duen itsasontzia da, baina gero kotxeetara eta beste ibilgailu batzuetan ere pasatu da.
 
 - *ori bapora maniobrosue da*
-- *nirelagunen kotxie torpie da, ezta bape maniobrosue*
+- *nire lagunen kotxie torpie da, ezta bape maniobrosue*
 - *automotorrak maniobrosuek ezaten diez*
 - *ba karruek ez tiez ezaten maniobrosuek, geidxenak beintzat*
 
