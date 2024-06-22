@@ -703,7 +703,7 @@ Desegokia da, baina hor dago.
 
 Ez da egon **e** protesia hartzerik; bokale horrek tokiz a]datzea besterik ez du izan.
 
-# ERMERIE #
+# ERA / ERIE #
 
 Gauza baten era.
 
