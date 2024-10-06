@@ -392,6 +392,13 @@ Lehor. Siku. Pertsonen izaerari ere aplikatua.
 
 Hitz hau, **legor** hitzaren aldaera da, baina zentzuz aldatu egiten da. Azkuek ez du jaso forma hau, baina bai D.A.R.k. Honek ere ez du zentzu berbera, **seco** eta **poco fervoroso** zentzuaz baizik.
 
+# LIKE #
+
+Gatzgabe.
+
+- *hau zer da ba, agurentzako jatekue, hau jatekue like dau*
+- *like dau jatekue, bota zazu gatza ela?*
+
 # LIXIE LEZ AZALA KENDU #
 
 Gehienetan andrazkoen artean erabilitako esaldia da. Haserretzen direnean egindako mehatxua da.

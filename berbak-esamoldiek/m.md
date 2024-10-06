@@ -583,6 +583,13 @@ Masa. Kantitatea. Asko.
 - *diro masie irebaziko dauie aurten*
 - *aldianue etor dalakon, ostantzien sagar masie ostu kun*
 
+# MASKALA #
+
+Lokatz zipriztina.
+
+- *Burgora juen ta izterrak maskalagaz beteta ekar dotez*
+- *kontuz euridxe eindxau eta frakak maskalagaz beteta ekar barik menditxik bueltan*
+
 # MASKARIE #
 
 Lotsagabea. Aurpegi-handi.
@@ -935,6 +942,13 @@ Murmur.
 
 - *beti dabill murru-murru, beti asarratute, beti umore txarrien*
 - *oin be murru-murru zabiltzez, zer dakozun esateko esan argi ta garbi*
+
+# MURTZILLIE #
+
+Korapiloa.
+
+- *eidxok honeri txikotari murtzillie, ostantxien eskapa eingo dasku bapora*
+- *murtzillie eintxo txikotari, eta oin ondo trinketa geratu de, ezta eskapako*
 
 # MUSKILE #
 

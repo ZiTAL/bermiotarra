@@ -1225,6 +1225,12 @@ Sergera, hegaluze eta hegalaburren multzoa da. Baina konparazioan, gizon multzoa
 - *abe! Zer dator bobo sergerie ba, igarten da etzegune dana*
 - *ez dxast gustaten bertan borbo sergeran artien ibilitxie*
 
+# BLAKA #
+
+Itsasontzietan erabiltzen den pintura.
+
+- *blaka emon bidatso baporari, pintxurie kenduten hasi datso ta*
+
 # BOLADIE #
 
 Hazi. Gorantz egin.

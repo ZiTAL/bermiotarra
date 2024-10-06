@@ -713,6 +713,13 @@ Asko jaten duena. Dena beretzat nahi duena.
 - *tragarroiek pe aulan ibilltxen diez, dana atrapa guren*
 - *tragarroi utse da gero, ezta konformaten atrapaten dauenagaz*
 
+# TRAIÑE #
+
+Arrantzarako sarea.
+
+- *traiñe zulotu dasku, eta arrañek eskapa*
+- *traiñe eruen bitsat saregiñeri konponduteko*
+
 # TRANKA #
 
 Barrutik krisketaz atea itxi.
@@ -1890,6 +1897,13 @@ Zapata dorpeak.
 - *geure Ziomarak be txokoluelako zapatak erosi txuz, da lau zentimetro andidxaue da*
 
 Badirudi, oraingo zapaten modan antzinako **choclo** oinetakoetan oinarritu direla. Guk beti erabili dugu berba hori, antzina baten fabrikan erabiltzen ziren txokoloak kontuan izan ditugulako konparazioak egiterakoan.
+
+# TXOLA #
+
+Kopa.
+
+- *eguerdidxe tan eta gero txola txokorragaz hartuten du beti*
+- *Ateletin partidue ikusteko txolagaz askoz hobeto*
 
 # TXOMIÑANTON #
 

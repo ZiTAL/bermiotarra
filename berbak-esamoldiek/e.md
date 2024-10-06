@@ -1343,7 +1343,7 @@ Bokal berdinak izan arren, ez da egon disimilaziorik eta erdiko bokal bi erori e
 
 Jaramonik ez egin.
 
-- *etxamon laztana, neuk erosko tzut gure zune ta*
+- *etxamon laztana, neuk erosko tsut gure zune ta*
 - *ez tostazu gure eiñ, etxamon, etorko da bueltie ta*
 - *etxamoixu orreri, da esan zer pasa dxatzun*
 - *etxamona! Bera etorko da ostabe ta*
@@ -1542,7 +1542,7 @@ Aintzakotzat hartu barik.
 
 # EZTAU AMARIK ETZIEN #
 
-Ez dago inor etzean erantzukizun bati erantzuteko.
+Ez dago inor etxean erantzukizun bati erantzuteko.
 
 - *diruek edozetan gasta, da zeuzer paga bi denien, eztau amarik etzien*
 - *ainbeste zorregaz onda, ara ta ona dabill, da gero arpidxe emon bi denien, amarik eztau etzien*

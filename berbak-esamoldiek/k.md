@@ -887,6 +887,14 @@ Asko, kantitate handia.
 - *onek boltsiek kintxel bat pixeten dost*
 - *onek zapatak kintxel bana dakoie bakotxak*
 
+# KIÑADA #
+
+Keinua.
+
+- *enai konturatu lelangotan da berak eiñ dxostenien kiñadie aurduen dxeusi nai kontuen*
+- *bera neuri kiñadaka, da ni santainfanzian*
+- *orren kiñadiek zeuzer gure dau esan, kuidadue gero*
+
 # KIÑE #
 
 1. Azkura izaten denean hazkatzea.
@@ -900,6 +908,19 @@ Asko, kantitate handia.
 - *biar bat eitxeko beti ibilli bi zara kiñeten*
 - *kiñeta be arek eztau eitxen berak gure dauena baiño*
 - *gure alboko andrie beti dabilst kiñeten, gaur be esan dost aulako bat*
+
+# KIÑUE ATARA #
+
+1. Biziki jardun egitekoan.
+
+- *kiñue atara tzat oneri kotxieri, ia eztau balidxo ezetako be*
+- *au erropie ezta gauze, kiñue atara tzat eta*
+
+2. Errieta egin.
+
+*zure aiztiek laguneri kiñue atara tzo, eintzozen aldarridxekaz...*
+
+Baina beste zentzu baten ere erabiltzen dela baieztatu dugu.
 
 # KIRIKILLO #
 
@@ -924,26 +945,15 @@ Barrokismoak.
 - *eske, kirrikillo asko dakoien gauzek gero txarto garbiten diez*
 - *aunek erropiek be kirrikillo larreidxe dako*
 
-# KIÑADA #
+# KISKILDXU #
 
-Keinua.
+1. Erreta, kiskalita.
 
-- *enai konturatu lelangotan da berak eiñ dxostenien kiñadie aurduen dxeusi nai kontuen*
-- *bera neuri kiñadaka, da ni santainfanzian*
-- *orren kiñadiek zeuzer gure dau esan, kuidadue gero*
+- *etxie alde zaharran okindxu eta sutiegaz kiskildxute geratu dasku*
 
-# KIÑUE ATARA #
+2. Apurtuta
 
-1. Biziki jardun egitekoan.
-
-- *kiñue atara tzat oneri kotxieri, ia eztau balidxo ezetako be*
-- *au erropie ezta gauze, kiñue atara tzat eta*
-
-2. Errieta egin.
-
-*zure aiztiek laguneri kiñue atara tzo, eintzozen aldarridxekaz...*
-
-Baina beste zentzu baten ere erabiltzen dela baieztatu dugu.
+- *kiskildxu eindxast berenganera jeusikeran*
 
 # KLARIE #
 

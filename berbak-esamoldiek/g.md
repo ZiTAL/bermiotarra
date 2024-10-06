@@ -161,6 +161,14 @@ Gaztelerazko **gargajo** bera da, baina fonetikaz ezberdintzen da.
 
 **gargajo** → **gargaijo**; **i** bat desarroilatuz gero.
 
+# GARIDXUE #
+
+Garatxoa.
+
+- *garidxuek urten dost, eta dermatologunera nuen, ia kenduten badosten*
+- *surren urtentso garidxuek, ata kontu sorgiñe dala*
+- *zelako garidxo manduek urtentso arpidxen telebisiñoko aurkezliri ba!*
+
 # GARRA #
 
 Olatu handiak daudenean itsasoak ateratzen duen laino kresaltsua. Baina konparazioan, beste kasu batzuetan bezala, bronka botatzea ere izango da.
@@ -342,6 +350,13 @@ Lokiak. Gaztelerazko **sien**.
 - *giltzetako miñe dakot, eztaitx zer dakoten*
 - *golpie giltzetan emon tsolez, siku itxi dau bertan*
 - *giltzetan artzien dan golpie txar-txarra da*
+
+# GINBELETA #
+
+Eskuz erabiltzeko zulagailua.
+
+- *ginbeleta ekarri, ze taladrue apurtuten dau, eskuz ein biku*
+- *baserridxen argirik eztakulez, ginbeletagaz ein bikuz zuluek*
 
 # GINDULEK #
 

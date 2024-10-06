@@ -49,6 +49,10 @@ Esker berezidxek:
 - Eneritz German Zabala
 - Oier Gorosabel Larrañaga @txikillana / mastodon
 - Aritzatxuko andrak
+- Jon Gartzia
+- Arantza Arrugaeta Arenaza
+- Aaron Llorens Allika
+- Karmelen nebie
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
