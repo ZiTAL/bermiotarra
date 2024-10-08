@@ -51,7 +51,6 @@ Esker berezidxek:
 - Aritzatxuko andrak
 - Jon Garcia Uriondo
 - Arantza Arrugaeta Arenaza
-- Aaron Llorens Allika
 - Gaizka Beitia Esteban
 - Irati Aurrekoetxea Madariaga
 
