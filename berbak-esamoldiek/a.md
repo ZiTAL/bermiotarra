@@ -153,6 +153,8 @@ Azken honek egin du biderik laburrena, eta zentzua ere egokia dela dirudi, jasan
 
 Gazteen artean, hau da hamazortzi urtetik beheranzkoetan galtzen ari bada ere, oso erabilia da oraindik. Gainera, askotan errepikatu egiten da hitza, goiko esaldi batetan ikus daitekeen bezala, agian enfasi gehiago emateko.
 
+Mungialdea eta Txorierri eskualdeetan ere erabiltzen dute.
+
 # ABUXE #
 
 Arrain oso txikia eta zuria, odol gabekoa. Bokarta antzekoa da. Konparazioan erabiltzen da, eta bi esangura dauzka:

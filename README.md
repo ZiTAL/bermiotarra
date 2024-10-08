@@ -53,6 +53,7 @@ Esker berezidxek:
 - Arantza Arrugaeta Arenaza
 - Aaron Llorens Allika
 - Gaizka Beitia Esteban
+- Irati Aurrekoetxea Madariaga
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
