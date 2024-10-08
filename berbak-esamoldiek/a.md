@@ -153,7 +153,7 @@ Azken honek egin du biderik laburrena, eta zentzua ere egokia dela dirudi, jasan
 
 Gazteen artean, hau da hamazortzi urtetik beheranzkoetan galtzen ari bada ere, oso erabilia da oraindik. Gainera, askotan errepikatu egiten da hitza, goiko esaldi batetan ikus daitekeen bezala, agian enfasi gehiago emateko.
 
-Mungialdea eta Txorierri eskualdeetan ere erabiltzen dute.
+Mungialdeako eta Txorierriko eskualdeetan ere erabiltzen dute.
 
 # ABUXE #
 
