@@ -28,6 +28,13 @@ Kutsatu da kasu honetan. Nahasi.
 
 Aditzaren funtzioaz agertzen da hitz hau.
 
+# NASTAFARREIDXE #
+
+Barizela. Astanafarreria.
+
+- *berandu hartun nauen nastafarreidxe, 6 urtegaz edo*
+- *arpi dana geratu datson zuluekaz, nastafarreidxe dala ta*
+
 # NASTATA #
 
 Nahastuta.
