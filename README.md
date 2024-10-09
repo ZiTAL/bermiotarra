@@ -52,6 +52,7 @@ Esker berezidxek:
 - Jon Garcia Uriondo
 - Arantza Arrugaeta Arenaza
 - Gaizka Beitia Esteban
+- Irati Aurrekoetxea Madariaga
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
