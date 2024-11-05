@@ -131,7 +131,7 @@ with open(sys.path[0]+"/mastodon.json", 'r') as f:
    mastodon_config = json.load(f)
 
 mastodon = Mastodon(
-   access_token = mastodon_config['token']
+   access_token = mastodon_config['token'],
    api_base_url = mastodon_config['instance']
 )
 
