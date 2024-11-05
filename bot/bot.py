@@ -126,13 +126,13 @@ for i in files:
 
 	img.save(i, "PNG")
 
-txt = "Egunien berba edo esamolde bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\n"
+txt = "Egunien berba edo esamolde bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttps://bermiotarra.zital.eus"
 
 #mastodon
 
 mastodon = Mastodon(
     access_token = sys.path[0]+"/mastodon.credentials",
-    api_base_url = 'https://botsin.space'
+    api_base_url = 'https://mastodon.eus'
 )
 
 images = []
@@ -143,7 +143,7 @@ for i in files:
 
 sleep(15)
 
-m = mastodon.status_post(txt+"https://bermiotarra.zital.eus/", visibility='public', media_ids=images)
+m = mastodon.status_post(txt", visibility='public', media_ids=images)
 
 # twitter
 """
