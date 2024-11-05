@@ -4,17 +4,15 @@
 import sys
 import os
 import re
-from glob import glob
 import json
 import random
-from hashlib import md5
 import tempfile
-from PIL import Image, ImageFont, ImageDraw
-#from TwitterAPI import TwitterAPI
+
+from glob import glob
+from hashlib import md5
+from PIL	  import Image, ImageFont, ImageDraw
 from mastodon import Mastodon
-#from time import localtime
-#from time import strftime
-from time import sleep
+from time     import sleep
 
 # fitxero danak hartun #
 
@@ -30,7 +28,7 @@ words_cached = []
 words_cache_file = sys.path[0]+"/bot.cache"
 
 with open(words_cache_file, 'r') as f:
-	words_cached = json.load(f)
+    words_cached = json.load(f)
 
 # berba / esamolde danak karga #
 
@@ -38,25 +36,25 @@ resources = []
 b = None
 
 for file in files:
-	with open(file, 'r') as f:
-		for line in f:
-			# berbie edo esamoldie topa
-			resource = re.search("^#\s([^#]+)\s#", line)
-			if resource != None:
-				tmp = resource.group(1).encode('utf-8')
-				if b:
-					resources.append(b)
-				hash = md5()
-				hash.update(tmp)
-				hash = hash.hexdigest()
-				# ariñautik erabili duzenak kendu #
-				if(hash not in words_cached):
-					b = {'id': hash, 'title': tmp.decode('utf-8'), 'desc': ''}
-				else:
-					b = None
-			else:
-				if b:
-					b['desc'] = b['desc'] + line
+   with open(file, 'r') as f:
+      for line in f:
+         # berbie edo esamoldie topa
+         resource = re.search("^#\s([^#]+)\s#", line)
+         if resource != None:
+            tmp = resource.group(1).encode('utf-8')
+            if b:
+               resources.append(b)
+            hash = md5()
+            hash.update(tmp)
+            hash = hash.hexdigest()
+            # ariñautik erabili duzenak kendu #
+            if(hash not in words_cached):
+               b = {'id': hash, 'title': tmp.decode('utf-8'), 'desc': ''}
+            else:
+               b = None
+         else:
+            if b:
+               b['desc'] = b['desc'] + line
 
 # aleatoidxue hartun
 
@@ -68,9 +66,9 @@ element = resources[r]
 local_time = localtime()
 local_time = strftime("%Y-%m-%d", local_time)
 if(local_time=="2019-04-26"):
-	for i in resources:
-		if(i['id']=='2797b748eb9425e3975f1d724c7e1ff2'):
-			element = i
+   for i in resources:
+      if(i['id']=='2797b748eb9425e3975f1d724c7e1ff2'):
+         element = i
 """
 
 # markdown sortu
@@ -95,7 +93,7 @@ md = md +"## "+element['title']+" ##\n"+element['desc']
 # artxibo tenporala
 fd, path = tempfile.mkstemp()
 with os.fdopen(fd, 'w') as tmp:
-	tmp.write(md)
+   tmp.write(md)
 
 # pdf-ra pasa
 #os.system("pandoc "+path+" -f markdown -t latex --pdf-engine=xelatex -o "+path+".pdf")
@@ -116,44 +114,36 @@ files.sort()
 font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 20)
 
 for i in files:
-	img = Image.open(i)
-	img = img.convert('RGBA')
+   img = Image.open(i)
+   img = img.convert('RGBA')
 
-	d = ImageDraw.Draw(img)
+   d = ImageDraw.Draw(img)
 
-	#d.text((375, 730), "#bermiotarra  #zitalbot", font = font, fill=(0, 0, 0, 255))
-	d.text((344, 750), "https://bermiotarra.zital.eus", font = font, fill=(0, 0, 0, 255))
+   d.text((344, 750), "https://bermiotarra.zital.eus", font = font, fill=(0, 0, 0, 255))
 
-	img.save(i, "PNG")
+   img.save(i, "PNG")
 
 txt = "Egunien berba edo esamolde bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttps://bermiotarra.zital.eus"
 
 #mastodon
 
+with open(sys.path[0]+"/mastodon.json", 'r') as f:
+   mastodon_config = json.load(f)
+
 mastodon = Mastodon(
-    access_token = sys.path[0]+"/mastodon.credentials",
-    api_base_url = 'https://mastodon.eus'
+   access_token = mastodon_config['token']
+   api_base_url = mastodon_config['instance']
 )
 
 images = []
 for i in files:
-	a = mastodon.media_post(i);
-	images.append([a.id])
-	os.remove(i)
+   a = mastodon.media_post(i);
+   images.append([a.id])
+   os.remove(i)
 
 sleep(15)
 
-m = mastodon.status_post(txt", visibility='public', media_ids=images)
-
-# twitter
-"""
-credentials_file = sys.path[0]+"/twitter.credentials"
-with open(credentials_file, 'r') as f:
-	credentials = json.load(f)
-
-api = TwitterAPI(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'], credentials['ACCESS_TOKEN_KEY'], credentials['ACCESS_TOKEN_SECRET'])
-r = api.request('statuses/update', {'status': txt+m.url})
-"""
+m = mastodon.status_post(txt, visibility='public', media_ids=images)
 
 # toka dan berbie cache-n sartu #
 
