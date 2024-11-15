@@ -236,13 +236,13 @@ Desagertu.
 - *amen okiñ dxoteam libruek urtu eiñ dxiez, ia nok artun txuzen*
 - *amen etzien dana urtuten da, iriltxuek badabiltzez gero*
 
-# USENE EMON #
+# USEINE EMON #
 
 Zerbaiten usaina eman giroari, adibidez jai usaina.
 
 - *asi de kalien dxai useine*
-- *da ezpadau be geuk emongo tsagu udebarri useiñe*
-- *garbi useiñe emon bitsagu etzieri, iñor datorrenien asma deidxen*
+- *da ezpadau be geuk emongo tsagu udebarri useine*
+- *garbi useine emon bitsagu etzieri, iñor datorrenien asma deidxen*
 
 # USIN BAKO LORIE #
 
