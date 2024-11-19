@@ -249,14 +249,6 @@ Zati-zatika.
 - *zatike potrike zabiltzez atune pixeten, botaixu dana eztakozu or ezer da*
 - *emoteko okiñ dxosten dirue zatike potrike emon dost*
 
-# ZAZKELA #
-
-Pertsona zikina.
-
-- *zazkela zer zara ba, sundie Mañutik pe asma!*
-- *zazkela matxue bera, beti erropa bardiñekaz*
-- *arek zazkelak atzazalak beti kakagaz beteta!*
-
 # ZAZPI SUETAS #
 
 Beti arazoetan dagoen pertsona.
