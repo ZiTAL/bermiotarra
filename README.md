@@ -54,6 +54,7 @@ Esker berezidxek:
 - Gaizka Beitia Esteban
 - Irati Aurrekoetxea Madariaga
 - Mikel Domínguez Ballesteros
+- Biotz Fradua Agirre
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

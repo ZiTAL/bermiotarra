@@ -163,6 +163,13 @@ Ondoeza.
 - *goixe guztidxen ezer artun barik zelako flakezidxe okiñ dxot ba*
 - *neuk pe, atzo Bilbora dxun nai dxan barik eta bidien flakezidxe okiñ dxot*
 
+# FLEKAK #
+
+Berna argalak.
+
+- *Mikelek flekak tapateko fraka luziek dxantzi bi dauz*
+- *horrekaz flekakaz fubolistie? Ment!*
+
 # FLOTAN #
 
 Azalean egotea.
