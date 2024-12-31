@@ -1005,6 +1005,7 @@ Euri-zaparrada.
 - *ez aitxetu truxurik, ondiño aztu barik dakotez udekuek eta*
 
 Gaztelerazko **chuzos** hitzetik sartutakoa dela dirudi.
+Kepa Diegez-en ustez latineko **trusum** aditzetik etorri daikeela dio,  bultzatu, indar handiz jaurti esanahia baitu.
 
 # TUNBE #
 
