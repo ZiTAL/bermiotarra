@@ -29,7 +29,7 @@ Esker berezidxek:
 - @montantxo / twitter
 - Biotz Fradua Agirre
 - Txus Ordorika Prieto
-- @xo_lomo / instagram
+- @xo_lomo / https://www.instagram.com/xo_lomo
 - Miren Karmele Beitia Esteban
 - Jon Zarate Fradua
 - Igor Etxaburu Bulukua
@@ -44,10 +44,10 @@ Esker berezidxek:
 - Aitor Atutxa Larrinaga
 - Agurne Gaueka
 - Aaron Llorens Allika
-- Iziar / @urriko18 / instagram
+- Iziar / https://www.instagram.com/urriko18
 - Madalen Lopez Gangoiti
 - Eneritz German Zabala
-- Oier Gorosabel Larrañaga @txikillana / mastodon
+- Oier Gorosabel Larrañaga / https://mastodon.eus/@txikillana
 - Aritzatxuko andrak
 - Jon Garcia Uriondo
 - Arantza Arrugaeta Arenaza
@@ -55,7 +55,7 @@ Esker berezidxek:
 - Irati Aurrekoetxea Madariaga
 - Mikel Domínguez Ballesteros
 - Biotz Fradua Agirre
-- Kepa Diegez
+- Kepa Diegez Barahona / https://mastodon.eus/@Bagurrin
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
