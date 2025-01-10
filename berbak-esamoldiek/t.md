@@ -435,6 +435,13 @@ Kioskoa.
 
 Gaztelerazko **quiosco** edo **kiospio** hitza da horren etimologia.
 
+# TILIN TALAN #
+
+Zabua. **Columpio**.
+
+- *erdu imiekaz Lamerako tilin talanera*
+- *Almiken be imientzako tilin talan daku*
+
 # TINDI #
 
 Apur bat.

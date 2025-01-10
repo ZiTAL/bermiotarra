@@ -57,6 +57,8 @@ Esker berezidxek:
 - Biotz Fradua Agirre
 - Kepa Diegez Barahona / https://mastodon.eus/@Bagurrin
 - Matxalen Arrien San Nicolas
+- Maite Bilbao Barturen
+- Erik Basañez Urbina
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

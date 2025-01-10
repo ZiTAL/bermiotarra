@@ -687,7 +687,7 @@ Azkar.
 Zabua. **Columpio**.
 
 - *imie dxinbuetik jeusi de eta turtuluek urten tso*
-- *neure imiek lameran dxinbuen bakarrik gu dau monta*
+- *neure imiek Lameran dxinbuen bakarrik gu dau monta*
 
 # DXIPETOI / IE #
 
