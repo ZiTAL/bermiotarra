@@ -56,6 +56,7 @@ Esker berezidxek:
 - Mikel Domínguez Ballesteros
 - Biotz Fradua Agirre
 - Kepa Diegez Barahona / https://mastodon.eus/@Bagurrin
+- Matxalen Arrien San Nicolas
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 

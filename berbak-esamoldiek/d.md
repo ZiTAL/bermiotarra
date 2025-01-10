@@ -682,6 +682,13 @@ Azkar.
 - *bai, zetako zu an on da ba, dxik eta dxak ein gauzek eta etzera*
 - *azpildxurek aulan eitxen diez, artun orrotza da dxik eta dxak*
 
+# DXINBO / UE
+
+Zabua. **Columpio**.
+
+- *imie dxinbuetik jeusi de eta turtuluek urten tso*
+- *neure imiek lameran dxinbuen bakarrik gu dau monta*
+
 # DXIPETOI / IE #
 
 Jaka luzea. Zentzu peioratiboan erabiltzen da.
