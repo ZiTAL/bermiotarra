@@ -682,7 +682,7 @@ Azkar.
 - *bai, zetako zu an on da ba, dxik eta dxak ein gauzek eta etzera*
 - *azpildxurek aulan eitxen diez, artun orrotza da dxik eta dxak*
 
-# DXINBO / UE
+# DXINBO / UE #
 
 Zabua. **Columpio**.
 
