@@ -882,6 +882,14 @@ Taloa egiteko egiten den masa borobila.
 - *morokilek ekau taluek eingotez eta*
 - *arto-urune ta uregaz morokilek preparata dauz taluek eitxeko*
 
+# MOSTRO / UE #
+
+Munstroa.
+
+- *pelikuleko mostruek ikarie emon dost*
+- *motza zer da ba, ata kontu mostrue dala*
+- *arpidxe opera ta ondiño mostruen antza dako*
+
 # MOSUE OKERTU #
 
 Goseak ezpainak okertu.
