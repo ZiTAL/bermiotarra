@@ -8,9 +8,9 @@ import json
 import random
 import tempfile
 
-from glob import glob
-from hashlib import md5
-from PIL	  import Image, ImageFont, ImageDraw
+from glob     import glob
+from hashlib  import md5
+from PIL	     import Image, ImageFont, ImageDraw
 from mastodon import Mastodon
 from time     import sleep
 
@@ -123,11 +123,11 @@ for i in files:
 
    img.save(i, "PNG")
 
-txt = "Egunien berba edo esamolde bat, gaurkuen: '"+element['title']+"'\n#bermiotarra #zitalbot\nhttps://bermiotarra.zital.eus"
+txt = f"Egunien berba edo esamolde bat, gaurkuen: {element['title']}\n\nhttps://bermiotarra.zital.eus\n\n#bermiotarra #zitalbot"
 
 #mastodon
 
-with open(sys.path[0]+"/mastodon.json", 'r') as f:
+with open(f"{sys.path[0]}/mastodon.json", 'r') as f:
    mastodon_config = json.load(f)
 
 mastodon = Mastodon(
