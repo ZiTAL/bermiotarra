@@ -425,7 +425,7 @@ Tiradera.
 
 Gaztelerazko **tirador** = **asidero para cerrar y abrir** hitza, kaxa adierazteko zabaldu da.
 
-# TIESKUE #
+# TIESKUE / TIOSKUE #
 
 Kioskoa.
 

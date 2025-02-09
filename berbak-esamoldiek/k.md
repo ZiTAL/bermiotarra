@@ -1038,6 +1038,13 @@ Herren.
 
 - *Andres koixoka ibildxe, seguru Aritzatxun jeusi eindxela!*
 
+# KOIXO KOIXO PLA #
+
+Klarionarekin lurrean zenbakiak marraztuz saltoka ibiltzeko jolasa.
+
+- *koixo koixo plara ibil gara eskolan olgeten*
+- *koiko koixo plaka bidxurtu dot orkatile*
+
 # KOIXO KOIXOKA #
 
 Herrenka.

@@ -758,10 +758,10 @@ Lehenengo kontsonantea eta bokalea tokiz aldatuz gero, eta azken dardarkaria ero
 
 Abar. Edozein motatako abarrak.
 
-- *erranoan ganien on da dxesarritxe ta bertatik bera dxeusi de*
-- *pasakeran errarma batek dxo nau begidxen da gorritxute dakot*
+- *erraman ganien on da dxesarritxe ta bertatik bera dxeusi de*
+- *pasakeran errama batek dxo nau begidxen da gorritxute dakot*
 - *orrek arboliek errama asko dako*
-- *neguen arbolai erramak kentzien dxakoie*
+- *neguen arbolari erramak kentzien dxakoie*
 
 Erdarako **rama** hitzari **e** proteiko bat erantsi zaio.
 

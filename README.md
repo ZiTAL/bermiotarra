@@ -59,6 +59,7 @@ Esker berezidxek:
 - Matxalen Arrien San Nicolas
 - Maite Bilbao Barturen
 - Erik Basañez Urbina
+- Iker Garai Fernandez
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
