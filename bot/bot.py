@@ -78,14 +78,9 @@ md = """
 ---
 documentclass: extarticle
 fontsize: 20pt
+header-includes:
+  - \pagestyle{empty}
 ---
-"""
-
-# orridxen zenbakidxe kendu
-"""
-
-\pagenumbering{gobble}
-
 """
 
 md = md +"## "+element['title']+" ##\n"+element['desc']
@@ -153,3 +148,4 @@ with open(words_cache_file, 'w') as outfile:
     json.dump(words_cached, outfile)
 
 sys.exit()
+
