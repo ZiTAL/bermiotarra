@@ -1608,6 +1608,13 @@ Atzamar txikiaren neurrira iristen ez den antxoatxoa da. Oso preziatua, modu ask
 - *erri barruen eztakidxe zer dan txintxiñie*
 - *Bilboko lagun batzui esan tsatie txiñtxiñek dxaten etorteko*
 
+# TXINTXOLA GALDUTE #
+
+Zoratu, zentzu figuratiboan.
+
+- *isilik on hadi, txintxola galdukot ostantxien eta!*
+- *honegaz ime txirridxegaz txintxola galdukot!*
+
 # TXIPERRA #
 
 Mangera.

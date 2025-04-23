@@ -60,6 +60,7 @@ Esker berezidxek:
 - Maite Bilbao Barturen
 - Erik Basañez Urbina
 - Iker Garai Fernandez
+- Iñaki Bilbao Ibañez
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 
