@@ -35,6 +35,7 @@ server {
 ```
 su
 apt-get install pandoc texlive-latex-recommended calibre
+pip install --no-binary lxml lxml --break-system-packages
 exit
 ```
 
