@@ -62,14 +62,6 @@ Hitz hau gaztelerazko **alameda** tik sartu da.
 
 **alameda** → **lameda** → **lamera**.
 
-# LAMEÑEN GOZUE #
-
-Mihi gozokoa, engainagarria.
-
-- *zelako lamiñen gozue da ba, edonor engaiñeten dau beran miñegaz*
-- *ba lamiñen gozue badan be, ni enau engaileko*
-- *beran lamiñen gozuegaz diro guztidxek enbarka ein txuz arek*
-
 # LAMINTXUE #
 
 *Lamia* ren. Beharbada tonua apur bat leuntzeko egina.
@@ -95,6 +87,14 @@ Pertsona berbaduna.
 - *auntxe be an dau a, lamiñen bizarra, artazidxe zorroztuten*
 - *bai, lamiñen bizar utze dozu, kantsa be ezta eitxen berbetan*
 - *zelako lamiñen bizarra zara ba, ia miñe noix ebaitxen tzuen isillik oteko*
+
+# LAMIÑEN GOZUE #
+
+Mihi gozokoa, engainagarria.
+
+- *zelako lamiñen gozue da ba, edonor engaiñeten dau beran miñegaz*
+- *ba lamiñen gozue badan be, ni enau engaileko*
+- *beran lamiñen gozuegaz diro guztidxek enbarka ein txuz arek*
 
 # LANBASA LAKUE #
 
