@@ -64,7 +64,7 @@ Hitz hau gaztelerazko **alameda** tik sartu da.
 
 # LAMINTXUE #
 
-*Lamia* ren. Beharbada tonua apur bat leuntzeko egina.
+*Lamia* bezala, hau da, berba asko egiten duena. Baina, tonua apur bat leuntzeko egina.
 
 - *lamintxue dozu ta danak engañeten txua beran miñegaz*
 - *lamintxue bada, nigaz eztako zeregiñik*

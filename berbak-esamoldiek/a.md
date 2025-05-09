@@ -1860,7 +1860,7 @@ Inork ezer emango duen esperantzarik ez edukitzea.
 
 # ARENA #
 
-Etxeko zorua eta eskailerak garbitu. Lehen harea erabiltzen zen horiek garbitzeko. Hala ere, eta gaur egun harearik erabili ez arren, adinekoen artean berdin esaten da, batez ere eskailerari dagokionean.
+Etxeko zorua eta eskailerak garbitu. Lehen harea erabiltzen zen horiek garbitzeko. Hala ere, eta gaur egun harearik erabili ez arren, adinekoen artean berdin esaten da, batez ere eskailerari dagokionean. Bere garaian, arrantzaleek harea erabiltzen zuten ontzigaina garbitzeko. Itsasoko terminoa herrira pasatu da.
 
 - *interiñiek esan dost ezin dxauela eskillarie arena*
 - *berandu etorko nai eskatza dakot arenateko ta*
