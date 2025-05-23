@@ -112,6 +112,7 @@ export class Search
     let params:Interfaces.Object    = Constants
     params.LINK_HOME                = Constants.PUBLIC_ROOT+Constants.RELATIVE_ROOT    
     params.TITLE                    = `${params.SEARCH_CAPTION} ${q}`
+    params.q                        = q
 
     html                            = View.load('./templates/header.jst', params)+
                                       View.load('./templates/search.jst', params)+
