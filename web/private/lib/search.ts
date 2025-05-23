@@ -39,8 +39,6 @@ export class Search
 
     if(typeof self.params.q !== 'undefined')
     {
-      html                            = 'Eztu topa ezer :('
-
       const dir:string                = __dirname+"/../../../public/berbak-esamoldiek/"
       const files:string[]            = fs.readdirSync(dir)  
       let founds:Interfaces.Object[]  = []
@@ -65,7 +63,10 @@ export class Search
             founds.push(w)
         })
       })
-      html = self.wordsToHtml(founds)
+      if(founds)
+        html = self.wordsToHtml(founds)
+      else
+        html = '<h2>Eztu topa ezer!</h2>'
     }
     return html
   }
