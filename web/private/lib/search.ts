@@ -63,7 +63,7 @@ export class Search
             founds.push(w)
         })
       })
-      if(founds)
+      if(founds.length>0)
         html = self.wordsToHtml(founds)
       else
         html = '<h2>Eztu topa ezer!</h2>'
@@ -114,7 +114,7 @@ export class Search
     params.TITLE                    = `${params.SEARCH_CAPTION} ${q}`
 
     html                            = View.load('./templates/header.jst', params)+
-                                      View.load('./templates/search.jst')+
+                                      View.load('./templates/search.jst', params)+
                                       html+
                                       View.load('./templates/footer.jst', Constants)
 
