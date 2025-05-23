@@ -39,6 +39,8 @@ export class Search
 
     if(typeof self.params.q !== 'undefined')
     {
+      html                            = 'Eztu topa ezer :('
+
       const dir:string                = __dirname+"/../../../public/berbak-esamoldiek/"
       const files:string[]            = fs.readdirSync(dir)  
       let founds:Interfaces.Object[]  = []
@@ -64,7 +66,7 @@ export class Search
         })
       })
       html = self.wordsToHtml(founds)
-    }    
+    }
     return html
   }
 
@@ -111,6 +113,7 @@ export class Search
     params.TITLE                    = `${params.SEARCH_CAPTION} ${q}`
 
     html                            = View.load('./templates/header.jst', params)+
+                                      View.load('./templates/search.jst')+
                                       html+
                                       View.load('./templates/footer.jst', Constants)
 
