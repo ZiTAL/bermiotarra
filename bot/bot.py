@@ -39,7 +39,7 @@ for file in files:
    with open(file, 'r') as f:
       for line in f:
          # berbie edo esamoldie topa
-         resource = re.search("^#\s([^#]+)\s#", line)
+         resource = re.search(r"^#\s([^#]+)\s#", line)
          if resource != None:
             tmp = resource.group(1).encode('utf-8')
             if b:
@@ -74,7 +74,7 @@ if(local_time=="2019-04-26"):
 # markdown sortu
 
 # fuentien tamañue
-md = """
+md = r"""
 ---
 documentclass: extarticle
 fontsize: 20pt
@@ -96,7 +96,7 @@ os.system("pandoc "+path+" -f markdown -t latex -o "+path+".pdf")
 
 # pdf-tik png-ra
 #os.system("convert "+path+".pdf -background white -alpha remove -colorspace RGB "+path+".png")
-os.system("convert "+path+".pdf -background white -alpha remove "+path+".png")
+os.system("magick "+path+".pdf -background white -alpha remove "+path+".png")
 
 os.remove(path)
 os.remove(path+".pdf")
