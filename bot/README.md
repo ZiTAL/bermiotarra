@@ -20,3 +20,12 @@ pip3 install -U wheel Mastodon.py Pillow
 ```
 https://mastodon.eus/home -> Hobespenak -> Garapena -> Aplikazio Berria -> Zure sarbide token-a
 ```
+
+# DOCKER / PODMAN #
+
+https://github.com/ZiTAL/containers/tree/main/bermiotarra
+
+**crontab**:
+```
+0 11 * * 1-5 /usr/bin/bash /home/projects/bermiotarra/bot/bot.sh
+```

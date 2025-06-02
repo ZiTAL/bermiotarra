@@ -87,3 +87,8 @@ pm2 start
 # UPDATE & DEPLOY #
 ```
 bash deploy.sh
+
+# DOCKER / PODMAN #
+
+https://github.com/ZiTAL/containers/tree/main/bermiotarra
+
