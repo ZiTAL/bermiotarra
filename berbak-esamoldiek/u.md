@@ -53,7 +53,13 @@ Zikinkeria. Lohia.
 
 # UKUNDO / UE #
 
-Ukalondoa.
+1. Ukalondoa.
+
+- *atien kontra jo dot eta ukunduen dakot miñ*
+- *pellikan on diez eta ukunduegaz emontso azkaningoko zartazue*
+- *pandemidxen ukunduegaz kasu eitxen ibil garizen*
+
+2. Babeslea.
 
 - *ukundo andiko gixonakaz dako amistadie, da bidxar edo etzi, biar badau be, an dako*
 - *mutil koitxaue Persikora dxun biar dau, ukundorik eztauie okiñ dxe*
