@@ -216,7 +216,6 @@ export class Build
         command     = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf`
         execSync(command)
 
-//      command     = `ebook-convert ../public/resources/bermiotarra.pdf ../public/resources/bermiotarra.epub`
         command     = `pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub`
         execSync(command)
 
