@@ -789,6 +789,14 @@ Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan a
 
 Azkuek ez du jaso, baina D.A.R,k Juan San Martinen **Zirikadak** liburutik jaso du. Bermeon asko erabiltzen den hitza da.
 
+# MENT #
+
+Bai zera!
+
+- *ateletik kopie irebazko dauela ment!*
+- *San Juanak ospatuten Mundekara ment!*
+- *dauen egualdidxegaz piztiñera ment!*
+
 # MEZA BIARREKUE #
 
 Senitarteko bat, nahiz eta urrunekoa izan, lagun bat edo auzoko bat hiltzen denean erabiltzen da esaldi hori. Duela urte batzuk, aipatutako baten bat hiltzen zenean, meza bat agintzen zen elizan hildakoaren oroimenez. Horregatik, meza beharrekoa hil dela esaten zen. Gaur ere erabilizen da esaldi hori, nahiz eta meza ateratzeko ohitura galduta egon.
