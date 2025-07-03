@@ -481,7 +481,7 @@ Tentela, zentzu peioratiboan ia beti.
 - *zelako maritentela da ba, arruen pasiñuek eitxen dotsona da*
 - *maritentel eta ganorabakoa, besterik ez esatearren*
 
-# MARITXONA #
+# MARINTXONA #
 
 Modan dagoena baino arropa luzeagoak eramaten dituena. Modara janzten ez dena. Lehen baserritik etorritakoei esaten zitzaien.
 
