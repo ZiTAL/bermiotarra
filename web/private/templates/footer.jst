@@ -1,8 +1,26 @@
     </div>
   <div id="footer">
-    <a href="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}resources/bermiotarra.pdf" onclick="window.open(this.href); return false;"><img src="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/pdf.jpg" title="pdf" alt="pdf" width="100" height="127" /></a>
-    <a href="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}resources/bermiotarra.epub" onclick="window.open(this.href); return false;"><img src="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/epub.jpg" title="epub" alt="epub" width="100" height="104" /></a>
-    <a href="http://github.com/zital/bermiotarra" onclick="window.open(this.href); return false;"><img src="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/github.jpg" title="github" alt="github" width="100" height="100" /></a>
+    <a href="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}resources/bermiotarra.pdf" target="_blank">
+      <picture>
+        <source srcset="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/pdf.avif" type="image/avif">
+        <source srcset="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/pdf.webp" type="image/webp">
+        <img src="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/pdf.jpg" title="pdf" alt="pdf" width="100" height="127">
+      </picture>
+    </a>
+    <a href="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}resources/bermiotarra.epub" target="_blank">
+      <picture>
+        <source srcset="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/epub.avif" type="image/avif">
+        <source srcset="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/epub.webp" type="image/webp">
+        <img src="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/epub.jpg" title="epub" alt="epub" width="100" height="104" />
+      </picture>
+    </a>
+    <a href="http://github.com/zital/bermiotarra" target="_blank">
+      <picture>
+        <source srcset="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/github.avif" type="image/avif">
+        <source srcset="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/github.webp" type="image/webp">
+        <img src="${__params.PUBLIC_ROOT+__params.RELATIVE_ROOT}/resources/img/github.jpg" title="github" alt="github" width="100" height="100" />
+      </picture>
+    </a>
   </div>
   </body>
 </html>
