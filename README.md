@@ -63,6 +63,7 @@ Esker berezidxek:
 - Iñaki Bilbao Ibañez
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
+- Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)
 
 iban
 
