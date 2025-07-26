@@ -61,6 +61,7 @@ Esker berezidxek:
 - Erik Basañez Urbina
 - Iker Garai Fernandez
 - Iñaki Bilbao Ibañez
+- Aitor Gondra
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 - Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)
