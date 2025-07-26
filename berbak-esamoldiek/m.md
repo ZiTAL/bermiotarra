@@ -87,6 +87,7 @@ Arin. Azkar.
  - *Madalen egunien makuez gitxi Elantxoben*
 
  Madalenatako Izaron irlaren lehia dela eta, mundakarrek galdu ostean **mal juez** deitu zioten Elantxobeko epailerari.
+ Gaztelerako **mal juez** → **makuez**.
 
 # MALBAKUE #
 
