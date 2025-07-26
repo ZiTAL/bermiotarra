@@ -77,7 +77,7 @@ Arin. Azkar.
 
 - *entera danien, berak ikusi gure dauen pelikulie dauzela Bilbon emoten, makiñe guztidxen dxun da*
 - *nora dator korridxen ba, makiñe guztidxen dator da*
- *amen guez gu makiñe guztidxen Talara, an zer dauen ikusten*
+- *amen guez gu makiñe guztidxen Talara, an zer dauen ikusten*
 
  # MAKUEZ #
 
