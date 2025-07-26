@@ -79,7 +79,7 @@ Arin. Azkar.
 - *nora dator korridxen ba, makiñe guztidxen dator da*
 - *amen guez gu makiñe guztidxen Talara, an zer dauen ikusten*
 
- # MAKUEZ #
+# MAKUEZ #
 
  Elantxobetarrei deitzen zaie.
 
