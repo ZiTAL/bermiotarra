@@ -81,7 +81,7 @@ Arin. Azkar.
 
 # MAKUEZ #
 
- Elantxobetarrei deitzen zaie.
+ Mundakan Elantxobetarrei horrela deitzen zaie.
 
  - *hori morroie makueza da, Elantxoben jaidxo zan*
  - *Madalen egunien makuez gitxi Elantxoben*
