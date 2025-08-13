@@ -238,7 +238,7 @@ Bi zentzutan ager daiteke:
 
 - *zelako afroie da ba, pelikuletako gixonak lakue da*
 
-Hitz berria dugu. berrogehi une inguru izango du, arrantzaleak Afrikara joaten hasi zirenekoa dela eta **afro** hitzetik hanutakoa dela dirudi.
+Hitz berria dugu. berrogei une inguru izango du, arrantzaleak Afrikara joaten hasi zirenekoa dela eta **afro** hitzetik hanutakoa dela dirudi.
 
 # AFRONTOSUE #
 
