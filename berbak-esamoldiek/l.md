@@ -399,6 +399,14 @@ Gatzgabe.
 - *hau zer da ba, agurentzako jatekue, hau jatekue like dau*
 - *like dau jatekue, bota zazu gatza ela?*
 
+# LISTO GERO #
+
+Besteei prest egoteko esateko deialdia.
+
+- *laster dator Xixili, listo gero!*
+- *han dator olatue, listo gero!*
+- *listo gero epailien banderiri!*
+
 # LIXIE LEZ AZALA KENDU #
 
 Gehienetan andrazkoen artean erabilitako esaldia da. Haserretzen direnean egindako mehatxua da.
