@@ -187,7 +187,7 @@ Gaztelerazko **flotando** gerundioa hartu da esanahi hori erabiltzeko; literalki
 
 Auto zaharra, trauskila. Batez ere karrozeria zaharra daukana.
 
-**FORD** kotxe marka hartu zen aspaldi, esanahi hori emateko. Zentzu peioratiboan erabilia izan da beti.
+**Ford** kotxe marka hartu zen aspaldi, esanahi hori emateko. Zentzu peioratiboan erabilia izan da beti.
 
 - *nora due beran kotxe forragaz ba, ezta aillegako ta*
 - *ezkoganien erosiko kotxe for bategaz dxun diez Madrillera*
