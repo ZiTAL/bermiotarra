@@ -1091,6 +1091,14 @@ Iskanbila. Haserrekuntza.
 - *neure lagunen koñatuek eta be, eskandalo gorridxek okiñ dxauie*
 - *arek eskandalo gorridxe arma dau tallerrien be ordu geidxau sartzieko biarrien*
 
+# ESKERREK ASKO #
+
+Eskerrik asko.
+
+- *oparidxek pillue gusta dast, eskerrek asko!*
+- *eskerrek asko zoridxondutiarreitxik!*
+- *neuretzako da? Eskerrek asko!*
+
 # ESKO ARRAIÑE #
 
 Eskumuturra indargetua, ahul edo mingor dagoenean.

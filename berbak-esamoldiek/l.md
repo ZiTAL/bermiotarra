@@ -170,6 +170,13 @@ Noizbehinka.
 
 **lantzean bein** + **etan** → **lantzien beinetan** → **lantzimeñetan**.
 
+# LAPA ZORRIDXE #
+
+Ur ertzean harkaitzetan dauden lapa txikiei esaten zaie.
+
+- *lapa zorridxetatik bazuzen ezara labanduko*
+- *lapa zorridxetatik juen, ondiño enbarkaderuen eztu pasa bruse eta*
+
 # LAPIKO TXIKIDXE #
 
 Albiste, gertakizun bat edo sekretu bat gordetzen ez dakien pensona.
