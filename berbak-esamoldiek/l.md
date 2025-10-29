@@ -488,6 +488,13 @@ Etxabea. Itsasontzien tresneria guztia gordetzen den lekua.
 
 Azkuek Mundakarako jartzen du hitz hau, baina Bermeon oso normala da hitz hori.
 
+# LOIDXEKO GILTZE #
+
+Zakila.
+
+- *Mosuek bai, baie hori loidxeko giltze... asau gudot!*
+- *lar arrime zara, loidxeko giltze be igarri tsut txo!*
+
 # LOIORRA #
 
 Arin edo berez zikintzen dena.
