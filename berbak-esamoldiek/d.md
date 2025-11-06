@@ -41,7 +41,7 @@ Dena baino gehiago gura duena.
 
 # DANA, DANA DALAKUE #
 
-Denetaz.
+Denetarik.
 
 - *añe on naien lekuen dana, dana dalakue oten ezan da, dxatekue zein edaridxek*
 - *geure etzien be dana, dana dalakue oten da, an bakarrik ez*
