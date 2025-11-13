@@ -180,6 +180,12 @@ Andrazkoaren hilekoak.
 - *illekuekaz be uger eitxen dot nik*
 - *ba illekuekaz bañue artzie ezta ona*
 
+# ILUNTZETARA #
+
+Iruntzietara.
+
+- *hau morroie lo dau, jertsie iluntzetara imiñi dau, eta ezta entera bez*
+
 # IMAJIÑIE #
 
 Emakume oso polita.
@@ -454,12 +460,6 @@ Oso merke.
 - *auna ezpazatoz, iru txikiko fuetie emongo dotsut*
 - *zer diño berak iru txikiko fuetiek ba, lau killo be eztoitxuz piseten da*
 - *iru txikiko fuetiek paiño andana andidxaue erun dau*
-
-# IRUNTZETARA #
-
-Iruntzietara.
-
-- *hau morroie lo dau, jertsie iruntzetara imiñi dau, eta ezta entera bez*
 
 # IRUTXIKIKOA #
 
