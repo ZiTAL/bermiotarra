@@ -112,7 +112,7 @@ Igurtzia.
 
 # IKESKI / DXE / IKESKIÑE #
 
-Ekandu. Ohiturak. Bi formak erabilizen dira.
+Ekandu. Ohiturak. Bi formak erabiltzen dira.
 
 - *ikeskidxek takoz onek imiek*
 - *bai, ikeski txarrak takoz, baie neuk kenduko tzatez*
@@ -705,7 +705,7 @@ Urruneko senideak edo ahaideak. Ia beti zentzu peioratiboan esaten da.
 
 Izterra.
 
-Bermeon ez da espezifikatzen zein alderdi den iztarra, eta berdin da goia, erdia zein behea, hau da, zangoa, oina edo izterra bera. Zentzu berean erabilizen den beste hitz bat: **kadera**.
+Bermeon ez da espezifikatzen zein alderdi den iztarra, eta berdin da goia, erdia zein behea, hau da, zangoa, oina edo izterra bera. Zentzu berean erabiltzen den beste hitz bat: **kadera**.
 
 - *izterreko miñe dakot*
 - *izterra apurtu dau* (zangoa)

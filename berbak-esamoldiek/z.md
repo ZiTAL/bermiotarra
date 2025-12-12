@@ -554,7 +554,7 @@ Umeen zakiltxoa.
 - *ama nik eztot kure bañerara sartun zozoliñue ikusten dxast eta*
 - *ba zozoliñue ez ikusteko fraka ta guzti sartun bañerara*
 
-**Zozo** hitza diminutiboan jarrita erabilizen da.
+**Zozo** hitza diminutiboan jarrita erabiltzen da.
 
 # ZUEZGORA #
 

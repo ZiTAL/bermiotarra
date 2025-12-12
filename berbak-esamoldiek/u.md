@@ -274,7 +274,7 @@ Alua.
 - *zer daku dxateko ba? Zeure usue*
 - *usue errefreskaten guez plaidxera*
 
-Txoriaren izenak beste esanahi bat hartu du, Kintanak **eufemismo utilizado entre muchachos para indicar la vulva** dio. Beraz ez da zehatza, Bermeon edonork erabilizen baitu.
+Txoriaren izenak beste esanahi bat hartu du, Kintanak **eufemismo utilizado entre muchachos para indicar la vulva** dio. Beraz ez da zehatza, Bermeon edonork erabiltzen baitu.
 
 # USO BERO #
 

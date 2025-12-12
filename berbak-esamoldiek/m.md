@@ -809,7 +809,7 @@ Bai zera!
 
 # MEZA BIARREKUE #
 
-Senitarteko bat, nahiz eta urrunekoa izan, lagun bat edo auzoko bat hiltzen denean erabiltzen da esaldi hori. Duela urte batzuk, aipatutako baten bat hiltzen zenean, meza bat agintzen zen elizan hildakoaren oroimenez. Horregatik, meza beharrekoa hil dela esaten zen. Gaur ere erabilizen da esaldi hori, nahiz eta meza ateratzeko ohitura galduta egon.
+Senitarteko bat, nahiz eta urrunekoa izan, lagun bat edo auzoko bat hiltzen denean erabiltzen da esaldi hori. Duela urte batzuk, aipatutako baten bat hiltzen zenean, meza bat agintzen zen elizan hildakoaren oroimenez. Horregatik, meza beharrekoa hil dela esaten zen. Gaur ere erabiltzen da esaldi hori, nahiz eta meza ateratzeko ohitura galduta egon.
 
 - *gure atxitxen lengusue ill dxe, da meza biarrekue dan lez, entierrora dxun biar dot*
 - *geure meza biarrekue be bada, da neuk pe dxun ein biarko dot*

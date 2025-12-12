@@ -278,7 +278,7 @@ Baldresa. Zabarra.
 - *amen dator gure saskeltxue; nondik zatoz imie ba?*
 - *ango etzeko danak tiez saskelak*
 
-Azkuek, Txomin Agirreren zita bat aipatuz azaltzen du hitz hau. P.M.k ez du jaso eta badirudi, ez duela erabilera zabalik. Bermeon, ostera, normalki erabilizen da. Adjektiboaren funtzioa betetzen du.
+Azkuek, Txomin Agirreren zita bat aipatuz azaltzen du hitz hau. P.M.k ez du jaso eta badirudi, ez duela erabilera zabalik. Bermeon, ostera, normalki erabiltzen da. Adjektiboaren funtzioa betetzen du.
 
 # SASKELDU #
 

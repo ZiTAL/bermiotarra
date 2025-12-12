@@ -1737,7 +1737,7 @@ Onomatopeiazko hitz hau, deklinatu eta adberbio forman ere erabiltzen da:
 
 **chis** + **ada** → **txistada**.
 
-Azkuek jaso du forma hau baina badirudi, erabileran ez dela hain arrunta esanahi honetaz, Bermeon normalki erabilizen da.
+Azkuek jaso du forma hau baina badirudi, erabileran ez dela hain arrunta esanahi honetaz, Bermeon normalki erabiltzen da.
 
 Kasu honetan izenaren funtzioa betazen du.
 
