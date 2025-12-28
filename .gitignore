@@ -4,7 +4,6 @@
 .vscode
 
 bot/mastodon.credentials
-bot/twitter.credentials
 bot/bot.cache
 
 web/public/index.html
