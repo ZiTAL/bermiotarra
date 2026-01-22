@@ -1751,12 +1751,18 @@ Azkuek ez du jaso, baina bai D.A.R.k eta Bermeoko beste hitz asko bezala azaltze
 
 # ARA #
 
-Egin berri.  
+1. Egin berri.
+
 Beti erabiltzen da **nondik** zentzuaz.
 
 - *labatik ara ekarri dosku ogidxe*
 - *dendatik ara ekarriko zapatak zarrak tizela diñozu?*
 - *sutetik ara dxan bidiez antxobak prijite*
+
+2. Haserre esaldi bati hasiera emateko.
+
+- *ara! E tsut esango ostabe! Erdu hona!
+- *ara! Isilik ogonm iñuzentekeidxek baino ez dinozuz eta!
 
 # ARAGI BIZIDXEN #
 
