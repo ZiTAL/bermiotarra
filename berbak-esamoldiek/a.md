@@ -1761,8 +1761,8 @@ Beti erabiltzen da **nondik** zentzuaz.
 
 2. Haserre esaldi bati hasiera emateko.
 
-- *ara! E tsut esango ostabe! Erdu hona!
-- *ara! Isilik ogonm iñuzentekeidxek baino ez dinozuz eta!
+- *ara! E tsut esango ostabe! Erdu hona!*
+- *ara! Isilik ogonm iñuzentekeidxek baino ez dinozuz eta!*
 
 # ARAGI BIZIDXEN #
 
