@@ -669,7 +669,7 @@ Hitz honen jatorria **erdi eginean** da. D.A.R.k jaso duena antzekoa da, baina e
 
 1. Zama. Erantzukizuna.
 
-- *ama bakan-ik geratu dxatzo lez, berak artu bi dau. Ezta erlaue makala*
+- *ama bakarrik geratu dxatzo lez, berak artu bi dau. Ezta erlaue makala*
 - *bapor barridxe eitxeko bankuen atara bi dau dirue ta dauzen interesakaz bestelako erlaue*
 - *deklaraziñue eitxen dunien erlaue dxeusko dxasku*
 
