@@ -833,13 +833,14 @@ Adibide batzuk:
 
 # ALAURIDXE #
 
-Alauria.
+Garrasi ozena.
 
 - *goix guztidxen dau alaurike, iñok ezer ein barik*
 - *alaurike etor dxast imie mutil batek dxo dauela ta...*
 - *aren alauridxek, alauridxek ezan diez, zapatak etzatezelako erosi*
 
 Azkuek Arratian eta Orozkon jartzen du, baina Bermeon ere zabal erabiltzen da, beharbada, hemen dena exajeratzeko joera dagoelako, aldarri sinple bat alaurian bihurtzen baita.
+Gaztelerazko **alarido** hitzatik eratorria.
 
 # ALBATAKUE #
 
