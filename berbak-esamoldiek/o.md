@@ -143,7 +143,7 @@ Emakumeen alua definitzeko dauden hitzetariko beste bat.
 
 - *gure amumak oja biko librue ondo tapata okitxen dau, iñok ikusi barik*
 - *geixorik zauz? Oja biko librue ondo dakozu? Bai? Ondo zauz orduen*
-- *enebada! Pantalon barik dau, ikusi dotso oja biko librue!*
+- *enebada! Pantalona barik dau, ikusi tso oja biko librue!*
 - *opera ein biar nauella esan dost medikuek, baie trankill oteko, oja biko libruri etsola ikutuko esan dost*
 
 # OKASINTE #
