@@ -1,6 +1,6 @@
-import * as http   from 'http'
-import { Search }  from './lib/search'
-import { Server }  from './lib/server'
+import * as http   from 'node:http'
+import { Search }  from './lib/search.ts'
+import { Server }  from './lib/server.ts'
 
 http.createServer(function(req:any, res:any):void
 {

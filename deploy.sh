@@ -1,5 +1,5 @@
 #!/bin/bash
-git pull
+#git pull
 cd web/private
 
 if [ "$1" == "build" ]; then
@@ -10,9 +10,9 @@ fi
 
 node dist/build/index.js
 
-pm2 stop bermiotarra
-pm2 start dist/server/index.js --name bermiotarra
-pm2 save
+#pm2 stop bermiotarra
+#pm2 start dist/server/index.js --name bermiotarra
+#pm2 save
 
 cd -
 exit 0

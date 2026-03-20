@@ -213,11 +213,11 @@ export class Build
         let command = `rm -rf ../public/resources/bermiotarra.pdf ../public/resources/bermiotarra.epub`
         execSync(command)
 
-        command     = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf`
-        execSync(command)
+        //command     = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf`
+        //execSync(command)
 
-        command     = `pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub`
-        execSync(command)
+        //command     = `pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub`
+        //execSync(command)
 
         command     = `rm -rf ../public/resources/full.md`
         execSync(command)
