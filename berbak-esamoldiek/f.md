@@ -234,6 +234,14 @@ Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia defini
 
 Hitz hau konposatua da: **fraka** olanezkoak (**lona**). Frakak josi eta gero, linaza olioa ematen zitzaion. Gaur egun plastiko edo tela sintetikoz egindakoak izaten dira, baina izena mantentzen dute.
 
+# FRANCO DE RIA #
+
+Zerbitzu militarrean asteburua libre izateari esaten zitzaion. Herriko hizkeran libre izateari esaten zaio.
+
+- *arrantzale egunien beti franco de ria, lagunekaz andra barik*
+- *gaur ezuez biharrera ela? franco de ria zauz ela?*
+- *franco de rian egon, eta errekaduek ein biher, hau doke!*
+
 # FRANTZUNATZATAKO ARRATOIEK BAINO GEHIDXAU JAKIN #
 
 Asko jakina.
