@@ -298,7 +298,7 @@ Ondo egiten den ustean.
 Jatekoak zaporerik edo behar duena ez daukanean.
 
 - *zetan ongo da gozo eztako onurerik eta, okelie biar dau orrek*
-- *onure barik iñok eztatu gure, baie buzkentza botaten bazazu...*
+- *onure barik iñok eztau gure, baie buzkentza botaten bazazu...*
 - *ur asko ta onure gitxi dako orrek lapikuek*
 
 # OPUAL #
