@@ -64,7 +64,7 @@ export class Search
         })
       })
       if(founds.length>0)
-        html = self.wordsToHtml(founds)
+        html = self.wordsToHtml(founds, decodeURIComponent(self.params.q.replace(/\+/g, ' ')))
       else
         html = '<h2>Eztu topa ezer!</h2>'
     }
@@ -94,14 +94,15 @@ export class Search
     return words
   }
 
-  wordsToHtml(words:Interfaces.Object):string
+  wordsToHtml(words:Interfaces.Object, q:string):string
   {
     let html:string = ''
+    const r = new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')+')', 'gi')
     words.forEach(function(w:HTMLElement[])
     {
       w.forEach(function(p:HTMLElement)
       {
-        html = html + p.outerHTML
+        html = html + p.outerHTML.replace(r, '<mark>$1</mark>')
       })
     })
     return html
