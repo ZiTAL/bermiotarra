@@ -1,5 +1,5 @@
-import * as Interfaces  from './interfaces'
-import * as fs          from 'fs'
+import * as Interfaces  from './interfaces.ts'
+import * as fs          from 'node:fs'
 
 export class Server
 {

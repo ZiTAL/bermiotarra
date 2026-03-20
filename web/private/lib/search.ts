@@ -1,10 +1,14 @@
-import * as Interfaces  from './interfaces'
-import * as fs          from 'fs'
+import * as Interfaces  from './interfaces.ts'
+import * as fs          from 'node:fs'
+import * as path        from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { JSDOM }        from 'jsdom'
-import { Server }       from './server'
-import { View }         from './view'
+import { Server }       from './server.ts'
+import { View }         from './view.ts'
 
-const Constants         = require('./constants')
+import Constants        from './constants.ts'
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 export class Search
 {
@@ -39,7 +43,7 @@ export class Search
 
     if(typeof self.params.q !== 'undefined')
     {
-      const dir:string                = __dirname+"/../../../public/berbak-esamoldiek/"
+      const dir:string                = __dirname+"/../../public/berbak-esamoldiek/"
       const files:string[]            = fs.readdirSync(dir)  
       let founds:Interfaces.Object[]  = []
 
