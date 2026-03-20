@@ -200,6 +200,14 @@ Bultzadaka.
 
 Kasu honetan, **ka** moduzko adberbioa egiteko atzizkia sartu da.
 
+# ZARATIE #
+
+Norbait ez denean oso osoa.
+
+- *horrek morroiek zaratie dako, haurreitxik dau Talako etxien*
+- *jiji jaja baie kontuz horregaz morroiegaz zaratie dako ta*
+- *lehen normala ezaten zan, baie droiega proba zauenik eta gero zaratie dako*
+
 # ZARKILLE #
 
 Nagusien gauzak egin edo esaten duen umea, mutila zein neska.
