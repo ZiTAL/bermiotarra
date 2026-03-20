@@ -208,6 +208,14 @@ Azkuek ez du jaso esanahi honekin; bai, ostera, D.A.R.k, Astarloaren zita bat et
 
 Baita P.M.k ere. Bermeon oso erabilia da.
 
+# BANAKA #
+
+Bokarta handia.
+
+- *amak banakak ekar dauz, baie niri bokar txikitxuek gustaten dastez*
+- *amuma abile da banakak preparaten, total gozo eitxen dauz bokartak*
+- *arrantzaliek pozik dabiltzez, banaka pilue hartun dauie ta*
+
 # BANDULERA / IE #
 
 Beti da femeninoa. *bandolero* hitza andrazkoei aplikatuta agertzen da. Zentzua ere ez da gozoa. Gehienetan etxean gutxi egoten den pertsona izango da.

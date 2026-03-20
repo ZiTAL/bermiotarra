@@ -65,6 +65,7 @@ Esker berezidxek:
 - Juan Antonio Apraiz Zallo (Koyote)
 - Izaskun Elexgarai Gabantxo
 - Iñaki Sasiain Telletxea
+- Iñigo Rubiera Pelissier
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 - Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)
