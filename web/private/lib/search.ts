@@ -27,7 +27,7 @@ export class Search
     let html:string                 = self.getHtml()
 
     if(typeof self.params.q !== 'undefined')
-      self.output(self.res, html, self.params.q)
+      self.output(self.res, html, decodeURIComponent(self.params.q.replace(/\+/g, ' ')))
     else
       Server.write(self.res, 400, 'Bad request!')
   }
@@ -58,7 +58,7 @@ export class Search
           {
             t = t+p.textContent+"\n"
           })
-          const r       = new RegExp(decodeURI(self.params.q), "gi")
+          const r       = new RegExp(decodeURIComponent(self.params.q.replace(/\+/g, ' ')), "gi")
           if(t.match(r))
             founds.push(w)
         })
