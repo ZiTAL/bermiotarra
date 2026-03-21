@@ -2510,7 +2510,7 @@ Hitzaren konposizioa **asa** eta **trongo** hitzez dago osotuta. **trongo** → 
 
 # ASAU #
 
-Urrun.
+Asago. Urrun.
 
 - *asautxuau tire ez zaitxut ikusten ondo ta*
 - *asau dxun barik etzien dakozu olakue*
