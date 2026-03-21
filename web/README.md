@@ -92,3 +92,7 @@ bash deploy.sh
 
 https://github.com/ZiTAL/containers/tree/main/bermiotarra
 
+# HTML SORTU #
+```
+deno --allow-run build.ts
+```

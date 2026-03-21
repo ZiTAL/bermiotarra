@@ -101,12 +101,69 @@ export class Search
   wordsToHtml(words:Interfaces.Object, q:string):string
   {
     let html:string = ''
-    const r = new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')+')', 'gi')
+    const escaped         = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    const r               = new RegExp(escaped, 'gi')
+    const textNodeType    = 3
+    const elementNodeType = 1
+
+    const highlightTextNode = function(doc: Document, textNode: Text):void
+    {
+      const text = textNode.nodeValue || ''
+      r.lastIndex = 0
+      if(!r.test(text))
+      {
+        r.lastIndex = 0
+        return
+      }
+
+      let match:      RegExpExecArray | null
+      let lastIndex = 0
+      const frag    = doc.createDocumentFragment()
+      r.lastIndex   = 0
+
+      while((match = r.exec(text)) !== null)
+      {
+        const before = text.slice(lastIndex, match.index)
+        if(before)
+          frag.appendChild(doc.createTextNode(before))
+
+        const mark       = doc.createElement('mark')
+        mark.textContent = match[0]
+        frag.appendChild(mark)
+
+        lastIndex = r.lastIndex
+      }
+
+      const after = text.slice(lastIndex)
+      if(after)
+        frag.appendChild(doc.createTextNode(after))
+
+      if(textNode.parentNode)
+        textNode.parentNode.replaceChild(frag, textNode)
+
+      r.lastIndex = 0
+    }
+
+    const highlightElement = function(doc: Document, node: Node):void
+    {
+      Array.from(node.childNodes).forEach(function(child)
+      {
+        if(child.nodeType===textNodeType)
+          highlightTextNode(doc, child as Text)
+
+        else if(child.nodeType===elementNodeType)
+          highlightElement(doc, child)
+      })
+    }
+
     words.forEach(function(w:HTMLElement[])
     {
       w.forEach(function(p:HTMLElement)
       {
-        html = html + p.outerHTML.replace(r, '<mark>$1</mark>')
+        const doc: Document = (p.ownerDocument as Document) || new JSDOM('').window.document
+        const el            = p.cloneNode(true) as HTMLElement
+        highlightElement(doc, el)
+        html += el.outerHTML
       })
     })
     return html

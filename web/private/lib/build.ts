@@ -1,10 +1,22 @@
-import * as Interfaces  from './interfaces'
-import * as fs          from 'fs'
-import { View }         from './view'
+import * as Interfaces  from './interfaces.ts'
+import * as fs          from 'node:fs'
+import { View }         from './view.ts'
 import { JSDOM }        from 'jsdom'
+import Constants from './constants.ts'
 
-const { execSync }  = require('child_process')
-const Constants     = require('./constants')
+// Small synchronous command runner using Deno.Command
+const textDecoder = new TextDecoder()
+function execSync(command: string): string
+{
+    const cmd    = new Deno.Command('sh', { args: ['-lc', command] })
+    const output = cmd.outputSync()
+    if(output.code !== 0)
+    {
+        const stderr = textDecoder.decode(output.stderr)
+        throw new Error(`Command failed: ${stderr}`)
+    }
+    return textDecoder.decode(output.stdout)
+}
 
 export class Build
 {

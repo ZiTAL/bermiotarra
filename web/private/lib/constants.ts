@@ -1,6 +1,6 @@
 const Constants =
 {
-    PUBLIC_ROOT:    'https://bermiotarra.zital.eus',
+    PUBLIC_ROOT:    'https://bermiotarra.localhost',
     RELATIVE_ROOT:  '/',
     TITLE:          'Bermiotarra',
     DESCRIPTION:    'Bermioko berba eta esamoldien hiztegi librie',
