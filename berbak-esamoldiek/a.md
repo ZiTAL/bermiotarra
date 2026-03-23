@@ -671,7 +671,7 @@ Aitzakiak dira. Gehienetan pluralean. Baina singularrean ere erabiltzen da, gutx
 - *akulekeidxek takoz orrek, dauen lekotik ez altzateko*
 - *beti ataraten dau arek akulekeidxen bat biarra ez eitxeko*
 
-Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k. Honek Etxeita aipatzen du; Mundakan ere esango zen garai batetan, baina Bermeon, oraindik, bizi-bizirik dago. Agian hitz honen egiazko jatorria -akiakula- hitza izan daiteke, baina Bermeon joera handia dago edozein hitzetatik, batez ere, arrainen izenetatik, beste bat ateratzeko, eta baliteke, -akula- arrainaren izenetik etortzea.
+Azkuek ez du jaso bere hiztegian, baina bai D.A.R.k. Honek Etxeita aipatzen du; Mundakan ere esango zen garai batetan, baina Bermeon, oraindik, bizi-bizirik dago. Agian hitz honen egiazko jatorria **akiakula** hitza izan daiteke, baina Bermeon joera handia dago edozein hitzetatik, batez ere, arrainen izenetatik, beste bat ateratzeko, eta baliteke, **akula** arrainaren izenetik etortzea.
 
 **akula** + **keria** → **akulakeria** → **akulekeidxe**.
 
