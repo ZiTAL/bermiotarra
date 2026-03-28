@@ -30,8 +30,17 @@ full = open('../../README.md', 'r', encoding='utf-8').read() + f'\\pagebreak\n\n
 
 open('../public/resources/full.md', 'w', encoding='utf-8').write(full)
 
-os.remove('../public/resources/bermiotarra.pdf')
-os.remove('../public/resources/bermiotarra.epub')
+pdf_path     = '../public/resources/bermiotarra.pdf'
+epub_path    = '../public/resources/bermiotarra.epub'
+full_md_path = '../public/resources/full.md'
+
+if os.path.exists(pdf_path):
+    os.remove(pdf_path)
+if os.path.exists(epub_path):
+    os.remove(epub_path)
+
 subprocess.run('pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf', shell=True)
 subprocess.run('pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub', shell=True)
-os.remove('../public/resources/full.md')
+
+if os.path.exists(full_md_path):
+    os.remove(full_md_path)
