@@ -361,6 +361,8 @@ Betetuko ez den zerbaiten promesa egiten denean erabilitako esaldia da gehieneta
 - *zeuk eingo zula ezkontzako erropie? Zeu lelau plazako elixera*
 - *orrek patroiek arte bat barridxegaz iñok paiño arrain geidxau atrapako dauela? Bera lelau plazako elixera*
 
+Baliteke jatorria hurrengoa izatea: Talako Andra Mari eliza jausi eta gero, beste eliza biak eliztar guztientzat txikiegiak zirelako, eliza berria eraikitzea adostu zen. Talan zegoenaren lekuan eraikitzea gura zutenen kontra, goiko plazan eraikitzea erabaki zen. Behin obrak hasita,denbora luzez  gelditu behar izan ziren gerra karlista eta bestelako arazoak direla eta. Orduan, herritarrek ez zuten eliza amaituta ikusteko itxaropen handirik izango.
+
 # LENGUNIEN #
 
 Aurreko egun baten.
