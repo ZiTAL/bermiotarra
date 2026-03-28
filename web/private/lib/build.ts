@@ -25,7 +25,7 @@ export class Build
         let self = this
         self.html()
         self.index()
-        self.external()
+//        self.external()
     }
 
     index(): void {
@@ -228,10 +228,10 @@ export class Build
         command     = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf`
         execSync(command)
 
-//        command     = `pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub`
-//        execSync(command)
+        command     = `pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub`
+        execSync(command)
 
-//        command     = `rm -rf ../public/resources/full.md`
-//        execSync(command)
+        command     = `rm -rf ../public/resources/full.md`
+        execSync(command)
     }
 }
