@@ -96,3 +96,9 @@ https://github.com/ZiTAL/containers/tree/main/bermiotarra
 ```
 deno --allow-run build.ts
 ```
+
+# PDF EPUB 
+```
+cd /web/private
+python build.py
+```
