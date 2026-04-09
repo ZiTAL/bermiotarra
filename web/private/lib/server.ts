@@ -29,7 +29,7 @@ export class Server
 
   static write(res:any, code:number, text:string):void
   {
-    res.writeHead(code)
+    res.writeHead(code, {'Content-Type': 'text/html; charset=utf-8'})
     res.end(text)
   }
 
