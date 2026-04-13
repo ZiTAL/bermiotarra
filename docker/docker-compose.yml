@@ -1,0 +1,46 @@
+#version: '3'
+
+services:
+
+  python:
+    build:
+      context: ./python
+    networks:
+      - bermiotarra
+    volumes:
+      - /home/projects/bermiotarra:/app
+
+#  node:
+#    restart: always
+#    build:
+#      context: ./node
+#    networks:
+#      - bermiotarra
+#    volumes:
+#      - /home/projects/bermiotarra:/app
+
+  deno:
+    restart: always
+    build:
+      context: ./deno
+    networks:
+      - bermiotarra
+    volumes:
+      - /home/projects/bermiotarra:/app
+
+  nginx:
+    restart: always
+    build:
+      context: ./nginx
+    networks:
+      - bermiotarra
+    depends_on:
+      - deno
+    volumes:
+      - /home/projects/bermiotarra:/app
+    ports:
+      - "8002:80"
+
+networks:
+  bermiotarra:
+    external: true
