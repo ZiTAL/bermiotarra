@@ -66,7 +66,7 @@ Jenio txarreko pertsona. Aldarte txarrekoa.
 Jenio txarrean umore txarrean.
 
 - *dxun naienien gauzek eruten, taketien dauela esan dost*
-- *takeden dau, gixona edxatzolako etorri*
+- *taketien dau, gixona edxatzolako etorri*
 - *beti dauz arek taketien*
 
 # TALLEPE / TELLAPE #

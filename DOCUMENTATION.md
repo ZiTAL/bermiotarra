@@ -115,6 +115,55 @@ See `bot/README.md` for setup instructions:
 3. Configure Mastodon credentials
 4. Set up cron job for automated posting
 
+## Docker
+
+The project includes Docker configurations for running the web application and related services.
+
+### Prerequisites
+
+- Docker
+- Docker Compose
+
+### Setup
+
+1. Ensure the Docker network exists:
+   ```bash
+   docker network create bermiotarra
+   ```
+
+2. Build and start the containers:
+   ```bash
+   cd docker
+   docker-compose up -d
+   ```
+
+### Services
+
+The `docker-compose.yml` defines the following services:
+
+- **python**: Alpine-based Python 3.12 container with image processing tools (ImageMagick, Ghostscript, Pandoc, TeX Live)
+- **deno**: Alpine-based Deno container running the web server
+- **nginx**: Alpine-based Nginx reverse proxy (port 8002)
+
+### Dockerfiles
+
+| Service | Base Image | Purpose |
+|---------|------------|---------|
+| python | python:3.12.10-alpine3.22 | Image processing, PDF generation |
+| deno | denoland/deno:alpine-2.7.9 | API server (port 8080) |
+| nginx | nginx:stable-alpine3.20 | Reverse proxy (port 80) |
+| node | node:24.1.0-alpine3.21 | (optional) Node.js services |
+
+### Nginx Configuration
+
+The nginx service proxies `/search` requests to the Deno backend:
+
+```
+/search → http://deno:8080/search
+```
+
+Access the application at `http://localhost:8002` after starting the containers.
+
 ## License
 
 This project is licensed under the GPL 3.0 license, as stated in the README.md file.
