@@ -143,7 +143,7 @@ The `docker-compose.yml` defines the following services:
 
 - **python**: Alpine-based Python 3.12 container with image processing tools (ImageMagick, Ghostscript, Pandoc, TeX Live)
 - **deno**: Alpine-based Deno container running the web server
-- **nginx**: Alpine-based Nginx reverse proxy (port 8002)
+- **caddy**: Alpine-based Caddy reverse proxy (port 8002)
 
 ### Dockerfiles
 
@@ -151,12 +151,12 @@ The `docker-compose.yml` defines the following services:
 |---------|------------|---------|
 | python | python:3.12.10-alpine3.22 | Image processing, PDF generation |
 | deno | denoland/deno:alpine-2.7.9 | API server (port 8080) |
-| nginx | nginx:stable-alpine3.20 | Reverse proxy (port 80) |
+| caddy | caddy:2.11.3-alpine | Reverse proxy (port 80) |
 | node | node:24.1.0-alpine3.21 | (optional) Node.js services |
 
-### Nginx Configuration
+### Caddy Configuration
 
-The nginx service proxies `/search` requests to the Deno backend:
+The caddy service proxies `/search` requests to the Deno backend:
 
 ```
 /search → http://deno:8080/search

@@ -1,25 +1,25 @@
-# NGINX
+# CADDY
 
 ```
-apt-get install nginx-full
+apt-get install caddy
 ```
 
-**/etc/nginx/sites-available/bermiotarra.conf**
+**/etc/caddy/Caddyfile**
 ```
-server {
-        server_name     bermiotarra.zital.eus;
-        root            /home/projects/bermiotarra/web/public;
-
-        location /search {
-                proxy_cache      dcache;
-                proxy_pass       http://bermiotarra-search.pi:8080/search;
-                proxy_set_header Host $host;
-                proxy_set_header X-Real-IP $remote_addr;
-                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+bermiotarra.zital.eus, bermiotarra.opi5 {
+        root * /home/projects/bermiotarra/web/public
+        route {
+                handle /search* {
+                        reverse_proxy bermiotarra-search.pi:8080
+                }
+                handle {
+                        file_server
+                }
         }
 
-        error_log  /var/log/nginx/bermiotarra-error.log error;
-        access_log /var/log/nginx/bermiotarra-access.log;
+        log {
+                output file /var/log/caddy/bermiotarra-access.log
+        }
 }
 ```
 

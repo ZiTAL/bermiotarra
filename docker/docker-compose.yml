@@ -28,10 +28,10 @@ services:
     volumes:
       - /home/projects/bermiotarra:/app
 
-  nginx:
+  caddy:
     restart: always
     build:
-      context: ./nginx
+      context: ./caddy
     networks:
       - bermiotarra
     depends_on:
