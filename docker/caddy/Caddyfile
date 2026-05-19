@@ -1,19 +1,2 @@
-{
-	auto_https off
-}
-
-bermiotarra.zital.eus, bermiotarra.opi5 {
-	root * /app/web/public
-	route {
-		handle /search* {
-			reverse_proxy deno:8080
-		}
-		handle {
-			file_server
-		}
-	}
-
-	log {
-		output stdout
-	}
-}
+import conf/*.caddy
+import sites/*.caddy
