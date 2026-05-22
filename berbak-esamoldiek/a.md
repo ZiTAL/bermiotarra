@@ -1242,6 +1242,12 @@ Harridura, oihu edo haserrea adierazten duen lokuzioa dugu.
 - *amen gu! Mobidu be ezin, da denporie aurrera*
 - *ez dauela autobusik? Amen gu! Da orain zer?*
 
+# AMERIKA DAU #
+
+Gauza asko daudela adierazteko.
+
+- *amerika dau*
+
 # AMESA #
 
 Ideia. Burutazioa. Baina **asmoa** bezala ere erabiltzen da.

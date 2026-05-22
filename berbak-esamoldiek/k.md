@@ -1,3 +1,10 @@
+# KABARETA #
+
+Anabasa.
+
+- *kuartue arrantza, berton dauen kabareta ezta normala!*
+- *jakin lei zer pasa dan? Dauen kabareta ezta normala!*
+
 # KABRA GORRIDXE #
 
 Itsas kabra. Konparazioan, kolore gorriagatik.
@@ -878,6 +885,14 @@ Mozkorra gainetik kendu.
 - *etzera dxun orduko ronpiolasera dxungo nai uger, kinpulie ganetik kentziko*
 - *irugarren egunien be kinpulie ganetik kentziko okiñ dxau. da zelakue okin be*
 - *txo, ondiño kinpulie ganetik kendu barik!*
+
+# KINTO ATRAPA #
+
+Zerbait lehen aldiz egiten denean, batez ere nola egin jakin gabe.
+
+- *eskolan digitalizaziñuek kinto atrapa gaitxuz ze gu ez gara abilek teknologidxegaz*
+- *oitxute kanbidxodun martxakaz, kotxe elektrikue erosi ta... martxa automatikuekaz kinto atrapa gaitxuz*
+
 
 # KINTXEL BAT #
 

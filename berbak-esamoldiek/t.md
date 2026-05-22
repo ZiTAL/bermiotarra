@@ -619,11 +619,16 @@ Norbaiti modu maitakorrean deitzeiko balio du.
 
 # TORTOLIE LAKUE #
 
-Pertsona lodikotea, baina andrazkoa.
+1. Pertsona lodikotea, baina andrazkoa.
 
 - *tortolie lakute da berorren andrie, baie beitu berori ze argala dan*
 - *zelako neskatillie ein zara ba, tortolie lakotxue zara gero*
 - *gero ezta eingo tortolie lakue ba, Lameran emon ezkero orduek dxesarritxe*
+
+2. Pertsona lasaia.
+
+- *ez ernega haregaitxik, tortolie lakue da ta*
+- *iñoiz ezta hasarratuten, tortolie lakue da ta*
 
 # TOTAL #
 

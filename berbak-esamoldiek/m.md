@@ -799,6 +799,13 @@ Eta kasu honetan, hitz honek bi funtzio betetzen ditu: Lehenengo bi esaldietan a
 
 Azkuek ez du jaso, baina D.A.R,k Juan San Martinen **Zirikadak** liburutik jaso du. Bermeon asko erabiltzen den hitza da.
 
+# MENDI BEHERA #
+
+Asko.
+
+- *mendi behera zapata dakotez, eztaitx zein jantzi bez!*
+- *mendi behera jente etor da aurtongo Arrain Azokara!*
+
 # MENT #
 
 Bai zera!
