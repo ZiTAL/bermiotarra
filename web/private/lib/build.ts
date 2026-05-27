@@ -44,6 +44,7 @@ export class Build
                     return true
                 return false
             })
+            files.sort()
 
             files.forEach(function(f)
             {
