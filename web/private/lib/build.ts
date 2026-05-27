@@ -52,7 +52,7 @@ export class Build
                 const m: any = filename.match(/([^\/]+)\/([^\/]+)\.html$/i)
                 if (m !== null)
                 {
-                    const d: string = m[1]
+                    const d: string = m[2].toUpperCase()
                     result[d] = result[d] || []
 
                     result[d].push(
