@@ -45,7 +45,7 @@ export class Search
     {
       const dir:string                = __dirname+"/../../public/berbak-esamoldiek/"
       const files:string[]            = fs.readdirSync(dir)  
-      let founds:Interfaces.Object[]  = []
+      let founds:HTMLElement[][]      = []
 
       files.forEach(function(file:string)
       {
@@ -68,7 +68,10 @@ export class Search
         })
       })
       if(founds.length>0)
+      {
+        founds = self.sortWordsAlphabetically(founds)
         html = self.wordsToHtml(founds, decodeURIComponent(self.params.q.replace(/\+/g, ' ')))
+      }
       else
         html = '<h2>Eztu topa ezer!</h2>'
     }
@@ -98,7 +101,34 @@ export class Search
     return words
   }
 
-  wordsToHtml(words:Interfaces.Object, q:string):string
+  getWordTitle(word:HTMLElement[]):string
+  {
+    let self = this
+
+    const heading = word.find(function(node:HTMLElement)
+    {
+      return node.nodeName===self.node_group_break
+    })
+
+    return (heading?.textContent || word[0]?.textContent || '').trim()
+  }
+
+  sortWordsAlphabetically(words:HTMLElement[][]):HTMLElement[][]
+  {
+    let self = this
+    const collator = new Intl.Collator('eu', {
+      sensitivity: 'base',
+      ignorePunctuation: true,
+      numeric: true
+    })
+
+    return words.sort(function(a:HTMLElement[], b:HTMLElement[])
+    {
+      return collator.compare(self.getWordTitle(a), self.getWordTitle(b))
+    })
+  }
+
+  wordsToHtml(words:HTMLElement[][], q:string):string
   {
     let html:string = ''
     const escaped         = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
