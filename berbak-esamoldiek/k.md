@@ -525,6 +525,15 @@ Nekadura. Ahuldura.
 - *kantsaziñue kentzieko bikarbonatue da ona*
 - *kantsaziñue andidxe bakozu oien sartun*
 
+# KANTXIÑUEN IMIÑI #
+
+Xaxatu eta gero gogoekin uztea.
+
+- *Aritzatxure juteko ta azkanien ez guez, kantxiñuen imindxe gero ezebez*
+- *afaidxe jaten guzela ta... akabuen etxien, kantxiñuen imindxe gero, ia markie!*
+
+Gaztelerazko baliokidea **con la miel en los labios** izango litzateke.
+
 # KAPAN #
 
 Denboraleari aurre egiten, geldi itsasoan. Konparazioan herrian denbora txarra dagoenean edo gauzak txarto doazenean.

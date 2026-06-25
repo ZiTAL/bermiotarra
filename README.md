@@ -68,6 +68,7 @@ Esker berezidxek:
 - Iñigo Rubiera Pelissier
 - Marian Bulukua Gartzia
 - Ibon Enbeita Basterretxea
+- Susana Arrieta Calderón
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 - Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)
