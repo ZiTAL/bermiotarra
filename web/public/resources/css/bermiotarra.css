@@ -114,6 +114,15 @@ ul
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+ul > li
+{
+	flex: 0 0 19%;
+	padding: 1.5rem;
+	box-sizing: border-box;
 }
 
 ul li h2
@@ -139,6 +148,7 @@ ul li ul li
 	/*hover-ean dantza egin ez dezaten*/
 	border: 1px solid transparent;
 	box-sizing: border-box;
+	vertical-align: top;
 }
 
 ul li ul li a
