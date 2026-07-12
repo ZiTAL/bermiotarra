@@ -125,6 +125,17 @@ ul > li
 	box-sizing: border-box;
 }
 
+#content > ul:has(> li > em)
+{
+	display: block;
+}
+
+#content > ul:has(> li > em) > li
+{
+	flex: none;
+	padding: 0.25rem 0;
+}
+
 ul li h2
 {
 	display: none;
