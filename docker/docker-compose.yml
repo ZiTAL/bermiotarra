@@ -9,15 +9,7 @@ services:
       - bermiotarra
     volumes:
       - /home/projects/bermiotarra:/app
-
-#  node:
-#    restart: always
-#    build:
-#      context: ./node
-#    networks:
-#      - bermiotarra
-#    volumes:
-#      - /home/projects/bermiotarra:/app
+      - ./logs/python:/app/logs
 
   deno:
     restart: always
@@ -27,6 +19,12 @@ services:
       - bermiotarra
     volumes:
       - /home/projects/bermiotarra:/app
+      - ./logs/deno:/app/logs
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
   caddy:
     restart: always
@@ -38,8 +36,14 @@ services:
       - deno
     volumes:
       - /home/projects/bermiotarra:/app
+      - ./logs/caddy:/var/log/caddy
     ports:
       - "8002:80"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
 
 networks:
   bermiotarra:
