@@ -435,9 +435,17 @@ Etekin gabeko arraina. Itsasoan erabiltzen den berba da.
 - *auntxe be maridxe bako arraiñek dakarrie; kosterie kalai malai*
 - *maridxe bako arraiñekaz partille eskasak*
 
+# MARIDXE BAKO BIHARRAK #
+
+Etekin gabeko gauzak.
+
+- *maridxe bako biharrak eitxen zauz oin be, denporie emon baiño ezu eitxen*
+- *eztakot maridxe bako biharrak ein gurerik*
+- *askotan maridxe bako biharrak pe eiñ ein bi diez*
+
 # MARIDXE BAKO GAUZEK #
 
-Etekin gabeko gauza.
+Etekin gabeko gauzak.
 
 - *maridxe bako gauzek eitxen zauz oin be, denporie emon baiño ezu eitxen*
 - *eztakot maridxe bako gauzek ein gurerik*

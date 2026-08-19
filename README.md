@@ -69,6 +69,7 @@ Esker berezidxek:
 - Marian Bulukua Gartzia
 - Ibon Enbeita Basterretxea
 - Susana Arrieta Calderón
+- Naiara Fernandez Madariaga
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 - Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)
