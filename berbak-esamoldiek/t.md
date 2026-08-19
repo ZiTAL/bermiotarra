@@ -1278,7 +1278,7 @@ Gehiegikerietan sartuta ibiltzea.
 
 # TXARRI MARKAKUE LEZ #
 
-Erpakada, txarramikoz beterik.
+Erpekada, zarramikoz beterik.
 
 - *sasi tartetik dxun nai Burgora da txarri markaue lez geratu nai*
 - *ein tsozen txarrapatadakaz, txarri markauen antzien itxi dau*
