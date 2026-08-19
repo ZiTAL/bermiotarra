@@ -121,6 +121,13 @@ Oso garbi. Oso fresko (arraina)
 - *nok esan dau arraiñe zarra dala, beronen begidxeri beitutie baiño eztau, oillarran begidxe lez dako ta*
 - *oillarran begidxe baiño garbidxau itxi dotez karrajue ta kuartuek*
 
+# OILUE #
+
+Oiloari eta oilaskoari, bieri esaten zaio.
+
+- *oilue eingozule laban? Patatatxu batzukaz elegante!*
+- *lukidxek geratzien zan dasten oilo bakarra erun dost!*
+
 # OINGUTAN #
 
 Oraingoan.

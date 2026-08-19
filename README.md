@@ -70,6 +70,7 @@ Esker berezidxek:
 - Ibon Enbeita Basterretxea
 - Susana Arrieta Calderón
 - Naiara Fernandez Madariaga
+- Gotzon Garitaonaindiako Pili eta Karmele
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 - Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)
