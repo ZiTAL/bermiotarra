@@ -1246,7 +1246,8 @@ Harridura, oihu edo haserrea adierazten duen lokuzioa dugu.
 
 Gauza asko daudela adierazteko.
 
-- *amerika dau*
+- *azokan eztauela ezer da... amerika dau!*
+- *ezer topatko eztotelakuen da... amerika dau!*
 
 # AMESA #
 
