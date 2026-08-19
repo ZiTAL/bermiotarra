@@ -475,6 +475,13 @@ Besterik gabe. Ezer barik.
 - *etzetik urten dauenien soiñien soiñekuekaz urten zauen, da bueltan aberastute etor da*
 - *soiñien soiñekuekaz bota dau etzetik kanpora*
 
+# SOKAIRE #
+
+Haizetik babestutako leku bat.
+
+- *Aritzatxun kazulen oten gara sokairien*
+- *Izaron aurrien on garan sokairien trankil-trankil*
+
 # SOLDU #
 
 Oztopatuta dagoen zerbait libratu.
