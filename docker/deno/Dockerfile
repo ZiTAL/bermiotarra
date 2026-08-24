@@ -1,6 +1,6 @@
 FROM docker.io/denoland/deno:alpine-2.7.9
 
-RUN apk add --no-cache pandoc
+RUN apk add --no-cache pandoc texlive texlive-latexextra 
 
 WORKDIR /app/web/private
 
