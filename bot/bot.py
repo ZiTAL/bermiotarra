@@ -7,12 +7,16 @@ import re
 import json
 import random
 import tempfile
+import shutil
 
 from glob     import glob
 from hashlib  import md5
 from PIL	     import Image, ImageFont, ImageDraw
-from mastodon import Mastodon
 from time     import sleep
+
+# Use --local-only to render a preview without posting it or updating the cache.
+local_only = '--local-only' in sys.argv
+preview_file = sys.path[0]+"/preview.png"
 
 # fitxero danak hartun #
 
@@ -77,7 +81,7 @@ if(local_time=="2019-04-26"):
 md = r"""
 ---
 documentclass: extarticle
-fontsize: 20pt
+fontsize: 40pt
 header-includes:
   - \pagestyle{empty}
 ---
@@ -92,21 +96,44 @@ with os.fdopen(fd, 'w') as tmp:
 
 # pdf-ra pasa
 #os.system("pandoc "+path+" -f markdown -t latex --pdf-engine=xelatex -o "+path+".pdf")
-os.system("pandoc "+path+" -f markdown -t latex -o "+path+".pdf")
+latex_engine = next((engine for engine in ('xelatex', 'lualatex', 'pdflatex') if shutil.which(engine)), None)
+if latex_engine:
+   result = os.system("pandoc "+path+" -f markdown -t latex --pdf-engine="+latex_engine+" -o "+path+".pdf")
+elif local_only and shutil.which('weasyprint'):
+   result = os.system("pandoc "+path+" -f markdown -t html -o "+path+".html")
+   if result == 0:
+      with open(path+".html", 'r') as html:
+         content = html.read()
+      with open(path+".html", 'w') as html:
+         html.write("""<!doctype html>
+<html><head><style>
+@page { size: 1080px 1500px; margin: 80px; }
+body { font-size: 40pt; line-height: 1.25; }
+h2 { font-size: 60pt; margin: 0 0 0.5em; }
+</style></head><body>"""+content+"</body></html>")
+      result = os.system("weasyprint "+path+".html "+path+".pdf")
+else:
+   sys.exit("No PDF renderer found. Install a LaTeX engine or use weasyprint for --local-only.")
+
+if result != 0:
+   sys.exit("Could not create the PDF.")
 
 # pdf-tik png-ra
 #os.system("convert "+path+".pdf -background white -alpha remove -colorspace RGB "+path+".png")
-os.system("magick "+path+".pdf -background white -alpha remove "+path+".png")
+if os.system("magick "+path+".pdf -background white -alpha remove "+path+".png") != 0:
+   sys.exit("Could not convert the PDF to PNG.")
 
 os.remove(path)
 os.remove(path+".pdf")
+if os.path.exists(path+".html"):
+   os.remove(path+".html")
 
 # png fitxeruek hartun
 
 files = glob(path+"*.png")
 files.sort()
 
-font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 20)
+font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 48)
 
 for i in files:
    img = Image.open(i)
@@ -114,13 +141,24 @@ for i in files:
 
    d = ImageDraw.Draw(img)
 
-   d.text((344, 750), "https://bermiotarra.zital.eus", font = font, fill=(0, 0, 0, 255))
+   d.text((img.width - 30, img.height - 30), "https://bermiotarra.zital.eus", font = font, fill=(0, 0, 0, 255), anchor='rs')
 
    img.save(i, "PNG")
 
 txt = f"Egunien berba edo esamolde bat, gaurkuen: {element['title']}\n\nhttps://bermiotarra.zital.eus\n\n#bermiotarra #zitalbot"
 
+if local_only:
+   if os.path.exists(preview_file):
+      sys.exit("Preview already exists: "+preview_file)
+   shutil.move(files[0], preview_file)
+   for i in files[1:]:
+      os.remove(i)
+   print("Preview saved to "+preview_file)
+   sys.exit()
+
 #mastodon
+
+from mastodon import Mastodon
 
 with open(f"{sys.path[0]}/mastodon.json", 'r') as f:
    mastodon_config = json.load(f)
@@ -148,4 +186,3 @@ with open(words_cache_file, 'w') as outfile:
     json.dump(words_cached, outfile)
 
 sys.exit()
-
