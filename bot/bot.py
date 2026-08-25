@@ -88,7 +88,7 @@ header-includes:
   - \pagestyle{empty}
   # Use an explicit size for the generated content instead of an unsupported
   # document-class option.  The second value is the line height.
-  - \AtBeginDocument{\fontsize{22}{25}\selectfont}
+  - \AtBeginDocument{\fontsize{24}{26}\selectfont}
   # Pandoc renders a Markdown ## heading as \subsection.  Give it an
   # explicit size too, since the class's relative heading size is based on
   # the 20pt class option.
