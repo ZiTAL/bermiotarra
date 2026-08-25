@@ -88,12 +88,12 @@ header-includes:
   - \pagestyle{empty}
   # Use an explicit size for the generated content instead of an unsupported
   # document-class option.  The second value is the line height.
-  - \AtBeginDocument{\fontsize{30}{36}\selectfont}
+  - \AtBeginDocument{\fontsize{20}{24}\selectfont}
   # Pandoc renders a Markdown ## heading as \subsection.  Give it an
   # explicit size too, since the class's relative heading size is based on
   # the 20pt class option.
   - \makeatletter
-  - \renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}{3.5ex \@plus 1ex \@minus .2ex}{2.3ex \@plus .2ex}{\normalfont\fontsize{45}{54}\bfseries}}
+  - \renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}{3.5ex \@plus 1ex \@minus .2ex}{2.3ex \@plus .2ex}{\normalfont\fontsize{30}{36}\bfseries}}
   - \makeatother
 ---
 """
