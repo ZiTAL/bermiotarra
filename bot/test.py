@@ -90,7 +90,7 @@ if result == 0:
       html.write("""<!doctype html>
 <html><head><meta charset="utf-8"><style>
 @page { size: 1080px 1500px; margin: 80px; }
-body { font-size: 34pt; line-height: 1.2; }
+body { font-size: 38pt; line-height: 1.2; }
 h2 { font-size: 45pt; line-height: 1.2; margin: 0 0 0.5em; }
 </style></head><body>"""+content+"</body></html>")
    result = os.system("weasyprint "+path+".html "+path+".pdf")
@@ -113,7 +113,7 @@ if os.path.exists(path+".html"):
 files = glob(path+"*.png")
 files.sort()
 
-font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 28)
+font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 32)
 
 for i in files:
    img = Image.open(i)
