@@ -81,9 +81,20 @@ if(local_time=="2019-04-26"):
 md = r"""
 ---
 documentclass: extarticle
-fontsize: 40pt
+# extarticle only supports class sizes up to 20pt.  A larger value is ignored
+# by LaTeX and silently falls back to its 10pt default.
+fontsize: 20pt
 header-includes:
   - \pagestyle{empty}
+  # Use an explicit size for the generated content instead of an unsupported
+  # document-class option.  The second value is the line height.
+  - \AtBeginDocument{\fontsize{40}{48}\selectfont}
+  # Pandoc renders a Markdown ## heading as \subsection.  Give it an
+  # explicit size too, since the class's relative heading size is based on
+  # the 20pt class option.
+  - \makeatletter
+  - \renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}{3.5ex \@plus 1ex \@minus .2ex}{2.3ex \@plus .2ex}{\normalfont\fontsize{60}{72}\bfseries}}
+  - \makeatother
 ---
 """
 
