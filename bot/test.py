@@ -90,8 +90,8 @@ if result == 0:
       html.write("""<!doctype html>
 <html><head><style>
 @page { size: 1080px 1500px; margin: 80px; }
-body { font-size: 24pt; line-height: 1.2; }
-h2 { font-size: 36pt; line-height: 1.2; margin: 0 0 0.5em; }
+body { font-size: 30pt; line-height: 1.2; }
+h2 { font-size: 45pt; line-height: 1.2; margin: 0 0 0.5em; }
 </style></head><body>"""+content+"</body></html>")
    result = os.system("weasyprint "+path+".html "+path+".pdf")
 
