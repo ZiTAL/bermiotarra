@@ -113,7 +113,7 @@ if os.path.exists(path+".html"):
 files = glob(path+"*.png")
 files.sort()
 
-font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 32)
+font = ImageFont.truetype(sys.path[0]+"/UniversCondensed.ttf", 40)
 
 for i in files:
    img = Image.open(i)
