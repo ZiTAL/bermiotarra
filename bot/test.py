@@ -75,7 +75,7 @@ md = "## "+element['title']+" ##\n"+element['desc']
 
 # artxibo tenporala
 fd, path = tempfile.mkstemp()
-with os.fdopen(fd, 'w') as tmp:
+with os.fdopen(fd, 'w', encoding='utf-8') as tmp:
    tmp.write(md)
 
 # PDF-ra pasa: WeasyPrint erabili beti.
@@ -84,14 +84,14 @@ if not shutil.which('weasyprint'):
 
 result = os.system("pandoc "+path+" -f markdown -t html -o "+path+".html")
 if result == 0:
-   with open(path+".html", 'r') as html:
+   with open(path+".html", 'r', encoding='utf-8') as html:
       content = html.read()
-   with open(path+".html", 'w') as html:
+   with open(path+".html", 'w', encoding='utf-8') as html:
       html.write("""<!doctype html>
-<html><head><style>
+<html><head><meta charset="utf-8"><style>
 @page { size: 1080px 1500px; margin: 80px; }
-body { font-size: 30pt; line-height: 1.2; }
-h2 { font-size: 45pt; line-height: 1.2; margin: 0 0 0.5em; }
+body { font-family: "DejaVu Sans", sans-serif; font-size: 40pt; line-height: 1.2; }
+h2 { font-size: 60pt; line-height: 1.2; margin: 0 0 0.5em; }
 </style></head><body>"""+content+"</body></html>")
    result = os.system("weasyprint "+path+".html "+path+".pdf")
 
