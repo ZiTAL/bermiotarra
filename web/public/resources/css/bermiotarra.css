@@ -162,6 +162,19 @@ ul li ul li
 	vertical-align: top;
 }
 
+/* The index has a nested letter list: keep its wrapper full-width and show
+   four letters per row. */
+#content > ul > li:has(> ul)
+{
+	flex: 0 0 100%;
+}
+
+#content > ul > li:has(> ul) > ul > li
+{
+	flex: 0 0 25%;
+	width: 25%;
+}
+
 ul li ul li a
 {
 	display: inline-block;
