@@ -852,7 +852,7 @@ Alban jotzen duten kanpaiak. Arimak erretiratzen diren ordua omen da.
 
 # ALBORAPUNTADA #
 
-Normalki erabiltzen den hitza da. Aloza hartzen denean egiten dena.
+Normalki erabiltzen den hitza da. Jantziei egiten zaien tolesdurei esaten zaie.
 
 - *orrek erropiek, alborapuntada andidxek takoz*
 - *trajie akabata dau baie alborapuntadak falta itxuz*
@@ -898,7 +898,7 @@ Aldatzen. Itsasoko terminoa da, baina herriko hizkeran sartuta dago, nahiz asko 
 
 # ALDEGOI #
 
-Soineko baten alozak, jertse edo besteren batek, baita sareak ere, gorabeherak dauzkanean ere esaten da.
+Soinekoei egiten zaien tolesdurak, jertse edo besteren batek, baita sareak ere, gorabeherak dauzkanean ere esaten da.
 
 - *orrek erropiek aldegoiek takoz beko mandan*
 - *elegante dxun dxatzu aldegoidun erropiegaz*
