@@ -429,6 +429,73 @@ Mailu bat. (figuratiboan). Aspergarria.
 - *intzentzue lez dabil zapatak erosteko esaten*
 - *intzentzue ezan bi zara, baten batek kasu eitxeko*
 
+# IÑETAZIDXE #
+
+Txingorra.
+
+- *menditxik bueltan iñetazidxek atrapa dosku*
+- *hotzan hotzagaz euridxe ein biharrien iñetazidxe ein dxau*
+- *iñetazidxegaz ezin dxiez edurren muñekuek egin*
+
+# IÑOR EZ DABILL IÑOR BILLE #
+
+Inor ez dabilela inoren arduraz.
+
+- *zu santainfanzian bizi zara, iñor eztabill iñor bille alabatxu*
+- *zemat bidar esan dost nire amak iñor eztabillela iñoren bille*
+- *ai txetxo! Amen bakoitxak eitxen dau al dauena, iñor eztabill iñoren bille*
+
+# IÑOR EZ LEZ / LAKUE #
+
+Guztien gainetik dagoela adierazteko egiten dena.
+
+- *iñor ez lako kotxie erosi tzu, konduziten dxakin barik pe ibilltxekue*
+- *bera dozu iñor ez lakue, da gauzek pe iñor ez lakuek erosi biar*
+- *iñor ez lez dxun da dxantzitxe be*
+
+# IÑUSENTIEN PAPELA #
+
+Tontoarena egiten ari.
+
+- *bestelako iñuzentien papela eitxen nau berton*
+- *iñuzentien papela eitxen dau, baie iñok baiño geidxau daki*
+
+# IÑUZENTE #
+
+Ergela. Tontoa. Harroa. 
+
+- *zer dakar berorrek iñuzentiek ba, danak insulteten*
+- *dxun zaitxez ortik iñuzente txarridxori*
+- *iñuzentiaue da, danak tauzela berari begire pentsaten dau*
+- *baie ze tontue da ba, iñuzente utse da*
+
+Gaztelerazko **inocente** hitza, zentzua aldatuta erabiltzen da.
+
+# IÑUZENTEKEIDXEK #
+
+Tontakeriak. Zirtzileriak.
+
+- *iñuzentekeidxek esaten zabiltzez, eztakozu errozoirik*
+- *ez takotela errozoirik eta iñuzentekeidxek esaten nabillela diñozu, ba laster ikusiko zu, errozoie badakot edo ez*
+- *iñuzentekei gitxiau eiñ da artun zentzune, edadie be bakozu*
+- *iñuzentekeidxekaz bete dau etzie, eztau koadro bat non sartun*
+
+# IÑUZENTETUTE #
+
+Lelotuta.
+
+- *iñuzentetute dau beragaz mutillegaz*
+- *ez takitx non dakoten burue be, iñuzentetute nau*
+- *ez da eztrañue iiñuzentetute otie, emon tzun disgustuegaz*
+
+# IÑUZENTIEN ARPEIDXE #
+
+Tontoaren aurpegia.
+
+- *niri ez esan orrek gauzek iñuzentien arpidxegaz, bakitx zer gure dozun esan da*
+- *ez imiñi iñuzentien arpidxe, danak dakidxe zeuk esan zune ta*
+- *beran iñuzentien arpidxegaz aitxe ta ama be engaiñe eitxen txuz*
+
 # IRRIKILLO / UEK #
 
 Apaingarri barrokoak.
@@ -730,71 +797,4 @@ Apeta. Guraria.
 - *izurridxe edo ez izurridxe, nik zapatak erosko tez*
 
 Beraz, **izurri** hitzak, beste zentzu bat hartu du.
-
-# IÑETAZIDXE #
-
-Txingorra.
-
-- *menditxik bueltan iñetazidxek atrapa dosku*
-- *hotzan hotzagaz euridxe ein biharrien iñetazidxe ein dxau*
-- *iñetazidxegaz ezin dxiez edurren muñekuek egin*
-
-# IÑOR EZ DABILL IÑOR BILLE #
-
-Inor ez dabilela inoren arduraz.
-
-- *zu santainfanzian bizi zara, iñor eztabill iñor bille alabatxu*
-- *zemat bidar esan dost nire amak iñor eztabillela iñoren bille*
-- *ai txetxo! Amen bakoitxak eitxen dau al dauena, iñor eztabill iñoren bille*
-
-# IÑOR EZ LEZ / LAKUE #
-
-Guztien gainetik dagoela adierazteko egiten dena.
-
-- *iñor ez lako kotxie erosi tzu, konduziten dxakin barik pe ibilltxekue*
-- *bera dozu iñor ez lakue, da gauzek pe iñor ez lakuek erosi biar*
-- *iñor ez lez dxun da dxantzitxe be*
-
-# IÑUSENTIEN PAPELA #
-
-Tontoarena egiten ari.
-
-- *bestelako iñuzentien papela eitxen nau berton*
-- *iñuzentien papela eitxen dau, baie iñok baiño geidxau daki*
-
-# IÑUZENTE #
-
-Ergela. Tontoa. Harroa. 
-
-- *zer dakar berorrek iñuzentiek ba, danak insulteten*
-- *dxun zaitxez ortik iñuzente txarridxori*
-- *iñuzentiaue da, danak tauzela berari begire pentsaten dau*
-- *baie ze tontue da ba, iñuzente utse da*
-
-Gaztelerazko **inocente** hitza, zentzua aldatuta erabiltzen da.
-
-# IÑUZENTEKEIDXEK #
-
-Tontakeriak. Zirtzileriak.
-
-- *iñuzentekeidxek esaten zabiltzez, eztakozu errozoirik*
-- *ez takotela errozoirik eta iñuzentekeidxek esaten nabillela diñozu, ba laster ikusiko zu, errozoie badakot edo ez*
-- *iñuzentekei gitxiau eiñ da artun zentzune, edadie be bakozu*
-- *iñuzentekeidxekaz bete dau etzie, eztau koadro bat non sartun*
-
-# IÑUZENTETUTE #
-
-Lelotuta.
-
-- *iñuzentetute dau beragaz mutillegaz*
-- *ez takitx non dakoten burue be, iñuzentetute nau*
-- *ez da eztrañue iiñuzentetute otie, emon tzun disgustuegaz*
-
-# IÑUZENTIEN ARPEIDXE #
-
-Tontoaren aurpegia.
-
-- *niri ez esan orrek gauzek iñuzentien arpidxegaz, bakitx zer gure dozun esan da*
-- *ez imiñi iñuzentien arpidxe, danak dakidxe zeuk esan zune ta*
-- *beran iñuzentien arpidxegaz aitxe ta ama be engaiñe eitxen txuz*
 

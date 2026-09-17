@@ -84,15 +84,6 @@ Hitz konposatu honek erabilera zabalagora jo du:
 
 **kai** + **gane** → **kaigane**.
 
-# KAIXE #
-
-Arduratu.
-
-- *zure aiztie barriz ezta kaixeten bape, neure pentsure itxitxen dau dana*
-- *geidxau kaixe balekizara, beste txori batek kantako lekitzu*
-- *asko kaixe da nire gixona, gauzek aurrera atarateko*
-- *kaixetute nau neu be, ia zeuzer eitxen badun*
-
 # KAIÑE #
 
 Itsasertzean edo itsasadarretik irteten duen behe-lainoa. Kalima.
@@ -101,6 +92,15 @@ Itsasertzean edo itsasadarretik irteten duen behe-lainoa. Kalima.
 - *zarratu dau gaur kañe, ez da ongo errekie ikusterik*
 - *Gerniketik berantz dator kaiñe*
 - *ori kaiñe laster kenduko da ta eguzkidxe okingu plaidxen*
+
+# KAIXE #
+
+Arduratu.
+
+- *zure aiztie barriz ezta kaixeten bape, neure pentsure itxitxen dau dana*
+- *geidxau kaixe balekizara, beste txori batek kantako lekitzu*
+- *asko kaixe da nire gixona, gauzek aurrera atarateko*
+- *kaixetute nau neu be, ia zeuzer eitxen badun*
 
 # KAKA #
 
@@ -534,6 +534,32 @@ Xaxatu eta gero gogoekin uztea.
 
 Gaztelerazko baliokidea **con la miel en los labios** izango litzateke.
 
+# KAÑABERA TXIKIDXEGAZ DIRUEK ALA #
+
+Diru asko irabazten.
+
+- *an dabiltzu a, kañabera txikidxegaz diruek alaten*
+- *zu! Iñok pe eztakidxela ibil zara kañabera txikidxegaz diruek alaten*
+- *ala, ala! Ala kañabera txikidxegaz diruek!*
+
+# KAÑADA #
+
+Berna-hezur. Tibia.
+
+- *emon dosten zartazuegaz kañadie apurtu dost*
+- *kañadie dakot baltzitxute*
+- *kañadan artun dau golpie da geldik on bidau illebetien*
+
+D.A.R.n bakarrik dator eta T. Etxebarriaren Lex. aipatzen du.
+
+# KAÑUEK KONPONDUTEN #
+
+Haserre bizian jarri.
+
+- *ez imiñi iñor kañuek konponduten, jenidxotan nau te*
+- *beti zauz zu kañuek konponduten*
+- *zeitxik gauzen kañuek konponduten, eurek gure dauiena eitxen dauzelako*
+
 # KAPAN #
 
 Denboraleari aurre egiten, geldi itsasoan. Konparazioan herrian denbora txarra dagoenean edo gauzak txarto doazenean.
@@ -736,32 +762,6 @@ Eguzkitan katuak egoten diren moduan, lasai eta gozotan.
 - *bestela gauz berton, katuen gloridxen*
 - *egun santo guztidxen on gara aretzan tunbeta katuen gloridxen*
 - *ze ederto zauzien katuen gloridxen*
-
-# KAÑABERA TXIKIDXEGAZ DIRUEK ALA #
-
-Diru asko irabazten.
-
-- *an dabiltzu a, kañabera txikidxegaz diruek alaten*
-- *zu! Iñok pe eztakidxela ibil zara kañabera txikidxegaz diruek alaten*
-- *ala, ala! Ala kañabera txikidxegaz diruek!*
-
-# KAÑADA #
-
-Berna-hezur. Tibia.
-
-- *emon dosten zartazuegaz kañadie apurtu dost*
-- *kañadie dakot baltzitxute*
-- *kañadan artun dau golpie da geldik on bidau illebetien*
-
-D.A.R.n bakarrik dator eta T. Etxebarriaren Lex. aipatzen du.
-
-# KAÑUEK KONPONDUTEN #
-
-Haserre bizian jarri.
-
-- *ez imiñi iñor kañuek konponduten, jenidxotan nau te*
-- *beti zauz zu kañuek konponduten*
-- *zeitxik gauzen kañuek konponduten, eurek gure dauiena eitxen dauzelako*
 
 # KEBRA #
 

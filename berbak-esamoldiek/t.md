@@ -304,6 +304,22 @@ Tentela hitzaren sinonimo bat.
 - *atxiñe esan tsoie areri tenteluntzidxe dana*
 - *tenteluntzidxen gauzek eitxen txuz da ganera barre eitxen dau*
 
+# TEÑAZTO #
+
+Ezkabiatsu. Gehienetan irain modura erabilia, eta askotan deigarria ere bai.
+
+- *teinaztue zara, teñaztua, agarraten batzut ill eingo zaitxut*
+- *txo teñazto! agarra auneri txikotari*
+- *teñazto, ardaue edo zerbezie guzu?*
+
+# TEÑIE #
+
+Zentzu figuratuan, ikusiezina, gorrotoa, iskanbila...
+
+- *gure artien sartun zan teñie ta...*
+- *bai, bazan teñie amen erridxen*
+- *teñie ta txarrikeidxe baiño eztau gure artien*
+
 # TERMIÑO / UE #
 
 Distantzia fisikoa eta denborarena.
@@ -397,22 +413,6 @@ Emakumearen hilekoak. Oraingoan gaztelerazko **tercianas** antzinako berba da. G
 
 - *dardakadan zauz alabatxu, tertzinakaz zauz ela?*
 - *ezta etorri plaidxera. Tertzinakaz ongo da!*
-
-# TEÑAZTO #
-
-Ezkabiatsu. Gehienetan irain modura erabilia, eta askotan deigarria ere bai.
-
-- *teinaztue zara, teñaztua, agarraten batzut ill eingo zaitxut*
-- *txo teñazto! agarra auneri txikotari*
-- *teñazto, ardaue edo zerbezie guzu?*
-
-# TEÑIE #
-
-Zentzu figuratuan, ikusiezina, gorrotoa, iskanbila...
-
-- *gure artien sartun zan teñie ta...*
-- *bai, bazan teñie amen erridxen*
-- *teñie ta txarrikeidxe baiño eztau gure artien*
 
 # TIADORA #
 
@@ -1139,13 +1139,6 @@ Burutik ondo ez dabilena.
 - *txabetiek eztau ekarri ezan dxatzona*
 - *txabetie beti txabeta, berak gure dauena eiñ*
 
-# TXANGA #
-
-Izorratu.
-
-- *bueno ia ez padan txangaten egualdidxe... aritzatxure jun gudot eta!*
-- *txo automotorra txanga dast, eta tallerrea saka-sakaka eruen bizan dot!*
-
 # TXAKURRE EZAN BAZAN AINKE #
 
 Zerbait bilatzen ari garenean, eta aurrean eduki eta ikusi ez, esaldi hori erabiltzen dugu.
@@ -1159,6 +1152,13 @@ Gogorik ez.
 
 - *Bilbora dxuteko txakurrek elixerako dakon ganie dakot neuk pe*
 - *bai, Mirenek pe esan dost, txakurrek elixerako dakon ganie dakola Benidorrera dxuteko*
+
+# TXANGA #
+
+Izorratu.
+
+- *bueno ia ez padan txangaten egualdidxe... aritzatxure jun gudot eta!*
+- *txo automotorra txanga dast, eta tallerrea saka-sakaka eruen bizan dot!*
 
 # TXANKAME #
 
@@ -1471,6 +1471,13 @@ Badago kantu bat lelo ori erabiltzen dena:
 
 - *txilin txalan, eskatuten bozu infernora*
 
+# TXILIÑUE #
+
+Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste aldaera bat hobeto esanda. **txitxiliñue**, ume baten zakila definitzeko erabiltzen den hitzaren laburpena da.
+
+- *txiliñue be ez dxatzo ikusten koitxaduri*
+- *zelan ikusiko dxatzo txiliñue imiri beran mamiñekaz tapata dako ta*
+
 # TXILIPITXO / TXILIPITXERO / UE #
 
 1. Lula. Arrain txikia, koloretsua, eta oso ona jateko.
@@ -1482,13 +1489,6 @@ Badago kantu bat lelo ori erabiltzen dena:
 2. Umeen zakiltxoa definitzeko erabilia.
 
 - *txilipitxue ondo gorde gero, otzitxu barik*
-
-# TXILIÑUE #
-
-Hemen daukagu zakila definitzeko daukagun beste berba bat. Beste aldaera bat hobeto esanda. **txitxiliñue**, ume baten zakila definitzeko erabiltzen den hitzaren laburpena da.
-
-- *txiliñue be ez dxatzo ikusten koitxaduri*
-- *zelan ikusiko dxatzo txiliñue imiri beran mamiñekaz tapata dako ta*
 
 # TXILL #
 
@@ -1827,14 +1827,6 @@ Umeen zakila.
 - *txitxiliñue dakozu erreta laztana*
 - *txitxiliñoko miñe dakola esan dost imiek*
 
-# TXITXIRRIDXEN BERAUNE LEZ URTU #
-
-Gauzak inor konturatu gabe desagertzen direnean.
-
-- *ainbeste diro okiñ dxot gordeta, da txitxirridxen beraune lez urtu dxastez*
-- *non dauz amen okiñ dxotezen karameluek? Txitxirridxen beraune lez urtu, ezta?*
-- *txitxirridxen beraune lez urtuten diez amen gauzek*
-
 # TXITXIÑE #
 
 Neskatotxoen alua.
@@ -1848,6 +1840,14 @@ Neskatotxoen alua.
 Umeen zakila.
 
 - *txitxiñue atata ibill dze goiz santo guztidzen plaidxen, da bera lotsatu bez*
+
+# TXITXIRRIDXEN BERAUNE LEZ URTU #
+
+Gauzak inor konturatu gabe desagertzen direnean.
+
+- *ainbeste diro okiñ dxot gordeta, da txitxirridxen beraune lez urtu dxastez*
+- *non dauz amen okiñ dxotezen karameluek? Txitxirridxen beraune lez urtu, ezta?*
+- *txitxirridxen beraune lez urtuten diez amen gauzek*
 
 # TXIXE BARRIEK #
 

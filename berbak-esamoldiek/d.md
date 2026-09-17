@@ -46,19 +46,19 @@ Denetarik.
 - *añe on naien lekuen dana, dana dalakue oten ezan da, dxatekue zein edaridxek*
 - *geure etzien be dana, dana dalakue oten da, an bakarrik ez*
 
-# DANDARREZ IBILLI #
-
-Lan asko egiten jardun.
-
-- *dandarrez ibillitxe be eztau aillegaten dxazteko*
-- *dandarrez ibilli arren, dxateko bakarrik aillegaten dau*
-
 # DANDANDORIDXE #
 
 Urdaibain Oka errekatik datorren behelainoa.
 
 - *dauen dandandoridxegaz ezin gara jun Laidatxure*
 - *arraunien jun gara Urdaibaitxik eta dandandoridxegaz metro batere ba ikusi bez txo!*
+
+# DANDARREZ IBILLI #
+
+Lan asko egiten jardun.
+
+- *dandarrez ibillitxe be eztau aillegaten dxazteko*
+- *dandarrez ibilli arren, dxateko bakarrik aillegaten dau*
 
 # DANGILIZKE #
 

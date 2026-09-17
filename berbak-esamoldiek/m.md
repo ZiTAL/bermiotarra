@@ -481,6 +481,15 @@ Maritxu. Marikoi plantak egiten dituena.
 - *niri ez ein paristerik marikuori!*
 - *marikuen plantak dakoz berak mutillek, baie ezta maritxu*
 
+# MARINTXONA #
+
+Modan dagoena baino arropa luzeagoak eramaten dituena. Modara janzten ez dena. Lehen baserritik etorritakoei esaten zitzaien.
+
+- *ori erropie marintxona lez dakozu*
+- *marintxona dozu dxasten*
+- *zueneko imien erropak, geidxenak marintxonak tiez*
+- *eztot kure ori erropie eruen, marintxon dakot eta*
+
 # MARISORGIÑE #
 
 Asko dakien umea gehienetan. Batzuetan nagusiei ere aplikatzen zaie.
@@ -498,15 +507,6 @@ Tentela, zentzu peioratiboan ia beti.
 
 - *zelako maritentela da ba, arruen pasiñuek eitxen dotsona da*
 - *maritentel eta ganorabakoa, besterik ez esatearren*
-
-# MARINTXONA #
-
-Modan dagoena baino arropa luzeagoak eramaten dituena. Modara janzten ez dena. Lehen baserritik etorritakoei esaten zitzaien.
-
-- *ori erropie marintxona lez dakozu*
-- *marintxona dozu dxasten*
-- *zueneko imien erropak, geidxenak marintxonak tiez*
-- *eztot kure ori erropie eruen, marintxon dakot eta*
 
 # MARIZAR #
 
@@ -846,22 +846,6 @@ Burmuinari buelta asko ematen dion pertsona.
 - *mille pentzamentu dan lez, enai fidxeten aregaz*
 - *zeu be millepentzamentu zara lez, orduan zeugaz be ezin gara fidxe*
 
-# MISERIKORDI KO KANPAIEK DXO #
-
-Iskanbila baten botatzen den mehatxua.
-
-- *isillik ezpazauz, gaur amen miserikordiko kanpaiek dxoko dauie*
-- *ez ein kasurik, orrek beti esaten dau miserikordiko kanpaiek dxoko dauiela nonogaz asarratuten danien*
-
-# MIXI-MIXIDXE #
-
-Monja antzeko emakumea.
-
-- *orreri ez esan ezebe mixi-mixidxe da ta, santuek dxaten dabillena*
-- *mixi-mixidxe be zelakue da ba, danagaz ikaratuten da*
-- *aparentzidxe mixi mixidxena, baie gero etxos de karnabal*
-- *eskillaran be iñok eztau asmaten mixi-mixidxe dalakon*
-
 # MIÑE KANPORA ATARATA #
 
 Presaka. Mihia kanpoan dela.
@@ -876,12 +860,28 @@ Berba asko egin.
 - *zeuri gauzek espliketen miñe be kantsata dakot gero*
 - *arek eztau kantsako askorik miñe*
 
+# MISERIKORDI KO KANPAIEK DXO #
+
+Iskanbila baten botatzen den mehatxua.
+
+- *isillik ezpazauz, gaur amen miserikordiko kanpaiek dxoko dauie*
+- *ez ein kasurik, orrek beti esaten dau miserikordiko kanpaiek dxoko dauiela nonogaz asarratuten danien*
+
 # MISKEIDXE #
 
 Aitzakia.
 
 - *miskeri asko dakoztazu! Jaidxuz lentejok!*
 - *miskeidxe baino eztakozuie biharrik ez eitxeko!*
+
+# MIXI-MIXIDXE #
+
+Monja antzeko emakumea.
+
+- *orreri ez esan ezebe mixi-mixidxe da ta, santuek dxaten dabillena*
+- *mixi-mixidxe be zelakue da ba, danagaz ikaratuten da*
+- *aparentzidxe mixi mixidxena, baie gero etxos de karnabal*
+- *eskillaran be iñok eztau asmaten mixi-mixidxe dalakon*
 
 # MOKO TRUKEN #
 

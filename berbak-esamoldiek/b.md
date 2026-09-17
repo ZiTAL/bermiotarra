@@ -312,19 +312,19 @@ Gaztelaniako **barrabasada** → **barrabas** + **keria** → **barrabaskeria** 
 
 Azkuek ez du jaso. D.A.R.k gaztelaniako zentzuaz jaso du.
 
-# BARRE MASIE #
-
-Barre asko.
-
-- *beran esakerakaz barre masie eiñ dxu*
-- *atroza dozu, eskursiñuen dxun garizenien be, barre masie eiñ dxu*
-
 # BARRE FALTSO #
 
 Barre faltsua. Pertsona hipokrita.
 
 - *zelako barre faltso da ba, edonor engaiñeten dau*
 - *beran barre faltsue arpeidxen imitxe dxuen dxatzu kaletik*
+
+# BARRE MASIE #
+
+Barre asko.
+
+- *beran esakerakaz barre masie eiñ dxu*
+- *atroza dozu, eskursiñuen dxun garizenien be, barre masie eiñ dxu*
 
 # BARREKETA GITXI #
 
@@ -588,12 +588,38 @@ Begi argiak dituzten pertsonei esaten zaie.
 - *baie ze begi politxe dakoz neure begizuritxuek!*
 - *ze gatxa dan begizuridxekaz ez maitemindxutie!*
 
+# BEIEK DXOTA #
+
+Guztiz nekatuta edo hilekoekin egotea.
+
+- *niri ez esan ezer eitxeko, beiek dxota nau te*
+- *beiek dxota bazauz oire sartun*
+- *an ibilltxen dxatzu a biar da biar beiek dxota okindxe be*
+
 # BEINTIZINKO BAIÑO ARRUAU #
 
 Erabat harro.
 
 - *gure imie beintizinko baiño arruau dxun da eskolara beran zapata barridxekaz*
 - *ai! Beintizinko baiño arruau nau neure belarriko ederrakaz. Eskerrak, laztana*
+
+# BEIÑ #
+
+Oraindik.
+
+Zentzu horretan erabiltzen da Bermeon eta **ondiño** hitzarekin batera oso erabilia da.
+
+**noizbait** edo **behin** esateko **egun baten** erabiltzen da.
+
+- *beiñ egon, ondiño ezta sasoie ta*
+
+Ikusten denez, esaldi honetan bi formak erabili izan dira.
+
+- *beiñ eztala etorko esan dau*
+- *ez eiñ beiñ gauzek ondo imiñi arte*
+- *beiñ ez imiñi abante, ikusi in bide zelan dauen*
+
+Ez da agertzen hiztegietan zentzu horretaz, eta Azkuek, bere biztegian, S.Mtth III. 15.ean, arrunta bezala aipatzen du.
 
 # BEIZKUNE #
 
@@ -616,24 +642,6 @@ Begizkoaren konjurua.
 - *beizkune ein barik ez dxatzo kenduko ori geixue*
 
 Azkuek ez du jaso bere hiztegian, bai, ordea, D.A.R.k Ortuzarren **Oroigarriale** obrako zita bat aipatuz. Beraz, Bermeoko hitza bezala.
-
-# BEIÑ #
-
-Oraindik.
-
-Zentzu horretan erabiltzen da Bermeon eta **ondiño** hitzarekin batera oso erabilia da.
-
-**noizbait** edo **behin** esateko **egun baten** erabiltzen da.
-
-- *beiñ egon, ondiño ezta sasoie ta*
-
-Ikusten denez, esaldi honetan bi formak erabili izan dira.
-
-- *beiñ eztala etorko esan dau*
-- *ez eiñ beiñ gauzek ondo imiñi arte*
-- *beiñ ez imiñi abante, ikusi in bide zelan dauen*
-
-Ez da agertzen hiztegietan zentzu horretaz, eta Azkuek, bere biztegian, S.Mtth III. 15.ean, arrunta bezala aipatzen du.
 
 # BEKEREKA / IE #
 
@@ -697,14 +705,6 @@ Gortu.
 
 - *ene alabie, belarridxe be erun tzazu ein tzazun aldarridxegaz*
 - *ez ein niri aldarririk, belarridxe erun dostazu te*
-
-# BEIEK DXOTA #
-
-Guztiz nekatuta edo hilekoekin egotea.
-
-- *niri ez esan ezer eitxeko, beiek dxota nau te*
-- *beiek dxota bazauz oire sartun*
-- *an ibilltxen dxatzu a biar da biar beiek dxota okindxe be*
 
 # BERAKITXIEN #
 
@@ -1226,18 +1226,18 @@ Minbizia.
 
 **biziarena** → **bizidxena**.
 
+# BLAKA #
+
+Itsasontzietan erabiltzen den pintura.
+
+- *blaka emon bidatso baporari, pintxurie kenduten hasi datso ta*
+
 # BOBO SERGERIE #
 
 Sergera, hegaluze eta hegalaburren multzoa da. Baina konparazioan, gizon multzoa da, txikiteoan ibiltzen diren koadrilak. Emakume gazteek lokuzio hau erabiltzen dute, sarritan, horiek definitzeko.
 
 - *abe! Zer dator bobo sergerie ba, igarten da etzegune dana*
 - *ez dxast gustaten bertan borbo sergeran artien ibilitxie*
-
-# BLAKA #
-
-Itsasontzietan erabiltzen den pintura.
-
-- *blaka emon bidatso baporari, pintxurie kenduten hasi datso ta*
 
 # BOLADIE #
 

@@ -158,13 +158,6 @@ Derrigorrez egin beharra.
 - *eztot guzan ein, baie ein biarra gogorraue*
 - *etor biarra gogorraue ezan da, da etorri ein biar*
 
-# EITXEN EITXEN #
-
-Ekinean-ekinean. Egiten-egiten.
-
-- *eitzen eitxen okin bi de lapikue, su gitxigaz*
-- *eitxen eitxen, ikasi eitxen da*
-
 # EIÑ ARIN #
 
 Ondo egin barik, gehienetan jatekoa.
@@ -186,6 +179,13 @@ Hitz honen etimologia **ekinean** hitza da.
 **ekinean** → **ekiñean** → **ekiñien** → **ekiñijen** → **eiñekidxen**.
 
 Kontsonanteen metatesia egin da. Aurrerago ere, ikusi dugun bezala, nahiz eta palatalizatu, Bermeoko hizkerak ez du galtzen aurreko **i**. Horregatik, kasu honetan, sudurkari borren aurrean **i** bat desarroilatu du.
+
+# EITXEN EITXEN #
+
+Ekinean-ekinean. Egiten-egiten.
+
+- *eitzen eitxen okin bi de lapikue, su gitxigaz*
+- *eitxen eitxen, ikasi eitxen da*
 
 # EKAU #
 
@@ -619,6 +619,15 @@ Lotsarazi.
 - *obeto eingo dau arek, eperdikuek emon barik ixillik otie*
 - *ze ein tsazu ba eperdikuek emoten otorteko?*
 
+# ERA / ERIE #
+
+Gauza baten era.
+
+- *zeiñ dxe onen erropien erie ba? Ez tako erarik*
+- *orren telien erie baiño politxaue da iruntzetie*
+- *jersien era guztidxe mudeta dau*
+- *era partetik ebai telie, baie gero aldrebesetara dxosi*
+
 # ERARA / TARA #
 
 1. Artez egon.
@@ -702,15 +711,6 @@ Desegokia da, baina hor dago.
 **relucidad** → **erluzidad** → **erluzidade**.
 
 Ez da egon **e** protesia hartzerik; bokale horrek tokiz aldatzea besterik ez du izan.
-
-# ERA / ERIE #
-
-Gauza baten era.
-
-- *zeiñ dxe onen erropien erie ba? Ez tako erarik*
-- *orren telien erie baiño politxaue da iruntzetie*
-- *jersien era guztidxe mudeta dau*
-- *era partetik ebai telie, baie gero aldrebesetara dxosi*
 
 # ERNEGA #
 
@@ -1185,6 +1185,12 @@ Eskua dardarka. Baina zentzuak zekenkeria ere adierazten du.
 - *ene alabie! Esko ikarie dakozule, bota guzik zauz pixora*
 - *bota blasta-blasta, esko ikarie okin barik*
 
+# ESKUBERIE #
+
+Belarra mozteko erratza.
+
+- *ekau eskuberie honek bedarrak ebai ein biduz eta!*
+
 # ESKUE ARTUN #
 
 Arduratu.
@@ -1200,12 +1206,6 @@ Zekenkeria.
 - *eskue dxeusi be ez dxatzo eitxen, ez dotsu ezer emongo*
 - *ene alabie! Eskue dxeusi barik dakozu ikarie la?*
 - *bota bota ez dxatzu eskorik dxeusiko ta*
-
-# ESKUBERIE #
-
-Belarra mozteko erratza.
-
-- *ekau eskuberie honek bedarrak ebai ein biduz eta!*
 
 # ESKUGAZ KENDUIKO MODUEN #
 
@@ -1556,12 +1556,6 @@ Ez dago inor etxean erantzukizun bati erantzuteko.
 - *ainbeste zorregaz onda, ara ta ona dabill, da gero arpidxe emon bi denien, amarik eztau etzien*
 - *berak arma dau armatekue, da gero, berak, amarik eztau etzien*
 
-# EZTITXUE #
-
-Txertoa.
-
-- *semie anbulatoidxora tire eztitxue hartuten*
-
 # EZTITXU BAKO ARBOLIE #
 
 Txertatu gabeko arbola. Konparazioan gora eta gora doazen pertsonak.
@@ -1569,6 +1563,12 @@ Txertatu gabeko arbola. Konparazioan gora eta gora doazen pertsonak.
 - *zeren bestekue ein zarq, eztitxu bako arbolie lez zuez gora ta gora*
 - *balonzestoko mutillek pe, eztitxu bako arbolak ezaten diez*
 - *zelan dau zure teillapeko neskatue! Atara kontue eztitzu bako arbolie dala*
+
+# EZTITXUE #
+
+Txertoa.
+
+- *semie anbulatoidxora tire eztitxue hartuten*
 
 # EZTROPEZA #
 

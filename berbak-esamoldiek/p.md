@@ -735,6 +735,17 @@ Ur gehiegi edukitzea jatekoak.
 - *polontien imin zuz lau okela zatidxek*
 - *lapikue polont eiñdxe dau*
 
+# POPA / IE #
+
+Itsasontziaren popa. Analogiaz ipurdia adierazteko erabilia.
+
+- *dxeusi ein nai da popako miñe dakot*
+- *popie dakozu loitxute*
+- *popan urten dost baltzune batek*
+- *gose bazara neure popiri kendu zati bet*
+
+Askotan gertatzen den bezala itsas giroko hitza erabili da, nahiz eta, kasu honetan, erdarazko hitz bat izan. Auzoetan ez da erabiltzen termino hau, baina herrian **eperdi** baino gehiago erabiltzen da.
+
 # POPA ARIÑE #
 
 Pertsona arina, mugikorra.
@@ -749,17 +760,6 @@ Irain txiki bat.
 - *nora zuez popa kaka, nobidxue topaten? Ba ez eiñ ilusiñorik*
 - *zer diño berak popa kakak ba, eztako zeri, da aur due markesie baiño arruau*
 - *orregaz popa kakagaz eztot gure tratorik*
-
-# POPA / IE #
-
-Itsasontziaren popa. Analogiaz ipurdia adierazteko erabilia.
-
-- *dxeusi ein nai da popako miñe dakot*
-- *popie dakozu loitxute*
-- *popan urten dost baltzune batek*
-- *gose bazara neure popiri kendu zati bet*
-
-Askotan gertatzen den bezala itsas giroko hitza erabili da, nahiz eta, kasu honetan, erdarazko hitz bat izan. Auzoetan ez da erabiltzen termino hau, baina herrian **eperdi** baino gehiago erabiltzen da.
 
 # POPADAN / IEN #
 

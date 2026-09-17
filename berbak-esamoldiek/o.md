@@ -624,6 +624,13 @@ Ezpainetako ekzema.
 
 Ez da hitzaren zentzu konkretuan erabiltzen. Hala ere, badirudi gaztelerazko **frio**-tik hartu dela zentzua: **tengo un frio en los labios**.
 
+# OTZO BABASTUE #
+
+Gizon lodia.
+
+- *ezkondu danerik otzo babastuelez imindxe*
+- *zu nora zuez korrikara, otzo babastuelez bazauzen! Pauso bi emon, eta guarda abajo!*
+
 # OTZUE #
 
 Gizon oso galanta.
@@ -634,13 +641,6 @@ Gizon oso galanta.
 - *Laiden otzue lako mutillek oten diez*
 
 Ez dakigu zergatik egiten den konparaketa hori. Gainera, Bermeon, **otzo** gaztelerazko **oso** da. Beharbada gaztelerazko esaldia kontutan hartuta egingo zen.
-
-# OTZO BABASTUE #
-
-Gizon lodia.
-
-- *ezkondu danerik otzo babastuelez imindxe*
-- *zu nora zuez korrikara, otzo babastuelez bazauzen! Pauso bi emon, eta guarda abajo!*
 
 # OZALIE #
 

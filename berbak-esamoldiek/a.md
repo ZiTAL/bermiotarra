@@ -276,16 +276,6 @@ Enbarazu sintomak. Haurdun jausten den emakumeak sentitzen dituen egonezinak eta
 - *ezta etorri agarrakerakaz dau te*
 - *gonbitxoka on nai; agarrakerak dakotez antza*
 
-# AGIXON #
-
-Aizu, gizon!
-
-- *agixon ze ordu de?*
-- *agixon, arek andriek esan dau dxuteko*
-- *agixon sagar bat ekau*
-
-**aizu gizon** → **agixon**.
-
 # AGIÑE GOGOR #
 
 1. Ekonomikoki fuerte.
@@ -305,6 +295,16 @@ Dardarka hotzaz.
 - *ekar dauen aixe otzagaz, agiñe-agiñe dxoten on nai*
 - *euri zaparradiek atrapata agiñe-agiñe dxoten on biar*
 - *ainbeste denporan uretan egon da agiñe-agiñe dxoten dau*
+
+# AGIXON #
+
+Aizu, gizon!
+
+- *agixon ze ordu de?*
+- *agixon, arek andriek esan dau dxuteko*
+- *agixon sagar bat ekau*
+
+**aizu gizon** → **agixon**.
 
 # AGONIKO KANPAIEK DXO #
 
@@ -1119,6 +1119,31 @@ Aurreko **n** galdu eta **r** bat garatu du; lehenengo **o** bokala **a** bihurt
 
 Kintanak jartzen du bere hiztegian, azalpenik egin gabe; eta P.M.k **amandongila** hartu du. **Hiru mila hiztegia**n **l** eta guzti dator: **almandrongila**, baina baita **albondiga** ere.
 
+# AMAÑARRABAKIDXE #
+
+Amaginarrebagai. Aitaginarreba egin den bezala egiten da; **-kidxe** atzizkia hartuz.
+
+- *amañarrabakidzek erosi tso etzie*
+- *aren amañarrabakidxe neure lagune da*
+- *amañarrabakidxentzat ekar txuz arraiñek*
+
+Hala ere, ikusten da, **gina** multzoa galdu eta **e** → **a** egin dela.
+
+# AMAÑE / AMAIÑE #
+
+Amore eman. Borroka batetan **rendirse** izan daiteke, baina edozertan amore ematea ere bai.
+
+- *Bilbora dxuteko on gara baie amañe eiñ dxu*
+- *dirorik ez takola ta amañe eiñ dxau, ez tator afaire*
+- *koitxaduek ez tako indxarrik eta amañe ein bilikidau*
+- *ez ezan temosie ta amañe*
+
+Azkuek Bermeoko hitza bezala azaltzen du, baina **rendirse** delakoan.
+
+Hitzaren jatorria gaztelerazko **amainar** izan daiteke. Zentzua, ostera, **recoger velas** izan daiteke.
+
+**amainar** → **amaina** → **amaiñe** / **amañe**.
+
 # AMAPERRIE #
 
 Gaztelerazko **hijo de perra** lokuzioa oinarri badu ere, zentzua ez da bera. **amatxarridxe** edo **amatxitxie** zentzu bera dauka, eta esaldiak ere zentzu horretan joango dira.
@@ -1208,31 +1233,6 @@ Oso urrun. Aurrean badago beste honen antzeko bat, baina hau leunagoa da.
 - *ama txitxien etzera dxun da bizitxen*
 - *bakixu, ama txitxien etzerarte dxun bidauiena arraiñtxen?*
 - *non dauen boltzie? Ama txitxien etzien*
-
-# AMAÑARRABAKIDXE #
-
-Amaginarrebagai. Aitaginarreba egin den bezala egiten da; **-kidxe** atzizkia hartuz.
-
-- *amañarrabakidzek erosi tso etzie*
-- *aren amañarrabakidxe neure lagune da*
-- *amañarrabakidxentzat ekar txuz arraiñek*
-
-Hala ere, ikusten da, **gina** multzoa galdu eta **e** → **a** egin dela.
-
-# AMAÑE / AMAIÑE #
-
-Amore eman. Borroka batetan **rendirse** izan daiteke, baina edozertan amore ematea ere bai.
-
-- *Bilbora dxuteko on gara baie amañe eiñ dxu*
-- *dirorik ez takola ta amañe eiñ dxau, ez tator afaire*
-- *koitxaduek ez tako indxarrik eta amañe ein bilikidau*
-- *ez ezan temosie ta amañe*
-
-Azkuek Bermeoko hitza bezala azaltzen du, baina **rendirse** delakoan.
-
-Hitzaren jatorria gaztelerazko **amainar** izan daiteke. Zentzua, ostera, **recoger velas** izan daiteke.
-
-**amainar** → **amaina** → **amaiñe** / **amañe**.
 
 # AMEN GU! #
 
@@ -1427,6 +1427,15 @@ Abiaduran.
 - *andanadan dxun diez ziñera ime guztidxek, lekue atrapateko*
 - *andanadan ibilli, da gero arnasa barik*
 
+# ANDANAKORRIDXE #
+
+Abiadura bizian.
+
+- *andanakorridxeri! Nora zuez ain arin ba*
+- *andanakorridxe izterratan, ez miñen*
+- *beitu zelako andanakorridxe daruen*
+- *artun dauen andanakorridxegaz, iñok ikusi be eztau eiñ*
+
 # ANDANAKORRIDXEN #
 
 Abiadura bizian.
@@ -1437,15 +1446,6 @@ Abiadura bizian.
 Andanadan Bermeoko hitza hartu da, eta korrika gehitu zaio enfasi handiagoa emateko.
 
 **andanadan** + **korrika** → **andanakorridxen** 
-
-# ANDANAKORRIDXE #
-
-Abiadura bizian.
-
-- *andanakorridxeri! Nora zuez ain arin ba*
-- *andanakorridxe izterratan, ez miñen*
-- *beitu zelako andanakorridxe daruen*
-- *artun dauen andanakorridxegaz, iñok ikusi be eztau eiñ*
 
 # ANDANAN #
 
@@ -2190,6 +2190,21 @@ Argi dago gaztelerazko **arrancar** aditza erabili dela oinarri bezala.
 
 **arranque** → **arranke** + **ada** → **arrancada**.
 
+# ARRAÑTXE #
+
+Gauzak batu. Ordenatu.
+
+Itsasontzietan erabilitako hitza, gero hizkera arruntera pasatu da.
+
+- *bodegak arrantxe bitxuzena gixona da*
+- *loidxie arrantxeten dxun bigara arratsaldien*
+- *eziñ dxot urten kalera etzie arrantxe barik*
+- *arrantxeta itxi dotez gauze danak*
+
+Frantseseko **ranger** aditzetik datorrela dirudi. Hitz honek, itsasoan **ala** ematen du; beraz, gazteleraz **arranchar** = **recoger**, **ordenar**.
+
+Hipotesi hau argi badago ere, ezin daiteke baztertu beste teoria hau: Hitz hau **arraiñ** eta **te** batez osotutako hitza izatea. Orain **te** hori, beste hitzen baten bukaera bada ala ez, ez da ziurra. Beste kasu askotan bezala, **ñ** ondoko sudurkariak **te** palatalizatu egin du.
+
 # ARRAPALDIDXE #
 
 Txakurrekin xaxatzea, norbaitek atzetik jarraitzea, harrapatzeko asmoz, edo uxatu eta ikara sartzeko.
@@ -2252,21 +2267,6 @@ Behintzat zentzu hori dauka erabileran.
 - *arrastie okin badau be, aur dau ezkondu barik*
 
 **arrakasta** hitzaren laburpena, **-ka** atzizkia galduz gero egin da. Hala ere, azken hau, zaharrenen artean ere ez da ezagutzen, bestea bai, ordea.
-
-# ARRAÑTXE #
-
-Gauzak batu. Ordenatu.
-
-Itsasontzietan erabilitako hitza, gero hizkera arruntera pasatu da.
-
-- *bodegak arrantxe bitxuzena gixona da*
-- *loidxie arrantxeten dxun bigara arratsaldien*
-- *eziñ dxot urten kalera etzie arrantxe barik*
-- *arrantxeta itxi dotez gauze danak*
-
-Frantseseko **ranger** aditzetik datorrela dirudi. Hitz honek, itsasoan **ala** ematen du; beraz, gazteleraz **arranchar** = **recoger**, **ordenar**.
-
-Hipotesi hau argi badago ere, ezin daiteke baztertu beste teoria hau: Hitz hau **arraiñ** eta **te** batez osotutako hitza izatea. Orain **te** hori, beste hitzen baten bukaera bada ala ez, ez da ziurra. Beste kasu askotan bezala, **ñ** ondoko sudurkariak **te** palatalizatu egin du.
 
 # ARREKOKOZILLO #
 
@@ -2405,14 +2405,6 @@ Harroputza.
 - *zu zara arruen andiko mandie*
 - *arruen andiko mandie banai be neuretzat*
 
-# ARTAZIDXERI EMOTEN #
-
-Berriketan.
-
-- *an itxi dotez bidxek artazidxeri emoten, da gero esango dauie biarrak takoiela etzeko*
-- *artazidxeri emoten zauzie, laster asarratuko zarie*
-- *egun santo guztidxen dau artazidxeri emoten*
-
 # ARTAZI ZORROTZA #
 
 Mihi luzea.
@@ -2438,6 +2430,14 @@ Berriketan.
 - *badaitx nik artazidxe zorroztuten oten zariena Mariñelan*
 - *artazidxek zorroztu ondo, auntxek, iñok eztauen artien entzuten*
 - *gixonak pe artazidxe zorroztuten oten diez*
+
+# ARTAZIDXERI EMOTEN #
+
+Berriketan.
+
+- *an itxi dotez bidxek artazidxeri emoten, da gero esango dauie biarrak takoiela etzeko*
+- *artazidxeri emoten zauzie, laster asarratuko zarie*
+- *egun santo guztidxen dau artazidxeri emoten*
 
 # ARTEKADU #
 

@@ -464,18 +464,18 @@ Irristadan. Laprastadan.
 
 Azkuek Mundakan jaso du, baina jokoa dela dio, beraz, zentzua ez da berdina.
 
-# ZITXELA #
-
-Zitala.
-
-- *kontuz horregaz morroiegaz zitxela da ta!*
-
 # ZIRRIZARRA / IE #
 
 Katarro bat dagoenean eta bularreko estua genatzen denean sortzen den zarata.
 
 - *zirrazarra andidxe dakot, zeuzer artun biarko dot*
 - *zirrizarrie bigunduteko bedarran kataplasmie imiñi*
+
+# ZITXELA #
+
+Zitala.
+
+- *kontuz horregaz morroiegaz zitxela da ta!*
 
 # ZOKILLE #
 

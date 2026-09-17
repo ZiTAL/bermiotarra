@@ -200,6 +200,14 @@ Ondo edo ez ondo dagoen galdetzeko eta ez dagoela ondo baieztatzeko.
 - *au kotxie eztau santus, zarata arraruek eitxen txuz de*
 - *aunek sagarrak pe eztauz santus usteldute dauz te*
 
+# SAÑE #
+
+Marrazoaren olioa da. Baina konparazioan erabiltzen denean, izerdia da.
+
+- *alabatxu sañe atarako dostazu olan bazuez*
+- *sañe daidxola dxun gariez San Juaneko eskillaratatik gora*
+- *banuen uretara, dauen beruegaz sañek pe urten dost eta*
+
 # SAPUEN BEGIDXEK #
 
 Konparazioan begi nabarmenak.
@@ -350,14 +358,6 @@ Ugari. Asko.
 
 Izen batetatik kantitatezko adberbio bat sortu da.
 
-# SAÑE #
-
-Marrazoaren olioa da. Baina konparazioan erabiltzen denean, izerdia da.
-
-- *alabatxu sañe atarako dostazu olan bazuez*
-- *sañe daidxola dxun gariez San Juaneko eskillaratatik gora*
-- *banuen uretara, dauen beruegaz sañek pe urten dost eta*
-
 # SENAIDXE / IE #
 
 Senaia.
@@ -368,6 +368,14 @@ Senaia.
 - *Ondartzapen antzeko senaidxek tauz andik*
 
 Gaur egun gaztelerazko **cala** ari da sartzen. Kintanak **senadi** jaso du.
+
+# SEÑORA ANDIDXE #
+
+Mesprezuaz erabilia. Handigurako emakumea.
+
+- *bestelako señora andidxe zauz or; ezu gure baltz bat ekarri aixie eitxeko?*
+- *beti esan dozu señora andidxe, biarrak pe iñok ein biar tsoz da*
+- *bazin badot ezan señora andidxe, ba ezan eingo nai*
 
 # SERBEZIDXO / UE #
 
@@ -403,14 +411,6 @@ Agirika gogor baten esaten da.
 Gaztelerazko **sentencia** erabili da oraingoan:
 
 **sentencia** → **setenzia** → **setentzia** → **setentzidxe**.
-
-# SEÑORA ANDIDXE #
-
-Mesprezuaz erabilia. Handigurako emakumea.
-
-- *bestelako señora andidxe zauz or; ezu gure baltz bat ekarri aixie eitxeko?*
-- *beti esan dozu señora andidxe, biarrak pe iñok ein biar tsoz da*
-- *bazin badot ezan señora andidxe, ba ezan eingo nai*
 
 # SILENTZIDXUE #
 
