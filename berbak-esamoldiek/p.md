@@ -144,6 +144,14 @@ Energia gabeko pertsona. Mugitzen ez dena.
 - *ez esan ni paraue naienik enai txe*
 - *paraue zara baie txetxotxu*
 
+# PARIS TXIKITO #
+
+Bakio.
+
+- *Paris Txikitora nuen hondartzara, Aritzatxun marie behien dau eta*
+- *ezin lei juen Paris Txikitora bizitzen etxiek karu dauz eta*
+- *Paris Txikito erdi lehen Bermio zan*
+
 # PARISTE #
 
 Tontakeriak egitea. Keinu nabarmenak.

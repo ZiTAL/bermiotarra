@@ -969,6 +969,14 @@ Existitzen denik ere ez.
 - *aztu eiñ dxast, munduen badan bez*
 - *ezta munduen badan be, eztot okiñ astirik orretako*
 
+# MUNIPEUE #
+
+Kotxearekin herritik bueltaka ibili udaltzaingoak bezala.
+
+- *bariantetik etxera edo munipeue eingu?*
+- *munipeotxu bet eingu etxera juen orduko*
+- *kantxa nai oinez, munipeotxu bet eingule?*
+
 # MURMOIE #
 
 Behe-lainoa.
