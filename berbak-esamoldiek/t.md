@@ -1799,7 +1799,7 @@ Zakila deskribatzeko dagoen hitzetariko bat dugu. Beste askotan bezala, arrain b
 - *atara txitxarrue ikusteko zelan dakozun ori granue*
 - *enebada! txitxarrue alperrikaldute dakozu*
 
-# TXITXEMARKA / TXITXIMARKA #
+# TXITXEMARKA / TXITXIMARKA / TXITXUMARKA #
 
 Atzamarka egin. Txatxamurka egin.
 
