@@ -49,7 +49,7 @@ bermiotarra/
     │   ├── build.ts          # Build entry point
     │   ├── search.ts         # CLI search script
     │   ├── build.py          # Python script for PDF + EPUB generation via Pandoc
-    │   ├── package.json      # Dependencies: jsdom, @vercel/ncc, typescript
+    │   ├── package.json      # Dependencies: jsdom, TypeScript types
     │   └── tsconfig.json     # TypeScript strict mode config
     └── public/               # Generated static site
         ├── index.html        # Homepage with alphabetical index
@@ -69,7 +69,7 @@ bermiotarra/
 
 - **Digital lexicon** — Thousands of Bermeo Basque words, expressions, and example sentences in context
 - **Static HTML site** — Fully generated, no server-side rendering for pages; fast and cacheable
-- **Full-text search** — Server-side search (Deno/Node.js) with regex matching and `<mark>` highlighting
+- **Full-text search** — Server-side search (Deno) with regex matching and `<mark>` highlighting
 - **Multi-format export** — HTML, PDF, EPUB, and MediaWiki formats
 - **Mastodon bot** — Posts a random word entry as an image daily (weekdays at 11:00)
 - **Containerized deployment** — Docker/Podman with Caddy reverse proxy
@@ -80,13 +80,13 @@ bermiotarra/
 | Layer | Technology |
 |-------|-----------|
 | Data storage | Markdown (`.md`), one file per letter |
-| Build system | TypeScript + `@vercel/ncc` |
+| Build system | TypeScript running on Deno |
 | Markdown → HTML | Pandoc |
 | Search engine | TypeScript + JSDOM (regex search, `<mark>` highlighting) |
 | Template engine | Custom JST (eval-based backtick template literals) |
 | Frontend | Static HTML + CSS (responsive, custom webfonts) |
 | PDF/EPUB export | Pandoc + LaTeX (via `build.py`) |
-| HTTP server | Node.js `http` module (port 8080) |
+| HTTP server | Deno with Node.js compatibility (port 8080) |
 | Reverse proxy | Caddy 2 (static files + `/search` proxy) |
 | Containers | Docker / Podman |
 | Social bot | Python 3 + Mastodon.py + Pillow + ImageMagick |
@@ -95,7 +95,7 @@ bermiotarra/
 
 ### Web Application
 
-The web application is built with TypeScript and Node.js:
+The web application is built with TypeScript and Deno:
 
 - **Build System** (`build.ts`): Reads Markdown files, adjusts heading levels (`#` → `##` → `###`), converts to HTML via Pandoc, wraps in header/footer templates, adds anchor links to word headings, and generates an alphabetical index page
 - **Search Server** (`server.ts` + `lib/search.ts`): HTTP server on port 8080 with a single route `/search?q=<query>`. Parses generated HTML pages, splits content by `<h3>` word groups, performs regex search, wraps matches in `<mark>` tags, and returns full HTML pages
@@ -147,10 +147,8 @@ The web application is built with TypeScript and Node.js:
 
 ### Prerequisites
 
-- Node.js 18+
 - Pandoc
-- Deno (for containerized search server)
-- Docker / Podman (optional, for containerized deployment)
+- Podman and Deno 2 container image (for containerized deployment)
 - Basic Unix toolset
 
 ### Setup Steps
@@ -158,11 +156,6 @@ The web application is built with TypeScript and Node.js:
 ```bash
 git clone <repository-url>
 cd bermiotarra
-
-# Install web dependencies
-cd web/private
-npm install
-cd ../..
 
 # Install bot dependencies (optional)
 cd bot
@@ -173,23 +166,22 @@ cd ..
 ### Building the Project
 
 ```bash
-./deploy.sh build
+./deploy.sh
 ```
 
-This will:
-1. Compile TypeScript sources with `@vercel/ncc`
-2. Process Markdown files from `berbak-esamoldiek/`
-3. Generate HTML files in `web/public/berbak-esamoldiek/`
-4. Create the main index page at `web/public/index.html`
+This starts the Podman Deno service if needed, generates the HTML files from
+`berbak-esamoldiek/`, creates `web/public/index.html`, then restarts the Deno
+service. Run `./deploy.sh build` to regenerate the site without the final
+service restart. The external `bermiotarra` Podman network must already exist.
 
-### Running the Search Server
+### Checking the Search Server
 
 ```bash
-cd web/private
-node dist/server.js
+podman-compose -f docker/docker-compose.yml logs -f deno
 ```
 
-The server listens on port 8080. Search queries go to `http://localhost:8080/search?q=<query>`.
+The Deno server listens on port 8080 inside the container. Search requests are
+available through Caddy at `http://localhost:8002/search?q=<query>`.
 
 ### Running the Mastodon Bot
 

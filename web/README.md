@@ -92,6 +92,46 @@ bash deploy.sh
 
 https://github.com/ZiTAL/containers/tree/main/bermiotarra
 
+## ARAZOAK KONPONTZEN (2026-07-16) ##
+
+Stack-a ez zegoen abiatzen. Sintomak:
+
+- `bermiotarra_python_1` egoeran `Created` geratzen zen.
+- `bermiotarra_deno_1` eta `bermiotarra_nginx_1` `Exited` (7 aste).
+- Errorea: `did not receive systemd slice as cgroup parent when using systemd to manage cgroups: invalid argument`.
+
+Rootless podman-ek ez du systemd cgroup-ekin funtzionatzen `userns = "host"` konfiguratuta dagoenean.
+
+**Konponketa:** `~.config/containers/containers.conf`-n cgroup_manager zehaztu:
+
+```
+[containers]
+userns = "host"
+cgroup_manager = "cgroupfs"
+```
+
+**Garbitu eta berriro altxatu:**
+
+```
+cd /home/projects/bermiotarra/docker
+podman rm -f bermiotarra_python_1 bermiotarra_deno_1 bermiotarra_nginx_1 \
+              docker_python_1 docker_deno_1 docker_caddy_1
+podman pod rm -f <pod_bermiotarra> <bermiotarra_new> <pod_docker>
+podman-compose up -d --no-cache
+```
+
+**Egiaztapenak:**
+
+- `podman ps -a --filter name='docker_'` → denak `Up`.
+- `curl -I http://localhost:8002` → `HTTP/1.1 200 OK`.
+- `curl -I http://bermiotarra.opi5 -H 'Host: bermiotarra.opi5'` → `HTTP/1.1 200 OK`.
+- `curl 'http://bermiotarra.opi5/search?q=kaixo'` → HTML orria itzultzen du.
+
+**Oharrak:**
+
+- `podman-compose`-k `docker-compose.yml`-ko `services` blokean oinarrituta aurrizki gisa direktorio-izena (`docker`) erabiltzen du, eta `_1` gehitzen. `name: bermiotarra` gehituz gero, `bermiotarra_python_1`, `bermiotarra_deno_1`, `bermiotarra_caddy_1` izango lirateke.
+- `web-static` eta `ollama` pod-ak ez dira ukitu.
+
 # HTML SORTU #
 ```
 deno --allow-run build.ts
