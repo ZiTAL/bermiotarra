@@ -405,12 +405,13 @@ Aiuta. (labatiba)
 - *jun zaitxez aidxudie artzien enau zeuri begire ta*
 - *emon aidxudie, arek eztau irebaziko partidue ta*
 
-# AIENA #
+# AIENA / AÑENA #
 
 Iraina.
 
 - *andereño Karmele gora-goraka imindxasku aienak esaten*
 - *esan dauzen aienakaz jesukristo be gurutzetik eskapa da!*
+- *Iñaki beti dabil añenak esaten biharrera jun aurretik*
 
 # AIKAMEN #
 

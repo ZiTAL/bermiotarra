@@ -71,6 +71,10 @@ Esker berezidxek:
 - Susana Arrieta Calderón
 - Naiara Fernandez Madariaga
 - Gotzon Garitaonaindiako Pili eta Karmele
+- Maria Victoria Barturen Elexgarai
+- Txomin Barturen Abio
+- Xabier Ortuzar Bruton
+- Gotzon Markaida Urresti
 
 - Osoitz Elkoro Barrutia (Diseñuegaitxik)
 - Elene Carlos de Bergara Rodriguez (Bermiotarra munduen ziher zanbaldutiarreitxik eta SEO-n lagundutiarreitxik)

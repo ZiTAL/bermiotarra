@@ -999,13 +999,19 @@ Nahastea sortu, egiak eta egia ez direnak esanez.
 
 # ERRIE #
 
-Jaitsi, Baja.
+1. Jaitsi, Baja.
 
 Itsas giroan erabiltzen den hitz hau, gizonen ahoan emakume bat erditzen denean erabiltzen da; batzuetan emakumeen artean ere bai, nahiz eta oso gutxi izan.
 
 - *aren andriek imie errie dau*
 - *noizko errieko dau zure andriek ba*
 - *errie dauela imie esan dauie*
+
+2. Soltatu
+
+- *errie txikota motorra martxan dau te*
+- *errie txikota ta guzan Madalenatara*
+- *txetxo txikota errie barik zelan urtengu ba?!*
 
 # ERRIE MANDA #
 
