@@ -223,6 +223,26 @@ ol
 	margin: 1rem 0 0.5rem 0;
 }
 
+/* Ejemplos dentro de una acepción numerada: se mantienen a la misma altura
+   que antes, sin heredar el flex del índice. */
+
+#content ol > li > ul
+{
+	display: block;
+	margin: 0.25rem 0 0 -1rem;
+	padding: 0;
+	list-style-type: none;
+}
+
+#content ol > li > ul > li
+{
+	display: block;
+	flex: none;
+	width: auto;
+	padding: 0.25rem 0;
+	box-sizing: border-box;
+}
+
 h2, h3
 {
 	margin-top: 2rem;

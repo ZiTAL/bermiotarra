@@ -1,4 +1,4 @@
-# DABURDUKO / DAUORDUKO #
+# DABURDUKO / DAUORDUKO
 
 Hain arin. Dagoeneko.
 
@@ -6,14 +6,14 @@ Hain arin. Dagoeneko.
 - *erdu etzera. Daburduko? On apurtxu baten*
 - *oire dxun bizuie, berandu da ta. Daburduko?*
 
-# DAIDXOLA #
+# DAIDXOLA
 
 Dariola.
 
 - *dauen hotzagaz mokue daidxola dakot*
 - *argaldu eindxe, eta frakak daidxola daruez*
 
-# DALE BETI #
+# DALE BETI
 
 Lelo antzean erabiltzen da, batez ere animoak emoteko.
 
@@ -21,7 +21,7 @@ Lelo antzean erabiltzen da, batez ere animoak emoteko.
 - *ez zaran arte kantzaten, dale beti*
 - *dale beti txo, ez itxi burle eitxen*
 
-# DALEFUERTIEK #
+# DALEFUERTIEK
 
 Zigorra. Zartadak.
 
@@ -31,7 +31,7 @@ Zigorra. Zartadak.
 
 Gazteleratik hartua, hitz konposatu honen zentzua argi dago: *dale fuerte* hitza pluralizatuta erabiltzen da.
 
-# DANA BIARREKUE #
+# DANA BIARREKUE
 
 Dena baino gehiago gura duena.
 
@@ -39,28 +39,28 @@ Dena baino gehiago gura duena.
 - *orrek personak aulakuek ezaten diez, dana biarrekue, dana gu dau dauie traga*
 - *bai, dana biarreko ustel batzuk tiez, tragarroiek*
 
-# DANA, DANA DALAKUE #
+# DANA, DANA DALAKUE
 
 Denetarik.
 
 - *añe on naien lekuen dana, dana dalakue oten ezan da, dxatekue zein edaridxek*
 - *geure etzien be dana, dana dalakue oten da, an bakarrik ez*
 
-# DANDANDORIDXE #
+# DANDANDORIDXE
 
 Urdaibain Oka errekatik datorren behelainoa.
 
 - *dauen dandandoridxegaz ezin gara jun Laidatxure*
 - *arraunien jun gara Urdaibaitxik eta dandandoridxegaz metro batere ba ikusi bez txo!*
 
-# DANDARREZ IBILLI #
+# DANDARREZ IBILLI
 
 Lan asko egiten jardun.
 
 - *dandarrez ibillitxe be eztau aillegaten dxazteko*
 - *dandarrez ibilli arren, dxateko bakarrik aillegaten dau*
 
-# DANGILIZKE #
+# DANGILIZKE
 
 Dandarrez edo dariola zerbait janztea.
 
@@ -68,7 +68,7 @@ Dandarrez edo dariola zerbait janztea.
 - *argaldu ein zara ta oin erropak dangilizke*
 - *Kantiflaselez daruluz frakak, dangilizke!*
 
-# DANOK BARRU #
+# DANOK BARRU
 
 Ez da faltatzen inor.
 
@@ -76,7 +76,7 @@ Ez da faltatzen inor.
 - *asanbleie on da, baie berandu asi de konzejal bat falta ezan dalako eta danak barru on dizenien, alkatiek esan dau suspendidu eitxen dala*
 - *an on dxatzuz danak barru, alan da ze, ez deidxela atxakirik atara erreuniñue ezpada eiñ*
 
-# DARDART #
+# DARDART
 
 Zentzu askotan erabilitako forma hau, oso erabilia da Bermeon.
 
@@ -86,7 +86,7 @@ Zentzu askotan erabilitako forma hau, oso erabilia da Bermeon.
 
 Hemen hiru zentzutan agertzen da onomatopeiazko hitz hau.
 
-# DARDART EIÑ #
+# DARDART EIÑ
 
 Atzez egin.
 
@@ -94,7 +94,7 @@ Atzez egin.
 - *neuk pe eingo lekitzat dardart arek itxi balekidost*
 - *danok eitxen tzagu dardart indxabai, okelie dauen lekuen...*
 
-# DEBALDEKO BIARRAK #
+# DEBALDEKO BIARRAK
 
 Ordaindu gabeko lanak.
 
@@ -102,14 +102,14 @@ Ordaindu gabeko lanak.
 - *etzeko biarrak pe debaldekuek tiez da*
 - *baitxe solokuek pe, arek pe debaldeko biarrak tiez*
 
-# DEBALDEKO PAUSUEK #
+# DEBALDEKO PAUSUEK
 
 Alferrik emandako pausuak.
 
 - *ene alabie! Ibilli txe ibilli gabiltzez, debaldeko pausuek eitxen gauz*
 - *debaldeko pausuek ezango diez, baie eztakigu lez non dauen etzie, ibilli ein biar*
 
-# DEBALIE #
+# DEBALIE
 
 Eztabaida.
 
@@ -117,14 +117,14 @@ Eztabaida.
 - *zu be debalan sartute on zara?*
 - *bueno, itxi ori debalie da dxun gaitxezen arire*
 
-# DEFUNTU EDERRA #
+# DEFUNTU EDERRA
 
 Hildako bati buruz berba egiten denean, hori esaten da.
 
 - *zure gixona Tomas, defuntu ederrak errozoiek esaten ezan txuz*
 - *Maria, defunte ederrak diro asko itxi dau*
 
-# DEGOLLUEK #
+# DEGOLLUEK
 
 Iskanbila. Errieta.
 
@@ -140,7 +140,7 @@ Bermeoko hizkeran hitzak sortzeko edo egokitzeko jokaera argi ikus daiteke etsen
 
 **degüello** → **degollu** diptongoa monoptongatuz.
 
-# DEJANIELAPAZIENTZIA #
+# DEJANIELAPAZIENTZIA
 
 Asko estutzen ez den pertsona.
 
@@ -151,7 +151,7 @@ Asko estutzen ez den pertsona.
 
 Gaztelaniatik hartutako hitz honek, **déjame en la paciencia**, esanahi literala dauka.
 
-# DEKLARA #
+# DEKLARA
 
 Nabarmen utzi. Salatu. Lotsarazi.
 
@@ -164,7 +164,7 @@ Gaztelerazko **declarar** aditza gauzak agirian jartzeko erabiltzen da.
 
 **declarar** → **deklara**.
 
-# DEKORA #
+# DEKORA
 
 Konturatu. Akordatu
 
@@ -177,7 +177,7 @@ Gaztelaniako **decorar**, hau da **aprender de memoria** hitza eta esanahitik zu
 
 Ez du Azkuek bere hiztegian Bermeorako jartzen duen zentzuaz jarri. Honek, **flojo**, **tardo** zentzua jartzen dio.
 
-# DEMANDUEN #
+# DEMANDUEN
 
 Denboran.
 
@@ -185,7 +185,7 @@ Denboran.
 - *Aznarren demanduen be bardin pasaten da*
 - *aren demanduen ill dxauie iñuzente asko*
 
-# DEMASA / DEMASEKUE #
+# DEMASA / DEMASEKUE
 
 Ahozabal. Demasekoa.
 
@@ -196,7 +196,7 @@ Erdarazko **de más** hitzak gehiegikeria adierazten du.
 
 **de mas** → **demasa**.
 
-# DENPORALTZA #
+# DENPORALTZA
 
 Ekaitz gogorra. Leunagoa denean **denporalie** esaten da. Baina kasu honetan **-tza** ugaritasunezko atzizkia jarri da.
 
@@ -207,7 +207,7 @@ Ekaitz gogorra. Leunagoa denean **denporalie** esaten da. Baina kasu honetan **-
 
 Azken esaldi honetan gainera, **handi** adjetiboaz indartu da denporaltza.
 
-# DERROT #
+# DERROT
 
 Zuzen.
 
@@ -218,7 +218,7 @@ Zuzen.
 
 Hitz hau gaztelerazko **derrota** = **rumbo de las embarcaciones** hitzetik hartua da. Azken bokala galdu ondoren **derrot** geratu da eta zentzua aldatu egin da pixka bat, **con rumbo** izan beharrean **derecho**, **sin parar** egin da.
 
-# DESABANDONA #
+# DESABANDONA
 
 Abandonatu.
 
@@ -230,7 +230,7 @@ Arraro samarra den arren, hitz honek esanahi hori dauka Bermeon. Oso erabilia da
 
 Ikusten denez, **abandonar** gaztelerazko aditza eta euskaraz ere erabiltzen den **des-** aurrizki negatiboa erabiliz, aurkako hitz bat sortu da. Hala ere, zentzua bera da.
 
-# DESAPARTA #
+# DESAPARTA
 
 Banandu.
 
@@ -240,14 +240,14 @@ Banandu.
 
 **Desabandona** hitzaren jokabide berdina hartu du.
 
-# DESASIDU #
+# DESASIDU
 
 Desegin.
 
 - *aixiek arbola guztidxek desasidu eiñ txus*
 - *indxaba danak eiñ dxiez desasidu, orrenbeste su ezta okin biar*
 
-Kasu honetan **du** partizipioa erabili da gaztelerazko hitza euskaratzeko.  
+Kasu honetan **du** partizipioa erabili da gaztelerazko hitza euskaratzeko.\
 **dezhacer** + **du** → **desazedu** → **desasidu**.
 
 Adberbio moduan.
@@ -257,7 +257,7 @@ Adberbio moduan.
 
 **dezhacer** + **ta** → **desazeta** → **desasite**. Askotan atzizki biak hartzen ditu: **dezhacer** + **du** + **ta** → **desazeduta** → **desasidute**.
 
-# DESBRAZETE / DELBRAZETE #
+# DESBRAZETE / DELBRAZETE
 
 Besotik helduta.
 
@@ -267,7 +267,7 @@ Besotik helduta.
 
 Gaur egun askoz gutxiago erabiltzen da, **del brazo** erabiltzen baita.
 
-# DESETXUE #
+# DESETXUE
 
 Enbata. Denboralerik gogorrena.
 
@@ -275,18 +275,18 @@ Enbata. Denboralerik gogorrena.
 - *desetxuegaz, guarda-guardaka duez enbarkaziñuek*
 - *sekule ezetu ez dan desetxuek atrapa gaitxuz*
 
-# DESGUARNIE #
+# DESGUARNIE
 
 1. Denborale gogor baten baporeko horniketa guztiak apurtu edo galtzea.
 
-- *dxo ta tapa, itxosuek dana erun dosku, da desguarnieta aillega gara etzera*
+   - *dxo ta tapa, itxosuek dana erun dosku, da desguarnieta aillega gara etzera*
 
 2. Baina hitz hau herrira pasatu da eta egoera askotan erabili ere. Esaterako, indarrak galduta, gauzak apurtuta edo soinekoak urratuta gertatzen direnean.
 
-- *txo, nik eztaitx non ibilli garizen, baie desguarnieta aillega garizena badakitx*
-- *jinasidxora obeto egoteko dxuen, da andik desguarnieta etzera*
+   - *txo, nik eztaitx non ibilli garizen, baie desguarnieta aillega garizena badakitx*
+   - *jinasidxora obeto egoteko dxuen, da andik desguarnieta etzera*
 
-# DESIGUALEKO BERBAK #
+# DESIGUALEKO BERBAK
 
 Berba desegokiak.
 
@@ -294,18 +294,18 @@ Berba desegokiak.
 - *desigualeko berbak sarri esaten zuz zuk*
 - *beti dau a desigualeko berbak esaten, orreitxik ez tzagu eitxen kasurik*
 
-# DESIGUALEKUE #
+# DESIGUALEKUE
 
 1. Desegokia. Pertsona edo gauza.
 
-- *desigualeko berbie esastazu alabatxu*
-- *desigualeko gauzek eitxen zauz*
+   - *desigualeko berbie esastazu alabatxu*
+   - *desigualeko gauzek eitxen zauz*
 
 2. Figuratiboan, korrontearen aurka dabilena.
 
-- *desigualeko gixona dot berori*
+   - *desigualeko gixona dot berori*
 
-# DESKANTZO #
+# DESKANTZO
 
 Deskantsatuta egon.
 
@@ -313,7 +313,7 @@ Deskantsatuta egon.
 - *sofan tunbeta deskantzo baten oten nai*
 - *deskantzuen on garizen, dxesarritxe Lamerako bankuen*
 
-# DESKANTZOZKUEK #
+# DESKANTZOZKUEK
 
 Oso erosoak.
 
@@ -321,7 +321,7 @@ Oso erosoak.
 - *erosi duzen sillek desk.tzozkuen antza dakoie*
 - *ori mantie gozue da, deskantzozkue ezango da oien*
 
-# DESKEDE #
+# DESKEDE
 
 Distraitu. Deskuidatu
 
@@ -335,22 +335,22 @@ Gaztelerazko **descuidar** aditzetik hartuta dago baina zentzua ez berdina.
 
 **descuidar** → **deskide**. Hau **deskidatu** izan beharko litzateke, baina ez du eman.
 
-# DESKIDUE #
+# DESKIDUE
 
 1. Oharkabetasuna. Despistea.
 
-- *parkatu, deskiduen dxo zaitxut*
-- *oin be zeuzer apurtu zu, ezta? Bai baie deskiduen ezan da*
-- *ez totso ein gureta, deskiduen baiño*
+   - *parkatu, deskiduen dxo zaitxut*
+   - *oin be zeuzer apurtu zu, ezta? Bai baie deskiduen ezan da*
+   - *ez totso ein gureta, deskiduen baiño*
 
 2. Badaezpada Beste kasu hau zalantzan jartzea da.
 
-- *deskiduen, neu ez nauela etorten bada, esan bidxar etorteko*
-- *deskiduen ez balekitzo akaba, beste erropa bat prepara bi dau*
+   - *deskiduen, neu ez nauela etorten bada, esan bidxar etorteko*
+   - *deskiduen ez balekitzo akaba, beste erropa bat prepara bi dau*
 
 **descuido** → **deskido**. Hemen **ui** → **i** monoptongatu da.
 
-# DESKONORTA #
+# DESKONORTA
 
 Kolorea galdu.
 
@@ -358,19 +358,19 @@ Kolorea galdu.
 - *ulie be deskonorta dxatzu, pelukie erosi bizu*
 - *mantelak deskonorta, izarak deskonorta, zer da in bi dotena?*
 
-# DESTROZUE #
+# DESTROZUE
 
 1. Balentria.
 
-- *destrozue eiñ dxau, iñok paiño arraiñ geidxau atrapa*
-- *arraiñe atrapa dau arek destrozue*
+   - *destrozue eiñ dxau, iñok paiño arraiñ geidxau atrapa*
+   - *arraiñe atrapa dau arek destrozue*
 
 2. Kantitate handia. Asko.
 
-- *piñuen erogoiek destrozue on diez Lameran*
-- *Aritxatxun, medusek, destrozue on diez*
+   - *piñuen erogoiek destrozue on diez Lameran*
+   - *Aritxatxun, medusek, destrozue on diez*
 
-# DINGILIZIKE #
+# DINGILIZIKE
 
 Zintzilik.
 
@@ -378,21 +378,21 @@ Zintzilik.
 - *atetik dingilizke itxi dot jersie*
 - *dingilizke itxitxen bazu forma txarra artungo tzu*
 
-# DIROTZUE BAIÑO OKINTZUE OBETO #
+# DIROTZUE BAIÑO OKINTZUE OBETO
 
 Batzuk dirua daukaten itxura ematen dute diru asko izan gabe, beste batzuk, ordea, isilean, diru asko edukitzen dute.
 
 - *diñoie arek diro asko dakoiela, baie obeto okintzue dirotzue baiño*
 - *beti esaten da: dirotzue baiño okintzue obeto. Da egidxe da*
 
-# DIROZ ITXOTA #
+# DIROZ ITXOTA
 
 Dirua diruaren gainean.
 
 - *diroz itxota dauzela esan, baie zorrez itxota be bai*
 - *neu be diroz itxota nau, ikusten zu? Baie diro danak faltzuek*
 
-# DIRUE LASKA #
+# DIRUE LASKA
 
 Dirua gastatu.
 
@@ -400,7 +400,7 @@ Dirua gastatu.
 - *benga txo! Laskaik dirue, zeure egune be bada ta*
 - *dirue laska barik eztau ezer*
 
-# DIRUEK GATX / KALTE EIÑDXE #
+# DIRUEK GATX / KALTE EIÑDXE
 
 Harrokeria gainezka, diruaren diruaz.
 
@@ -408,21 +408,21 @@ Harrokeria gainezka, diruaren diruaz.
 - *dirue dakona gatx eiñdxe bizi da*
 - *diruek kalte eiñdxe bizi dana eztau bizirik pe*
 
-# DIRUEK TIÑONIEN #
+# DIRUEK TIÑONIEN
 
 Diruak berak esan zer egin behar den.
 
 - *gauzek erosten diez diruek dinonien*
 - *diruek dinonien ein guz berbak, erosi biarbada edo ez*
 
-# DIRUEN KUKURRUKUE #
+# DIRUEN KUKURRUKUE
 
 Diruzale amorratua.
 
 - *zelako diruen kukurrukue da ba, eztako beste pentsamenturik*
 - *diruen kukurrukue ezatie gauze itzala dala pentsaten dot*
 
-# DIRUEN MAMARRUE #
+# DIRUEN MAMARRUE
 
 Diruzale oso amorratua.
 
@@ -430,14 +430,14 @@ Diruzale oso amorratua.
 - *beran andrie be diruen mamarro utze da*
 - *bestelako diruen mamarro bi dauz or*
 
-# DIZENAK ETA EZTIZENAK #
+# DIZENAK ETA EZTIZENAK
 
 Egiak eta gezurrak.
 
 - *asarratu dizenien dizenak eta eztizenak esaten ibill dxiez erri guztidxen*
 - *dizenak eta eztizenak esan da famie krielien*
 
-# DOIDXE #
+# DOIDXE
 
 Inspirazioa. Argitasuna.
 
@@ -445,7 +445,7 @@ Inspirazioa. Argitasuna.
 - *eztot kuzan dxuen, baie neuri, doidxe etorritxe, neu dxuen bertar, ta bertan topa*
 - *Jangoikuen doidxe okin zu dxakitxeko zer ein bi zun ela?*
 
-# DOLLIDU #
+# DOLLIDU
 
 Ez damutzea.
 
@@ -455,7 +455,7 @@ Ez damutzea.
 
 Gaztelaniako **doler** hitza erabiltzen dugu damu dugula esateko.
 
-# DOMA #
+# DOMA
 
 Ofenditu. Menperatu.
 
@@ -466,31 +466,31 @@ Ofenditu. Menperatu.
 
 Gaztelerazko **domar** aditzaren zentzua daukate azken bi esaldiok. Formaz berdinak badira ere, esanahia ezberdina daukate.
 
-# DUNGULUE #
+# DUNGULUE
 
 1. Artirinarekin egiten den orea, gero esnea botata. Konparazioan erabiltzen da. Oso normala da Bermeoko hizkeran.
 
-- *dxan dungulue lodi lodi eitxeko*
-- *au lapikue dungulue lez dau* (lapikokoa)
-- *erain dunguluri ondiño loditxu barik tau te*
+   - *dxan dungulue lodi lodi eitxeko*
+   - *au lapikue dungulue lez dau* (lapikokoa)
+   - *erain dunguluri ondiño loditxu barik tau te*
 
 2. Zentzu figuratiboan: jirak eta birak eman gai bati.
 
-- *zemat eta dunguluri geidxau eraiñ naste geidxau*
+   - *zemat eta dunguluri geidxau eraiñ naste geidxau*
 
 Azkuek, Bermeoko hitza bezala azaltzen du, baita Mundaka eta Txorierrikoa ere.
 
-# DUNGULUE ATARA #
+# DUNGULUE ATARA
 
 1. Jipoitu.
 
-- *pazentzidxetik atara dau, da gero bestiek dungulue atara tzo*
+   - *pazentzidxetik atara dau, da gero bestiek dungulue atara tzo*
 
 2. Gauza bat asko erabili.
 
-- *onei zapatai dungulue atara tzatie*
+   - *onei zapatai dungulue atara tzatie*
 
-# DUNGULUE LEZ #
+# DUNGULUE LEZ
 
 Masa bat eginda.
 
@@ -498,7 +498,7 @@ Masa bat eginda.
 - *dungulotuten itxi bi de gozo oteko*
 - *bai, berori dungulue dxan*
 
-# DURDOIEN MOSUEK #
+# DURDOIEN MOSUEK
 
 Ezpain lodiak dituen arraina. Konparazioan erabilia.
 
@@ -509,14 +509,14 @@ Kasu askotan bezala, arrain baten izena erabili da adjetibo bat sortzeko.
 - *bestelakue zauz or gerrie emoten durdoi ori*
 - *gusta be eitxie bera durdoien mosodune*
 
-# DURKUBETUTE #
+# DURKUBETUTE
 
 Umeak logura direla adierazteko erabiltzen da.
 
 - *au imie durkubetute dau, imiñi sehaskien*
 - *pelikulie ikusten imie durkubetute! Ohire eruen lo geratu orduko*
 
-# DXABIE #
+# DXABIE
 
 Zerbait ospatzeko egiten den bazkaria edo afaria.
 
@@ -525,7 +525,7 @@ Zerbait ospatzeko egiten den bazkaria edo afaria.
 
 **jana** hitzarekin batera erabiltzen da, baina hau gutxiago.
 
-# DXABONADURIE #
+# DXABONADURIE
 
 Arropa garbiketa.
 
@@ -537,7 +537,7 @@ Arropa garbiketa.
 
 Hitz hau, fonetikazko aldakuntzen bidez ezberdintzen da gaztelerazkotik. Normalki erabiltzen den hitz bat da, eta aspalditik gainera.
 
-# DXABOTURE #
+# DXABOTURE
 
 Xaboi-ura.
 
@@ -547,7 +547,7 @@ Xaboi-ura.
 
 Hitz hau ere, bestea bezala aspalditik sartu da Bermeon, duela laurogei urteko Ortuzarren **Oroigarriak** liburuan agertzen da.
 
-# DXAKADA BATEN #
+# DXAKADA BATEN
 
 Berehala egin.
 
@@ -555,7 +555,7 @@ Berehala egin.
 - *nik ezin dxotez dxakada baten ein, denpora geidxau bi dot*
 - *imemoko batek pe dxakada baten eingo lekitxuz de, zer diñozu zuk*
 
-# DXAKENARRO #
+# DXAKENARRO
 
 Arrantzaleen itsasoko jantzia. Gaur egun euritarako aproposak daude, baina aurrerago olanaz eta gero linaza olioa emanda erabiltzen zirenak dira. Baina orain ere izen hori ematen zaio.
 
@@ -572,7 +572,7 @@ Aurretik esandakoa kontutan izanik, hemen ere **u** bokalea deklinatu gabe doan 
 
 Kasu honetan, ez da larruzko jaka, linaza olioa emandako olanazko jaka baizik. Gero, horrek larruaren funtzioa beteko du.
 
-# DXAKIDXE #
+# DXAKIDXE
 
 Jaki.
 
@@ -580,7 +580,7 @@ Jaki.
 - *dxaki onik eztau oraiñ, dana da artifiziala*
 - *dxakidxek geure amak imitoen ezan txuzenak*
 
-# DXAN DA LO #
+# DXAN DA LO
 
 Jatekoa oso ondo dagoenean esaten da.
 
@@ -588,7 +588,7 @@ Jatekoa oso ondo dagoenean esaten da.
 - *armozue be dxan da lo eitxekue emon doskuien, dana, dana dalakue*
 - *zelan dau marmintxe ba? Marmintze dau, dxan da lo*
 
-# DXAN-DXAN BARIK #
+# DXAN-DXAN BARIK
 
 Erdi janda ibili.
 
@@ -596,14 +596,14 @@ Erdi janda ibili.
 - *ba ez ibilli dxan dxan barik, ze ostantzien firue lez parako zara*
 - *beruegaz da kantzaziñuegaz eztu okiñ dxateko ganarik eta dxan dxan barik ibil gariez*
 
-# DXANA #
+# DXANA
 
 **Dxabie** hitzaren parekoa da, hau da, zerbait ospatzeko egiten den bazkaria edo afaria, baina hau gaur egun erabiliagoa da.
 
 - *gaur dxana daku Mikelen egune da ta*
 - *zuek dxana okitxeko eztozue biar ezer zelebrateko*
 
-# DXANGANGAR #
+# DXANGANGAR
 
 Jateko gogorik ez.
 
@@ -614,7 +614,7 @@ Jateko gogorik ez.
 
 Forma hau, hiztegietan datorren **jangar** hitzaren aldaera izan daiteke.
 
-# DXANOIXU-DXANOIXU #
+# DXANOIXU-DXANOIXU
 
 Janaria bikain prestatuta.
 
@@ -622,7 +622,7 @@ Janaria bikain prestatuta.
 - *emon doskun paillie dxanoixu-dxanoixu on da, baie geuk ez ganarik*
 - *dxanoixu-dxanoixu dauen lapikue eztozule gure diñozu, mizketute zauz de*
 
-# DXANTXAKURRE #
+# DXANTXAKURRE
 
 Beste batzuen lepotik bizi dena. Engainatzen duena.
 
@@ -630,7 +630,7 @@ Beste batzuen lepotik bizi dena. Engainatzen duena.
 - *dxantxakur guztidxek bixi diez ondo*
 - *ezetuten dotez nik ainbet dxantxakur*
 
-# DXANTZI BAKO TXORIDXE #
+# DXANTZI BAKO TXORIDXE
 
 Konparazioan osagaiak falta edo gauza eskasekin jantzita.
 
@@ -638,34 +638,34 @@ Konparazioan osagaiak falta edo gauza eskasekin jantzita.
 - *oneri erropiri kuellue ezpazazu imitxen dxantzi bako txoridxe dala atara kontu*
 - *ulie ebai zunik eta ona dxantzi bako txoridxe lez zauz*
 
-# DXARRA KATILLUEK #
+# DXARRA KATILLUEK
 
 Pitxer eta katiluak. **Jarra** hitza erabili da.
 
 - *dxarra-katilluek garbitxuteko eztau obiaurik deterjente bat baño*
 - *amentala imiñi dxarra-katilluek garbitxuteko*
 
-# DXIBO-DXIBO #
+# DXIBO-DXIBO
 
 Zabua. **Columpio**.
 
 - *ama, eruen dxibo-dxibutara*
 - *ezpazu dxaten meridxandie eztau dxibo-dxiborik*
 
-# DXIGIDILLEK #
+# DXIGIDILLEK
 
 Errieta, baina txikia.
 
 - *emontsuten orduen ez bazatoz etxera... dxigidillek ezango diez!*
 
-# DXIGOTAK #
+# DXIGOTAK
 
 Iskanbilak. Haserrekuntzak.
 
 - *ezpaztazu emoten dirue, dxigotak ezango diez amen etzien*
 - *bardin dxe dxigotak badauz be eztotsut emongo dirorik eta*
 
-# DXIGOTILLEK #
+# DXIGOTILLEK
 
 Iskanbilak. Haserrekuntzak. Baina txikitasunaren atzizkia hartuta.
 
@@ -674,7 +674,7 @@ Iskanbilak. Haserrekuntzak. Baina txikitasunaren atzizkia hartuta.
 - *da non eztiez oten dxigotillek ba, aberatsan etzien be bai*
 - *baitxe kasinuen bertan be, ezu ikusi atzo zelako dxigotillek arma dau*
 
-# DXIK ETA DXAK #
+# DXIK ETA DXAK
 
 Azkar.
 
@@ -682,14 +682,14 @@ Azkar.
 - *bai, zetako zu an on da ba, dxik eta dxak ein gauzek eta etzera*
 - *azpildxurek aulan eitxen diez, artun orrotza da dxik eta dxak*
 
-# DXINBO / UE #
+# DXINBO / UE
 
 Zabua. **Columpio**.
 
 - *imie dxinbuetik jeusi de eta turtuluek urten tso*
 - *neure imiek Lameran dxinbuen bakarrik gu dau monta*
 
-# DXIPETOI / IE #
+# DXIPETOI / IE
 
 Jaka luzea. Zentzu peioratiboan erabiltzen da.
 
@@ -702,7 +702,7 @@ Hitz honekin batera **jipoi** ere erabiltzen da; eta gaztelerazko **chaquetón**
 
 **jipoi** + **ton** → **jipoiton** → **dxipeton** → **dxipetoi**.
 
-# DXIRTADA #
+# DXIRTADA
 
 Distira.
 
@@ -710,21 +710,21 @@ Distira.
 - *dxirtadak, aren belarrikuek botaten dauienak diez*
 - *Matxitxakoko farolak botaten dauen dxirtadie baiño andidxaue da orren erropiek daruna*
 
-# DXO ONDARRU DXO MOTRIKU #
+# DXO ONDARRU DXO MOTRIKU
 
 Bueltak emanda ere, beti bueltatu leku berdinera.
 
 - *denda guztidxetatik pasa, baie dxo ondarru, dxo motriku, lelau sartun garan dendara barriro*
 - *dxo ondarru, dxo motriku, beti bertara kalera*
 
-# DXO POPAN DA KALERA #
+# DXO POPAN DA KALERA
 
 Kanporatzea. Kalera bota.
 
 - *ainbeste urtien bertan biarrien, da gero, dxo popan da kalera*
 - *dxo popan da kalera bota dau ama, diro guztidxek dxan da gero*
 
-# DXO TA BUELTA #
+# DXO TA BUELTA
 
 Astindu. Kolpea eman.
 
@@ -732,7 +732,7 @@ Astindu. Kolpea eman.
 - *dxota ta buelta eingo dauela esan tzonien, ondiño aldarri handidxauek eiñ txuzen*
 - *ze esan dau, dxo ta buelta eingo nauela? Etortie dako ia*
 
-# DXO TA PASA #
+# DXO TA PASA
 
 Azkar edo erdipurdika egin gauzak.
 
@@ -740,7 +740,7 @@ Azkar edo erdipurdika egin gauzak.
 - *erropiri be alborapuntadak dxo ta pasa eitxen tzoz*
 - *ez ibilli ondo eitxen, dxo ta pasa eiñ*
 
-# DXO TA SU #
+# DXO TA SU
 
 Erabat haserre.
 
@@ -748,14 +748,14 @@ Erabat haserre.
 - *baie zeri asten zara dxo ta su, gauzek dxakin barik?*
 - *motibuek dakotezelakon dxo ta su asteko, loteridxe ekarri da niri ez tostazulako emon*
 
-# DXO TA TAPA #
+# DXO TA TAPA
 
-Itsasoko termino bat da. Eguraldi txarra dagoanean, olatuek ontziaren gainetik pasatzen dira, eta orduan *dxo eta tapa* dabiltzala esaten da. Gero herrira pasatu da, eta arraina, dirua edo beste edozer ugari dagoenean aplikatzen da. 
+Itsasoko termino bat da. Eguraldi txarra dagoanean, olatuek ontziaren gainetik pasatzen dira, eta orduan *dxo eta tapa* dabiltzala esaten da. Gero herrira pasatu da, eta arraina, dirua edo beste edozer ugari dagoenean aplikatzen da.
 
 - *auntse dabiltzuz arek dxo ta tapa, ainbeste diro irebazten*
 - *andabill a, Benidorren. dxo ta tapa, berak gure dauen beste enbragaz*
 
-# DXOKAZO #
+# DXOKAZO
 
 Zerbaiten kontra jo.
 
@@ -767,7 +767,7 @@ Hitz hau **jo erazi** izango da seguruena, **-era-** zatikia galdu eta **-ka-** 
 
 Baina beste hipotesi hau ere kontutan izan beharko litzateke: beste kasu batzuetan bezala gazteleratik hartutako **tortazo** hitzaren **-zo** atzizkia izan liteke.
 
-# DXOSI #
+# DXOSI
 
 Arraina josi, harrapatu. Konparazioan beste edozer harrapatu. Arrantzale giroan erabiltzen den hitz hau nahiko zabala da beste testuinguru batzuetan ere.
 
@@ -775,19 +775,19 @@ Arraina josi, harrapatu. Konparazioan beste edozer harrapatu. Arrantzale giroan 
 - *onek amuek eztauie balidxo ezetako be, dxosten dauen arraiñek pe eskapa eitxen tso*
 - *an darue dxositxe arraiñe, laster itxiko dau bertanbera*
 
-# DXOSUE / K #
+# DXOSUE / K
 
 1. Denbora laburreko haize eta euri gogorra.
 
-- *itxosora urten dun egunien dxosuek ezan diez*
-- *zelako dxosue ekar dau ba*
+   - *itxosora urten dun egunien dxosuek ezan diez*
+   - *zelako dxosue ekar dau ba*
 
 2. Haize gogorrak itsasoa harrotzen duenean.
 
-- *ikaragarriko dxosue altza dau aixiek*
-- *eta derrepentien alako dxosurik ekarten; para arte bertan on biar*
+   - *ikaragarriko dxosue altza dau aixiek*
+   - *eta derrepentien alako dxosurik ekarten; para arte bertan on biar*
 
-# DXOTA #
+# DXOTA
 
 Erdi edo osorik erotuta.
 
@@ -798,7 +798,7 @@ Erdi edo osorik erotuta.
 
 D.A.R.k bakarrik jaso du honen aldaera bat izan daitekeen **joa** forma. Hau, **jo** aditzaren sailean, XL. definizioan, Harriet-en zita bat azalduz, **tocado de la cabeza** definizioaz agertzen da.
 
-# DXUENA #
+# DXUENA
 
 Gastuak. Diruaren irteera.
 
@@ -808,7 +808,7 @@ Gastuak. Diruaren irteera.
 - *dxuena badxakotena ba, eztaitx nondik atako ten dirue etziepagateko*
 - *zelako irebazidxe alako dxuena dako*
 
-# DXUN KAKA SALTZIEN #
+# DXUN KAKA SALTZIEN
 
 Zoaz pikutara!
 
@@ -816,18 +816,17 @@ Zoaz pikutara!
 - *eulimandue lez ibill dxe da kaka saltzien bota dot*
 - *eztau biar askorik arek jentie kaka saltzien botateko*
 
-# DXUN POR DXUEN #
+# DXUN POR DXUEN
 
 Joan, baina gogo gabe.
 
 - *ez dxast gustaten ziñera dxutie, dxun por dxuen eitxen dot*
 - *ezu esan ba, ezula gure ronpiolasetik ibilli? Da ez dxast gustaten, dxun por dxuen eitxen nai*
 
-# DXUSTURIDXE #
+# DXUSTURIDXE
 
 Tximista. Tximistargia.
 
 - *dxusturidxek ikarie emoten dostie*
 - *neuri be bai, beiñola basuen on gariez da zelako dxusturidxek eta truboiek on diez ba, ni, dardakadan*
 - *ba ni enai ikaratuten dxusturidxekaz*
-

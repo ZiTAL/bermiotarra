@@ -1,16 +1,16 @@
-# HAGIE #
+# HAGIE
 
 Habea.
 
 - *etxie eitxeko lelengo gauzie hagiek imintzie da*
 
-# HAURI MAURI #
+# HAURI MAURI
 
 Asko.
 
 - *jentie aritzatxun hauri mauri*
 
-# HOMBREBUENUE #
+# HOMBREBUENUE
 
 Bitartekaria.
 

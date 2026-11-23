@@ -3,6 +3,7 @@
 
 """Publish an unused entry as an image using Pandoc and WeasyPrint."""
 
+import argparse
 import json
 import random
 import re
@@ -32,12 +33,14 @@ WATERMARK_FONT_SIZE = 40
 WATERMARK = "https://bermiotarra.zital.eus"
 POST_DELAY_SECONDS = 15
 
-ENTRY_PATTERN = re.compile(r"^#\s([^#]+)\s#")
+ENTRY_PATTERN = re.compile(r"^#[ \t]+(.+?)[ \t]*$")
 HTML_TEMPLATE = """<!doctype html>
 <html><head><meta charset="utf-8"><style>
 @page { size: %(page_size)s; margin: %(page_margin)s; }
 body { font-family: "DejaVu Sans", sans-serif; font-size: %(body_font_size)s; line-height: 1.2; }
 h2 { font-size: %(heading_font_size)s; line-height: 1.2; margin: 0 0 0.5em; }
+ul ul { list-style-type: disc; }
+ol > li > ul { margin-left: -40px; list-style-type: disc; }
 </style></head><body>%(content)s</body></html>"""
 
 
@@ -161,18 +164,54 @@ def cache_published_entry(cache_path: Path, cached_ids: list[str], entry_id: str
         cache_path.write_text(json.dumps(cached_ids), encoding="utf-8")
 
 
+def parse_args() -> argparse.Namespace:
+    """Parse the command-line options used for local previews."""
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--local-only",
+        action="store_true",
+        help="Save a preview image instead of posting to Mastodon.",
+    )
+    parser.add_argument(
+        "--entry",
+        help="Only render the entry with this exact title.",
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=BOT_DIR / "preview.png",
+        help="Preview image path used with --local-only.",
+    )
+    return parser.parse_args()
+
+
+def save_preview(image_paths: list[Path], output_path: Path) -> None:
+    """Copy the rendered pages next to each other for local inspection."""
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    for index, image_path in enumerate(image_paths, start=1):
+        suffix = "" if len(image_paths) == 1 else f"-{index}"
+        destination = output_path.with_name(f"{output_path.stem}{suffix}{output_path.suffix}")
+        shutil.copyfile(image_path, destination)
+        print(f"Preview saved to {destination}")
+
+
 def main() -> None:
+    args = parse_args()
     require_command("pandoc")
     require_command("weasyprint")
     require_command("magick")
 
     cached_ids = load_cached_ids(WORDS_CACHE_PATH)
-    resources = load_resources(RESOURCE_DIR, set(cached_ids))
+    resources = load_resources(RESOURCE_DIR, set() if args.entry else set(cached_ids))
+    if args.entry:
+        resources = [resource for resource in resources if resource["title"] == args.entry]
+        if not resources:
+            sys.exit(f"Entry not found: {args.entry}")
     if not resources:
         sys.exit("No unused resources found.")
 
     entry = random.choice(resources)
-    markdown = f"## {entry['title']} ##\n{entry['desc']}"
+    markdown = f"## {entry['title']}\n{entry['desc']}"
 
     with tempfile.TemporaryDirectory() as temp_dir:
         pdf_path = render_pdf(markdown, Path(temp_dir))
@@ -180,6 +219,9 @@ def main() -> None:
         if not image_paths:
             sys.exit("Could not convert the PDF to PNG.")
         add_watermark(image_paths)
+        if args.local_only:
+            save_preview(image_paths, args.output)
+            return
         post_to_mastodon(entry, image_paths)
 
     cache_published_entry(WORDS_CACHE_PATH, cached_ids, entry["id"])

@@ -1,0 +1,13 @@
+/* Nested example lists inside numbered senses. */
+
+ul ul,
+ol > li > ul
+{
+	list-style-type: disc;
+}
+
+ol > li > ul
+{
+	margin-left: 0;
+	padding-left: 0;
+}

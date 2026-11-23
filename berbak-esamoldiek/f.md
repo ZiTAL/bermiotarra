@@ -1,4 +1,4 @@
-# FABORE #
+# FABORE
 
 Alde egin. Bando egon.
 
@@ -7,7 +7,7 @@ Alde egin. Bando egon.
 - *Ateletin fabore on bi gariez, geutie da ta*
 - *gure atxitxek beti eitxen dosku fabore, baie amumak ez*
 
-# FALTA #
+# FALTA
 
 Apurtu.
 
@@ -20,7 +20,7 @@ Arrantzale giroan erabilitako hitzak, gero, esparru zabalagoa hartu du.
 
 Gaztelerazko **faltar** aditza erabiltzen da, baina zentzua **fallar** izango litzateke.
 
-# FALTADORIE #
+# FALTADORIE
 
 Errespetu gabeko pertsona.
 
@@ -28,7 +28,7 @@ Errespetu gabeko pertsona.
 - *zelako faltadorie da ba, edozer esaten tso personiri*
 - *olako failadoriekaz eztot kure tratorik*
 
-# FAMIE #
+# FAMIE
 
 Fama. Erreputazioa. Ona zein txarra, baina gehienetan azken hau.
 
@@ -38,7 +38,7 @@ Fama. Erreputazioa. Ona zein txarra, baina gehienetan azken hau.
 - *olan por olan eitxen diez gauzek ela? Bestelako famie imiñ dxostie*
 - *famie ona dako behintzat, eztaitx ona ezango badan baie*
 
-# FAMIE KRIELIEN #
+# FAMIE KRIELIEN
 
 Erreputazioa, fama eztabaidan jarri.
 
@@ -46,7 +46,7 @@ Erreputazioa, fama eztabaidan jarri.
 - *famie krielien bako, eztau topako berak gure dauelako mutillik*
 - *famie krielien dakon personie, guzurre badan be, bixi guztireko dau markata*
 
-# FANDANGO #
+# FANDANGO
 
 Pertsona gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esaten dituena. Konparazioan ere erabiltzen da.
 
@@ -58,7 +58,7 @@ Pertsona gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esaten dituena.
 
 Nola sartu den hitz hau ez dago batere argi. Gaztelerazko **fandango** hitzak **baile antiguo español** eta **desorden**, **tumulto** zentzua baititu.
 
-# FANDERO #
+# FANDERO
 
 Pertsona fidagaitza, gezurtia edo gauzak endredatuta, aldrebez edo nahastuta esaten dituena . Gehienetan emakumeen artean erabiltzen da.
 
@@ -75,7 +75,7 @@ Baina beste hipotesi bat ere hor dago: **pandero** hitza hartuta egindakoa. Hitz
 
 Gainera, D.A.R.k **fanderuen dirue**-k **dinero escaso** esan nahi duela jaso du, Bermeoko hitza bezala azaltzen duelarik.
 
-# FANDERUEN ARPIDXE #
+# FANDERUEN ARPIDXE
 
 Gezurra esaten ari denaren aurpegia.
 
@@ -83,7 +83,7 @@ Gezurra esaten ari denaren aurpegia.
 - *nik fanderuen arpidxe! Da zuk zer?*
 - *beran fanderuen arpidxe, doma be ez*
 
-# FARDELA #
+# FARDELA
 
 Pertsona gezurtia.
 
@@ -92,7 +92,7 @@ Pertsona gezurtia.
 - *au imie fardel utse da, goixerik gauera dau guzurrek esaten*
 - *bai, fardeltxue bada, baie ain da politxe*
 
-# FARDELKEIDXEK #
+# FARDELKEIDXEK
 
 Gezurrak.
 
@@ -102,7 +102,7 @@ Gezurrak.
 
 Argi dago Bermeon beste zentzu batez erabiltzen dela hitz hau.
 
-# FAROLAK AMATA #
+# FAROLAK AMATA
 
 Edari botilak amaituta.
 
@@ -111,7 +111,7 @@ Edari botilak amaituta.
 - *farolak amata badiez, barridxek ekarri*
 - *da gero, dxatekuek akaba, da farolak amata dizenien, danok dxun garizen etzera*
 
-# FARRIE #
+# FARRIE
 
 Akordeoia.
 
@@ -121,7 +121,7 @@ Akordeoia.
 - *farrie dxoten ikasten bazu, neuk erosko tsut farra eder bat*
 - *farrak prezidxo askotakuek dauz, baie au karuena da*
 
-# FARRISTIE #
+# FARRISTIE
 
 Soinujolea.
 
@@ -129,7 +129,7 @@ Soinujolea.
 - *ikasten dozunien zeu izango zara farristerik onena*
 - *ez pentsa, farriste onak tauz Euskal Herridxen, Asier Loroño bat*
 
-# FIFITE #
+# FIFITE
 
 Txori txiki bat da. Izena izango du, baina hemen **fi fi fi** egiten duen txori bati deitzen zaio horrela. Konparazioan, ahots fina eta epela daukan pertsona da.
 
@@ -139,7 +139,7 @@ Txori txiki bat da. Izena izango du, baina hemen **fi fi fi** egiten duen txori 
 
 Bazegoen gizonezko bat, horrela berba egitearren, bere izena ahaztuta **FIFIT** zeritzona.
 
-# FIRMADIE #
+# FIRMADIE
 
 Sinadura.
 
@@ -147,7 +147,7 @@ Sinadura.
 - *firmadie emoten dxun nai notaidxera*
 - *firmadarik ezta emon bibar edonori*
 
-# FIRUE #
+# FIRUE
 
 Oso fina. Mehea.
 
@@ -156,21 +156,21 @@ Oso fina. Mehea.
 - *ori imie firue lez dau, eztau dxaten ela?*
 - *nongo lana firue erosi zu alabatxi, falta-faltaka dau*
 
-# FLAKEZIDXE #
+# FLAKEZIDXE
 
 Ondoeza.
 
 - *goixe guztidxen ezer artun barik zelako flakezidxe okiñ dxot ba*
 - *neuk pe, atzo Bilbora dxun nai dxan barik eta bidien flakezidxe okiñ dxot*
 
-# FLEKAK #
+# FLEKAK
 
 Berna argalak.
 
 - *Mikelek flekak tapateko fraka luziek dxantzi bi dauz*
 - *horrekaz flekakaz fubolistie? Ment!*
 
-# FLOTAN #
+# FLOTAN
 
 Azalean egotea.
 
@@ -183,7 +183,7 @@ Gaztelerazko **flotando** gerundioa hartu da esanahi hori erabiltzeko; literalki
 
 **flotando** → **flotan**; azken silaba galdu besterik ez du egin.
 
-# FORRA #
+# FORRA
 
 Auto zaharra, trauskila. Batez ere karrozeria zaharra daukana.
 
@@ -195,7 +195,7 @@ Auto zaharra, trauskila. Batez ere karrozeria zaharra daukana.
 
 Antzina kotxe gutxi zegoenez, eta zeudenak marka horretakoak batzuk, zaharkiluta gelditutakoak, burla moduan erabiltzen zen. Gaur egun gutxi erabiltzen da autoei zegokienean.
 
-# FOTA #
+# FOTA
 
 Fanfarroi.
 
@@ -203,7 +203,7 @@ Fanfarroi.
 - *bai, beti ezan da fota, da auto barridxe erosi dauenik eta ona geidxau*
 - *aur dakozu fota, iñok bihar badau, alabiek ezkontza ona ein tso lez, artiek artun eziñik*
 
-# FOTA BAIÑO ARRUAUE #
+# FOTA BAIÑO ARRUAUE
 
 Oso fanfarroia.
 
@@ -211,7 +211,7 @@ Oso fanfarroia.
 - *ori mutille fota baiño arruaue da, eztotso beituten iñori be*
 - *gure imie fota baiño arruau dxun da ikastolara beran motxille barridxegaz*
 
-# FRAKARROIEK #
+# FRAKARROIEK
 
 Bainujantzia.
 
@@ -224,7 +224,7 @@ Oso bitxia da hitz honen etimoa. Jakina da, sasoi baten bainujantzia marraduna i
 
 Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia definitzeko, **traje de bañue** hitzak ordezkatzen du ia beti.
 
-# FRAKONEZKUEK #
+# FRAKONEZKUEK
 
 **Entzaduek** itsasoko jantziak baziren, honako hau frakak dira.
 
@@ -234,7 +234,7 @@ Gaur egun ere oso erabilia izan arren, batez ere gizonezkoen bainujantzia defini
 
 Hitz hau konposatua da: **fraka** olanezkoak (**lona**). Frakak josi eta gero, linaza olioa ematen zitzaion. Gaur egun plastiko edo tela sintetikoz egindakoak izaten dira, baina izena mantentzen dute.
 
-# FRANCO DE RIA #
+# FRANCO DE RIA
 
 Zerbitzu militarrean asteburua libre izateari esaten zitzaion. Herriko hizkeran libre izateari esaten zaio.
 
@@ -242,13 +242,13 @@ Zerbitzu militarrean asteburua libre izateari esaten zitzaion. Herriko hizkeran 
 - *gaur ezuez biharrera ela? franco de ria zauz ela?*
 - *franco de rian egon, eta errekaduek ein biher, hau doke!*
 
-# FRANTZUNATZATAKO ARRATOIEK BAINO GEHIDXAU JAKIN #
+# FRANTZUNATZATAKO ARRATOIEK BAINO GEHIDXAU JAKIN
 
 Asko jakina.
 
 - *txetxo dana dakizu txo! Frantzunatzatako arratoiek baino gehidxau dakistazu*
 
-# FUETA #
+# FUETA
 
 Suziria.
 
@@ -258,7 +258,7 @@ Suziria.
 - *nire lobie fuetien zaratiegaz ikaratu eitxen da*
 - *fuetin fuetigaz kalie be erre eiñ dxauie*
 
-# FUETIE EMON #
+# FUETIE EMON
 
 Zartada bat eman.
 
@@ -266,7 +266,7 @@ Zartada bat eman.
 - *zelako fuetie emon dost ba, papue gorritxute itxi dost*
 - *fuetie entongo dostela esan, da fuetie emon*
 
-# FUETIE LEZ DXUEN #
+# FUETIE LEZ DXUEN
 
 Ziztu bizian joan.
 
@@ -274,7 +274,7 @@ Ziztu bizian joan.
 - *fueitiek baiño abidxada andidxe erun dau*
 - *ikusten zu ori fuetie, ba aulan dxungo zara emoten tzuten ostidxegaz*
 
-# FUNTZUE #
+# FUNTZUE
 
 Tinua. Begia.
 
@@ -283,11 +283,10 @@ Tinua. Begia.
 - *nik funtzo ona dakot gero*
 - *funtzu ona bakok, botaik au botillie aurra balkoire*
 
-# FURIDXE #
+# FURIDXE
 
 Haserrea. Zenetik irtenda.
 
 - *ori esan tsonien beran furi guztidxegaz arpire lantza tsoz libruek*
 - *amen dator furidxekaz, banuen eskapaten*
 - *ona ez etorri furidxekaz, entzun zu? Asike trankilldxu*
-

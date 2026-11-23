@@ -1,4 +1,4 @@
-# UBILLADA / IE #
+# UBILLADA / IE
 
 Arrainak ur-azalean ateratzen dituen ubil txikiak. Konparazioan, edozein mugimendu edo iskanbila.
 
@@ -7,7 +7,7 @@ Arrainak ur-azalean ateratzen dituen ubil txikiak. Konparazioan, edozein mugimen
 - *zelako ubilladie on da ba*
 - *andra guztidxek tuez ubilladan*
 
-# UDXEK #
+# UDXEK
 
 Oiak.
 
@@ -19,14 +19,14 @@ Azkuek eta L.M.M. k **oi** jaso dute eta badirudi kasuistika dela honen erabiler
 
 Sarri gertatzen den bezala **oi** → **u** egin da.
 
-# UDXOLA / K #
+# UDXOLA / K
 
 Uholdea.
 
 - *gure erridxen hainbeste bidar on diez udxolak*
 - *oiñ hogei urteko udxolak Taraska be idxe tapa ein zauen*
 
-# UFALA #
+# UFALA
 
 Umeen hizkuntzan ureta sartu edo bainatu.
 
@@ -34,7 +34,7 @@ Umeen hizkuntzan ureta sartu edo bainatu.
 - *erdu ufala eitzen uretara bero dau te*
 - *bestela zauz berton, ufala-ufala!
 
-# UFO / UE #
+# UFO / UE
 
 Mozkorra.
 
@@ -42,7 +42,7 @@ Mozkorra.
 - *zelako utfue dakot ba, ondiño kendu barik dakot*
 - *eskerrak konturatuten zarana ufue dakozule*
 
-# UGARRA / UGERRA #
+# UGARRA / UGERRA
 
 Zikinkeria. Lohia.
 
@@ -51,22 +51,22 @@ Zikinkeria. Lohia.
 - *ugarragaz itxota bixi diez or*
 - *kokoteko ugerra kenduixu, ugerra kendu*
 
-# UKUNDO / UE #
+# UKUNDO / UE
 
 1. Ukalondoa.
 
-- *atien kontra jo dot eta ukunduen dakot miñ*
-- *pellikan on diez eta ukunduegaz emontso azkaningoko zartazue*
-- *pandemidxen ukunduegaz kasu eitxen ibil garizen*
+   - *atien kontra jo dot eta ukunduen dakot miñ*
+   - *pellikan on diez eta ukunduegaz emontso azkaningoko zartazue*
+   - *pandemidxen ukunduegaz kasu eitxen ibil garizen*
 
 2. Babeslea.
 
-- *ukundo andiko gixonakaz dako amistadie, da bidxar edo etzi, biar badau be, an dako*
-- *mutil koitxaue Persikora dxun biar dau, ukundorik eztauie okiñ dxe*
-- *gaur ukundue eztakona galdute dau*
-- *ara, ezu ikusten, ukundue dakotenak Bermion eitxen dauiena zerbezidxue*
+   - *ukundo andiko gixonakaz dako amistadie, da bidxar edo etzi, biar badau be, an dako*
+   - *mutil koitxaue Persikora dxun biar dau, ukundorik eztauie okiñ dxe*
+   - *gaur ukundue eztakona galdute dau*
+   - *ara, ezu ikusten, ukundue dakotenak Bermion eitxen dauiena zerbezidxue*
 
-# ULEPO #
+# ULEPO
 
 Ile asko daukana. Baina peioratiboan ere esaten da, baita irain txiki baten moduan ere.
 
@@ -74,7 +74,7 @@ Ile asko daukana. Baina peioratiboan ere esaten da, baita irain txiki baten modu
 - *ulepo diñotsazu ta soidxe labana okiñ*
 - *aurreitxik ba, ulepo dan ilusiñue emoteko*
 
-# UNADA #
+# UNADA
 
 Une.
 
@@ -82,7 +82,7 @@ Une.
 - *euririk eztauen unda baten dxungo nai ogidxe bille*
 - *zelan zauz ba? Unadatxuek oten diez obeto nauenak*
 
-# UNDIDU #
+# UNDIDU
 
 Erabat bustita.
 
@@ -99,7 +99,7 @@ Adberbio funtzioan:
 - *undite bakarrik ez, undimiento generalak atrapa gaitxuz*
 - *bakixu zer ein dxosten ela? Bañeran barruen sartun imie ta undite bota etzera*
 
-# UR LOTUE #
+# UR LOTUE
 
 Energia gabeko pertsona.
 
@@ -107,14 +107,14 @@ Energia gabeko pertsona.
 - *benetan da ur lotue, ernega be eztau eitxen*
 - *txikitxen ur lotue ezaten ezan da, baie oiñ beitu, urten utse da*
 
-# URBERINKATUNTZIDXE #
+# URBERINKATUNTZIDXE
 
 Kokots irtena.
 
 - *eztakixu urberinkatunuidxe nori esaten tsoien? Okotza urtena dakonari*
 - *benetan da urberinkatuntzidxe, aren okotza Mundekaraiño due ta*
 
-# URDILLENA #
+# URDILLENA
 
 Urdailekoa. Analogiaz: Angustia. Beldurra.
 
@@ -122,14 +122,14 @@ Urdailekoa. Analogiaz: Angustia. Beldurra.
 - *urdillena kentzieko. kotoi zati andi bet koñakaz bustitxe bertan imitxie da onena*
 - *urdillena sartun de nator alabatxu, zer entzuteko gauzen be eztakigu, gixonak ill ei dau andrie*
 
-# URDIÑ / DXU #
+# URDIÑ / DXU
 
 Ugerra. Ugertuta.
 
 - *onek erropiek urdiñe dako, eztaitx non eiñ dxoten*
 - *etzeko tresna guztidxek dakotez urdindxute*
 
-# URE LEZ #
+# URE LEZ
 
 Erraz jabetu gauzekin, batez ere eskolako gaiekaz. Nork ez du esan eskolan, ikasgaietan ez daukala arazorik ura lez dakizkielako?
 
@@ -137,14 +137,14 @@ Erraz jabetu gauzekin, batez ere eskolako gaiekaz. Nork ez du esan eskolan, ikas
 - *nire alabiek ure lez esaten txuz gauze guztidxek*
 - *neure amumak pe ure lez dakidxela erderaz esaten dau*
 
-# UREN IXO #
+# UREN IXO
 
 Urari ihes egitea.
 
 - *ori imie uren ixo da, plaidxen be uretaik asau ibilltxen da*
 - *arpidxe garbiteko be kalamatrikek ezaten diez gure etzien, uren ixo da ta*
 
-# URIKUE #
+# URIKUE
 
 Hospiziokoa.
 
@@ -153,7 +153,7 @@ Hospiziokoa.
 - *ezango da urikue, baie igarri be ezta eitxen; bestien beste gure tsoie*
 - *eurek ez zauien imerik okin da uritxik ekar zauien*
 
-# URKARO #
+# URKARO
 
 Garbitzeko ura gustatzen ez zaion pertsona edo animalia.
 
@@ -161,35 +161,35 @@ Garbitzeko ura gustatzen ez zaion pertsona edo animalia.
 - *egidxe esateko, neguen neu be urkaro nai*
 - *neure gixona be urkarotxue da*
 
-# URKETUTE #
+# URKETUTE
 
 Diruaren faltaz, estu, larri, urkatuta bizi.
 
 - *geure denpora guztidxen bizi zan gariez urketute*
 - *orduen nor ezta bixi izan urketute ba*
 
-# URRIELAKUE #
+# URRIELAKUE
 
 Pertsona oso fina, langilea eta garbia.
 
 - *berori andrie diruei aixie emoten, da bera gixona urrielakue*
 - *berorren gixonan ama be urrielakue ezan da*
 
-# URRIEN BITSE LAKUE #
+# URRIEN BITSE LAKUE
 
 Pertsona oso fina, langilea eta garbia.
 
 - *berori andrie diruei aixie emoten, da bera gixona urrien bitse lakue*
 - *berorren gixonan ama be urrien bitse lakue ezan da*
 
-# URRIEN BITSE LEZ #
+# URRIEN BITSE LEZ
 
 Oso garbi jarri.
 
 - *gauzek imitxen dotez nik, urrien bitse lez, ez beste batzuk lez*
 - *urrien bitse lez itxiko zuz, baie laster ikusiko zu zelan dauzen*
 
-# URRUBURUE LEZ #
+# URRUBURUE LEZ
 
 Norabidea galduta. Noraezean.
 
@@ -197,7 +197,7 @@ Norabidea galduta. Noraezean.
 - *ez ibilli urruburuen moduen, ara ta ona; gelditxu leko baten*
 - *bestela gabiltzez berton urruburuen antzien, iñuzentien arpidxegaz*
 
-# URRUMADIE #
+# URRUMADIE
 
 Burrunbada. Marruma.
 
@@ -205,7 +205,7 @@ Burrunbada. Marruma.
 - *itxosuek pe zelako urrumadie eitxen ezan dau ba*
 - *aurreko arbolak pe urrumadaka asmaten ezan diez*
 
-# URRUN DA FITX #
+# URRUN DA FITX
 
 Betiko haserretu.
 
@@ -215,7 +215,7 @@ Betiko haserretu.
 
 Ingelesezko **run and feet** esalditik etor daiteke, edota agian, Iparraldeko **fite** → **fitx** bihurtu delako.
 
-# URRUNGUEN #
+# URRUNGUEN
 
 Duela gutxi.
 
@@ -224,7 +224,7 @@ Duela gutxi.
 - *aspaldidxon eztot ikusi zueneko ama. Ba urrunguen on da amen*
 - *urrunguen esan dost erregalue eingostela neure egunien*
 
-# URTENA #
+# URTENA
 
 Gazte soltea.
 
@@ -235,14 +235,14 @@ Gazte soltea.
 
 Azkuek **atrevido**, **osado** definitzen du. Gainera, Bermeon gazteak bakarrik dira **urtenak**.
 
-# URTU #
+# URTU
 
 Desagertu.
 
 - *amen okiñ dxoteam libruek urtu eiñ dxiez, ia nok artun txuzen*
 - *amen etzien dana urtuten da, iriltxuek badabiltzez gero*
 
-# USEINE EMON #
+# USEINE EMON
 
 Zerbaiten usaina eman giroari, adibidez jai usaina.
 
@@ -250,7 +250,7 @@ Zerbaiten usaina eman giroari, adibidez jai usaina.
 - *da ezpadau be geuk emongo tsagu udebarri useine*
 - *garbi useine emon bitsagu etzieri, iñor datorrenien asma deidxen*
 
-# USIN BAKO LORIE #
+# USIN BAKO LORIE
 
 Gatz gabeko pertsona.
 
@@ -258,14 +258,14 @@ Gatz gabeko pertsona.
 - *usin bako lorie zara alabatxi, artungo dozu moldie?*
 - *ni naiela usin bako lorie? Da zu zer zara? Singanoria ederra zu*
 
-# USIÑ TXARRA #
+# USIÑ TXARRA
 
 Zerbait txarra gertatuko den sumoa.
 
 - *usin txarra artunde on diez, aurreitxik ez dauie atrapa suspentsuen*
 - *usiñ txarra dau amen, zeuzer pasa biar dau*
 
-# USO / UE #
+# USO / UE
 
 Alua.
 
@@ -276,7 +276,7 @@ Alua.
 
 Txoriaren izenak beste esanahi bat hartu du, Kintanak **eufemismo utilizado entre muchachos para indicar la vulva** dio. Beraz ez da zehatza, Bermeon edonork erabiltzen baitu.
 
-# USO BERO #
+# USO BERO
 
 Gizonzalea den emakumea definitzeko erabiltzen den hitzetariko beste bat.
 
@@ -284,14 +284,14 @@ Gizonzalea den emakumea definitzeko erabiltzen den hitzetariko beste bat.
 - *Benidorrera dxun danien ezetu dau, da berari mutilleri ez dotso lez ardure uso-bero bat ezan badan be*
 - *nire gixonagaz dabillela? Lixie lez kenduko tsat azala uso-bero txarridxorreri*
 
-# USO KOZIÑERIE #
+# USO KOZIÑERIE
 
 Sukaldaritza lanetan aritzen den pertsonari esaten zaio, baina peioratiboki.
 
 - *amen gure uso koziñerie, ia zetan imintxen dozuzen indxabak gero, beste egunekuek txarto on diez da*
 - *txarto on badiez be zeuk dxan zuz, ze ni kategoriko uso koziñerie nozu*
 
-# USO ZARRA #
+# USO ZARRA
 
 Malezia handia daukan emakumea.
 
@@ -299,7 +299,7 @@ Malezia handia daukan emakumea.
 - *zuk bakixu zer dakozun, usue zarra, zuk dakixu larreidxe*
 - *a da uso zarra, amari txe aitxeri majo esaten tso arek, gero berari itxitxeko erentzidxe*
 
-# USUBILLUE #
+# USUBILLUE
 
 Buila. Zalaparta.
 
@@ -314,21 +314,21 @@ Hitz hau konposatua da eta badirudi, bigarren elementua **pilloa** dela. Hau hip
 
 **Usobillo** aldaera Mundakako Otxoluaren zita bat aipatuz jasotzen du eta honen esanahia antzekoa dugu.
 
-# UTS ALA BET #
+# UTS ALA BET
 
 Bai ala ez, igarri ala ez, aurkitu ala ez.
 
 - *Dakarrera dxun gariez, uts ala bet, baie utse ezan da ta etzera etorri gariez*
 - *arriesga ein bide, uts ala bet, topa edo ez topa, mohidu ein bizara*
 
-# UXUXUE LEZ #
+# UXUXUE LEZ
 
 Presaka ibili, arin hara eta hona. **Uxuxue** itsasoko tsoria da. Hara eta hona ibiltzen da arrain txikiak harrapatzen. Konparazioan pertsonei aplikatzen zaie.
 
 - *uxuxue lez zabiltzez alabatxu, ariñ ara da ariñ ona*
 - *bestelako uxuxue nau, ime txikidxe lez, noraezien*
 
-# UZABA #
+# UZABA
 
 Ugazaba. Nagusia.
 
@@ -337,7 +337,7 @@ Ugazaba. Nagusia.
 - *uzabari beran egunien gorbatie erregala tsagu*
 - *erregaluek eta eitxen diez uzabai?*
 
-# UZANDRA #
+# UZANDRA
 
 Ugazabandrea. Baita ofizio bat irakasten duen maistra edo andrea ere.
 
@@ -348,11 +348,10 @@ Ugazabandrea. Baita ofizio bat irakasten duen maistra edo andrea ere.
 
 Azkuek ez du jaso eta D.A.R.k **señora, ama de casa** zentzuaz jaso du.
 
-# UZKIDXE LAKUE #
+# UZKIDXE LAKUE
 
 Emakume lodia.
 
 - *berak uzkidxe lakuek atrapa dosku lekue da bienganien dxesarri biar*
 - *arek uzkidxe lako andriek deitxu dost niri txankame*
 - *berori gizona argala da, baie andrie dako uzkidxe lakue*
-

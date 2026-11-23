@@ -34,7 +34,7 @@ bermiotarra.zital.eus, bermiotarra.opi5 {
 # HTML eta PDF-ra bihurtuteko #
 ```
 su
-apt-get install pandoc texlive-latex-recommended calibre
+apt-get install pandoc texlive-latex-recommended texlive-latex-extra calibre
 pip install --no-binary lxml lxml --break-system-packages
 exit
 ```

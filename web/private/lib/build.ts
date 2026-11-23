@@ -106,9 +106,9 @@ export class Build
                 const tmp_md:      string = md.replace(/berbak\-esamoldiek/, 'web/public/berbak-esamoldiek')
                 const file_html:   string = tmp_md.replace(/\.md$/, '.html')
                 let   tmp_content: string = fs.readFileSync(md, { encoding: 'utf8', flag: 'r' })
-                                            .replace(/#\s+([^#]+)\s+#\s*\n/g, "### $1 ###\n\n")
+                                            .replace(/^#[ \t]+(.+?)[ \t]*$/gm, "### $1")
 
-                tmp_content = "## "+letter+" ##\n\n"+tmp_content
+                tmp_content = "## "+letter+"\n\n"+tmp_content
                 fs.writeFileSync(tmp_md, tmp_content)
 
                 let params: Interfaces.Object = Constants
@@ -216,7 +216,7 @@ export class Build
         {
             const letter = md.match(/([^\/]+)\.[^\.]+$/)
             if(letter)
-                full = `${full}# ${letter[1].toUpperCase()} #\n\n${fs.readFileSync(md, { encoding: 'utf8', flag: 'r' }).replace(/#/g, '##')}\\pagebreak\n\n`
+                full = `${full}# ${letter[1].toUpperCase()}\n\n${fs.readFileSync(md, { encoding: 'utf8', flag: 'r' }).replace(/^#[ \t]+(.+?)[ \t]*$/gm, '## $1')}\\pagebreak\n\n`
         })
         full = `${fs.readFileSync('../../BEGONA.md', { encoding: 'utf8', flag: 'r' })}\\pagebreak\n\n${full}`
         full = `${fs.readFileSync('../../README.md', { encoding: 'utf8', flag: 'r' })}\\pagebreak\n\n${full}`
@@ -226,10 +226,10 @@ export class Build
         let command = `rm -rf ../public/resources/bermiotarra.pdf ../public/resources/bermiotarra.epub`
         execSync(command)
 
-        command     = `pandoc ../public/resources/full.md -f markdown -t latex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf`
+        command     = `pandoc ../public/resources/full.md -f markdown -t latex --include-in-header=latex-header.tex --pdf-engine=pdflatex -o ../public/resources/bermiotarra.pdf`
         execSync(command)
 
-        command     = `pandoc ../public/resources/full.md -o ../public/resources/bermiotarra.epub`
+        command     = `pandoc ../public/resources/full.md -f markdown --css=epub.css -o ../public/resources/bermiotarra.epub`
         execSync(command)
 
         command     = `rm -rf ../public/resources/full.md`

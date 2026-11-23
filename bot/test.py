@@ -31,12 +31,14 @@ WATERMARK_FONT_SIZE = 40
 WATERMARK = "https://bermiotarra.zital.eus"
 POST_DELAY_SECONDS = 15
 
-ENTRY_PATTERN = re.compile(r"^#\s([^#]+)\s#")
+ENTRY_PATTERN = re.compile(r"^#[ \t]+(.+?)[ \t]*$")
 HTML_TEMPLATE = """<!doctype html>
 <html><head><meta charset="utf-8"><style>
 @page { size: %(page_size)s; margin: %(page_margin)s; }
 body { font-family: "DejaVu Sans", sans-serif; font-size: %(body_font_size)s; line-height: 1.2; }
 h2 { font-size: %(heading_font_size)s; line-height: 1.2; margin: 0 0 0.5em; }
+ul ul { list-style-type: disc; }
+ol > li > ul { margin-left: -40px; list-style-type: disc; }
 </style></head><body>%(content)s</body></html>"""
 
 
@@ -158,7 +160,7 @@ def main() -> None:
         sys.exit("No resources found.")
 
     entry = random.choice(resources)
-    markdown = f"## {entry['title']} ##\n{entry['desc']}"
+    markdown = f"## {entry['title']}\n{entry['desc']}"
 
     with tempfile.TemporaryDirectory() as temp_dir:
         pdf_path = render_pdf(markdown, Path(temp_dir))

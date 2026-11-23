@@ -4,7 +4,11 @@ Render a local preview without posting to Mastodon or marking the word as used:
 ```
 python3 bot.py --local-only
 ```
-The image is saved as `bot/preview.png`.
+The image is saved as `bot/preview.png`. To preview a specific entry:
+```
+python3 bot.py --local-only --entry AUZPEZ --output /tmp/auzpez.png
+```
+Entries with more than one page get `-1`, `-2`… suffixes.
 
 ```
 apt-get install -y libjpeg-dev zlib1g-dev libfreetype6-dev liblcms2-dev libopenjp2-7-dev libtiff-dev libwebp-dev tcl-dev tk-dev python3-tk python3-dev build-essential

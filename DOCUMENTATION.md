@@ -49,6 +49,8 @@ bermiotarra/
     │   ├── build.ts          # Build entry point
     │   ├── search.ts         # CLI search script
     │   ├── build.py          # Python script for PDF + EPUB generation via Pandoc
+    │   ├── latex-header.tex  # LaTeX tweaks for nested example lists
+    │   ├── epub.css          # EPUB styles for nested example lists
     │   ├── package.json      # Dependencies: jsdom, TypeScript types
     │   └── tsconfig.json     # TypeScript strict mode config
     └── public/               # Generated static site
@@ -97,7 +99,7 @@ bermiotarra/
 
 The web application is built with TypeScript and Deno:
 
-- **Build System** (`build.ts`): Reads Markdown files, adjusts heading levels (`#` → `##` → `###`), converts to HTML via Pandoc, wraps in header/footer templates, adds anchor links to word headings, and generates an alphabetical index page
+- **Build System** (`build.ts`): Reads Markdown files, adjusts heading levels (`#` → `##` → `###`), converts to HTML via Pandoc through nested lists, wraps in header/footer templates, adds anchor links to word headings, and generates an alphabetical index page
 - **Search Server** (`server.ts` + `lib/search.ts`): HTTP server on port 8080 with a single route `/search?q=<query>`. Parses generated HTML pages, splits content by `<h3>` word groups, performs regex search, wraps matches in `<mark>` tags, and returns full HTML pages
 - **Template Engine** (`lib/view.ts`): Eval-based JST rendering — templates are JavaScript backtick template literals evaluated at runtime with values injected from a context object
 - **Constants** (`lib/constants.ts`): Site-wide configuration (URLs, metadata, header text)
@@ -119,6 +121,13 @@ The web application is built with TypeScript and Deno:
 5. Anchor links are added to all word headings (`<h3 id="word">`)
 6. An index page (`index.html`) is generated linking to each letter page
 7. PDF and EPUB versions can be generated via `build.py` (Python + Pandoc + LaTeX)
+
+### Markdown conventions
+
+- ATX headings without closing hashes: `# WORD` for entries and `## LETTER` for letter sections.
+- Numbered senses use `1.`, `2.`… Their examples and continuation paragraphs are indented three spaces so Pandoc keeps them inside the same list item.
+- Keep one blank line around headings, paragraphs and lists.
+- No trailing spaces and no markers like `2 .` (use `2.`).
 
 ### Frontend
 

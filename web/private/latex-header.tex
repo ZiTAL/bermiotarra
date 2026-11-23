@@ -1,0 +1,7 @@
+% LaTeX tweaks for the generated book.
+% Example lists nested inside a numbered sense keep the normal bullet and the
+% same left margin they had when they were separate top-level lists.
+\usepackage{enumitem}
+\makeatletter
+\setlist[itemize]{before={\ifnum\@enumdepth>\z@\setlength{\leftmargin}{0pt}\fi}}
+\makeatother
