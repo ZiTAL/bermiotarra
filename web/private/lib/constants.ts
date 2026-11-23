@@ -5,7 +5,8 @@ const Constants =
     TITLE:          'Bermiotarra',
     DESCRIPTION:    'Bermioko berba eta esamoldien hiztegi librie',
     HEADER:         'Bermiotarra',
-    SEARCH_CAPTION: 'Bermiotarra: Bilatzailie'
+    SEARCH_CAPTION: 'Bermiotarra: Bilatzailie',
+    ASSET_VERSION:  '20261123'
 }
 
 export default Constants
